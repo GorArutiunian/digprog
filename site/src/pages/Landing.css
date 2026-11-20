@@ -19,46 +19,205 @@
   color: var(--dp-text);
 }
 
+.digprog-waitlist .hero {
+  align-items: stretch;
+  padding: 2rem 0 3rem;
+  min-height: calc(100vh - 4.5rem);
+}
+
+.digprog-waitlist .hero-stage {
+  position: relative;
+  z-index: 2;
+  display: grid;
+  grid-template-columns: minmax(0, 1.35fr) minmax(320px, 440px);
+  gap: clamp(1.5rem, 4vw, 4rem);
+  align-items: center;
+  width: min(1520px, calc(100% - 3rem));
+  min-height: calc(100vh - 7rem);
+}
+
+.digprog-waitlist .hero-copy {
+  max-width: none;
+  padding-bottom: 0;
+}
+
+.digprog-waitlist .hero-brand-row {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin-bottom: 0.75rem;
+}
+
 .digprog-waitlist .brand-hero {
   color: var(--dp-blue);
-  font-size: clamp(2.4rem, 6vw, 4.2rem);
+  font-size: clamp(2.6rem, 5vw, 4.4rem);
   font-weight: 800;
-  letter-spacing: -0.03em;
-  margin: 0 0 0.6rem;
+  letter-spacing: -0.04em;
+  margin: 0;
+  line-height: 1;
 }
 
 .digprog-waitlist .hero-title {
   max-width: 18ch;
+  font-size: clamp(1.85rem, 3.6vw, 3.1rem);
+  color: var(--dp-text);
+  line-height: 1.08;
+}
+
+.digprog-waitlist .hero-sub {
+  max-width: 40rem;
+  font-size: 1.12rem;
 }
 
 .digprog-waitlist .hero-sub strong {
   color: var(--dp-orange-dark);
 }
 
+.digprog-waitlist .hero-contact {
+  margin: 1.25rem 0 0;
+  color: var(--dp-muted);
+  font-size: 0.95rem;
+}
+
+.digprog-waitlist .hero-contact a {
+  color: var(--dp-blue);
+  font-weight: 700;
+}
+
 .digprog-waitlist .hero-bleed .hero-grid {
   position: absolute;
   inset: 0;
-  opacity: 0.28;
+  opacity: 0.22;
   background-image:
     linear-gradient(rgba(19, 35, 61, 0.08) 1px, transparent 1px),
     linear-gradient(90deg, rgba(19, 35, 61, 0.08) 1px, transparent 1px);
-  background-size: 56px 56px;
+  background-size: 64px 64px;
 }
 
 .digprog-waitlist .hero-wash {
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse 70% 55% at 70% 30%, rgba(255, 255, 255, 0.7), transparent 70%);
+  background:
+    radial-gradient(ellipse 55% 50% at 18% 35%, rgba(36, 87, 230, 0.12), transparent 60%),
+    radial-gradient(ellipse 45% 45% at 88% 55%, rgba(255, 138, 61, 0.14), transparent 62%);
 }
 
 .waitlist-card {
-  margin-top: 1.75rem;
-  max-width: 420px;
+  margin-top: 0;
+  width: 100%;
+  max-width: none;
   background: #fff;
   border: 1px solid rgba(19, 35, 61, 0.12);
-  border-radius: 16px;
-  padding: 1.25rem 1.3rem 1.4rem;
-  box-shadow: 0 18px 50px rgba(16, 42, 86, 0.08);
+  border-radius: 18px;
+  padding: 1.45rem 1.4rem 1.5rem;
+  box-shadow: 0 22px 60px rgba(16, 42, 86, 0.12);
+}
+
+.digprog-waitlist .shell {
+  width: min(1520px, calc(100% - 3rem));
+}
+
+.digprog-waitlist .section {
+  padding: 4.5rem 0;
+}
+
+.digprog-waitlist .band {
+  background: rgba(255, 255, 255, 0.55);
+  border-block: 1px solid rgba(19, 35, 61, 0.06);
+}
+
+.digprog-waitlist .wide-split {
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: clamp(1.5rem, 4vw, 3.5rem);
+  align-items: stretch;
+}
+
+.digprog-waitlist .section-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 2rem;
+  align-items: end;
+  margin-bottom: 1.75rem;
+}
+
+.digprog-waitlist .section-lead.tight {
+  margin: 0;
+  max-width: 28rem;
+}
+
+.digprog-waitlist .curriculum-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.75rem;
+}
+
+.digprog-waitlist .pricing-wide {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.digprog-waitlist .faq-wide .faq-list {
+  max-width: none;
+}
+
+.digprog-waitlist .teaser-wide {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.digprog-waitlist .footer-wide {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.digprog-waitlist .footer-brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.digprog-waitlist .footer-links {
+  display: flex;
+  gap: 1.25rem;
+  flex-wrap: wrap;
+  font-weight: 650;
+}
+
+.digprog-waitlist .footer-links a {
+  color: var(--dp-blue);
+}
+
+.muted-tight {
+  margin-top: 0.75rem !important;
+}
+
+@media (max-width: 980px) {
+  .digprog-waitlist .hero-stage {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    padding: 1rem 0 2rem;
+  }
+
+  .digprog-waitlist .hero-title {
+    max-width: none;
+  }
+
+  .digprog-waitlist .section-head,
+  .digprog-waitlist .teaser-wide,
+  .digprog-waitlist .wide-split {
+    flex-direction: column;
+    align-items: flex-start;
+    grid-template-columns: 1fr;
+  }
+
+  .digprog-waitlist .curriculum-grid,
+  .digprog-waitlist .pricing-wide {
+    grid-template-columns: 1fr;
+  }
 }
 
 .waitlist-form h2,

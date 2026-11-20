@@ -1,4 +1,5 @@
 import { NavLink, Outlet } from "react-router-dom";
+import { DigProgMark } from "./DigProgMark";
 import "./MemberShell.css";
 
 const links = [
@@ -15,7 +16,7 @@ export function MemberShell() {
     <div className="member-shell">
       <aside className="member-side">
         <div className="member-brand">
-          <span className="brand-mark">D</span>
+          <DigProgMark size={32} />
           <div>
             <strong>DigProg</strong>
             <p>Member</p>

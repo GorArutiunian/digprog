@@ -1,0 +1,20 @@
+/** DigProg mark — blue tile + orange accent (shared web logo) */
+export function DigProgMark({ size = 32 }: { size?: number }) {
+  return (
+    <svg
+      width={size}
+      height={size}
+      viewBox="0 0 32 32"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+      aria-hidden
+    >
+      <rect width="32" height="32" rx="8" fill="#2457E6" />
+      <path
+        d="M9 23V9h6.4c2.9 0 4.8 1.7 4.8 4.3 0 2.7-2 4.4-5 4.4H12.5V23H9zm3.5-6.7h2.5c1.35 0 2.15-.75 2.15-1.9s-.8-1.8-2.15-1.8h-2.5v3.7z"
+        fill="#F7FAFF"
+      />
+      <circle cx="24.2" cy="22.2" r="3.2" fill="#FF8A3D" />
+    </svg>
+  );
+}

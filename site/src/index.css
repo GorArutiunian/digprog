@@ -81,6 +81,18 @@ img {
   margin-inline: auto;
 }
 
+/* Full-bleed professional shell (landing + nav) */
+.shell {
+  width: min(1520px, calc(100% - 3rem));
+  margin-inline: auto;
+}
+
+@media (max-width: 760px) {
+  .shell {
+    width: min(1520px, calc(100% - 1.25rem));
+  }
+}
+
 .display {
   font-family: var(--font-display);
   letter-spacing: -0.03em;

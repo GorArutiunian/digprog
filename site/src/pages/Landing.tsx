@@ -1,6 +1,7 @@
 import { useState, type FormEvent } from "react";
 import { Link } from "react-router-dom";
 import { PublicNav } from "../components/PublicNav";
+import { DigProgMark } from "../components/DigProgMark";
 import { curriculum, faqs, plans } from "../data";
 import "./Landing.css";
 
@@ -13,8 +14,11 @@ type WaitlistState =
       discountPercent: number;
       alreadyJoined: boolean;
       message: string;
+      emailSent: boolean;
     }
   | { status: "error"; message: string };
+
+const CONTACT = "hello@digprog.app";
 
 export function Landing() {
   const [openModule, setOpenModule] = useState(0);
@@ -44,6 +48,7 @@ export function Landing() {
         discountPercent: data.discountPercent ?? 30,
         alreadyJoined: !!data.alreadyJoined,
         message: data.message,
+        emailSent: !!data.emailSent,
       });
     } catch {
       setWaitlist({
@@ -52,6 +57,13 @@ export function Landing() {
       });
     }
   }
+
+  const mailtoCode =
+    waitlist.status === "success"
+      ? `mailto:${email}?subject=${encodeURIComponent("My DigProg early-bird code")}&body=${encodeURIComponent(
+          `DigProg waitlist code: ${waitlist.discountCode}\nDiscount: ${waitlist.discountPercent}% off at launch\n\nKeep this email — you'll need the code when DigProg opens.\n`,
+        )}`
+      : "#";
 
   return (
     <div className="landing digprog-waitlist">
@@ -62,15 +74,30 @@ export function Landing() {
           <div className="hero-grid" />
           <div className="hero-wash" />
         </div>
-        <div className="container hero-copy">
-          <p className="brand-hero">DigProg</p>
-          <h1 className="display hero-title">
-            Learn to start a real business — without the 40-hour water.
-          </h1>
-          <p className="hero-sub">
-            ~100 short lessons, a field guide, and quizzes that make you practice. Join the
-            waitlist now and lock a <strong>30% early-bird discount</strong> when DigProg opens.
-          </p>
+
+        <div className="shell hero-stage">
+          <div className="hero-copy">
+            <div className="hero-brand-row">
+              <DigProgMark size={48} />
+              <p className="brand-hero">DigProg</p>
+            </div>
+            <h1 className="display hero-title">
+              Learn to start a real business — without the 40-hour water.
+            </h1>
+            <p className="hero-sub">
+              ~100 short lessons, a field guide, and quizzes that make you practice. Join the
+              waitlist and lock a <strong>30% early-bird discount</strong> when DigProg opens.
+            </p>
+            <ul className="hero-includes">
+              <li>Customer → offer → delivery framework</li>
+              <li>Quizzes that force practice</li>
+              <li>Personal worksheets attached</li>
+            </ul>
+            <p className="hero-contact">
+              Questions?{" "}
+              <a href={`mailto:${CONTACT}`}>{CONTACT}</a>
+            </p>
+          </div>
 
           <div className="waitlist-card" id="join">
             {waitlist.status === "success" ? (
@@ -82,8 +109,20 @@ export function Landing() {
                   <span>{waitlist.discountPercent}% off</span>
                   <code>{waitlist.discountCode}</code>
                 </div>
-                <p className="fine-print">
-                  Screenshot this code. We'll email launch instructions to {email || "your inbox"}.
+                {waitlist.emailSent ? (
+                  <p className="fine-print">
+                    Confirmation sent to <strong>{email}</strong> with your code.
+                  </p>
+                ) : (
+                  <p className="fine-print">
+                    Save this code. We also prepared an email you can send yourself:
+                  </p>
+                )}
+                <a className="btn btn-waitlist" href={mailtoCode}>
+                  Email me my code
+                </a>
+                <p className="fine-print muted-tight">
+                  Or write us at <a href={`mailto:${CONTACT}`}>{CONTACT}</a>
                 </p>
               </div>
             ) : (
@@ -91,7 +130,7 @@ export function Landing() {
                 <p className="eyebrow">Early access waitlist</p>
                 <h2>Get 30% off at launch</h2>
                 <p className="form-lead">
-                  No spam. One launch email + your personal discount code stored securely.
+                  Enter your email. You get a personal discount code — no charge today.
                 </p>
                 <label>
                   Name <span className="optional">(optional)</span>
@@ -136,8 +175,8 @@ export function Landing() {
                 )}
                 <ul className="waitlist-perks">
                   <li>30% early-bird code (waitlist only)</li>
-                  <li>First access when Module 01 unlocks</li>
-                  <li>L01 sample lesson available in the demo classroom</li>
+                  <li>First access when enrollment opens</li>
+                  <li>Demo lesson available now</li>
                 </ul>
               </form>
             )}
@@ -145,8 +184,8 @@ export function Landing() {
         </div>
       </section>
 
-      <section className="section" id="problem">
-        <div className="container split">
+      <section className="section band" id="problem">
+        <div className="shell split wide-split">
           <div>
             <p className="eyebrow">Problem</p>
             <h2 className="section-title">Most “start a business” advice wastes months.</h2>
@@ -167,13 +206,17 @@ export function Landing() {
       </section>
 
       <section className="section" id="curriculum">
-        <div className="container">
-          <p className="eyebrow">Curriculum</p>
-          <h2 className="section-title">About 6 hours. Built to finish.</h2>
-          <p className="section-lead">
-            Six modules. Short lessons. Quizzes with 7–10 questions. Personal worksheets attached.
-          </p>
-          <div className="curriculum-list">
+        <div className="shell">
+          <div className="section-head">
+            <div>
+              <p className="eyebrow">Curriculum</p>
+              <h2 className="section-title">About 6 hours. Built to finish.</h2>
+            </div>
+            <p className="section-lead tight">
+              Six modules. Short lessons. Quizzes with 7–10 questions. Personal worksheets attached.
+            </p>
+          </div>
+          <div className="curriculum-list curriculum-grid">
             {curriculum.map((item, index) => {
               const open = openModule === index;
               return (
@@ -193,8 +236,8 @@ export function Landing() {
                   </div>
                   {open && (
                     <div className="curriculum-body">
-                      Lesson → practice quiz → next unlock. Full lesson map lives in the course
-                      curriculum file shipped with DigProg.
+                      Lesson → practice quiz → next unlock. Full map in the DigProg curriculum
+                      package.
                     </div>
                   )}
                 </button>
@@ -204,15 +247,18 @@ export function Landing() {
         </div>
       </section>
 
-      <section className="section" id="pricing">
-        <div className="container">
-          <p className="eyebrow">Pricing at launch</p>
-          <h2 className="section-title">Waitlist = 30% off these prices</h2>
-          <p className="section-lead">
-            Join above to receive your personal code (example: EARLY-A1B2C3). Codes apply at
-            checkout when DigProg opens.
-          </p>
-          <div className="pricing-grid">
+      <section className="section band" id="pricing">
+        <div className="shell">
+          <div className="section-head">
+            <div>
+              <p className="eyebrow">Pricing at launch</p>
+              <h2 className="section-title">Waitlist = 30% off</h2>
+            </div>
+            <p className="section-lead tight">
+              Your personal code (example: EARLY-A1B2C3) applies at checkout when DigProg opens.
+            </p>
+          </div>
+          <div className="pricing-grid pricing-wide">
             {plans.map((plan) => (
               <article key={plan.id} className={`price-card ${plan.featured ? "featured" : ""}`}>
                 {plan.featured && <span className="popular">Most chosen</span>}
@@ -221,13 +267,8 @@ export function Landing() {
                 <p className="price-waitlist">
                   Waitlist:{" "}
                   <strong>
-                    {plan.id === "simple"
-                      ? "$34"
-                      : plan.id === "medium"
-                        ? "$104"
-                        : "$209"}
-                  </strong>{" "}
-                  with your code
+                    {plan.id === "simple" ? "$34" : plan.id === "medium" ? "$104" : "$209"}
+                  </strong>
                 </p>
                 <p className="price-blurb">{plan.blurb}</p>
                 <ul>
@@ -244,15 +285,23 @@ export function Landing() {
         </div>
       </section>
 
-      <section className="section faq-section" id="faq">
-        <div className="container">
-          <p className="eyebrow">FAQ</p>
-          <h2 className="section-title">Straight answers.</h2>
+      <section className="section" id="faq">
+        <div className="shell faq-wide">
+          <div className="section-head">
+            <div>
+              <p className="eyebrow">FAQ</p>
+              <h2 className="section-title">Straight answers.</h2>
+            </div>
+          </div>
           <div className="faq-list">
             {[
               {
                 q: "What do I get by joining the waitlist?",
                 a: "A saved email, a unique 30% early-bird code, and first access when DigProg opens. No charge today.",
+              },
+              {
+                q: "Will you email me?",
+                a: `Yes — confirmation when email sending is configured, plus launch instructions. You can always reach us at ${CONTACT}.`,
               },
               {
                 q: "Is DigProg live now?",
@@ -278,10 +327,12 @@ export function Landing() {
         </div>
       </section>
 
-      <section className="section teaser-section">
-        <div className="container teaser">
-          <p className="eyebrow">Preview</p>
-          <h2 className="section-title">Try Lesson 01 in the demo classroom.</h2>
+      <section className="section band teaser-section">
+        <div className="shell teaser teaser-wide">
+          <div>
+            <p className="eyebrow">Preview</p>
+            <h2 className="section-title">Try Lesson 01 in the demo classroom.</h2>
+          </div>
           <div className="teaser-row">
             <Link to="/app/classroom">Open L01 · What a business is</Link>
             <a href="#join">Join waitlist for 30% off</a>
@@ -289,11 +340,18 @@ export function Landing() {
         </div>
       </section>
 
-      <footer className="site-footer">
-        <div className="container footer-inner">
-          <strong className="brand-name">DigProg</strong>
-          <p>Waitlist signups are stored in DigProg’s database. No fake enrollments.</p>
-          <a href="#join">Join waitlist →</a>
+      <footer className="site-footer digprog-footer">
+        <div className="shell footer-wide">
+          <div className="footer-brand">
+            <DigProgMark size={28} />
+            <strong className="brand-name">DigProg</strong>
+          </div>
+          <p>Waitlist signups stored securely. No fake enrollments.</p>
+          <div className="footer-links">
+            <a href={`mailto:${CONTACT}`}>{CONTACT}</a>
+            <a href="#join">Join waitlist</a>
+            <Link to="/app/classroom">Lesson demo</Link>
+          </div>
         </div>
       </footer>
     </div>

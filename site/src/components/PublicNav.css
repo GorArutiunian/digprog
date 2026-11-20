@@ -3,61 +3,67 @@
   top: 0;
   z-index: 40;
   backdrop-filter: blur(14px);
-  background: rgba(247, 250, 252, 0.78);
-  border-bottom: 1px solid transparent;
+  background: rgba(246, 248, 252, 0.88);
+  border-bottom: 1px solid rgba(19, 35, 61, 0.08);
 }
 
-.public-nav-inner {
+.digprog-nav .public-nav-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  min-height: 4.25rem;
+  min-height: 4.5rem;
   gap: 1rem;
 }
 
 .brand {
   display: inline-flex;
   align-items: center;
-  gap: 0.65rem;
-}
-
-.brand-mark {
-  width: 2rem;
-  height: 2rem;
-  border-radius: 0.55rem;
-  display: grid;
-  place-items: center;
-  background: var(--ink);
-  color: var(--mint);
-  font-family: var(--font-display);
-  font-weight: 800;
+  gap: 0.7rem;
 }
 
 .brand-name {
-  font-family: var(--font-display);
+  font-family: "Manrope", "Figtree", system-ui, sans-serif;
   font-weight: 800;
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   letter-spacing: -0.04em;
+  color: #13233d;
+}
+
+.digprog-nav .brand-name {
+  color: #2457e6;
 }
 
 .public-links {
   display: flex;
   align-items: center;
-  gap: 1.15rem;
-  font-weight: 600;
-  color: var(--ink-soft);
+  gap: 1.25rem;
+  font-weight: 650;
+  color: #52627a;
 }
 
 .public-links a:not(.btn):hover {
-  color: var(--ink);
+  color: #2457e6;
 }
 
-.nav-login {
-  padding: 0.6rem 1rem;
+.digprog-nav .nav-login {
+  padding: 0.65rem 1.1rem;
+  border-radius: 10px;
+  background: #2457e6;
+  color: #f7faff;
 }
 
-@media (max-width: 720px) {
-  .public-links a:not(.btn) {
+.digprog-nav .nav-login:hover {
+  background: #1d48c4;
+}
+
+@media (max-width: 860px) {
+  .public-links a:not(.btn):not([href^="mailto"]) {
+    display: none;
+  }
+}
+
+@media (max-width: 560px) {
+  .public-links a[href^="mailto"] {
     display: none;
   }
 }

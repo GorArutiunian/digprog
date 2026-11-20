@@ -1,8 +1,51 @@
 import type { VercelRequest, VercelResponse } from "@vercel/node";
 import { neon } from "@neondatabase/serverless";
 import { randomBytes, createHash } from "crypto";
+import { Resend } from "resend";
 
 const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/i;
+const CONTACT = "hello@digprog.app";
+
+async function sendConfirmationEmail(opts: {
+  to: string;
+  name: string;
+  discountCode: string;
+  alreadyJoined: boolean;
+}) {
+  const key = process.env.RESEND_API_KEY;
+  if (!key) return false;
+  const resend = new Resend(key);
+  const from = process.env.RESEND_FROM || "DigProg <onboarding@resend.dev>";
+  const greeting = opts.name ? `Hi ${opts.name},` : "Hi,";
+  const subject = opts.alreadyJoined
+    ? "Your DigProg early-bird code"
+    : "You're on the DigProg waitlist";
+  const html = `
+    <div style="font-family:Manrope,system-ui,sans-serif;color:#13233D;line-height:1.5">
+      <p>${greeting}</p>
+      <p>${
+        opts.alreadyJoined
+          ? "You're already on the DigProg waitlist. Here's your code again:"
+          : "Thanks for joining the DigProg waitlist. Your early-bird discount code:"
+      }</p>
+      <p style="font-size:22px;font-weight:800;letter-spacing:0.04em;color:#A83B08">${opts.discountCode}</p>
+      <p><strong>30% off</strong> when DigProg opens. Keep this email.</p>
+      <p>Questions? Reply or write <a href="mailto:${CONTACT}">${CONTACT}</a>.</p>
+      <p style="color:#52627A">— DigProg</p>
+    </div>
+  `;
+  const { error } = await resend.emails.send({
+    from,
+    to: opts.to,
+    subject,
+    html,
+  });
+  if (error) {
+    console.error("RESEND_ERROR", error);
+    return false;
+  }
+  return true;
+}
 
 function makeCode() {
   return `EARLY-${randomBytes(3).toString("hex").toUpperCase()}`;
@@ -152,11 +195,24 @@ export default async function handler(req: VercelRequest, res: VercelResponse) {
       });
     }
 
+    let emailSent = false;
+    try {
+      emailSent = await sendConfirmationEmail({
+        to: email,
+        name,
+        discountCode: result.discountCode,
+        alreadyJoined: result.alreadyJoined,
+      });
+    } catch (mailErr) {
+      console.error("WAITLIST_MAIL_ERROR", mailErr);
+    }
+
     return res.status(result.alreadyJoined ? 200 : 201).json({
       ok: true,
       alreadyJoined: result.alreadyJoined,
       discountCode: result.discountCode,
       discountPercent: 30,
+      emailSent,
       message: result.alreadyJoined
         ? "You're already on the waitlist. Your early-bird code is ready."
         : "You're on the DigProg waitlist. Save your 30% early-bird code.",
