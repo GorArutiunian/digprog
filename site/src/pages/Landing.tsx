@@ -334,7 +334,7 @@ export function Landing() {
             <h2 className="section-title">Try Lesson 01 in the demo classroom.</h2>
           </div>
           <div className="teaser-row">
-            <Link to="/app/classroom">Open L01 · What a business is</Link>
+            <Link to="/app/learn">Open course · levels & lessons</Link>
             <a href="#join">Join waitlist for 30% off</a>
           </div>
         </div>

@@ -5,6 +5,8 @@ import { Checkout } from "./pages/Checkout";
 import { Onboarding } from "./pages/Onboarding";
 import { Dashboard } from "./pages/Dashboard";
 import { Classroom } from "./pages/Classroom";
+import { Learn } from "./pages/Learn";
+import { Lesson } from "./pages/Lesson";
 import { Tools } from "./pages/Tools";
 import { Community } from "./pages/Community";
 import { LiveEvents } from "./pages/LiveEvents";
@@ -18,6 +20,8 @@ export default function App() {
       <Route path="/onboarding" element={<Onboarding />} />
       <Route path="/app" element={<MemberShell />}>
         <Route index element={<Dashboard />} />
+        <Route path="learn" element={<Learn />} />
+        <Route path="learn/:lessonId" element={<Lesson />} />
         <Route path="classroom" element={<Classroom />} />
         <Route path="tools" element={<Tools />} />
         <Route path="community" element={<Community />} />

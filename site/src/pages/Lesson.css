@@ -1,0 +1,269 @@
+.lesson {
+  --dp-blue: #2457e6;
+  --dp-orange: #ff8a3d;
+  --dp-text: #f7faff;
+  --dp-muted: rgba(247, 250, 255, 0.62);
+  color: var(--dp-text);
+}
+
+.lesson-top {
+  margin-bottom: 1rem;
+}
+
+.lesson-back {
+  display: inline-block;
+  margin-bottom: 0.65rem;
+  color: #7ea6ff;
+  font-weight: 650;
+}
+
+.lesson-kicker {
+  margin: 0;
+  color: var(--dp-orange);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.lesson h1 {
+  margin: 0.2rem 0;
+  font-size: clamp(1.35rem, 2vw, 1.8rem);
+}
+
+.lesson-objective {
+  margin: 0.35rem 0 0;
+  color: var(--dp-muted);
+  max-width: 48rem;
+}
+
+.lesson-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.5fr) minmax(280px, 360px);
+  gap: 1rem;
+  align-items: start;
+}
+
+.lesson-player {
+  background: #0b1730;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.lesson-video {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  display: block;
+  background: #0b1730;
+}
+
+.lesson-player-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.65rem 0.85rem;
+  background: #102a56;
+  font-size: 0.9rem;
+}
+
+.lesson-player-meta button {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  background: transparent;
+  color: var(--dp-text);
+  border-radius: 8px;
+  padding: 0.4rem 0.7rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.lesson-pending {
+  border-radius: 14px;
+  padding: 1.4rem;
+  background: rgba(255, 138, 61, 0.08);
+  border: 1px dashed rgba(255, 138, 61, 0.45);
+}
+
+.lesson-pending h2 {
+  margin: 0 0 0.5rem;
+}
+
+.lesson-summary {
+  margin-top: 1rem;
+  padding: 1rem 1.1rem;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.lesson-summary h2 {
+  margin: 0 0 0.45rem;
+  font-size: 1.05rem;
+}
+
+.lesson-summary p {
+  margin: 0;
+  color: var(--dp-muted);
+}
+
+.lesson-attach {
+  margin-top: 0.75rem !important;
+}
+
+.lesson-side {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.lesson-status {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.4rem;
+}
+
+.lesson-status div {
+  text-align: center;
+  font-size: 0.78rem;
+  font-weight: 700;
+  padding: 0.55rem 0.3rem;
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--dp-muted);
+  border: 1px solid transparent;
+}
+
+.lesson-status div.on {
+  color: #f7faff;
+  border-color: rgba(126, 166, 255, 0.45);
+  background: rgba(36, 87, 230, 0.25);
+}
+
+.lesson-practice {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 14px;
+  padding: 1rem;
+}
+
+.lesson-practice h2 {
+  margin: 0 0 0.75rem;
+  font-size: 1.1rem;
+}
+
+.lesson-q-meta {
+  margin: 0 0 0.35rem;
+  color: #7ea6ff;
+  font-size: 0.78rem;
+  font-weight: 750;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.lesson-practice h3 {
+  margin: 0 0 0.75rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.lesson-practice fieldset {
+  border: 0;
+  margin: 0 0 0.85rem;
+  padding: 0;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.lesson-choice {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.55rem;
+  padding: 0.65rem 0.7rem;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  cursor: pointer;
+  font-size: 0.92rem;
+}
+
+.lesson-choice:has(input:checked) {
+  border-color: #7ea6ff;
+  background: rgba(36, 87, 230, 0.2);
+}
+
+.lesson-cta {
+  border: 0;
+  background: var(--dp-orange);
+  color: #13233d;
+  font-weight: 750;
+  border-radius: 10px;
+  padding: 0.65rem 0.9rem;
+  cursor: pointer;
+  font: inherit;
+  min-height: 42px;
+}
+
+.lesson-cta:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.lesson-cta.linkish {
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none;
+  margin-top: 0.5rem;
+}
+
+.lesson-ghost {
+  display: inline-block;
+  margin-top: 0.65rem;
+  color: #7ea6ff;
+  font-weight: 650;
+}
+
+.lesson-feedback {
+  margin-top: 0.5rem;
+  padding: 0.75rem;
+  border-radius: 10px;
+}
+
+.lesson-feedback.ok {
+  background: rgba(21, 128, 61, 0.2);
+  border: 1px solid rgba(21, 128, 61, 0.45);
+}
+
+.lesson-feedback.bad {
+  background: rgba(185, 28, 28, 0.18);
+  border: 1px solid rgba(185, 28, 28, 0.4);
+}
+
+.lesson-feedback-actions {
+  display: flex;
+  gap: 0.5rem;
+  margin-top: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.lesson-feedback-actions button:not(.lesson-cta) {
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: var(--dp-text);
+  border-radius: 8px;
+  padding: 0.55rem 0.75rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.lesson-done-box .ok-text {
+  color: #86efac;
+  font-weight: 700;
+}
+
+.muted {
+  color: var(--dp-muted);
+}
+
+@media (max-width: 960px) {
+  .lesson-grid {
+    grid-template-columns: 1fr;
+  }
+}

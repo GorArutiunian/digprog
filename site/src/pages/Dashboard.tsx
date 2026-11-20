@@ -1,26 +1,47 @@
+import { useMemo } from "react";
 import { Link } from "react-router-dom";
-import { announcements, roadmap } from "../data";
+import { allLessons, catalog } from "../data/catalog";
+import { countCompleted, loadProgress } from "../lib/progress";
+import { roadmap } from "../data";
 import "./Dashboard.css";
 
 export function Dashboard() {
+  const progress = useMemo(() => loadProgress(), []);
+  const lessons = allLessons();
+  const allIds = lessons.map((x) => x.id);
+  const done = countCompleted(progress, allIds);
+  const pct = Math.round((done / Math.max(1, allIds.length)) * 100);
+  const resumeId = progress.lastLessonId || "L001";
+  const resumeTitle =
+    lessons.find((l) => l.id === resumeId)?.title || "What a business is";
+
   return (
     <div className="dashboard member-grid">
       <section className="panel resume-panel">
         <p className="eyebrow mint">Continue learning</p>
-        <h2>Problem hunting in public</h2>
-        <p className="muted">Module 02 · Lesson 1 of 12 · ~3 min</p>
+        <h2>
+          {resumeId} · {resumeTitle}
+        </h2>
+        <p className="muted">
+          {done} / {allIds.length} lessons complete · {catalog.levels.length} levels
+        </p>
         <div className="progress-wrap">
           <div className="progress-meta">
             <span>Course progress</span>
-            <strong>34%</strong>
+            <strong>{pct}%</strong>
           </div>
           <div className="progress-bar">
-            <i style={{ width: "34%" }} />
+            <i style={{ width: `${pct}%` }} />
           </div>
         </div>
-        <Link to="/app/classroom" className="btn btn-mint">
-          Resume classroom
-        </Link>
+        <div style={{ display: "flex", gap: "0.75rem", flexWrap: "wrap" }}>
+          <Link to={`/app/learn/${resumeId}`} className="btn btn-mint">
+            Resume lesson
+          </Link>
+          <Link to="/app/learn" className="btn btn-ghost-light">
+            All levels
+          </Link>
+        </div>
       </section>
 
       <section className="panel roadmap-panel">
@@ -35,41 +56,12 @@ export function Dashboard() {
         </ol>
       </section>
 
-      <section className="panel rewards-panel">
-        <h2>Streak & rewards</h2>
-        <div className="reward-row">
-          <div>
-            <strong>6</strong>
-            <span>day streak</span>
-          </div>
-          <div>
-            <strong>420</strong>
-            <span>XP points</span>
-          </div>
-          <div>
-            <strong>2</strong>
-            <span>badges</span>
-          </div>
-        </div>
-        <p className="muted">Sample gamification — not connected to a backend.</p>
-      </section>
-
       <section className="panel announce-panel">
-        <h2>Pinned announcements</h2>
+        <h2>Build status</h2>
         <ul>
-          {announcements.map((item) => (
-            <li key={item}>{item}</li>
-          ))}
-        </ul>
-      </section>
-
-      <section className="panel tasks-panel">
-        <h2>Pro daily tasks</h2>
-        <p className="muted">Generated from onboarding interest · sample data</p>
-        <ul className="task-list">
-          <li className="done">Message 3 people who have the problem</li>
-          <li>Draft one-line offer for Local services</li>
-          <li>Price a starter package under $200</li>
+          <li>L001 video live · more videos from Sargis in order</li>
+          <li>Quizzes preview on L001–L003</li>
+          <li>Progress saved on this device (local)</li>
         </ul>
       </section>
     </div>

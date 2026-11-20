@@ -4,7 +4,8 @@ import "./MemberShell.css";
 
 const links = [
   { to: "/app", end: true, label: "Dashboard" },
-  { to: "/app/classroom", label: "Classroom" },
+  { to: "/app/learn", label: "Learn" },
+  { to: "/app/classroom", label: "L01 demo" },
   { to: "/app/tools", label: "Tools" },
   { to: "/app/community", label: "Community" },
   { to: "/app/live", label: "Live" },
@@ -42,8 +43,8 @@ export function MemberShell() {
       <div className="member-main">
         <header className="member-top">
           <div>
-            <p className="member-hello">Welcome back, Alex</p>
-            <h1>Keep building with Zorik</h1>
+            <p className="member-hello">DigProg member area</p>
+            <h1>Learn · practice · ship</h1>
           </div>
           <div className="member-top-meta">
             <span className="streak">6-day streak</span>

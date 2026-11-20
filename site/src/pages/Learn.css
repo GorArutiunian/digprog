@@ -1,0 +1,202 @@
+.learn {
+  --dp-blue: #2457e6;
+  --dp-orange: #ff8a3d;
+  --dp-orange-dark: #a83b08;
+  --dp-text: #f7faff;
+  --dp-muted: rgba(247, 250, 255, 0.62);
+  color: var(--dp-text);
+}
+
+.learn-hero {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+}
+
+.learn-kicker {
+  margin: 0 0 0.35rem;
+  color: #7ea6ff;
+  font-size: 0.8rem;
+  font-weight: 750;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+}
+
+.learn h1 {
+  margin: 0;
+  font-size: clamp(1.6rem, 2.4vw, 2.2rem);
+}
+
+.learn-sub {
+  margin: 0.45rem 0 0;
+  color: var(--dp-muted);
+  max-width: 40rem;
+}
+
+.learn-progress-card {
+  min-width: 220px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 14px;
+  padding: 1rem 1.1rem;
+  display: grid;
+  gap: 0.35rem;
+}
+
+.learn-progress-card span,
+.learn-progress-card em {
+  color: var(--dp-muted);
+  font-size: 0.85rem;
+}
+
+.learn-bar {
+  height: 8px;
+  border-radius: 99px;
+  background: rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
+
+.learn-bar i {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--dp-blue), var(--dp-orange));
+}
+
+.learn-note {
+  color: var(--dp-muted);
+  font-size: 0.95rem;
+  margin: 0 0 1.25rem;
+  max-width: 52rem;
+}
+
+.learn-levels {
+  display: grid;
+  gap: 0.85rem;
+}
+
+.learn-level {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 14px;
+  overflow: hidden;
+}
+
+.learn-level.locked {
+  opacity: 0.72;
+}
+
+.learn-level-head {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  text-align: left;
+  background: transparent;
+  border: 0;
+  color: inherit;
+  padding: 1.05rem 1.15rem;
+  cursor: pointer;
+  font: inherit;
+}
+
+.learn-level-tag {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--dp-orange);
+  margin-bottom: 0.25rem;
+}
+
+.learn-level-head h2 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.learn-level-head p {
+  margin: 0.3rem 0 0;
+  color: var(--dp-muted);
+  font-size: 0.92rem;
+}
+
+.learn-level-meta {
+  display: grid;
+  justify-items: end;
+  align-content: center;
+  gap: 0.2rem;
+  color: var(--dp-muted);
+  font-size: 0.85rem;
+}
+
+.learn-lesson-list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0.75rem 0.85rem;
+  display: grid;
+  gap: 0.45rem;
+}
+
+.learn-lesson-list li {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: center;
+  padding: 0.85rem 0.9rem;
+  border-radius: 12px;
+  background: rgba(0, 0, 0, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.learn-lesson-list li.done {
+  border-color: rgba(126, 166, 255, 0.35);
+}
+
+.learn-lesson-list strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.learn-lesson-list p {
+  margin: 0;
+  color: var(--dp-muted);
+  font-size: 0.9rem;
+}
+
+.learn-lesson-list span {
+  display: block;
+  margin-top: 0.35rem;
+  font-size: 0.78rem;
+  color: rgba(247, 250, 255, 0.45);
+}
+
+.learn-open {
+  flex-shrink: 0;
+  background: var(--dp-orange);
+  color: #13233d;
+  font-weight: 750;
+  padding: 0.55rem 0.9rem;
+  border-radius: 10px;
+  min-height: 40px;
+  display: inline-flex;
+  align-items: center;
+}
+
+.learn-locked-pill {
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  color: rgba(247, 250, 255, 0.4);
+}
+
+@media (max-width: 800px) {
+  .learn-hero {
+    flex-direction: column;
+  }
+
+  .learn-lesson-list li {
+    flex-direction: column;
+    align-items: stretch;
+  }
+}

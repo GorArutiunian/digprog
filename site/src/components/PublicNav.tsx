@@ -13,7 +13,7 @@ export function PublicNav() {
         <nav className="public-links" aria-label="Primary">
           <a href="/#curriculum">Curriculum</a>
           <a href="/#pricing">Pricing</a>
-          <Link to="/app/classroom">Lesson demo</Link>
+          <Link to="/app/learn">Course</Link>
           <a href="mailto:hello@digprog.app">hello@digprog.app</a>
           <a href="/#join" className="btn btn-primary nav-login">
             Join waitlist
