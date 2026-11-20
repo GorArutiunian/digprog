@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DigProg — Field Guide (Draft v2)</title>
+  <style>
+    @page { margin: 18mm 16mm; }
+    :root {
+      --ink: #12141a;
+      --muted: #5a6170;
+      --line: #d7dbe3;
+      --accent: #1c3d2e;
+      --paper: #f7f5f0;
+      --card: #eef1f4;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: #fff;
+      font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+      font-size: 11.5pt;
+      line-height: 1.55;
+    }
+    .page { max-width: 720px; margin: 0 auto; padding: 28px 20px 48px; }
+    .sans { font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif; }
+    h1, h2, h3 { font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif; letter-spacing: -0.02em; }
+    h1 { font-size: 28pt; line-height: 1.15; margin: 0 0 12px; }
+    h2 { font-size: 16pt; margin: 22px 0 8px; color: var(--accent); border-top: 2px solid var(--ink); padding-top: 12px; page-break-before: auto; page-break-after: avoid; }
+    h2.part { margin-top: 28px; }
+    h3 { font-size: 12.5pt; margin: 16px 0 6px; page-break-after: avoid; }
+    p { margin: 0 0 10px; }
+    .deck { font-size: 13pt; color: var(--muted); margin-bottom: 18px; }
+    .meta { font-size: 9.5pt; color: var(--muted); font-family: "Avenir Next", system-ui, sans-serif; }
+    .tag {
+      display: inline-block;
+      font-family: "Avenir Next", system-ui, sans-serif;
+      font-size: 8.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      border: 1px solid var(--line);
+      padding: 3px 8px;
+      margin-bottom: 14px;
+    }
+    ul { margin: 6px 0 12px; padding-left: 1.2em; }
+    li { margin: 4px 0; }
+    .figure {
+      background: var(--paper);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 14px 16px;
+      margin: 14px 0 18px;
+      page-break-inside: avoid;
+    }
+    .figure .label {
+      font-family: "Avenir Next", system-ui, sans-serif;
+      font-size: 8.5pt;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: var(--muted);
+      margin-bottom: 8px;
+    }
+    .figure svg { width: 100%; height: auto; display: block; }
+    .caption { font-size: 9.5pt; color: var(--muted); margin-top: 8px; font-family: "Avenir Next", system-ui, sans-serif; }
+    .writebox {
+      border: 1.5px solid var(--ink);
+      border-radius: 8px;
+      padding: 12px 14px;
+      margin: 14px 0 8px;
+      background: #fff;
+      page-break-inside: avoid;
+    }
+    .writebox .q { font-family: "Avenir Next", system-ui, sans-serif; font-weight: 600; font-size: 10.5pt; margin-bottom: 10px; }
+    .lines { border-bottom: 1px solid var(--line); height: 28px; }
+    .rule {
+      background: var(--card);
+      border-left: 3px solid var(--accent);
+      padding: 10px 12px;
+      margin: 12px 0;
+      font-family: "Avenir Next", system-ui, sans-serif;
+      font-size: 10.5pt;
+    }
+    .cover {
+      min-height: auto;
+      padding: 48px 0 28px;
+      border-bottom: 1px solid var(--line);
+      margin-bottom: 20px;
+    }
+    .cover h1 { font-size: 34pt; max-width: 12ch; }
+    table { width: 100%; border-collapse: collapse; font-size: 10.5pt; margin: 10px 0 16px; }
+    th, td { border: 1px solid var(--line); padding: 8px 9px; text-align: left; vertical-align: top; }
+    th { background: var(--paper); font-family: "Avenir Next", system-ui, sans-serif; font-size: 9.5pt; }
+  </style>
+</head>
+<body>
+  <div class="page">
+
+    <section class="cover">
+      <div class="tag sans">Draft v2 · structure + voice · not final prose</div>
+      <h1>DigProg</h1>
+      <p class="deck">A field guide to building a business when you already have responsibilities.</p>
+      <p class="meta">Author: [Your name] · Companion to the DigProg course · Also sold as a standalone book</p>
+      <p class="meta">Status: draft for design &amp; voice. Graphs are placeholders for the production layout.</p>
+    </section>
+
+    <h2 class="nobreak">How to use this book</h2>
+    <p>I wrote this as a working manual, not a motivational speech. Read a chapter. Look at the diagram. Write in the boxes. Then do the action. If you are taking the DigProg course, each chapter pairs with short lessons and a quiz. If you bought the book alone, the same sequence still holds.</p>
+    <div class="rule">Rule I use with founders: clarity beats volume. One finished page of thinking is worth twenty saved articles.</div>
+
+    <h2>Who this is for</h2>
+    <ul>
+      <li>You have a job — or uneven income — and limited evenings.</li>
+      <li>You want a business or a serious venture, not endless tips.</li>
+      <li>You will talk to customers and ask for money without theatrical “guru” tactics.</li>
+      <li>You prefer straight language and tools you can use this week.</li>
+    </ul>
+
+    <h2 class="nobreak">Who this is not for</h2>
+    <ul>
+      <li>Anyone hunting passive income with zero work.</li>
+      <li>Anyone looking for a script to deceive buyers.</li>
+      <li>Anyone who wants theory with no outreach.</li>
+    </ul>
+
+    <h2>Part I — Foundations</h2>
+
+    <h3>1. The trap of looking busy</h3>
+    <p>A salary pays for today. That is valuable. It is not the same as building an asset you control. Most people I meet are not lazy. They are busy in the wrong layer: logos, feeds, courses about courses — and almost no conversations with people who might pay.</p>
+    <p>The shift is not mystical. It is a change of scoreboard. From “hours consumed” to “loops closed”: offer written, conversation held, payment attempted, delivery kept.</p>
+
+    <div class="figure">
+      <div class="label">Figure 1.1 — Two scoreboards</div>
+      <svg viewBox="0 0 640 220" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Busy vs builder scoreboard">
+        <rect x="20" y="30" width="280" height="160" rx="12" fill="#fff" stroke="#c9ced8"/>
+        <rect x="340" y="30" width="280" height="160" rx="12" fill="#1c3d2e"/>
+        <text x="160" y="58" text-anchor="middle" font-family="Avenir Next, sans-serif" font-size="14" fill="#5a6170">Busy scoreboard</text>
+        <text x="480" y="58" text-anchor="middle" font-family="Avenir Next, sans-serif" font-size="14" fill="#d7e8dc">Builder scoreboard</text>
+        <text x="40" y="95" font-family="Georgia, serif" font-size="13" fill="#12141a">Videos watched</text>
+        <text x="40" y="120" font-family="Georgia, serif" font-size="13" fill="#12141a">Posts published</text>
+        <text x="40" y="145" font-family="Georgia, serif" font-size="13" fill="#12141a">Tools installed</text>
+        <text x="360" y="95" font-family="Georgia, serif" font-size="13" fill="#f7f5f0">Offers written</text>
+        <text x="360" y="120" font-family="Georgia, serif" font-size="13" fill="#f7f5f0">Conversations held</text>
+        <text x="360" y="145" font-family="Georgia, serif" font-size="13" fill="#f7f5f0">Payments attempted</text>
+      </svg>
+      <p class="caption">If your week only fills the left column, you are training motion, not a business.</p>
+    </div>
+
+    <div class="writebox">
+      <div class="q">Write: What did you measure last week — busy or builder?</div>
+      <div class="lines"></div><div class="lines"></div><div class="lines"></div>
+    </div>
+
+    <h3>2. Time as a system, not a mood</h3>
+    <p>Professionals do not wait for inspiration to meet a client. Treat your venture the same way. Same start window. One outcome per session. Protect sleep. Track actions, not vibes.</p>
+    <div class="figure">
+      <div class="label">Figure 1.2 — A practical evening block (example)</div>
+      <svg viewBox="0 0 640 120" xmlns="http://www.w3.org/2000/svg">
+        <rect x="20" y="35" width="180" height="50" fill="#1c3d2e"/>
+        <rect x="200" y="35" width="200" height="50" fill="#2f5d45"/>
+        <rect x="400" y="35" width="220" height="50" fill="#4a7a5c"/>
+        <text x="110" y="66" text-anchor="middle" fill="#fff" font-family="Avenir Next,sans-serif" font-size="13">Build 40m</text>
+        <text x="300" y="66" text-anchor="middle" fill="#fff" font-family="Avenir Next,sans-serif" font-size="13">Outreach 30m</text>
+        <text x="510" y="66" text-anchor="middle" fill="#fff" font-family="Avenir Next,sans-serif" font-size="13">Review 20m</text>
+      </svg>
+      <p class="caption">Adjust lengths to your life. Do not adjust the rule: one closed outcome before you stop.</p>
+    </div>
+
+    <h3>3. Leaving employment without theatre</h3>
+    <p>I do not romanticize quitting. Keep income until the offer produces repeated paid conversations. Write your exit rule in numbers before emotion arrives. Ambition without a runway is just pressure on your household.</p>
+    <div class="writebox">
+      <div class="q">My exit rule (numbers, not vibes):</div>
+      <div class="lines"></div><div class="lines"></div>
+    </div>
+
+    <h2>Part II — What a business is</h2>
+
+    <h3>4. A clean definition</h3>
+    <p>A business solves a costly problem for people who can pay — and you get paid to solve it. If nobody pays, you may still be learning. You do not yet have a business.</p>
+    <div class="figure">
+      <div class="label">Figure 2.1 — The three parts</div>
+      <svg viewBox="0 0 640 160" xmlns="http://www.w3.org/2000/svg">
+        <rect x="30" y="40" width="170" height="80" rx="10" fill="#1c3d2e"/>
+        <rect x="235" y="40" width="170" height="80" rx="10" fill="#2f5d45"/>
+        <rect x="440" y="40" width="170" height="80" rx="10" fill="#4a7a5c"/>
+        <text x="115" y="75" text-anchor="middle" fill="#fff" font-size="14" font-family="Avenir Next,sans-serif">Customer</text>
+        <text x="115" y="98" text-anchor="middle" fill="#d7e8dc" font-size="11" font-family="Georgia,serif">who pays</text>
+        <text x="320" y="75" text-anchor="middle" fill="#fff" font-size="14" font-family="Avenir Next,sans-serif">Offer</text>
+        <text x="320" y="98" text-anchor="middle" fill="#d7e8dc" font-size="11" font-family="Georgia,serif">what they buy</text>
+        <text x="525" y="75" text-anchor="middle" fill="#fff" font-size="14" font-family="Avenir Next,sans-serif">Delivery</text>
+        <text x="525" y="98" text-anchor="middle" fill="#d7e8dc" font-size="11" font-family="Georgia,serif">promise kept</text>
+        <path d="M200 80 H235" stroke="#12141a" stroke-width="2"/>
+        <path d="M405 80 H440" stroke="#12141a" stroke-width="2"/>
+      </svg>
+      <p class="caption">Missing any box means you still have a project, not a firm.</p>
+    </div>
+
+    <h3>5. Startup and operating company</h3>
+    <p>A startup searches for a repeatable model under uncertainty. An operating company runs a model that already works and focuses on execution. Most readers should begin with a clear offer and learning speed — not a costume of “startup.”</p>
+    <table>
+      <tr><th></th><th>Searching</th><th>Operating</th></tr>
+      <tr><td>Question</td><td>What works?</td><td>How do we deliver well?</td></tr>
+      <tr><td>Risk</td><td>Market unknown</td><td>Execution &amp; quality</td></tr>
+      <tr><td>Artifact</td><td>Experiments, interviews</td><td>Process, margins</td></tr>
+    </table>
+
+    <div class="writebox">
+      <div class="q">I help ________ do ________ so they can ________.</div>
+      <div class="lines"></div><div class="lines"></div>
+    </div>
+
+    <h3>6. Money language</h3>
+    <p>Revenue is money in. Cost is money out to deliver. Profit is the difference. Cash is what sits in the account today. Profit on a spreadsheet and cash in the bank are not the same event. Track cash weekly from the first sale.</p>
+    <div class="figure">
+      <div class="label">Figure 2.2 — Money flow (sketch)</div>
+      <svg viewBox="0 0 640 100" xmlns="http://www.w3.org/2000/svg">
+        <text x="40" y="55" font-family="Avenir Next,sans-serif" font-size="14">Revenue</text>
+        <text x="160" y="55" font-family="Avenir Next,sans-serif" font-size="14">→</text>
+        <text x="200" y="55" font-family="Avenir Next,sans-serif" font-size="14">− Costs</text>
+        <text x="320" y="55" font-family="Avenir Next,sans-serif" font-size="14">→</text>
+        <text x="360" y="55" font-family="Avenir Next,sans-serif" font-size="14">Profit</text>
+        <text x="460" y="55" font-family="Avenir Next,sans-serif" font-size="14">≠</text>
+        <text x="500" y="55" font-family="Avenir Next,sans-serif" font-size="14">Cash timing</text>
+      </svg>
+    </div>
+
+    <h2>Part III — Offer, proof, sales</h2>
+    <p class="meta">Full chapters in production draft: idea selection, one-page offer, Business Model Canvas (credit Strategyzer.com), validation interviews, outreach, sales conversations, objections, delivery.</p>
+    <ul>
+      <li>Kill ideas that need capital you do not have or buyers you cannot reach.</li>
+      <li>One offer for a fixed test window.</li>
+      <li>Interviews about past behavior beat compliments about your idea.</li>
+      <li>Sales is structured help deciding — not pressure theatre.</li>
+    </ul>
+    <div class="writebox">
+      <div class="q">Offer draft — who / problem / promise / price / next step</div>
+      <div class="lines"></div><div class="lines"></div><div class="lines"></div><div class="lines"></div><div class="lines"></div>
+    </div>
+
+    <h2>Part IV — Systems</h2>
+    <p>Content exists to create conversations and trust around an offer — not as a substitute for the offer. Distribution without a promise is noise. A promise without distribution is a secret.</p>
+    <div class="figure">
+      <div class="label">Figure 4.1 — Simple weekly loop</div>
+      <svg viewBox="0 0 640 140" xmlns="http://www.w3.org/2000/svg">
+        <circle cx="90" cy="70" r="48" fill="#1c3d2e"/>
+        <circle cx="320" cy="70" r="48" fill="#2f5d45"/>
+        <circle cx="550" cy="70" r="48" fill="#4a7a5c"/>
+        <text x="90" y="66" text-anchor="middle" fill="#fff" font-size="12" font-family="Avenir Next,sans-serif">Build</text>
+        <text x="90" y="84" text-anchor="middle" fill="#d7e8dc" font-size="10" font-family="Georgia,serif">offer/assets</text>
+        <text x="320" y="66" text-anchor="middle" fill="#fff" font-size="12" font-family="Avenir Next,sans-serif">Talk</text>
+        <text x="320" y="84" text-anchor="middle" fill="#d7e8dc" font-size="10" font-family="Georgia,serif">interviews/sales</text>
+        <text x="550" y="66" text-anchor="middle" fill="#fff" font-size="12" font-family="Avenir Next,sans-serif">Learn</text>
+        <text x="550" y="84" text-anchor="middle" fill="#d7e8dc" font-size="10" font-family="Georgia,serif">change the offer</text>
+        <path d="M138 70 H272" stroke="#12141a" stroke-width="2" marker-end="url(#a)"/>
+        <path d="M368 70 H502" stroke="#12141a" stroke-width="2"/>
+      </svg>
+    </div>
+
+    <h2>Capstone checklist</h2>
+    <ul>
+      <li>□ One-page offer</li>
+      <li>□ Price and refund rule you can honor</li>
+      <li>□ Delivery folder ready</li>
+      <li>□ Ten outreach messages sent</li>
+      <li>□ CRM updated</li>
+      <li>□ Next two weeks planned in writing</li>
+    </ul>
+    <p>Graduation is shipping — not finishing every highlight reel online.</p>
+
+    <h2>Note on sources</h2>
+    <p class="meta">DigProg’s prose is original. Frameworks are informed by open educational resources and widely known professional practice (including Business Model Canvas — Strategyzer.com, CC BY-SA). Bestsellers may be recommended as further reading; their text is not copied here.</p>
+
+    <p class="meta" style="margin-top:28px;">End of Draft v2 · Replace [Your name] · Expand Parts III–IV to full chapters in v3 · Production design will refine figures.</p>
+  </div>
+</body>
+</html>

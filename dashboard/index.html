@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Content Ops Tracker</title>
+  <style>
+    :root {
+      --bg: #0f1410;
+      --panel: #1a221c;
+      --ink: #e8f0e9;
+      --muted: #8fa094;
+      --accent: #c4f542;
+      --warn: #ffb020;
+      --ok: #3dd68c;
+      --line: #2a362e;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "IBM Plex Sans", "Segoe UI", sans-serif;
+      background: var(--bg);
+      color: var(--ink);
+      line-height: 1.45;
+    }
+    header {
+      padding: 1.25rem 1.5rem;
+      border-bottom: 1px solid var(--line);
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: baseline;
+      justify-content: space-between;
+    }
+    h1 { font-size: 1.15rem; font-weight: 600; margin: 0; letter-spacing: -0.02em; }
+    .sub { color: var(--muted); font-size: 0.85rem; }
+    main {
+      display: grid;
+      gap: 1rem;
+      padding: 1rem 1.5rem 2rem;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    }
+    section {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 1rem 1.1rem;
+    }
+    h2 { font-size: 0.95rem; margin: 0 0 0.75rem; color: var(--accent); font-weight: 600; }
+    label.row {
+      display: flex;
+      gap: 0.6rem;
+      align-items: flex-start;
+      padding: 0.35rem 0;
+      font-size: 0.88rem;
+      border-bottom: 1px solid transparent;
+    }
+    label.row:hover { border-bottom-color: var(--line); }
+    input[type="checkbox"] { margin-top: 0.2rem; accent-color: var(--accent); }
+    .meta {
+      display: flex;
+      gap: 0.75rem;
+      flex-wrap: wrap;
+      margin-top: 0.85rem;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+    .pill {
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 0.15rem 0.55rem;
+    }
+    .pill strong { color: var(--ok); font-weight: 600; }
+    footer {
+      padding: 0 1.5rem 1.5rem;
+      color: var(--muted);
+      font-size: 0.8rem;
+    }
+    button {
+      background: transparent;
+      color: var(--ink);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      padding: 0.4rem 0.7rem;
+      cursor: pointer;
+      font-size: 0.8rem;
+    }
+    button:hover { border-color: var(--accent); color: var(--accent); }
+  </style>
+</head>
+<body>
+  <header>
+    <div>
+      <h1>Content Ops Tracker</h1>
+      <div class="sub">Local only · saves in this browser · open file anytime</div>
+    </div>
+    <div>
+      <button type="button" id="exportBtn">Export JSON</button>
+      <button type="button" id="resetBtn">Reset</button>
+    </div>
+  </header>
+  <main>
+    <section data-space="clipping">
+      <h2>01 · Whop clipping</h2>
+      <div id="clipping"></div>
+      <div class="meta"><span class="pill">Done <strong id="clipping-n">0</strong></span></div>
+    </section>
+    <section data-space="course">
+      <h2>02 · DigProg course</h2>
+      <div id="course"></div>
+      <div class="meta"><span class="pill">Done <strong id="course-n">0</strong></span></div>
+    </section>
+    <section data-space="shorts">
+      <h2>03 · Claude-style videos</h2>
+      <div id="shorts"></div>
+      <div class="meta"><span class="pill">Done <strong id="shorts-n">0</strong></span></div>
+    </section>
+  </main>
+  <footer>
+    Telegram later: BotFather bot posting daily checklist from this same list. For now local = $0.
+  </footer>
+  <script>
+    const KEY = "content-ops-tracker-v1";
+    const TASKS = {
+      clipping: [
+        "Clone OpenClip Studio or RipClips",
+        "Install yt-dlp + ffmpeg + whisper",
+        "Create scout sheet (campaign $/1k)",
+        "Warm 9 accounts (3× TT/IG/YT)",
+        "First 10 clips QC + post + Whop submit",
+        "Scale toward 18–24 accounts"
+      ],
+      course: [
+        "Lock study guide v1 (done in repo)",
+        "Generate first 10 lesson scripts (Ollama)",
+        "Build Remotion lesson template + Edge TTS",
+        "Quiz JSON for M0–M1",
+        "Wire unlock flow in DigProg mock",
+        "Stripe test mode + free module",
+        "Render lessons batch 1 (L001–L020)",
+        "Soft sell warm network"
+      ],
+      shorts: [
+        "Clone remotion-shorts-skill or shorts-kit",
+        "Build split-screen template (ref Short)",
+        "Topic queue of 30 DigProg ad hooks",
+        "Render 5 pilot Shorts",
+        "Post on DigProg ad accounts only",
+        "Batch 30/day week when course funnel live"
+      ]
+    };
+
+    function load() {
+      try { return JSON.parse(localStorage.getItem(KEY)) || {}; }
+      catch { return {}; }
+    }
+    function save(state) {
+      localStorage.setItem(KEY, JSON.stringify(state));
+    }
+    function render() {
+      const state = load();
+      for (const [space, list] of Object.entries(TASKS)) {
+        const root = document.getElementById(space);
+        root.innerHTML = "";
+        let done = 0;
+        list.forEach((label, i) => {
+          const id = space + ":" + i;
+          const checked = !!state[id];
+          if (checked) done++;
+          const lab = document.createElement("label");
+          lab.className = "row";
+          const cb = document.createElement("input");
+          cb.type = "checkbox";
+          cb.checked = checked;
+          cb.addEventListener("change", () => {
+            const s = load();
+            s[id] = cb.checked;
+            save(s);
+            render();
+          });
+          const span = document.createElement("span");
+          span.textContent = label;
+          lab.append(cb, span);
+          root.append(lab);
+        });
+        document.getElementById(space + "-n").textContent = done + "/" + list.length;
+      }
+    }
+    document.getElementById("exportBtn").onclick = () => {
+      const blob = new Blob([JSON.stringify(load(), null, 2)], { type: "application/json" });
+      const a = document.createElement("a");
+      a.href = URL.createObjectURL(blob);
+      a.download = "content-ops-tracker.json";
+      a.click();
+    };
+    document.getElementById("resetBtn").onclick = () => {
+      if (confirm("Clear all checks?")) { localStorage.removeItem(KEY); render(); }
+    };
+    render();
+  </script>
+</body>
+</html>

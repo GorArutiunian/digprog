@@ -1,0 +1,98 @@
+1
+00:00:00,050 --> 00:00:01,207
+You built an app.
+
+2
+00:00:01,207 --> 00:00:02,467
+Your friends love it.
+
+3
+00:00:02,467 --> 00:00:04,467
+Does that mean customers will pay?
+
+4
+00:00:04,467 --> 00:00:07,978
+Not yet - you have evidence of interest,
+but not of paying demand.
+
+5
+00:00:08,350 --> 00:00:12,148
+A business provides something customers
+value in exchange for payment.
+
+6
+00:00:12,148 --> 00:00:17,735
+To understand how it works, start with
+three parts: customer, offer, and delivery.
+
+7
+00:00:18,154 --> 00:00:21,180
+The customer is the person or organization
+buying.
+
+8
+00:00:21,180 --> 00:00:23,234
+Ask: who are they, and what do they need?
+
+9
+00:00:23,598 --> 00:00:28,428
+The offer is what they can buy: a clear
+product or service, its price, and what is included.
+
+10
+00:00:28,802 --> 00:00:31,567
+Delivery is how they receive what you
+promised.
+
+11
+00:00:31,567 --> 00:00:35,567
+Payment can happen before or after
+delivery, depending on the arrangement.
+
+12
+00:00:35,986 --> 00:00:40,632
+For example, Maya sells a
+seventy-nine-dollar invoicing guide to freelance designers.
+
+13
+00:00:40,938 --> 00:00:45,062
+Her customers are freelance designers who
+need help organizing invoices.
+
+14
+00:00:45,062 --> 00:00:47,877
+Her offer is the guide for seventy-nine
+dollars.
+
+15
+00:00:47,877 --> 00:00:50,242
+She delivers it through a download link.
+
+16
+00:00:50,678 --> 00:00:54,085
+Now compare that with an app that friends
+praise but nobody buys.
+
+17
+00:00:54,085 --> 00:00:55,813
+The feedback may be useful.
+
+18
+00:00:55,813 --> 00:00:58,374
+It does not yet show that customers will
+pay.
+
+19
+00:00:58,374 --> 00:01:03,900
+A purchase gives stronger evidence of
+paying demand, although one sale does not prove long-term success.
+
+20
+00:01:04,278 --> 00:01:10,065
+When you examine an idea, ask: who is the
+customer, what is the offer, and how will it be delivered?
+
+21
+00:01:10,422 --> 00:01:14,915
+In the quiz, you'll identify these three
+parts and spot what is missing in a new example.

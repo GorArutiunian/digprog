@@ -1,0 +1,97 @@
+{
+  "lessonId": "L001",
+  "title": "What a business is — Quiz",
+  "objective": "Identify the customer, offer, and delivery in a simple business example.",
+  "rules": {
+    "showOneQuestionAtATime": true,
+    "revealAnswerAfterSubmission": true,
+    "timer": false,
+    "retryOnIncorrect": true,
+    "retryUsesComparableScenario": true
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "type": "multiple_choice",
+      "scored": true,
+      "prompt": "Maya sells a $79 invoicing guide to freelance designers and sends buyers a download link. Which correctly identifies Customer → Offer → Delivery?",
+      "options": [
+        { "id": "A", "text": "Maya → freelance designers → $79" },
+        { "id": "B", "text": "Freelance designers → the $79 invoicing guide → download link" },
+        { "id": "C", "text": "Download link → invoicing → freelance designers" }
+      ],
+      "correctOptionId": "B",
+      "feedback": "The customer buys, the offer specifies what they receive and its price, and delivery provides access to it.",
+      "retryScenario": {
+        "prompt": "Sam sells a $49 resume template to recent graduates and emails them a PDF. Which correctly identifies Customer → Offer → Delivery?",
+        "options": [
+          { "id": "A", "text": "Sam → recent graduates → $49" },
+          { "id": "B", "text": "Recent graduates → the $49 resume template → emailed PDF" },
+          { "id": "C", "text": "Emailed PDF → resume → recent graduates" }
+        ],
+        "correctOptionId": "B",
+        "feedback": "The customer buys, the offer specifies what they receive and its price, and delivery provides access to it."
+      }
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "scored": true,
+      "prompt": "Leo builds an app. Friends praise it, but nobody has purchased access. What has he not yet demonstrated?",
+      "options": [
+        { "id": "A", "text": "That he can build an app" },
+        { "id": "B", "text": "That some people respond positively" },
+        { "id": "C", "text": "That customers will actually pay for access" }
+      ],
+      "correctOptionId": "C",
+      "feedback": "Positive feedback demonstrates interest. It does not demonstrate completed purchases.",
+      "retryScenario": {
+        "prompt": "Nina posts free recipes. Followers leave glowing comments, but no one has bought her paid meal plan. What has she not yet demonstrated?",
+        "options": [
+          { "id": "A", "text": "That she can create recipes" },
+          { "id": "B", "text": "That some people respond positively" },
+          { "id": "C", "text": "That customers will actually pay for the meal plan" }
+        ],
+        "correctOptionId": "C",
+        "feedback": "Positive feedback demonstrates interest. It does not demonstrate completed purchases."
+      }
+    },
+    {
+      "id": "q3",
+      "type": "multiple_choice",
+      "scored": true,
+      "prompt": "A tutor identifies parents who want maths support and offers four lessons for $80, but has no way to schedule or conduct the lessons. Which part needs work?",
+      "options": [
+        { "id": "A", "text": "Customer" },
+        { "id": "B", "text": "Offer" },
+        { "id": "C", "text": "Delivery" }
+      ],
+      "correctOptionId": "C",
+      "feedback": "The customer and offer are specified. The tutor still needs a workable way to provide the promised lessons.",
+      "retryScenario": {
+        "prompt": "A coach identifies busy managers who want interview practice and offers a $120 session, but has no booking link or meeting setup. Which part needs work?",
+        "options": [
+          { "id": "A", "text": "Customer" },
+          { "id": "B", "text": "Offer" },
+          { "id": "C", "text": "Delivery" }
+        ],
+        "correctOptionId": "C",
+        "feedback": "The customer and offer are specified. The coach still needs a workable way to provide the promised session."
+      }
+    }
+  ],
+  "applicationExercise": {
+    "id": "app1",
+    "optional": true,
+    "scored": true,
+    "maxPoints": 3,
+    "prompt": "Name your customer, describe one offer with a price, and explain how you would deliver it.",
+    "example": "Busy freelancers buy my $79 invoicing guide and receive a download link.",
+    "rubric": [
+      { "points": 1, "criterion": "Specific customer" },
+      { "points": 1, "criterion": "Concrete offer with a price" },
+      { "points": 1, "criterion": "Feasible delivery method" }
+    ],
+    "notes": "Accept different valid answers; do not require exact wording."
+  }
+}

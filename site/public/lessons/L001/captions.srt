@@ -1,0 +1,71 @@
+1
+00:00:00,050 --> 00:00:05,138
+You built an app. Your friends love it. Does that mean customers will pay?
+
+2
+00:00:05,138 --> 00:00:09,175
+Not yet - you have evidence of interest, but not of paying demand.
+
+3
+00:00:10,890 --> 00:00:15,265
+A business provides something customers value in exchange for payment.
+
+4
+00:00:15,265 --> 00:00:21,690
+To understand how it works, start with three parts: customer, offer, and delivery.
+
+5
+00:00:23,610 --> 00:00:27,098
+The customer is the person or organization buying.
+
+6
+00:00:27,098 --> 00:00:29,460
+Ask: who are they, and what do they need?
+
+7
+00:00:30,962 --> 00:00:36,524
+The offer is what they can buy: a clear product or service, its price, and what is included.
+
+8
+00:00:38,026 --> 00:00:41,213
+Delivery is how they receive what you promised.
+
+9
+00:00:41,213 --> 00:00:45,813
+Payment can happen before or after delivery, depending on the arrangement.
+
+10
+00:00:47,922 --> 00:00:53,272
+For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.
+
+11
+00:00:54,370 --> 00:00:59,120
+Her customers are freelance designers who need help organizing invoices.
+
+12
+00:00:59,120 --> 00:01:02,358
+Her offer is the guide for seventy-nine dollars.
+
+13
+00:01:02,358 --> 00:01:05,070
+She delivers it through a download link.
+
+14
+00:01:07,522 --> 00:01:11,447
+Now compare that with an app that friends praise but nobody buys.
+
+15
+00:01:11,447 --> 00:01:16,372
+The feedback may be useful. It does not yet show that customers will pay.
+
+16
+00:01:16,372 --> 00:01:22,735
+A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.
+
+17
+00:01:24,834 --> 00:01:31,497
+When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?
+
+18
+00:01:33,202 --> 00:01:38,377
+In the quiz, you'll identify these three parts and spot what is missing in a new example.

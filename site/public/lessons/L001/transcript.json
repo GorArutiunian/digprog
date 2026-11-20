@@ -1,0 +1,201 @@
+{
+  "lessonId": "L001",
+  "sections": [
+    {
+      "id": "hook",
+      "title": "Interest vs payment",
+      "start": 0.0,
+      "end": 9.24,
+      "text": "You built an app. Your friends love it. Does that mean customers will pay? Not yet\u2014you have evidence of interest, but not of paying demand.",
+      "sentences": [
+        {
+          "text": "You built an app.",
+          "start": 0.05,
+          "end": 1.387
+        },
+        {
+          "text": "Your friends love it.",
+          "start": 1.387,
+          "end": 2.837
+        },
+        {
+          "text": "Does that mean customers will pay?",
+          "start": 2.837,
+          "end": 5.138
+        },
+        {
+          "text": "Not yet - you have evidence of interest, but not of paying demand.",
+          "start": 5.138,
+          "end": 9.175
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "title": "Three parts",
+      "start": 10.84,
+      "end": 21.76,
+      "text": "A business provides something customers value in exchange for payment. To understand how it works, start with three parts: customer, offer, and delivery.",
+      "sentences": [
+        {
+          "text": "A business provides something customers value in exchange for payment.",
+          "start": 10.89,
+          "end": 15.265
+        },
+        {
+          "text": "To understand how it works, start with three parts: customer, offer, and delivery.",
+          "start": 15.265,
+          "end": 21.69
+        }
+      ]
+    },
+    {
+      "id": "customer",
+      "title": "Customer",
+      "start": 23.56,
+      "end": 29.512,
+      "text": "The customer is the person or organization buying. Ask: who are they, and what do they need?",
+      "sentences": [
+        {
+          "text": "The customer is the person or organization buying.",
+          "start": 23.61,
+          "end": 27.098
+        },
+        {
+          "text": "Ask: who are they, and what do they need?",
+          "start": 27.098,
+          "end": 29.46
+        }
+      ]
+    },
+    {
+      "id": "offer",
+      "title": "Offer",
+      "start": 30.912,
+      "end": 36.576,
+      "text": "The offer is what they can buy: a clear product or service, its price, and what is included.",
+      "sentences": [
+        {
+          "text": "The offer is what they can buy: a clear product or service, its price, and what is included.",
+          "start": 30.962,
+          "end": 36.524
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "title": "Delivery",
+      "start": 37.976,
+      "end": 45.872,
+      "text": "Delivery is how they receive what you promised. Payment can happen before or after delivery, depending on the arrangement.",
+      "sentences": [
+        {
+          "text": "Delivery is how they receive what you promised.",
+          "start": 38.026,
+          "end": 41.213
+        },
+        {
+          "text": "Payment can happen before or after delivery, depending on the arrangement.",
+          "start": 41.213,
+          "end": 45.813
+        }
+      ]
+    },
+    {
+      "id": "example_intro",
+      "title": "Maya example",
+      "start": 47.872,
+      "end": 53.32,
+      "text": "For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.",
+      "sentences": [
+        {
+          "text": "For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.",
+          "start": 47.922,
+          "end": 53.272
+        }
+      ]
+    },
+    {
+      "id": "example_parts",
+      "title": "Worked parts",
+      "start": 54.32,
+      "end": 65.072,
+      "text": "Her customers are freelance designers who need help organizing invoices. Her offer is the guide for seventy-nine dollars. She delivers it through a download link.",
+      "sentences": [
+        {
+          "text": "Her customers are freelance designers who need help organizing invoices.",
+          "start": 54.37,
+          "end": 59.12
+        },
+        {
+          "text": "Her offer is the guide for seventy-nine dollars.",
+          "start": 59.12,
+          "end": 62.358
+        },
+        {
+          "text": "She delivers it through a download link.",
+          "start": 62.358,
+          "end": 65.07
+        }
+      ]
+    },
+    {
+      "id": "contrast",
+      "title": "Compare evidence",
+      "start": 67.472,
+      "end": 82.784,
+      "text": "Now compare that with an app that friends praise but nobody buys. The feedback may be useful. It does not yet show that customers will pay. A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
+      "sentences": [
+        {
+          "text": "Now compare that with an app that friends praise but nobody buys.",
+          "start": 67.522,
+          "end": 71.447
+        },
+        {
+          "text": "The feedback may be useful.",
+          "start": 71.447,
+          "end": 73.435
+        },
+        {
+          "text": "It does not yet show that customers will pay.",
+          "start": 73.435,
+          "end": 76.372
+        },
+        {
+          "text": "A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
+          "start": 76.372,
+          "end": 82.735
+        }
+      ]
+    },
+    {
+      "id": "recap",
+      "title": "Recap questions",
+      "start": 84.784,
+      "end": 91.552,
+      "text": "When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?",
+      "sentences": [
+        {
+          "text": "When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?",
+          "start": 84.834,
+          "end": 91.497
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "title": "Quiz handoff",
+      "start": 93.152,
+      "end": 98.432,
+      "text": "In the quiz, you'll identify these three parts and spot what is missing in a new example.",
+      "sentences": [
+        {
+          "text": "In the quiz, you'll identify these three parts and spot what is missing in a new example.",
+          "start": 93.202,
+          "end": 98.377
+        }
+      ]
+    }
+  ],
+  "summary": "A business exchanges customer value for payment. Identify customer, offer, and delivery. Interest from friends is not the same as paying demand."
+}

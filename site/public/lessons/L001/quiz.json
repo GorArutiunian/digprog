@@ -1,0 +1,55 @@
+{
+  "lessonId": "L001",
+  "title": "Practice · What a business is",
+  "instructions": "Answer one question at a time. Feedback appears after you submit.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Maya sells a $79 invoicing guide to freelance designers and sends buyers a download link. Which correctly identifies Customer → Offer → Delivery?",
+      "choices": [
+        { "id": "a", "text": "Maya → freelance designers → $79" },
+        { "id": "b", "text": "Freelance designers → the $79 invoicing guide → download link" },
+        { "id": "c", "text": "Download link → invoicing → freelance designers" }
+      ],
+      "correct": "b",
+      "feedback": "The customer buys, the offer specifies what they receive and its price, and delivery provides access to it."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Leo builds an app. Friends praise it, but nobody has purchased access. What has he not yet demonstrated?",
+      "choices": [
+        { "id": "a", "text": "That he can build an app" },
+        { "id": "b", "text": "That some people respond positively" },
+        { "id": "c", "text": "That customers will actually pay for access" }
+      ],
+      "correct": "c",
+      "feedback": "Positive feedback demonstrates interest. It does not demonstrate completed purchases."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A tutor identifies parents who want maths support and offers four lessons for $80, but has no way to schedule or conduct them. Which part needs work?",
+      "choices": [
+        { "id": "a", "text": "Customer" },
+        { "id": "b", "text": "Offer" },
+        { "id": "c", "text": "Delivery" }
+      ],
+      "correct": "c",
+      "feedback": "The customer and offer are specified. The tutor still needs a workable way to provide the promised lessons."
+    }
+  ],
+  "application": {
+    "id": "app1",
+    "optional": true,
+    "type": "self_check",
+    "prompt": "Name your customer, describe one offer with a price, and explain how you would deliver it.",
+    "rubric": [
+      "Specific customer",
+      "Concrete offer and price",
+      "Feasible delivery method"
+    ],
+    "note": "Self-check against the rubric. Different valid answers are accepted; this is not auto-graded as understanding."
+  }
+}

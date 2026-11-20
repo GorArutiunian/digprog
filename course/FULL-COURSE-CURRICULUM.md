@@ -1,0 +1,340 @@
+# DigProg — Full course curriculum (pre-final)
+
+Lessons: 100 · Est. video minutes: 228.9
+
+Each lesson includes an 8-question quiz (7–10 range) and optional personal attachment.
+
+
+## M01 — Foundations
+Goal: Know what a business is and the DigProg loop
+
+- **L001 · What a business is** (1:50) — Customer → offer → delivery; interest vs paying demand
+  - Objective: Identify customer, offer, delivery in a simple example
+  - Quiz: 8 questions
+- **L002 · Money words without MBA** (2:30) — Revenue, cost, profit, cash, price, margin
+  - Objective: Define revenue vs profit vs cash
+  - Quiz: 8 questions
+- **L003 · Are you ready to start** (2:20) — Minimum viable readiness vs perfectionism
+  - Objective: List readiness gaps honestly
+  - Quiz: 8 questions
+- **L004 · The DigProg weekly loop** (2:10) — Watch → quiz → one outreach → note learning
+  - Objective: Describe the weekly loop steps
+  - Quiz: 8 questions
+- **L005 · Side path vs full jump** (2:25) — Keep survival money; time budgets
+  - Objective: Choose a realistic weekly hour budget
+  - Quiz: 8 questions
+- **L006 · Kill criteria early** (2:15) — When to change offer or audience
+  - Objective: Write a 14-day kill criterion
+  - Quiz: 8 questions
+- **L007 · Tools you actually need** (2:00) — Free stack first
+  - Objective: Pick a minimum tool stack
+  - Quiz: 8 questions
+- **L008 · How quizzes unlock progress** (1:40) — Practice is the product
+  - Objective: Explain why quizzes gate progress
+  - Quiz: 8 questions
+- **L009 · Study guide + video pairing** (1:55) — Book holds why; video shows move
+  - Objective: Pair one chapter to one lesson
+  - Quiz: 8 questions
+- **L010 · Your first scoreboard** (2:05) — Conversations > followers
+  - Objective: Create a one-line weekly scoreboard
+  - Quiz: 8 questions
+- **L011 · Common beginner traps** (2:20) — Brand theater, endless research
+  - Objective: Name two traps to avoid this week
+  - Quiz: 8 questions
+- **L012 · Capstone preview: ship something tiny** (2:30) — Graduation = shipped, not binge-watched
+  - Objective: Define your tiny ship for week 2
+  - Quiz: 8 questions
+- **L095 · Evidence of progress** (2:00) — What counts as weekly proof
+  - Objective: List three evidence metrics
+  - Quiz: 8 questions
+- **L096 · Asking for help without stalling** (1:55) — Peers, mentors, office hours
+  - Objective: Write one ask
+  - Quiz: 8 questions
+- **L097 · Time boxing practice** (1:50) — 45-minute deep blocks
+  - Objective: Schedule two blocks
+  - Quiz: 8 questions
+- **L098 · Note-taking that ships** (1:45) — Capture next actions only
+  - Objective: Create a next-action note
+  - Quiz: 8 questions
+- **L099 · Ethics of selling** (2:05) — No fake scarcity or fake testimonials
+  - Objective: Write your ethics line
+  - Quiz: 8 questions
+- **L100 · From waitlist to student** (1:40) — How DigProg onboarding will work
+  - Objective: Describe your first week plan
+  - Quiz: 8 questions
+
+## M02 — Pick a lane
+Goal: Find a painful problem worth charging for
+
+- **L013 · Problem hunting in public** (2:40) — Listen where people complain
+  - Objective: Capture three buyer phrases
+  - Quiz: 8 questions
+- **L014 · Interview without awkwardness** (2:50) — Five questions that reveal pain
+  - Objective: Run one practice interview script
+  - Quiz: 8 questions
+- **L015 · Score ideas like an investor** (2:35) — Urgency, reachability, delivery speed
+  - Objective: Score three ideas 1–5
+  - Quiz: 8 questions
+- **L016 · Warm network mapping** (2:20) — Friends-of-friends and communities
+  - Objective: List 20 reachable contacts
+  - Quiz: 8 questions
+- **L017 · Niche vs broad first offer** (2:25) — Narrow enough to sell, wide enough to find
+  - Objective: Write a niche sentence
+  - Quiz: 8 questions
+- **L018 · Digital vs service vs hybrid** (2:30) — Tradeoffs for beginners
+  - Objective: Choose a delivery type for v1
+  - Quiz: 8 questions
+- **L019 · Illegal/ToS death checks** (2:00) — Don't build on banned sand
+  - Objective: Run a ToS risk check
+  - Quiz: 8 questions
+- **L020 · One idea for 14 days** (2:10) — Focus beats idea hopping
+  - Objective: Commit to one idea window
+  - Quiz: 8 questions
+- **L021 · Problem statement worksheet** (2:15) — Who hurts, how often, what they tried
+  - Objective: Fill the problem canvas
+  - Quiz: 8 questions
+  - Personal: Problem statement worksheet
+- **L022 · Buyer language library** (2:05) — Reuse their words in offers
+  - Objective: Collect 10 phrases
+  - Quiz: 8 questions
+- **L023 · Where buyers already hang out** (2:20) — Free places first
+  - Objective: Name three hangouts
+  - Quiz: 8 questions
+- **L024 · Validation in 48 hours** (2:45) — Talk before building for months
+  - Objective: Plan five conversations
+  - Quiz: 8 questions
+- **L025 · Smoke tests without ads** (2:30) — Landing + outbound
+  - Objective: Draft a smoke-test CTA
+  - Quiz: 8 questions
+- **L026 · Interest vs paying demand revisited** (2:25) — Purchases beat praise
+  - Objective: Separate feedback from sales
+  - Quiz: 8 questions
+- **L027 · Pick-lane checkpoint quiz lesson** (1:50) — Consolidate module skills
+  - Objective: Pass the module gate
+  - Quiz: 8 questions
+- **L028 · Personal: idea kill list** (1:40) — Attachment: kill/keep sheet
+  - Objective: Complete kill/keep sheet
+  - Quiz: 8 questions
+  - Personal: idea kill list
+
+## M03 — Offer
+Goal: Package something people can buy this week
+
+- **L029 · Offer skeleton** (2:35) — Who / problem / promise / process / price / next step
+  - Objective: Fill one-page offer
+  - Quiz: 8 questions
+- **L030 · Promise that is specific** (2:20) — Vague promises don't sell
+  - Objective: Rewrite a vague promise
+  - Quiz: 8 questions
+- **L031 · What's included (and not)** (2:15) — Scope control
+  - Objective: List includes/excludes
+  - Quiz: 8 questions
+- **L032 · Pricing that feels fair** (2:40) — Price before perfect product
+  - Objective: Set a test price
+  - Quiz: 8 questions
+- **L033 · Starter / Builder / Operator ladder** (2:30) — Optional later; start with one
+  - Objective: Sketch a future ladder
+  - Quiz: 8 questions
+- **L034 · Delivery design day one** (2:25) — How they receive the promise
+  - Objective: Describe delivery path
+  - Quiz: 8 questions
+- **L035 · Refund rules you can honor** (2:10) — Trust without bankruptcy
+  - Objective: Write a refund rule
+  - Quiz: 8 questions
+- **L036 · Name and one-liner** (2:00) — Memorable without branding theater
+  - Objective: Write a one-liner
+  - Quiz: 8 questions
+- **L037 · Digital product packaging** (2:25) — Guides, templates, cohorts
+  - Objective: Choose packaging for v1
+  - Quiz: 8 questions
+  - Personal: Digital product packaging
+- **L038 · Service packaging** (2:25) — Hours, outcomes, async options
+  - Objective: Package a service v1
+  - Quiz: 8 questions
+  - Personal: Service packaging
+- **L039 · Hybrid offers** (2:20) — Productized services
+  - Objective: Draft a hybrid sketch
+  - Quiz: 8 questions
+- **L040 · Unit economics rough cut** (2:35) — Time and cost per sale
+  - Objective: Estimate unit cost
+  - Quiz: 8 questions
+- **L041 · Break-even without spreadsheets panic** (2:30) — How many sales cover your week
+  - Objective: Compute rough break-even
+  - Quiz: 8 questions
+  - Personal: Break-even without spreadsheets panic
+- **L042 · Offer critique clinic** (2:40) — Common weak offers
+  - Objective: Fix three weak lines
+  - Quiz: 8 questions
+- **L043 · Personal: offer canvas filled** (1:50) — Attachment: canvas PDF habit
+  - Objective: Complete offer canvas
+  - Quiz: 8 questions
+  - Personal: offer canvas filled
+- **L044 · Module offer gate** (2:00) — Prove the offer is buyable
+  - Objective: Self-check offer readiness
+  - Quiz: 8 questions
+
+## M04 — Proof & first customers
+Goal: Get first paying evidence without a brand
+
+- **L045 · Warm outreach that isn't weird** (2:40) — Value + clear ask
+  - Objective: Send five messages
+  - Quiz: 8 questions
+- **L046 · DM scripts that start conversations** (2:35) — Training wheels scripts
+  - Objective: Customize one script
+  - Quiz: 8 questions
+- **L047 · Follow-up 3×** (2:20) — Most sales die from silence
+  - Objective: Schedule three follow-ups
+  - Quiz: 8 questions
+- **L048 · Sheet CRM** (2:15) — Name / source / next step / status
+  - Objective: Build a 20-row CRM
+  - Quiz: 8 questions
+  - Personal: Sheet CRM
+- **L049 · Discovery before pitch** (2:45) — Pain → impact → urgency
+  - Objective: Write five discovery questions
+  - Quiz: 8 questions
+- **L050 · Objection map basics** (2:30) — Objections are information
+  - Objective: Map four objections
+  - Quiz: 8 questions
+- **L051 · Soft close vs hard close** (2:25) — Choose based on relationship
+  - Objective: Write both closes
+  - Quiz: 8 questions
+- **L052 · Taking payment simply** (2:20) — Stripe/PayPal/manual first
+  - Objective: Pick a payment path
+  - Quiz: 8 questions
+- **L053 · Onboarding in 48 hours** (2:30) — Over-deliver first access
+  - Objective: Write welcome message
+  - Quiz: 8 questions
+- **L054 · Ask for a testimonial** (2:10) — After first win
+  - Objective: Draft ask template
+  - Quiz: 8 questions
+- **L055 · One sale ≠ long-term proof** (2:25) — Keep learning after first dollar
+  - Objective: List next three experiments
+  - Quiz: 8 questions
+- **L056 · Refunds and tough moments** (2:20) — Stay calm, keep process
+  - Objective: Write refund response
+  - Quiz: 8 questions
+- **L057 · Case: Maya-style first sale path** (2:35) — Worked digital example
+  - Objective: Map Maya path to yours
+  - Quiz: 8 questions
+- **L058 · Case: service first sale path** (2:35) — Worked service example
+  - Objective: Map service path
+  - Quiz: 8 questions
+- **L059 · Personal: outreach pack** (1:55) — Attachment: 10 message templates
+  - Objective: Fill outreach pack
+  - Quiz: 8 questions
+  - Personal: outreach pack
+- **L060 · First-customer gate** (2:00) — Evidence checklist
+  - Objective: Complete evidence checklist
+  - Quiz: 8 questions
+- **L061 · Live critique patterns** (2:25) — What usually fails
+  - Objective: Spot three failure patterns
+  - Quiz: 8 questions
+- **L062 · Pricing conversations** (2:30) — Talking money without panic
+  - Objective: Roleplay a price talk
+  - Quiz: 8 questions
+
+## M05 — Systems
+Goal: Ship, collect, repeat without chaos
+
+- **L063 · Weekly scoreboard** (2:20) — $ / conversations / lessons / posts
+  - Objective: Build scoreboard
+  - Quiz: 8 questions
+- **L064 · Calendar blocks that stick** (2:10) — Protect deep work and outreach
+  - Objective: Block next week
+  - Quiz: 8 questions
+- **L065 · Delivery checklist** (2:25) — Same quality every time
+  - Objective: Write delivery checklist
+  - Quiz: 8 questions
+- **L066 · Support without drowning** (2:20) — Boundaries and FAQs
+  - Objective: Draft FAQ for buyers
+  - Quiz: 8 questions
+- **L067 · Simple automations later** (2:15) — Don't automate a broken process
+  - Objective: List what not to automate yet
+  - Quiz: 8 questions
+- **L068 · Team of three pattern** (2:30) — Domain/sales, video, product
+  - Objective: Assign roles or solo blocks
+  - Quiz: 8 questions
+- **L069 · Free stack vs paid stack** (2:10) — Pay tools after revenue
+  - Objective: Audit your stack
+  - Quiz: 8 questions
+- **L070 · Content that sells (ops)** (2:35) — Batch recording → many cuts
+  - Objective: Plan one batch session
+  - Quiz: 8 questions
+- **L071 · Repurpose one lesson into Shorts** (2:40) — Course as content engine
+  - Objective: Cut three hooks from one lesson
+  - Quiz: 8 questions
+- **L072 · Quality bar for UGC clips** (2:25) — Readable at mute; CTA clear
+  - Objective: Define your quality bar
+  - Quiz: 8 questions
+- **L073 · Legal/privacy basics for creators** (2:20) — Claims, testimonials, music
+  - Objective: Checklist compliance
+  - Quiz: 8 questions
+- **L074 · Burnout prevention** (2:15) — Sustainable cadence
+  - Objective: Set a stop rule
+  - Quiz: 8 questions
+- **L075 · Personal: operating system sheet** (1:50) — Attachment: weekly OS
+  - Objective: Fill weekly OS
+  - Quiz: 8 questions
+  - Personal: operating system sheet
+- **L076 · Systems gate** (2:00) — Can you repeat last week?
+  - Objective: Pass systems self-check
+  - Quiz: 8 questions
+- **L077 · Improve from refunds/feedback** (2:25) — Turn complaints into product
+  - Objective: Log three improvements
+  - Quiz: 8 questions
+- **L078 · Cash buffer basics** (2:20) — Don't spend first dollars on logos
+  - Objective: Set a buffer rule
+  - Quiz: 8 questions
+
+## M06 — Launch map
+Goal: Ten-step roadmap to a live business
+
+- **L079 · Clarify the problem** (2:10) — Roadmap step 1
+  - Objective: Rewrite problem in buyer words
+  - Quiz: 8 questions
+- **L080 · Name a buyer** (2:05) — Roadmap step 2
+  - Objective: Name a specific buyer
+  - Quiz: 8 questions
+- **L081 · Draft a one-line offer** (2:10) — Roadmap step 3
+  - Objective: Write one-line offer
+  - Quiz: 8 questions
+- **L082 · Price it simply** (2:05) — Roadmap step 4
+  - Objective: Set price + refund
+  - Quiz: 8 questions
+- **L083 · Tiny landing page** (2:20) — Roadmap step 5
+  - Objective: Outline landing sections
+  - Quiz: 8 questions
+- **L084 · Talk to 10 humans** (2:30) — Roadmap step 6
+  - Objective: Plan ten conversations
+  - Quiz: 8 questions
+- **L085 · Close first sale** (2:35) — Roadmap step 7
+  - Objective: Run close checklist
+  - Quiz: 8 questions
+- **L086 · Deliver once** (2:25) — Roadmap step 8
+  - Objective: Deliver and document
+  - Quiz: 8 questions
+- **L087 · Capture a testimonial** (2:10) — Roadmap step 9
+  - Objective: Request testimonial
+  - Quiz: 8 questions
+- **L088 · Systematize the week** (2:30) — Roadmap step 10
+  - Objective: Write week-2 system
+  - Quiz: 8 questions
+- **L089 · Capstone: ship checklist** (2:40) — Graduation criteria
+  - Objective: Complete ship checklist
+  - Quiz: 8 questions
+- **L090 · What to build next (and not)** (2:25) — Avoid feature fever
+  - Objective: Choose next experiment
+  - Quiz: 8 questions
+- **L091 · Personal: 30-day plan** (2:00) — Attachment: 30-day calendar
+  - Objective: Fill 30-day plan
+  - Quiz: 8 questions
+  - Personal: 30-day plan
+- **L092 · Final oral: teach the framework** (2:20) — Explain customer/offer/delivery
+  - Objective: Teach aloud once
+  - Quiz: 8 questions
+- **L093 · Alumni loop** (2:05) — Keep scoreboard forever
+  - Objective: Schedule monthly review
+  - Quiz: 8 questions
+- **L094 · Course close + waitlist alumni perk** (1:50) — How DigProg continues
+  - Objective: Note alumni perk
+  - Quiz: 8 questions

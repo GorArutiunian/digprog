@@ -1,0 +1,27 @@
+/* DigProg shared design tokens — web + video poster surfaces */
+:root {
+  --dp-blue: #2457e6;
+  --dp-blue-deep: #102a56;
+  --dp-blue-bright: #7ea6ff;
+  --dp-orange: #ff8a3d;
+  --dp-orange-dark: #a83b08;
+  --dp-bg: #f6f8fc;
+  --dp-surface: #ffffff;
+  --dp-video-dark: #0b1730;
+  --dp-text: #13233d;
+  --dp-text-secondary: #52627a;
+  --dp-text-light: #f7faff;
+  --dp-success: #15803d;
+  --dp-error: #b91c1c;
+  --dp-line: rgba(19, 35, 61, 0.12);
+  --dp-radius: 12px;
+  --dp-font: "Manrope", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --dp-mono: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+  --dp-space-1: 4px;
+  --dp-space-2: 8px;
+  --dp-space-3: 12px;
+  --dp-space-4: 16px;
+  --dp-space-5: 24px;
+  --dp-space-6: 32px;
+  --dp-space-7: 48px;
+}

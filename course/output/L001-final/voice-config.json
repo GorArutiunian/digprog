@@ -1,0 +1,10 @@
+{
+  "provider": "edge-tts",
+  "voice": "en-US-BrianNeural",
+  "rate": "+0%",
+  "alternatives_auditioned": [
+    "en-US-JennyNeural",
+    "en-US-GuyNeural"
+  ],
+  "selected_reason": "Warm teaching tone; clear prices/names; no sales energy. ElevenLabs unavailable (no API key)."
+}

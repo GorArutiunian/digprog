@@ -1,0 +1,125 @@
+.dashboard {
+  grid-template-columns: 1.2fr 1fr;
+}
+
+.mint {
+  color: var(--mint) !important;
+}
+
+.resume-panel .btn {
+  margin-top: 1rem;
+}
+
+.progress-wrap {
+  margin-top: 1rem;
+}
+
+.progress-meta {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 0.45rem;
+  font-size: 0.9rem;
+}
+
+.progress-bar {
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  overflow: hidden;
+}
+
+.progress-bar i {
+  display: block;
+  height: 100%;
+  background: linear-gradient(90deg, var(--mint), #5b8def);
+  animation: progressFill 1s ease both;
+}
+
+.roadmap {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.4rem;
+  max-height: 360px;
+  overflow: auto;
+}
+
+.roadmap li {
+  display: flex;
+  gap: 0.7rem;
+  align-items: center;
+  padding: 0.55rem 0.65rem;
+  border-radius: 10px;
+  color: rgba(238, 244, 251, 0.62);
+}
+
+.roadmap li span {
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: rgba(238, 244, 251, 0.4);
+}
+
+.roadmap li.done {
+  color: #b7fff9;
+  background: rgba(0, 212, 200, 0.08);
+}
+
+.roadmap li.current {
+  color: white;
+  background: rgba(91, 141, 239, 0.16);
+  border: 1px solid rgba(91, 141, 239, 0.35);
+}
+
+.reward-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.65rem;
+  margin-bottom: 0.85rem;
+}
+
+.reward-row div {
+  padding: 0.85rem 0.7rem;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.04);
+  text-align: center;
+}
+
+.reward-row strong {
+  display: block;
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+}
+
+.reward-row span {
+  font-size: 0.78rem;
+  color: rgba(238, 244, 251, 0.55);
+}
+
+.announce-panel ul,
+.task-list {
+  margin: 0;
+  padding-left: 1.1rem;
+  display: grid;
+  gap: 0.55rem;
+  color: rgba(238, 244, 251, 0.78);
+}
+
+.task-list .done {
+  text-decoration: line-through;
+  color: rgba(238, 244, 251, 0.4);
+}
+
+.tasks-panel {
+  grid-column: 1 / -1;
+}
+
+@media (max-width: 900px) {
+  .dashboard {
+    grid-template-columns: 1fr;
+  }
+
+  .tasks-panel {
+    grid-column: auto;
+  }
+}

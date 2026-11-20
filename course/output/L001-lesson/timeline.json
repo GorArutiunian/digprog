@@ -1,0 +1,202 @@
+{
+  "duration": 75.48,
+  "sections": [
+    {
+      "id": "hook",
+      "text": "You built an app. Your friends love it. Does that mean customers will pay? Not yet - you have evidence of interest, but not of paying demand.",
+      "start": 0.0,
+      "end": 8.04,
+      "duration": 8.04,
+      "sentences": [
+        {
+          "text": "You built an app.",
+          "start": 0.05,
+          "end": 1.207
+        },
+        {
+          "text": "Your friends love it.",
+          "start": 1.207,
+          "end": 2.467
+        },
+        {
+          "text": "Does that mean customers will pay?",
+          "start": 2.467,
+          "end": 4.467
+        },
+        {
+          "text": "Not yet - you have evidence of interest, but not of paying demand.",
+          "start": 4.467,
+          "end": 7.978
+        }
+      ]
+    },
+    {
+      "id": "framework",
+      "text": "A business provides something customers value in exchange for payment. To understand how it works, start with three parts: customer, offer, and delivery.",
+      "start": 8.3,
+      "end": 17.804,
+      "duration": 9.504,
+      "sentences": [
+        {
+          "text": "A business provides something customers value in exchange for payment.",
+          "start": 8.35,
+          "end": 12.148
+        },
+        {
+          "text": "To understand how it works, start with three parts: customer, offer, and delivery.",
+          "start": 12.148,
+          "end": 17.735
+        }
+      ]
+    },
+    {
+      "id": "customer",
+      "text": "The customer is the person or organization buying. Ask: who are they, and what do they need?",
+      "start": 18.104,
+      "end": 23.288,
+      "duration": 5.184,
+      "sentences": [
+        {
+          "text": "The customer is the person or organization buying.",
+          "start": 18.154,
+          "end": 21.18
+        },
+        {
+          "text": "Ask: who are they, and what do they need?",
+          "start": 21.18,
+          "end": 23.234
+        }
+      ]
+    },
+    {
+      "id": "offer",
+      "text": "The offer is what they can buy: a clear product or service, its price, and what is included.",
+      "start": 23.548,
+      "end": 28.492,
+      "duration": 4.944,
+      "sentences": [
+        {
+          "text": "The offer is what they can buy: a clear product or service, its price, and what is included.",
+          "start": 23.598,
+          "end": 28.428
+        }
+      ]
+    },
+    {
+      "id": "delivery",
+      "text": "Delivery is how they receive what you promised. Payment can happen before or after delivery, depending on the arrangement.",
+      "start": 28.752,
+      "end": 35.616,
+      "duration": 6.864,
+      "sentences": [
+        {
+          "text": "Delivery is how they receive what you promised.",
+          "start": 28.802,
+          "end": 31.567
+        },
+        {
+          "text": "Payment can happen before or after delivery, depending on the arrangement.",
+          "start": 31.567,
+          "end": 35.567
+        }
+      ]
+    },
+    {
+      "id": "example_intro",
+      "text": "For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.",
+      "start": 35.936,
+      "end": 40.688,
+      "duration": 4.752,
+      "sentences": [
+        {
+          "text": "For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.",
+          "start": 35.986,
+          "end": 40.632
+        }
+      ]
+    },
+    {
+      "id": "example_parts",
+      "text": "Her customers are freelance designers who need help organizing invoices. Her offer is the guide for seventy-nine dollars. She delivers it through a download link.",
+      "start": 40.888,
+      "end": 50.248,
+      "duration": 9.36,
+      "sentences": [
+        {
+          "text": "Her customers are freelance designers who need help organizing invoices.",
+          "start": 40.938,
+          "end": 45.062
+        },
+        {
+          "text": "Her offer is the guide for seventy-nine dollars.",
+          "start": 45.062,
+          "end": 47.877
+        },
+        {
+          "text": "She delivers it through a download link.",
+          "start": 47.877,
+          "end": 50.242
+        }
+      ]
+    },
+    {
+      "id": "contrast",
+      "text": "Now compare that with an app that friends praise but nobody buys. The feedback may be useful. It does not yet show that customers will pay. A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
+      "start": 50.628,
+      "end": 63.948,
+      "duration": 13.32,
+      "sentences": [
+        {
+          "text": "Now compare that with an app that friends praise but nobody buys.",
+          "start": 50.678,
+          "end": 54.085
+        },
+        {
+          "text": "The feedback may be useful.",
+          "start": 54.085,
+          "end": 55.813
+        },
+        {
+          "text": "It does not yet show that customers will pay.",
+          "start": 55.813,
+          "end": 58.374
+        },
+        {
+          "text": "A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
+          "start": 58.374,
+          "end": 63.9
+        }
+      ]
+    },
+    {
+      "id": "recap",
+      "text": "When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?",
+      "start": 64.228,
+      "end": 70.132,
+      "duration": 5.904,
+      "sentences": [
+        {
+          "text": "When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?",
+          "start": 64.278,
+          "end": 70.065
+        }
+      ]
+    },
+    {
+      "id": "quiz",
+      "text": "In the quiz, you'll identify these three parts and spot what is missing in a new example.",
+      "start": 70.372,
+      "end": 74.98,
+      "duration": 4.608,
+      "sentences": [
+        {
+          "text": "In the quiz, you'll identify these three parts and spot what is missing in a new example.",
+          "start": 70.422,
+          "end": 74.915
+        }
+      ]
+    }
+  ],
+  "voice": "en-US-BrianNeural",
+  "rate": "+15%"
+}

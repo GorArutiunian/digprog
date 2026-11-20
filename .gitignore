@@ -1,0 +1,26 @@
+node_modules/
+dist/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.local
+.vercel
+test-results/
+course/remotion-lecture/node_modules/
+course/remotion-lecture/out/
+course/remotion-lecture/public/*.mp3
+**/.remotion/
+*.log
+.turbo
+
+# Intermediate / heavy renders (keep L001-final masters intentionally)
+course/output/L001-v2/
+course/output/L001-lesson/*.mp4
+course/output/L001-dense/
+course/output/L001-pro/
+course/output/L001-neon/
+course/output/L001-motion/
+dashboard/node_modules/
+site/node_modules/
+quizzes/node_modules/

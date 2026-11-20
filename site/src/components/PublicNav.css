@@ -1,0 +1,63 @@
+.public-nav {
+  position: sticky;
+  top: 0;
+  z-index: 40;
+  backdrop-filter: blur(14px);
+  background: rgba(247, 250, 252, 0.78);
+  border-bottom: 1px solid transparent;
+}
+
+.public-nav-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  min-height: 4.25rem;
+  gap: 1rem;
+}
+
+.brand {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+}
+
+.brand-mark {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 0.55rem;
+  display: grid;
+  place-items: center;
+  background: var(--ink);
+  color: var(--mint);
+  font-family: var(--font-display);
+  font-weight: 800;
+}
+
+.brand-name {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.25rem;
+  letter-spacing: -0.04em;
+}
+
+.public-links {
+  display: flex;
+  align-items: center;
+  gap: 1.15rem;
+  font-weight: 600;
+  color: var(--ink-soft);
+}
+
+.public-links a:not(.btn):hover {
+  color: var(--ink);
+}
+
+.nav-login {
+  padding: 0.6rem 1rem;
+}
+
+@media (max-width: 720px) {
+  .public-links a:not(.btn) {
+    display: none;
+  }
+}
