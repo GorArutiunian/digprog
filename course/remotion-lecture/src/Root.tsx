@@ -12,10 +12,25 @@ import {
   L001_EDITORIAL_DURATION,
   L001_EDITORIAL_FPS,
 } from "./L001Editorial";
+import {
+  UGCWaitlistHook,
+  UGC_DURATION,
+  UGC_FPS,
+  UGC_HEIGHT,
+  UGC_WIDTH,
+} from "./UGCWaitlistHook";
 
 export const RemotionRoot: React.FC = () => {
   return (
     <>
+      <Composition
+        id="UGCWaitlistHook"
+        component={UGCWaitlistHook}
+        durationInFrames={UGC_DURATION}
+        fps={UGC_FPS}
+        width={UGC_WIDTH}
+        height={UGC_HEIGHT}
+      />
       <Composition
         id="L001Editorial"
         component={L001Editorial}

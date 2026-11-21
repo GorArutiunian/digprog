@@ -5,12 +5,12 @@
 
 /* DigProg waitlist identity (blue/orange) */
 .digprog-waitlist {
-  --dp-blue: #2457e6;
+  --dp-blue: #102a56;
   --dp-blue-deep: #102a56;
   --dp-orange: #ff8a3d;
   --dp-orange-dark: #a83b08;
   --dp-bg: #f6f8fc;
-  --dp-text: #13233d;
+  --dp-text: #102a56;
   --dp-muted: #52627a;
   background:
     radial-gradient(900px 480px at 85% -10%, rgba(36, 87, 230, 0.16), transparent 55%),
