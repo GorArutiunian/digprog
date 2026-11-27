@@ -1,0 +1,19 @@
+{
+  "id": "L084",
+  "slug": "cash-buffer-basics",
+  "title": "Cash buffer basics",
+  "module": "05 \u00b7 Systems",
+  "objective": "Set a buffer rule",
+  "durationSeconds": 126.776,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L084DataCamp",
+  "assets": {
+    "video": "/lessons/L084/video.mp4",
+    "poster": "/lessons/L084/poster.jpg",
+    "captionsVtt": "/lessons/L084/captions.vtt",
+    "captionsSrt": "/lessons/L084/captions.srt",
+    "transcript": "/lessons/L084/transcript.json"
+  },
+  "sourceLessonId": "L084"
+}

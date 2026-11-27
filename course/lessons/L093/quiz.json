@@ -1,0 +1,207 @@
+{
+  "lessonId": "L099",
+  "title": "Practice \u00b7 Capture a testimonial",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step nine is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Capture a testimonial"
+        },
+        {
+          "id": "b",
+          "text": "Skip proof"
+        },
+        {
+          "id": "c",
+          "text": "Invent quotes"
+        },
+        {
+          "id": "d",
+          "text": "Wait forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Request a quote with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before, after, what changed"
+        },
+        {
+          "id": "b",
+          "text": "Only praise fluff"
+        },
+        {
+          "id": "c",
+          "text": "No context"
+        },
+        {
+          "id": "d",
+          "text": "Fake numbers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Request testimonial"
+        },
+        {
+          "id": "b",
+          "text": "Forge testimonials"
+        },
+        {
+          "id": "c",
+          "text": "Skip permission"
+        },
+        {
+          "id": "d",
+          "text": "Hide proof"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Make it easy with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Three prompts and a deadline"
+        },
+        {
+          "id": "b",
+          "text": "No prompts"
+        },
+        {
+          "id": "c",
+          "text": "Endless forms"
+        },
+        {
+          "id": "d",
+          "text": "Guilt"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Use it on the page:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "With permission"
+        },
+        {
+          "id": "b",
+          "text": "Without asking"
+        },
+        {
+          "id": "c",
+          "text": "Altered dishonestly"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Ask while the win is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fresh"
+        },
+        {
+          "id": "b",
+          "text": "Forgotten"
+        },
+        {
+          "id": "c",
+          "text": "Years later only"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can request a testimonial"
+        },
+        {
+          "id": "b",
+          "text": "You invented quotes"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then request a testimonial"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Forge proof"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "L021",
+  "slug": "score-ideas-like-an-investor",
+  "title": "Score ideas like an investor",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Score three ideas 1\u20135",
+  "durationSeconds": 134.792,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L021DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L021-final/L021-Score-ideas-like-an-investor.mp4",
+    "poster": "output/L021-final/poster.jpg",
+    "voice": "output/L021-final/voice-l021-final.mp3",
+    "captionsSrt": "output/L021-final/L021.srt",
+    "captionsVtt": "output/L021-final/L021.vtt",
+    "transcript": "output/L021-final/transcript.json",
+    "timeline": "output/L021-final/timeline.json",
+    "quiz": "lessons/L021/quiz.json",
+    "storyboard": "lessons/L021/storyboard.md"
+  },
+  "sourceLessonId": "L021"
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L078",
+  "title": "Practice \u00b7 Support without drowning",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Without boundaries, support:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Drowns delivery time"
+        },
+        {
+          "id": "b",
+          "text": "Always helps"
+        },
+        {
+          "id": "c",
+          "text": "Is free forever safely"
+        },
+        {
+          "id": "d",
+          "text": "Replaces FAQ"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "FAQ should cover:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Common questions, response windows, out of scope"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only price forever hidden"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Draft FAQ for buyers"
+        },
+        {
+          "id": "b",
+          "text": "Offer unlimited chat"
+        },
+        {
+          "id": "c",
+          "text": "Skip hours"
+        },
+        {
+          "id": "d",
+          "text": "Reinvent answers every time"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "State:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Channels and hours"
+        },
+        {
+          "id": "b",
+          "text": "No limits"
+        },
+        {
+          "id": "c",
+          "text": "Secret rules"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Reuse:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "FAQ answers"
+        },
+        {
+          "id": "b",
+          "text": "Panic only"
+        },
+        {
+          "id": "c",
+          "text": "New essays each time"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Unlimited chat is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not a plan"
+        },
+        {
+          "id": "b",
+          "text": "Best practice always"
+        },
+        {
+          "id": "c",
+          "text": "Required"
+        },
+        {
+          "id": "d",
+          "text": "A scoreboard metric"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can draft a buyer FAQ"
+        },
+        {
+          "id": "b",
+          "text": "You drowned in chat"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then draft FAQ"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Offer unlimited support"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L060",
+  "slug": "ask-for-a-testimonial",
+  "title": "Ask for a testimonial",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Draft ask template",
+  "durationSeconds": 123.44,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L060DataCamp",
+  "assets": {
+    "video": "/lessons/L060/video.mp4",
+    "poster": "/lessons/L060/poster.jpg",
+    "captionsVtt": "/lessons/L060/captions.vtt",
+    "captionsSrt": "/lessons/L060/captions.srt",
+    "transcript": "/lessons/L060/transcript.json"
+  },
+  "sourceLessonId": "L060"
+}

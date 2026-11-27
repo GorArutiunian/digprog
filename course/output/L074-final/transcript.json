@@ -1,0 +1,231 @@
+{
+  "lessonId": "L086",
+  "duration": 130.496,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "A useful pattern is three roles: domain and sales, video, and product.",
+      "start": 0.0,
+      "end": 4.499,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about team of three pattern.",
+      "start": 4.499,
+      "end": 7.498,
+      "section": "hook"
+    },
+    {
+      "text": "Domain/sales, video, product.",
+      "start": 7.498,
+      "end": 8.622,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.622,
+      "end": 11.247,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.247,
+      "end": 14.995,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.995,
+      "end": 20.619,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.619,
+      "end": 24.742,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: assign roles or solo blocks before you optimize branding or tools.",
+      "start": 24.742,
+      "end": 29.616,
+      "section": "hook"
+    },
+    {
+      "text": "Even solo, assign calendar blocks to each role so nothing is orphaned.",
+      "start": 29.936,
+      "end": 34.436,
+      "section": "roles"
+    },
+    {
+      "text": "Remember the objective: assign roles or solo blocks.",
+      "start": 34.436,
+      "end": 37.435,
+      "section": "roles"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.435,
+      "end": 41.56,
+      "section": "roles"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.56,
+      "end": 46.059,
+      "section": "roles"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.059,
+      "end": 50.184,
+      "section": "roles"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.184,
+      "end": 54.683,
+      "section": "roles"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.683,
+      "end": 57.308,
+      "section": "roles"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.308,
+      "end": 58.808,
+      "section": "roles"
+    },
+    {
+      "text": "Assign roles or solo blocks for the next two weeks.",
+      "start": 59.128,
+      "end": 62.747,
+      "section": "assign"
+    },
+    {
+      "text": "Remember the objective: assign roles or solo blocks.",
+      "start": 62.747,
+      "end": 65.643,
+      "section": "assign"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 65.643,
+      "end": 69.624,
+      "section": "assign"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.624,
+      "end": 73.967,
+      "section": "assign"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.967,
+      "end": 77.948,
+      "section": "assign"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.948,
+      "end": 82.291,
+      "section": "assign"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 82.291,
+      "end": 84.824,
+      "section": "assign"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.824,
+      "end": 86.272,
+      "section": "assign"
+    },
+    {
+      "text": "One role per block.",
+      "start": 86.592,
+      "end": 88.137,
+      "section": "focus"
+    },
+    {
+      "text": "Context switching is fake productivity.",
+      "start": 88.137,
+      "end": 90.068,
+      "section": "focus"
+    },
+    {
+      "text": "Remember the objective: assign roles or solo blocks.",
+      "start": 90.068,
+      "end": 93.159,
+      "section": "focus"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 93.159,
+      "end": 97.408,
+      "section": "focus"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 97.408,
+      "end": 102.043,
+      "section": "focus"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 102.043,
+      "end": 106.292,
+      "section": "focus"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 106.292,
+      "end": 110.927,
+      "section": "focus"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 110.927,
+      "end": 113.631,
+      "section": "focus"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 113.631,
+      "end": 115.176,
+      "section": "focus"
+    },
+    {
+      "text": "In the quiz, you will assign roles or solo blocks.",
+      "start": 115.496,
+      "end": 119.069,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can assign roles or solo blocks.",
+      "start": 119.069,
+      "end": 124.07,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 124.07,
+      "end": 124.785,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 124.785,
+      "end": 128.0,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "A useful pattern is three roles: domain and sales, video, and product. This lesson is about team of three pattern. Domain/sales, video, product. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: assign roles or solo blocks before you optimize branding or tools. Even solo, assign calendar blocks to each role so nothing is orphaned. Remember the objective: assign roles or solo blocks. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Assign roles or solo blocks for the next two weeks. Remember the objective: assign roles or solo blocks. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. One role per block. Context switching is fake productivity. Remember the objective: assign roles or solo blocks. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will assign roles or solo blocks. In the quiz, you will practice until you can assign roles or solo blocks. Answer carefully. If you miss one, review the idea and retry."
+}

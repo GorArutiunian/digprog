@@ -1,0 +1,207 @@
+{
+  "lessonId": "L054",
+  "title": "Practice \u00b7 Offer critique clinic",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Weak offers often hide in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Vague promises, fuzzy who, missing next steps"
+        },
+        {
+          "id": "b",
+          "text": "Clear prices"
+        },
+        {
+          "id": "c",
+          "text": "Specific who"
+        },
+        {
+          "id": "d",
+          "text": "Clear CTAs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Spot three weak lines:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, promise, call to action"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only tools"
+        },
+        {
+          "id": "d",
+          "text": "Only ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fix three weak lines"
+        },
+        {
+          "id": "b",
+          "text": "Keep vagueness"
+        },
+        {
+          "id": "c",
+          "text": "Skip critique"
+        },
+        {
+          "id": "d",
+          "text": "Avoid strangers testing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Fix so a stranger could:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Buy without guessing"
+        },
+        {
+          "id": "b",
+          "text": "Never understand"
+        },
+        {
+          "id": "c",
+          "text": "Need five calls"
+        },
+        {
+          "id": "d",
+          "text": "Guess forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "After fixes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Critique again"
+        },
+        {
+          "id": "b",
+          "text": "Never look back"
+        },
+        {
+          "id": "c",
+          "text": "Only rebrand"
+        },
+        {
+          "id": "d",
+          "text": "Delete the offer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Clarity:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Compounds"
+        },
+        {
+          "id": "b",
+          "text": "Is optional"
+        },
+        {
+          "id": "c",
+          "text": "Hurts sales always"
+        },
+        {
+          "id": "d",
+          "text": "Replaces delivery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can fix three weak lines"
+        },
+        {
+          "id": "b",
+          "text": "You kept fog"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then fix three lines"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Keep vague lines"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

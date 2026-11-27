@@ -1,0 +1,24 @@
+{
+  "id": "L009",
+  "slug": "study-guide-video-pairing",
+  "title": "Study guide + video pairing",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Pair one chapter to one lesson",
+  "durationSeconds": 127.736,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L009DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L009-final/L009-Study-guide-video-pairing.mp4",
+    "poster": "output/L009-final/poster.jpg",
+    "voice": "output/L009-final/voice-l009-final.mp3",
+    "captionsSrt": "output/L009-final/L009.srt",
+    "captionsVtt": "output/L009-final/L009.vtt",
+    "transcript": "output/L009-final/transcript.json",
+    "timeline": "output/L009-final/timeline.json",
+    "quiz": "lessons/L009/quiz.json",
+    "storyboard": "lessons/L009/storyboard.md"
+  },
+  "sourceLessonId": "L009"
+}

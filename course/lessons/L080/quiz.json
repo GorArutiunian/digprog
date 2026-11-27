@@ -1,0 +1,207 @@
+{
+  "lessonId": "L086",
+  "title": "Practice \u00b7 Burnout prevention",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Sustainable cadence beats:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Heroic weeks that collapse"
+        },
+        {
+          "id": "b",
+          "text": "All scoreboards"
+        },
+        {
+          "id": "c",
+          "text": "All checklists"
+        },
+        {
+          "id": "d",
+          "text": "All outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A stop rule sets:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Max deep blocks and a hard end time"
+        },
+        {
+          "id": "b",
+          "text": "No limits"
+        },
+        {
+          "id": "c",
+          "text": "Infinite grind"
+        },
+        {
+          "id": "d",
+          "text": "No recovery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Set a stop rule"
+        },
+        {
+          "id": "b",
+          "text": "Ignore sleep"
+        },
+        {
+          "id": "c",
+          "text": "Skip recovery"
+        },
+        {
+          "id": "d",
+          "text": "Collapse weekly"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Protect:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sleep and one recovery block weekly"
+        },
+        {
+          "id": "b",
+          "text": "Only grind"
+        },
+        {
+          "id": "c",
+          "text": "Only vanity metrics"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Burnout kills:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Proof"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only logos"
+        },
+        {
+          "id": "d",
+          "text": "Only ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Write the stop rule:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Where you can see it"
+        },
+        {
+          "id": "b",
+          "text": "Nowhere"
+        },
+        {
+          "id": "c",
+          "text": "Only in secret"
+        },
+        {
+          "id": "d",
+          "text": "After burnout only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can set a stop rule"
+        },
+        {
+          "id": "b",
+          "text": "You grinded without limit"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your stop rule"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip recovery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

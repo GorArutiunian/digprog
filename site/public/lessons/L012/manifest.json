@@ -1,0 +1,19 @@
+{
+  "id": "L012",
+  "slug": "capstone-preview-ship-something-tiny",
+  "title": "Capstone preview: ship something tiny",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Define your tiny ship for week 2",
+  "durationSeconds": 121.616,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L012DataCamp",
+  "assets": {
+    "video": "/lessons/L012/video.mp4",
+    "poster": "/lessons/L012/poster.jpg",
+    "captionsVtt": "/lessons/L012/captions.vtt",
+    "captionsSrt": "/lessons/L012/captions.srt",
+    "transcript": "/lessons/L012/transcript.json"
+  },
+  "sourceLessonId": "L012"
+}

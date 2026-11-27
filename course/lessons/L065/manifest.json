@@ -1,0 +1,24 @@
+{
+  "id": "L065",
+  "slug": "personal-outreach-pack",
+  "title": "Personal: outreach pack",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Fill outreach pack",
+  "durationSeconds": 133.184,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L065DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L065-final/L065-Personal-outreach-pack.mp4",
+    "poster": "output/L065-final/poster.jpg",
+    "voice": "output/L065-final/voice-l065-final.mp3",
+    "captionsSrt": "output/L065-final/L065.srt",
+    "captionsVtt": "output/L065-final/L065.vtt",
+    "transcript": "output/L065-final/transcript.json",
+    "timeline": "output/L065-final/timeline.json",
+    "quiz": "lessons/L065/quiz.json",
+    "storyboard": "lessons/L065/storyboard.md"
+  },
+  "sourceLessonId": "L065"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L052",
+  "slug": "dm-scripts-that-start-conversations",
+  "title": "DM scripts that start conversations",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Customize one script",
+  "durationSeconds": 129.512,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L052DataCamp",
+  "assets": {
+    "video": "/lessons/L052/video.mp4",
+    "poster": "/lessons/L052/poster.jpg",
+    "captionsVtt": "/lessons/L052/captions.vtt",
+    "captionsSrt": "/lessons/L052/captions.srt",
+    "transcript": "/lessons/L052/transcript.json"
+  },
+  "sourceLessonId": "L052"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "L051",
+  "slug": "warm-outreach-that-isnt-weird",
+  "title": "Warm outreach that isn't weird",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Send five messages",
+  "durationSeconds": 133.304,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L051DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L051-final/L051-Warm-outreach-that-isn-t-weird.mp4",
+    "poster": "output/L051-final/poster.jpg",
+    "voice": "output/L051-final/voice-l051-final.mp3",
+    "captionsSrt": "output/L051-final/L051.srt",
+    "captionsVtt": "output/L051-final/L051.vtt",
+    "transcript": "output/L051-final/transcript.json",
+    "timeline": "output/L051-final/timeline.json",
+    "quiz": "lessons/L051/quiz.json",
+    "storyboard": "lessons/L051/storyboard.md"
+  },
+  "sourceLessonId": "L051"
+}

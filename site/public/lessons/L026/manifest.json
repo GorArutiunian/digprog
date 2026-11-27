@@ -1,0 +1,19 @@
+{
+  "id": "L026",
+  "slug": "one-idea-for-14-days",
+  "title": "One idea for 14 days",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Commit to one idea window",
+  "durationSeconds": 130.856,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L026DataCamp",
+  "assets": {
+    "video": "/lessons/L026/video.mp4",
+    "poster": "/lessons/L026/poster.jpg",
+    "captionsVtt": "/lessons/L026/captions.vtt",
+    "captionsSrt": "/lessons/L026/captions.srt",
+    "transcript": "/lessons/L026/transcript.json"
+  },
+  "sourceLessonId": "L026"
+}

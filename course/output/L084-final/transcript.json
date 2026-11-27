@@ -1,0 +1,225 @@
+{
+  "lessonId": "L096",
+  "duration": 126.776,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Do not spend first dollars on logos.",
+      "start": 0.0,
+      "end": 2.377,
+      "section": "hook"
+    },
+    {
+      "text": "Build a cash buffer first.",
+      "start": 2.377,
+      "end": 4.075,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about cash buffer basics.",
+      "start": 4.075,
+      "end": 6.452,
+      "section": "hook"
+    },
+    {
+      "text": "Don't spend first dollars on logos.",
+      "start": 6.452,
+      "end": 8.49,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.49,
+      "end": 10.867,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.867,
+      "end": 14.263,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.263,
+      "end": 19.357,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.357,
+      "end": 23.093,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: set a buffer rule before you optimize branding or tools.",
+      "start": 23.093,
+      "end": 27.168,
+      "section": "hook"
+    },
+    {
+      "text": "Set a buffer rule: hold a set number of sales or weeks of costs before vanity spends.",
+      "start": 27.488,
+      "end": 33.503,
+      "section": "rule"
+    },
+    {
+      "text": "Remember the objective: set a buffer rule.",
+      "start": 33.503,
+      "end": 35.98,
+      "section": "rule"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.98,
+      "end": 39.872,
+      "section": "rule"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.872,
+      "end": 44.118,
+      "section": "rule"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.118,
+      "end": 48.01,
+      "section": "rule"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.01,
+      "end": 52.256,
+      "section": "rule"
+    },
+    {
+      "text": "Allowed early spends: delivery tools that unblock customers, and taxes if required.",
+      "start": 52.576,
+      "end": 57.245,
+      "section": "spend"
+    },
+    {
+      "text": "Remember the objective: set a buffer rule.",
+      "start": 57.245,
+      "end": 59.968,
+      "section": "spend"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 59.968,
+      "end": 64.248,
+      "section": "spend"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 64.248,
+      "end": 68.916,
+      "section": "spend"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 68.916,
+      "end": 73.196,
+      "section": "spend"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 73.196,
+      "end": 77.864,
+      "section": "spend"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 77.864,
+      "end": 80.588,
+      "section": "spend"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 80.588,
+      "end": 82.144,
+      "section": "spend"
+    },
+    {
+      "text": "Write the buffer rule next to your scoreboard.",
+      "start": 82.464,
+      "end": 85.389,
+      "section": "write"
+    },
+    {
+      "text": "Remember the objective: set a buffer rule.",
+      "start": 85.389,
+      "end": 87.949,
+      "section": "write"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 87.949,
+      "end": 91.971,
+      "section": "write"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 91.971,
+      "end": 96.359,
+      "section": "write"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 96.359,
+      "end": 100.382,
+      "section": "write"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 100.382,
+      "end": 104.77,
+      "section": "write"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 104.77,
+      "end": 107.329,
+      "section": "write"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 107.329,
+      "end": 108.792,
+      "section": "write"
+    },
+    {
+      "text": "In the quiz, you will set a buffer rule.",
+      "start": 109.112,
+      "end": 112.146,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can set a buffer rule.",
+      "start": 112.146,
+      "end": 116.527,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 116.527,
+      "end": 117.202,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 117.202,
+      "end": 120.235,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 120.235,
+      "end": 124.28,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Do not spend first dollars on logos. Build a cash buffer first. This lesson is about cash buffer basics. Don't spend first dollars on logos. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: set a buffer rule before you optimize branding or tools. Set a buffer rule: hold a set number of sales or weeks of costs before vanity spends. Remember the objective: set a buffer rule. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Allowed early spends: delivery tools that unblock customers, and taxes if required. Remember the objective: set a buffer rule. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write the buffer rule next to your scoreboard. Remember the objective: set a buffer rule. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will set a buffer rule. In the quiz, you will practice until you can set a buffer rule. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L011",
+  "title": "Practice \u00b7 Common beginner traps",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A common beginner trap is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Brand theater"
+        },
+        {
+          "id": "b",
+          "text": "One real outreach"
+        },
+        {
+          "id": "c",
+          "text": "A short quiz"
+        },
+        {
+          "id": "d",
+          "text": "A kill date"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Another trap is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Endless research"
+        },
+        {
+          "id": "b",
+          "text": "Shipping an ugly v1"
+        },
+        {
+          "id": "c",
+          "text": "Asking for money"
+        },
+        {
+          "id": "d",
+          "text": "Writing a scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Waiting for confidence before contact is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A trap"
+        },
+        {
+          "id": "b",
+          "text": "A required step"
+        },
+        {
+          "id": "c",
+          "text": "A scoreboard metric"
+        },
+        {
+          "id": "d",
+          "text": "A kill criterion"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Name two traps to avoid this week"
+        },
+        {
+          "id": "b",
+          "text": "Do more brand theater"
+        },
+        {
+          "id": "c",
+          "text": "Research forever"
+        },
+        {
+          "id": "d",
+          "text": "Skip outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Antidote to traps:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outreach / contact with reality"
+        },
+        {
+          "id": "b",
+          "text": "Another logo draft"
+        },
+        {
+          "id": "c",
+          "text": "More tool hopping"
+        },
+        {
+          "id": "d",
+          "text": "Longer research"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "This week you should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write two traps where you can see them"
+        },
+        {
+          "id": "b",
+          "text": "Hide the traps"
+        },
+        {
+          "id": "c",
+          "text": "Add a third brand"
+        },
+        {
+          "id": "d",
+          "text": "Quit measuring"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can name two traps to avoid this week"
+        },
+        {
+          "id": "b",
+          "text": "You redesigned the site"
+        },
+        {
+          "id": "c",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then name two traps"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Start a rebrand"
+        },
+        {
+          "id": "d",
+          "text": "Buy more courses"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "L050",
+  "slug": "module-offer-gate",
+  "title": "Module offer gate",
+  "module": "03 \u00b7 Offer",
+  "objective": "Self-check offer readiness",
+  "durationSeconds": 136.76,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L050DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L050-final/L050-Module-offer-gate.mp4",
+    "poster": "output/L050-final/poster.jpg",
+    "voice": "output/L050-final/voice-l050-final.mp3",
+    "captionsSrt": "output/L050-final/L050.srt",
+    "captionsVtt": "output/L050-final/L050.vtt",
+    "transcript": "output/L050-final/transcript.json",
+    "timeline": "output/L050-final/timeline.json",
+    "quiz": "lessons/L050/quiz.json",
+    "storyboard": "lessons/L050/storyboard.md"
+  },
+  "sourceLessonId": "L050"
+}

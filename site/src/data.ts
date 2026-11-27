@@ -1,17 +1,28 @@
+import paddleCatalog from "./data/paddleCatalog.json";
+
 export const plans = [
   {
-    id: "simple",
+    id: "simple" as const,
     name: "Simple",
     price: "$49",
+    priceAnnual: "$490",
+    priceSuffix: "",
+    waitlistPrice: "$34",
     blurb: "Start watching. Limited access for beginners testing the waters.",
     features: ["Course videos only", "Starter study notes", "Community read-only"],
     cta: "Start Simple",
     featured: false,
+    paddleProductId: paddleCatalog.products.simple.productId,
+    paddlePriceOneTime: paddleCatalog.products.simple.prices.oneTime.id,
+    paddlePriceYear: paddleCatalog.products.simple.prices.year.id,
   },
   {
-    id: "medium",
+    id: "medium" as const,
     name: "Medium",
     price: "$149",
+    priceAnnual: "$1,490",
+    priceSuffix: "",
+    waitlistPrice: "$104",
     blurb: "The full self-serve path — videos, roadmap, quizzes, and the PDF guide.",
     features: [
       "All ~100 short videos",
@@ -21,11 +32,17 @@ export const plans = [
     ],
     cta: "Get Medium",
     featured: true,
+    paddleProductId: paddleCatalog.products.medium.productId,
+    paddlePriceOneTime: paddleCatalog.products.medium.prices.oneTime.id,
+    paddlePriceYear: paddleCatalog.products.medium.prices.year.id,
   },
   {
-    id: "pro",
+    id: "pro" as const,
     name: "Pro",
     price: "$299",
+    priceAnnual: "$2,990",
+    priceSuffix: "",
+    waitlistPrice: "$209",
     blurb: "Medium plus onboarding that turns your idea into daily assigned tasks.",
     features: [
       "Everything in Medium",
@@ -35,6 +52,9 @@ export const plans = [
     ],
     cta: "Go Pro",
     featured: false,
+    paddleProductId: paddleCatalog.products.pro.productId,
+    paddlePriceOneTime: paddleCatalog.products.pro.prices.oneTime.id,
+    paddlePriceYear: paddleCatalog.products.pro.prices.year.id,
   },
 ] as const;
 

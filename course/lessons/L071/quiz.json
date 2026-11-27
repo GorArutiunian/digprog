@@ -1,0 +1,207 @@
+{
+  "lessonId": "L077",
+  "title": "Practice \u00b7 Delivery checklist",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Same quality needs:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A checklist"
+        },
+        {
+          "id": "b",
+          "text": "Mood only"
+        },
+        {
+          "id": "c",
+          "text": "Memory only"
+        },
+        {
+          "id": "d",
+          "text": "Luck"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Write from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Kickoff to done"
+        },
+        {
+          "id": "b",
+          "text": "Nowhere"
+        },
+        {
+          "id": "c",
+          "text": "Only the logo"
+        },
+        {
+          "id": "d",
+          "text": "Only payment"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write delivery checklist"
+        },
+        {
+          "id": "b",
+          "text": "Skip consistency"
+        },
+        {
+          "id": "c",
+          "text": "Depend on mood"
+        },
+        {
+          "id": "d",
+          "text": "Never improve"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Use the same list:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "For every buyer"
+        },
+        {
+          "id": "b",
+          "text": "Only for friends"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only once"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Improve when:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Something breaks once"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only after year five"
+        },
+        {
+          "id": "d",
+          "text": "Only for branding"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Memory is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not enough"
+        },
+        {
+          "id": "b",
+          "text": "Perfect forever"
+        },
+        {
+          "id": "c",
+          "text": "A CRM"
+        },
+        {
+          "id": "d",
+          "text": "A scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write a delivery checklist"
+        },
+        {
+          "id": "b",
+          "text": "You relied on mood"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write the checklist"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Wing delivery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

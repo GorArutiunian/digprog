@@ -1,0 +1,201 @@
+{
+  "lessonId": "L004",
+  "duration": 119.24,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "This course is a loop, not a binge library.",
+      "start": 0.0,
+      "end": 2.853,
+      "section": "hook"
+    },
+    {
+      "text": "Watching alone does not count as finishing.",
+      "start": 2.853,
+      "end": 5.073,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about the digprog weekly loop.",
+      "start": 5.073,
+      "end": 7.609,
+      "section": "hook"
+    },
+    {
+      "text": "Watch \u2192 quiz \u2192 one outreach \u2192 note learning.",
+      "start": 7.609,
+      "end": 10.463,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.463,
+      "end": 12.682,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.682,
+      "end": 15.853,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.853,
+      "end": 20.608,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.608,
+      "end": 24.096,
+      "section": "hook"
+    },
+    {
+      "text": "Each week has four steps: watch one lesson, take the quiz, do one real outreach or action, then note what you learned.",
+      "start": 24.416,
+      "end": 32.405,
+      "section": "steps"
+    },
+    {
+      "text": "Remember the objective: describe the weekly loop steps.",
+      "start": 32.405,
+      "end": 35.311,
+      "section": "steps"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.311,
+      "end": 39.305,
+      "section": "steps"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.305,
+      "end": 43.663,
+      "section": "steps"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.663,
+      "end": 47.658,
+      "section": "steps"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.658,
+      "end": 52.016,
+      "section": "steps"
+    },
+    {
+      "text": "The quiz forces retrieval.",
+      "start": 52.336,
+      "end": 53.806,
+      "section": "why"
+    },
+    {
+      "text": "The action forces contact with reality.",
+      "start": 53.806,
+      "end": 56.011,
+      "section": "why"
+    },
+    {
+      "text": "The note captures the next move.",
+      "start": 56.011,
+      "end": 58.217,
+      "section": "why"
+    },
+    {
+      "text": "Remember the objective: describe the weekly loop steps.",
+      "start": 58.217,
+      "end": 61.157,
+      "section": "why"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.157,
+      "end": 65.2,
+      "section": "why"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 65.2,
+      "end": 69.611,
+      "section": "why"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 69.611,
+      "end": 73.653,
+      "section": "why"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 73.653,
+      "end": 78.064,
+      "section": "why"
+    },
+    {
+      "text": "If you only watch videos, you hid from the scary part: talking to humans and asking for money.",
+      "start": 78.384,
+      "end": 84.804,
+      "section": "fail"
+    },
+    {
+      "text": "Remember the objective: describe the weekly loop steps.",
+      "start": 84.804,
+      "end": 87.657,
+      "section": "fail"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 87.657,
+      "end": 91.581,
+      "section": "fail"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 91.581,
+      "end": 95.861,
+      "section": "fail"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 95.861,
+      "end": 99.784,
+      "section": "fail"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 99.784,
+      "end": 104.064,
+      "section": "fail"
+    },
+    {
+      "text": "In the quiz, you will put the weekly loop steps in order.",
+      "start": 104.384,
+      "end": 108.393,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can describe the weekly loop steps.",
+      "start": 108.393,
+      "end": 113.069,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 113.069,
+      "end": 113.738,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 113.738,
+      "end": 116.744,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "This course is a loop, not a binge library. Watching alone does not count as finishing. This lesson is about the digprog weekly loop. Watch \u2192 quiz \u2192 one outreach \u2192 note learning. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Each week has four steps: watch one lesson, take the quiz, do one real outreach or action, then note what you learned. Remember the objective: describe the weekly loop steps. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. The quiz forces retrieval. The action forces contact with reality. The note captures the next move. Remember the objective: describe the weekly loop steps. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. If you only watch videos, you hid from the scary part: talking to humans and asking for money. Remember the objective: describe the weekly loop steps. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. In the quiz, you will put the weekly loop steps in order. In the quiz, you will practice until you can describe the weekly loop steps. Answer carefully. If you miss one, review the idea and retry."
+}

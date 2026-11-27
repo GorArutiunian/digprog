@@ -1,0 +1,219 @@
+{
+  "lessonId": "L036",
+  "duration": 123.44,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Delivery type is a beginner tradeoff, not a forever identity.",
+      "start": 0.0,
+      "end": 3.682,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about digital vs service vs hybrid.",
+      "start": 3.682,
+      "end": 6.996,
+      "section": "hook"
+    },
+    {
+      "text": "Tradeoffs for beginners.",
+      "start": 6.996,
+      "end": 8.1,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.1,
+      "end": 10.678,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.678,
+      "end": 14.36,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.36,
+      "end": 19.883,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.883,
+      "end": 23.933,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: choose a delivery type for v1 before you optimize branding or tools.",
+      "start": 23.933,
+      "end": 29.088,
+      "section": "hook"
+    },
+    {
+      "text": "Digital scales later.",
+      "start": 29.408,
+      "end": 30.541,
+      "section": "types"
+    },
+    {
+      "text": "Service teaches fast.",
+      "start": 30.541,
+      "end": 31.674,
+      "section": "types"
+    },
+    {
+      "text": "Hybrid mixes a product with human help.",
+      "start": 31.674,
+      "end": 34.317,
+      "section": "types"
+    },
+    {
+      "text": "Remember the objective: choose a delivery type for v1.",
+      "start": 34.317,
+      "end": 37.716,
+      "section": "types"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.716,
+      "end": 41.87,
+      "section": "types"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.87,
+      "end": 46.402,
+      "section": "types"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.402,
+      "end": 50.556,
+      "section": "types"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.556,
+      "end": 55.088,
+      "section": "types"
+    },
+    {
+      "text": "Choose a delivery type for version one based on speed to first paid customer.",
+      "start": 55.408,
+      "end": 60.292,
+      "section": "v1"
+    },
+    {
+      "text": "Remember the objective: choose a delivery type for v1.",
+      "start": 60.292,
+      "end": 63.432,
+      "section": "v1"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.432,
+      "end": 67.27,
+      "section": "v1"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.27,
+      "end": 71.456,
+      "section": "v1"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.456,
+      "end": 75.294,
+      "section": "v1"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.294,
+      "end": 79.48,
+      "section": "v1"
+    },
+    {
+      "text": "You can switch later.",
+      "start": 79.8,
+      "end": 81.286,
+      "section": "switch"
+    },
+    {
+      "text": "First paid proof beats the perfect model.",
+      "start": 81.286,
+      "end": 83.887,
+      "section": "switch"
+    },
+    {
+      "text": "Remember the objective: choose a delivery type for v1.",
+      "start": 83.887,
+      "end": 87.231,
+      "section": "switch"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 87.231,
+      "end": 91.318,
+      "section": "switch"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 91.318,
+      "end": 95.776,
+      "section": "switch"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 95.776,
+      "end": 99.863,
+      "section": "switch"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 99.863,
+      "end": 104.321,
+      "section": "switch"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 104.321,
+      "end": 106.922,
+      "section": "switch"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 106.922,
+      "end": 108.408,
+      "section": "switch"
+    },
+    {
+      "text": "In the quiz, you will choose a delivery type for version one.",
+      "start": 108.728,
+      "end": 112.586,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can choose a delivery type for v1.",
+      "start": 112.586,
+      "end": 117.408,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 117.408,
+      "end": 118.051,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 118.051,
+      "end": 120.944,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Delivery type is a beginner tradeoff, not a forever identity. This lesson is about digital vs service vs hybrid. Tradeoffs for beginners. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: choose a delivery type for v1 before you optimize branding or tools. Digital scales later. Service teaches fast. Hybrid mixes a product with human help. Remember the objective: choose a delivery type for v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Choose a delivery type for version one based on speed to first paid customer. Remember the objective: choose a delivery type for v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. You can switch later. First paid proof beats the perfect model. Remember the objective: choose a delivery type for v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will choose a delivery type for version one. In the quiz, you will practice until you can choose a delivery type for v1. Answer carefully. If you miss one, review the idea and retry."
+}

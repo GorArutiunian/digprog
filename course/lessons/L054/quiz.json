@@ -1,0 +1,207 @@
+{
+  "lessonId": "L060",
+  "title": "Practice \u00b7 Sheet CRM",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A sheet CRM is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Enough to start"
+        },
+        {
+          "id": "b",
+          "text": "Never enough"
+        },
+        {
+          "id": "c",
+          "text": "Illegal"
+        },
+        {
+          "id": "d",
+          "text": "Only for enterprises"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Spine columns:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Name, source, next step, status"
+        },
+        {
+          "id": "b",
+          "text": "Only logo"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Build a 20-row CRM"
+        },
+        {
+          "id": "b",
+          "text": "Buy enterprise CRM day one"
+        },
+        {
+          "id": "c",
+          "text": "Skip status"
+        },
+        {
+          "id": "d",
+          "text": "Never update"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Build rows from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Warm map and outreaches"
+        },
+        {
+          "id": "b",
+          "text": "Random bots"
+        },
+        {
+          "id": "c",
+          "text": "Nothing"
+        },
+        {
+          "id": "d",
+          "text": "Only celebrities"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Update status:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "After every touch"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Yearly only"
+        },
+        {
+          "id": "d",
+          "text": "When you feel like it never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A stale sheet:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Lies to you"
+        },
+        {
+          "id": "b",
+          "text": "Helps always"
+        },
+        {
+          "id": "c",
+          "text": "Replaces outreach"
+        },
+        {
+          "id": "d",
+          "text": "Fixes objections"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can build a twenty-row CRM"
+        },
+        {
+          "id": "b",
+          "text": "You bought software only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then build 20 rows"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip the sheet"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

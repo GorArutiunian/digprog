@@ -59,8 +59,8 @@ export function Dashboard() {
       <section className="panel announce-panel">
         <h2>Build status</h2>
         <ul>
-          <li>L001 video live · more videos from Sargis in order</li>
-          <li>Quizzes preview on L001–L003</li>
+          <li>All 100 lesson videos live</li>
+          <li>Quizzes ready across the full catalog</li>
           <li>Progress saved on this device (local)</li>
         </ul>
       </section>

@@ -1,0 +1,19 @@
+{
+  "id": "L061",
+  "slug": "one-sale-not-long-term-proof",
+  "title": "One sale \u2260 long-term proof",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "List next three experiments",
+  "durationSeconds": 136.4,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L061DataCamp",
+  "assets": {
+    "video": "/lessons/L061/video.mp4",
+    "poster": "/lessons/L061/poster.jpg",
+    "captionsVtt": "/lessons/L061/captions.vtt",
+    "captionsSrt": "/lessons/L061/captions.srt",
+    "transcript": "/lessons/L061/transcript.json"
+  },
+  "sourceLessonId": "L061"
+}

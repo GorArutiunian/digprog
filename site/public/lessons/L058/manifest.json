@@ -1,0 +1,19 @@
+{
+  "id": "L058",
+  "slug": "taking-payment-simply",
+  "title": "Taking payment simply",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Pick a payment path",
+  "durationSeconds": 126.704,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L058DataCamp",
+  "assets": {
+    "video": "/lessons/L058/video.mp4",
+    "poster": "/lessons/L058/poster.jpg",
+    "captionsVtt": "/lessons/L058/captions.vtt",
+    "captionsSrt": "/lessons/L058/captions.srt",
+    "transcript": "/lessons/L058/transcript.json"
+  },
+  "sourceLessonId": "L058"
+}

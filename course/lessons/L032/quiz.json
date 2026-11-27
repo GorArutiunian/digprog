@@ -1,0 +1,207 @@
+{
+  "lessonId": "L038",
+  "title": "Practice \u00b7 Interest vs paying demand revisited",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Purchases beat:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Compliments"
+        },
+        {
+          "id": "b",
+          "text": "All quizzes"
+        },
+        {
+          "id": "c",
+          "text": "All notes"
+        },
+        {
+          "id": "d",
+          "text": "All kill dates"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Separate:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Feedback from sales"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Separate feedback from sales"
+        },
+        {
+          "id": "b",
+          "text": "Treat praise as revenue"
+        },
+        {
+          "id": "c",
+          "text": "Skip asking"
+        },
+        {
+          "id": "d",
+          "text": "Hide the offer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Nice comments go in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Feedback column"
+        },
+        {
+          "id": "b",
+          "text": "Revenue column"
+        },
+        {
+          "id": "c",
+          "text": "Kill criteria"
+        },
+        {
+          "id": "d",
+          "text": "Logo file"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Ask for:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sale or a paid pilot"
+        },
+        {
+          "id": "b",
+          "text": "Only likes"
+        },
+        {
+          "id": "c",
+          "text": "Only advice forever"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Scoreboard should track:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Paying demand"
+        },
+        {
+          "id": "b",
+          "text": "Applause only"
+        },
+        {
+          "id": "c",
+          "text": "Follower vanity only"
+        },
+        {
+          "id": "d",
+          "text": "Tool installs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can separate feedback from sales"
+        },
+        {
+          "id": "b",
+          "text": "You counted only praise"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then split feedback vs sales"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Chase compliments"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

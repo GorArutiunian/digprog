@@ -1,0 +1,243 @@
+{
+  "lessonId": "L073",
+  "duration": 136.4,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "One sale is a start, not long-term proof.",
+      "start": 0.0,
+      "end": 2.949,
+      "section": "hook"
+    },
+    {
+      "text": "Keep learning after the first dollar.",
+      "start": 2.949,
+      "end": 5.161,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about one sale \u2260 long-term proof.",
+      "start": 5.161,
+      "end": 8.48,
+      "section": "hook"
+    },
+    {
+      "text": "Keep learning after first dollar.",
+      "start": 8.48,
+      "end": 10.323,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.323,
+      "end": 12.904,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.904,
+      "end": 16.59,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.59,
+      "end": 22.12,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 22.12,
+      "end": 26.176,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: list next three experiments before you optimize branding or tools.",
+      "start": 26.176,
+      "end": 30.6,
+      "section": "hook"
+    },
+    {
+      "text": "Do not freeze the offer forever because one person paid once.",
+      "start": 30.92,
+      "end": 35.13,
+      "section": "risk"
+    },
+    {
+      "text": "Remember the objective: list next three experiments.",
+      "start": 35.13,
+      "end": 37.809,
+      "section": "risk"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.809,
+      "end": 42.019,
+      "section": "risk"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 42.019,
+      "end": 46.612,
+      "section": "risk"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.612,
+      "end": 50.821,
+      "section": "risk"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.821,
+      "end": 55.414,
+      "section": "risk"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 55.414,
+      "end": 58.093,
+      "section": "risk"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 58.093,
+      "end": 59.624,
+      "section": "risk"
+    },
+    {
+      "text": "List the next three experiments: who else, what message, what tweak.",
+      "start": 59.944,
+      "end": 64.235,
+      "section": "next"
+    },
+    {
+      "text": "Remember the objective: list next three experiments.",
+      "start": 64.235,
+      "end": 66.965,
+      "section": "next"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.965,
+      "end": 71.256,
+      "section": "next"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 71.256,
+      "end": 75.937,
+      "section": "next"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 75.937,
+      "end": 80.228,
+      "section": "next"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 80.228,
+      "end": 84.909,
+      "section": "next"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 84.909,
+      "end": 87.64,
+      "section": "next"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 87.64,
+      "end": 89.2,
+      "section": "next"
+    },
+    {
+      "text": "Stay in the weekly loop.",
+      "start": 89.52,
+      "end": 91.399,
+      "section": "loop"
+    },
+    {
+      "text": "Proof compounds with repeats.",
+      "start": 91.399,
+      "end": 92.902,
+      "section": "loop"
+    },
+    {
+      "text": "Remember the objective: list next three experiments.",
+      "start": 92.902,
+      "end": 95.532,
+      "section": "loop"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 95.532,
+      "end": 99.666,
+      "section": "loop"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 99.666,
+      "end": 104.175,
+      "section": "loop"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 104.175,
+      "end": 108.309,
+      "section": "loop"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 108.309,
+      "end": 112.818,
+      "section": "loop"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 112.818,
+      "end": 115.449,
+      "section": "loop"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 115.449,
+      "end": 116.952,
+      "section": "loop"
+    },
+    {
+      "text": "In the quiz, you will list three next experiments.",
+      "start": 117.272,
+      "end": 120.598,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can list next three experiments.",
+      "start": 120.598,
+      "end": 125.403,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 125.403,
+      "end": 126.142,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 126.142,
+      "end": 129.469,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 129.469,
+      "end": 133.904,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "One sale is a start, not long-term proof. Keep learning after the first dollar. This lesson is about one sale \u2260 long-term proof. Keep learning after first dollar. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: list next three experiments before you optimize branding or tools. Do not freeze the offer forever because one person paid once. Remember the objective: list next three experiments. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. List the next three experiments: who else, what message, what tweak. Remember the objective: list next three experiments. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Stay in the weekly loop. Proof compounds with repeats. Remember the objective: list next three experiments. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will list three next experiments. In the quiz, you will practice until you can list next three experiments. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

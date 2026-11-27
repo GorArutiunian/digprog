@@ -1,0 +1,24 @@
+{
+  "id": "L066",
+  "slug": "first-customer-gate",
+  "title": "First-customer gate",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Complete evidence checklist",
+  "durationSeconds": 133.592,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L066DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L066-final/L066-First-customer-gate.mp4",
+    "poster": "output/L066-final/poster.jpg",
+    "voice": "output/L066-final/voice-l066-final.mp3",
+    "captionsSrt": "output/L066-final/L066.srt",
+    "captionsVtt": "output/L066-final/L066.vtt",
+    "transcript": "output/L066-final/transcript.json",
+    "timeline": "output/L066-final/timeline.json",
+    "quiz": "lessons/L066/quiz.json",
+    "storyboard": "lessons/L066/storyboard.md"
+  },
+  "sourceLessonId": "L066"
+}

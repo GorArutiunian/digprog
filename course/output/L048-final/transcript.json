@@ -1,0 +1,237 @@
+{
+  "lessonId": "L060",
+  "duration": 131.144,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Weak offers hide in vague promises, fuzzy who, and missing next steps.",
+      "start": 0.0,
+      "end": 4.35,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about offer critique clinic.",
+      "start": 4.35,
+      "end": 6.887,
+      "section": "hook"
+    },
+    {
+      "text": "Common weak offers.",
+      "start": 6.887,
+      "end": 7.975,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.975,
+      "end": 10.512,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.512,
+      "end": 14.137,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.137,
+      "end": 19.575,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.575,
+      "end": 23.562,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: fix three weak lines before you optimize branding or tools.",
+      "start": 23.562,
+      "end": 27.912,
+      "section": "hook"
+    },
+    {
+      "text": "Spot three weak lines in your draft: who, promise, and call to action.",
+      "start": 28.232,
+      "end": 33.038,
+      "section": "spot"
+    },
+    {
+      "text": "Remember the objective: fix three weak lines.",
+      "start": 33.038,
+      "end": 35.625,
+      "section": "spot"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.625,
+      "end": 39.692,
+      "section": "spot"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.692,
+      "end": 44.127,
+      "section": "spot"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.127,
+      "end": 48.194,
+      "section": "spot"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.194,
+      "end": 52.63,
+      "section": "spot"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.63,
+      "end": 55.217,
+      "section": "spot"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.217,
+      "end": 56.696,
+      "section": "spot"
+    },
+    {
+      "text": "Fix each line so a stranger could buy without guessing.",
+      "start": 57.016,
+      "end": 60.765,
+      "section": "fix"
+    },
+    {
+      "text": "Remember the objective: fix three weak lines.",
+      "start": 60.765,
+      "end": 63.39,
+      "section": "fix"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.39,
+      "end": 67.514,
+      "section": "fix"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.514,
+      "end": 72.013,
+      "section": "fix"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.013,
+      "end": 76.137,
+      "section": "fix"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.137,
+      "end": 80.636,
+      "section": "fix"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.636,
+      "end": 83.26,
+      "section": "fix"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 83.26,
+      "end": 84.76,
+      "section": "fix"
+    },
+    {
+      "text": "Critique again after you fix.",
+      "start": 85.08,
+      "end": 87.044,
+      "section": "again"
+    },
+    {
+      "text": "Clarity compounds.",
+      "start": 87.044,
+      "end": 87.83,
+      "section": "again"
+    },
+    {
+      "text": "Remember the objective: fix three weak lines.",
+      "start": 87.83,
+      "end": 90.579,
+      "section": "again"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.579,
+      "end": 94.9,
+      "section": "again"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.9,
+      "end": 99.613,
+      "section": "again"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.613,
+      "end": 103.934,
+      "section": "again"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.934,
+      "end": 108.647,
+      "section": "again"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 108.647,
+      "end": 111.397,
+      "section": "again"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.397,
+      "end": 112.968,
+      "section": "again"
+    },
+    {
+      "text": "In the quiz, you will fix three weak lines.",
+      "start": 113.288,
+      "end": 116.36,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can fix three weak lines.",
+      "start": 116.36,
+      "end": 120.797,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.797,
+      "end": 121.48,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.48,
+      "end": 124.552,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 124.552,
+      "end": 128.648,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Weak offers hide in vague promises, fuzzy who, and missing next steps. This lesson is about offer critique clinic. Common weak offers. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: fix three weak lines before you optimize branding or tools. Spot three weak lines in your draft: who, promise, and call to action. Remember the objective: fix three weak lines. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Fix each line so a stranger could buy without guessing. Remember the objective: fix three weak lines. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Critique again after you fix. Clarity compounds. Remember the objective: fix three weak lines. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will fix three weak lines. In the quiz, you will practice until you can fix three weak lines. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L099",
+  "slug": "alumni-loop",
+  "title": "Alumni loop",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Schedule monthly review",
+  "durationSeconds": 125.912,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L099DataCamp",
+  "assets": {
+    "video": "/lessons/L099/video.mp4",
+    "poster": "/lessons/L099/poster.jpg",
+    "captionsVtt": "/lessons/L099/captions.vtt",
+    "captionsSrt": "/lessons/L099/captions.srt",
+    "transcript": "/lessons/L099/transcript.json"
+  },
+  "sourceLessonId": "L099"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L079",
+  "slug": "legal-privacy-basics-for-creators",
+  "title": "Legal/privacy basics for creators",
+  "module": "05 \u00b7 Systems",
+  "objective": "Checklist compliance",
+  "durationSeconds": 136.76,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L079DataCamp",
+  "assets": {
+    "video": "/lessons/L079/video.mp4",
+    "poster": "/lessons/L079/poster.jpg",
+    "captionsVtt": "/lessons/L079/captions.vtt",
+    "captionsSrt": "/lessons/L079/captions.srt",
+    "transcript": "/lessons/L079/transcript.json"
+  },
+  "sourceLessonId": "L079"
+}

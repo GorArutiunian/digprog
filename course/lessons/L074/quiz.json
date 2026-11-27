@@ -1,0 +1,207 @@
+{
+  "lessonId": "L080",
+  "title": "Practice \u00b7 Team of three pattern",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Three roles:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Domain/sales, video, product"
+        },
+        {
+          "id": "b",
+          "text": "Logo, font, color"
+        },
+        {
+          "id": "c",
+          "text": "Ads, ads, ads"
+        },
+        {
+          "id": "d",
+          "text": "Quiz, quiz, quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Even solo:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assign calendar blocks to each role"
+        },
+        {
+          "id": "b",
+          "text": "Ignore roles"
+        },
+        {
+          "id": "c",
+          "text": "Do all at once always"
+        },
+        {
+          "id": "d",
+          "text": "Skip product"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Assign roles or solo blocks"
+        },
+        {
+          "id": "b",
+          "text": "Context switch constantly"
+        },
+        {
+          "id": "c",
+          "text": "Orphan all roles"
+        },
+        {
+          "id": "d",
+          "text": "Skip two weeks planning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "One role per:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Block"
+        },
+        {
+          "id": "b",
+          "text": "Minute"
+        },
+        {
+          "id": "c",
+          "text": "Thought"
+        },
+        {
+          "id": "d",
+          "text": "Emoji"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Context switching is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fake productivity"
+        },
+        {
+          "id": "b",
+          "text": "Always best"
+        },
+        {
+          "id": "c",
+          "text": "Required"
+        },
+        {
+          "id": "d",
+          "text": "A scoreboard win"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Assign for:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The next two weeks"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Ten years with no check"
+        },
+        {
+          "id": "d",
+          "text": "Yesterday only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can assign roles or solo blocks"
+        },
+        {
+          "id": "b",
+          "text": "You stayed chaotic"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then assign roles/blocks"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Context switch all day"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

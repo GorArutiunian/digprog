@@ -1,0 +1,19 @@
+{
+  "id": "L094",
+  "slug": "systematize-the-week",
+  "title": "Systematize the week",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Write week-2 system",
+  "durationSeconds": 124.424,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L094DataCamp",
+  "assets": {
+    "video": "/lessons/L094/video.mp4",
+    "poster": "/lessons/L094/poster.jpg",
+    "captionsVtt": "/lessons/L094/captions.vtt",
+    "captionsSrt": "/lessons/L094/captions.srt",
+    "transcript": "/lessons/L094/transcript.json"
+  },
+  "sourceLessonId": "L094"
+}

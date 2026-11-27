@@ -1,0 +1,219 @@
+{
+  "lessonId": "L090",
+  "duration": 124.664,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "UGC clips need a quality bar: readable on mute, and a clear CTA.",
+      "start": 0.0,
+      "end": 4.768,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about quality bar for ugc clips.",
+      "start": 4.768,
+      "end": 8.068,
+      "section": "hook"
+    },
+    {
+      "text": "Readable at mute; CTA clear.",
+      "start": 8.068,
+      "end": 9.902,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.902,
+      "end": 12.469,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.469,
+      "end": 16.136,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.136,
+      "end": 21.637,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.637,
+      "end": 25.671,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: define your quality bar before you optimize branding or tools.",
+      "start": 25.671,
+      "end": 30.072,
+      "section": "hook"
+    },
+    {
+      "text": "Define your bar: text on screen, one idea, face or demo visible, CTA in the last seconds.",
+      "start": 30.392,
+      "end": 36.949,
+      "section": "bar"
+    },
+    {
+      "text": "Remember the objective: define your quality bar.",
+      "start": 36.949,
+      "end": 39.649,
+      "section": "bar"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 39.649,
+      "end": 43.892,
+      "section": "bar"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 43.892,
+      "end": 48.521,
+      "section": "bar"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 48.521,
+      "end": 52.763,
+      "section": "bar"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 52.763,
+      "end": 57.392,
+      "section": "bar"
+    },
+    {
+      "text": "If it fails on mute, it fails in the feed.",
+      "start": 57.712,
+      "end": 61.231,
+      "section": "mute"
+    },
+    {
+      "text": "Remember the objective: define your quality bar.",
+      "start": 61.231,
+      "end": 63.694,
+      "section": "mute"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.694,
+      "end": 67.565,
+      "section": "mute"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.565,
+      "end": 71.788,
+      "section": "mute"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.788,
+      "end": 75.658,
+      "section": "mute"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.658,
+      "end": 79.881,
+      "section": "mute"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.881,
+      "end": 82.344,
+      "section": "mute"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.344,
+      "end": 83.752,
+      "section": "mute"
+    },
+    {
+      "text": "Ship clips that pass the bar.",
+      "start": 84.072,
+      "end": 86.262,
+      "section": "ship"
+    },
+    {
+      "text": "Reject pretty noise.",
+      "start": 86.262,
+      "end": 87.356,
+      "section": "ship"
+    },
+    {
+      "text": "Remember the objective: define your quality bar.",
+      "start": 87.356,
+      "end": 89.911,
+      "section": "ship"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 89.911,
+      "end": 93.925,
+      "section": "ship"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 93.925,
+      "end": 98.304,
+      "section": "ship"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 98.304,
+      "end": 102.319,
+      "section": "ship"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 102.319,
+      "end": 106.698,
+      "section": "ship"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 106.698,
+      "end": 109.252,
+      "section": "ship"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 109.252,
+      "end": 110.712,
+      "section": "ship"
+    },
+    {
+      "text": "In the quiz, you will define your quality bar.",
+      "start": 111.032,
+      "end": 114.069,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can define your quality bar.",
+      "start": 114.069,
+      "end": 118.456,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 118.456,
+      "end": 119.131,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 119.131,
+      "end": 122.168,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "UGC clips need a quality bar: readable on mute, and a clear CTA. This lesson is about quality bar for ugc clips. Readable at mute; CTA clear. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: define your quality bar before you optimize branding or tools. Define your bar: text on screen, one idea, face or demo visible, CTA in the last seconds. Remember the objective: define your quality bar. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. If it fails on mute, it fails in the feed. Remember the objective: define your quality bar. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Ship clips that pass the bar. Reject pretty noise. Remember the objective: define your quality bar. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will define your quality bar. In the quiz, you will practice until you can define your quality bar. Answer carefully. If you miss one, review the idea and retry."
+}

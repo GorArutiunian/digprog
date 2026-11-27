@@ -1,0 +1,207 @@
+{
+  "lessonId": "L021",
+  "title": "Practice \u00b7 Time boxing practice",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Deep work needs:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A time box"
+        },
+        {
+          "id": "b",
+          "text": "An open endless evening"
+        },
+        {
+          "id": "c",
+          "text": "More scrolling"
+        },
+        {
+          "id": "d",
+          "text": "No outcome"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Recommended block length:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "About 45 minutes"
+        },
+        {
+          "id": "b",
+          "text": "12 hours straight"
+        },
+        {
+          "id": "c",
+          "text": "30 seconds"
+        },
+        {
+          "id": "d",
+          "text": "No end"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Schedule two blocks"
+        },
+        {
+          "id": "b",
+          "text": "Avoid calendars"
+        },
+        {
+          "id": "c",
+          "text": "Multitask everything"
+        },
+        {
+          "id": "d",
+          "text": "Skip deep work"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Each block should have:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One outcome"
+        },
+        {
+          "id": "b",
+          "text": "Ten unrelated goals"
+        },
+        {
+          "id": "c",
+          "text": "No phone rule ignored"
+        },
+        {
+          "id": "d",
+          "text": "Endless scope"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Protect blocks like:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A meeting with a customer"
+        },
+        {
+          "id": "b",
+          "text": "Optional fluff"
+        },
+        {
+          "id": "c",
+          "text": "A suggestion"
+        },
+        {
+          "id": "d",
+          "text": "A binge session"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "When the box ends:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stop and note the next action"
+        },
+        {
+          "id": "b",
+          "text": "Force another three hours"
+        },
+        {
+          "id": "c",
+          "text": "Delete the note"
+        },
+        {
+          "id": "d",
+          "text": "Start tool hopping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can schedule two deep blocks"
+        },
+        {
+          "id": "b",
+          "text": "You scrolled instead"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then put two blocks on the calendar"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Leave it vague"
+        },
+        {
+          "id": "d",
+          "text": "Only rewatch"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

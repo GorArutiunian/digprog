@@ -1,0 +1,207 @@
+{
+  "lessonId": "L041",
+  "title": "Practice \u00b7 Offer skeleton",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "An offer skeleton is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A one-page buyable outline"
+        },
+        {
+          "id": "b",
+          "text": "A brand deck"
+        },
+        {
+          "id": "c",
+          "text": "A logo system"
+        },
+        {
+          "id": "d",
+          "text": "A binge playlist"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Six boxes include who, problem, promise, process, price, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Next step"
+        },
+        {
+          "id": "b",
+          "text": "Font pair"
+        },
+        {
+          "id": "c",
+          "text": "Ads budget"
+        },
+        {
+          "id": "d",
+          "text": "CRM vendor"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fill one-page offer"
+        },
+        {
+          "id": "b",
+          "text": "Skip empty boxes"
+        },
+        {
+          "id": "c",
+          "text": "Decorate first"
+        },
+        {
+          "id": "d",
+          "text": "Avoid price"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Empty boxes are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Homework"
+        },
+        {
+          "id": "b",
+          "text": "Mystery branding"
+        },
+        {
+          "id": "c",
+          "text": "Optional forever"
+        },
+        {
+          "id": "d",
+          "text": "A good sign to quit"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "The page becomes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outreach script and checkout talk"
+        },
+        {
+          "id": "b",
+          "text": "Only wallpaper"
+        },
+        {
+          "id": "c",
+          "text": "A tax form"
+        },
+        {
+          "id": "d",
+          "text": "A tool hop list"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Fill in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Plain language"
+        },
+        {
+          "id": "b",
+          "text": "Only jargon"
+        },
+        {
+          "id": "c",
+          "text": "Latin mottos"
+        },
+        {
+          "id": "d",
+          "text": "Hidden meaning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can fill a one-page offer"
+        },
+        {
+          "id": "b",
+          "text": "You made a moodboard"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then fill the skeleton"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

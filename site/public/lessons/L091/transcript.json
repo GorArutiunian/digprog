@@ -1,0 +1,243 @@
+{
+  "lessonId": "L015",
+  "duration": 127.328,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Roadmap step seven: close the first sale.",
+      "start": 0.0,
+      "end": 2.432,
+      "section": "hook"
+    },
+    {
+      "text": "Interest is not a sale.",
+      "start": 2.432,
+      "end": 4.168,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about close first sale.",
+      "start": 4.168,
+      "end": 6.6,
+      "section": "hook"
+    },
+    {
+      "text": "Roadmap step 7.",
+      "start": 6.6,
+      "end": 7.642,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.642,
+      "end": 10.074,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.074,
+      "end": 13.547,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.547,
+      "end": 18.758,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 18.758,
+      "end": 22.579,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: run close checklist before you optimize branding or tools.",
+      "start": 22.579,
+      "end": 26.4,
+      "section": "hook"
+    },
+    {
+      "text": "Run a close checklist: clear offer, price, next step, payment or booking link.",
+      "start": 26.72,
+      "end": 31.782,
+      "section": "check"
+    },
+    {
+      "text": "Remember the objective: run close checklist.",
+      "start": 31.782,
+      "end": 34.118,
+      "section": "check"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 34.118,
+      "end": 38.401,
+      "section": "check"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 38.401,
+      "end": 43.073,
+      "section": "check"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.073,
+      "end": 47.357,
+      "section": "check"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.357,
+      "end": 52.029,
+      "section": "check"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.029,
+      "end": 54.755,
+      "section": "check"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.755,
+      "end": 56.312,
+      "section": "check"
+    },
+    {
+      "text": "Ask for the sale without apology.",
+      "start": 56.632,
+      "end": 58.869,
+      "section": "ask"
+    },
+    {
+      "text": "Silence after the ask is allowed.",
+      "start": 58.869,
+      "end": 61.106,
+      "section": "ask"
+    },
+    {
+      "text": "Remember the objective: run close checklist.",
+      "start": 61.106,
+      "end": 63.342,
+      "section": "ask"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.342,
+      "end": 67.443,
+      "section": "ask"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.443,
+      "end": 71.917,
+      "section": "ask"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.917,
+      "end": 76.018,
+      "section": "ask"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.018,
+      "end": 80.491,
+      "section": "ask"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.491,
+      "end": 83.101,
+      "section": "ask"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 83.101,
+      "end": 84.592,
+      "section": "ask"
+    },
+    {
+      "text": "Log yes, no, and objections.",
+      "start": 84.912,
+      "end": 86.852,
+      "section": "log"
+    },
+    {
+      "text": "First closes teach the offer.",
+      "start": 86.852,
+      "end": 88.791,
+      "section": "log"
+    },
+    {
+      "text": "Remember the objective: run close checklist.",
+      "start": 88.791,
+      "end": 91.119,
+      "section": "log"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 91.119,
+      "end": 95.387,
+      "section": "log"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 95.387,
+      "end": 100.042,
+      "section": "log"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 100.042,
+      "end": 104.309,
+      "section": "log"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 104.309,
+      "end": 108.965,
+      "section": "log"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 108.965,
+      "end": 111.68,
+      "section": "log"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.68,
+      "end": 113.232,
+      "section": "log"
+    },
+    {
+      "text": "In the quiz, you will run a close checklist.",
+      "start": 113.552,
+      "end": 116.724,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can run close checklist.",
+      "start": 116.724,
+      "end": 120.954,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.954,
+      "end": 121.659,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.659,
+      "end": 124.832,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Roadmap step seven: close the first sale. Interest is not a sale. This lesson is about close first sale. Roadmap step 7. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: run close checklist before you optimize branding or tools. Run a close checklist: clear offer, price, next step, payment or booking link. Remember the objective: run close checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Ask for the sale without apology. Silence after the ask is allowed. Remember the objective: run close checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Log yes, no, and objections. First closes teach the offer. Remember the objective: run close checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will run a close checklist. In the quiz, you will practice until you can run close checklist. Answer carefully. If you miss one, review the idea and retry."
+}

@@ -1,0 +1,237 @@
+{
+  "lessonId": "L050",
+  "duration": 126.608,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Price before the product is perfect.",
+      "start": 0.0,
+      "end": 2.162,
+      "section": "hook"
+    },
+    {
+      "text": "A test price teaches faster than free forever.",
+      "start": 2.162,
+      "end": 5.044,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about pricing that feels fair.",
+      "start": 5.044,
+      "end": 7.927,
+      "section": "hook"
+    },
+    {
+      "text": "Price before perfect product.",
+      "start": 7.927,
+      "end": 9.368,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.368,
+      "end": 11.89,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.89,
+      "end": 15.493,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.493,
+      "end": 20.897,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.897,
+      "end": 24.86,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: set a test price before you optimize branding or tools.",
+      "start": 24.86,
+      "end": 29.184,
+      "section": "hook"
+    },
+    {
+      "text": "Choose a test price you can say out loud.",
+      "start": 29.504,
+      "end": 32.587,
+      "section": "set"
+    },
+    {
+      "text": "Raise it later when evidence supports it.",
+      "start": 32.587,
+      "end": 34.986,
+      "section": "set"
+    },
+    {
+      "text": "Remember the objective: set a test price.",
+      "start": 34.986,
+      "end": 37.384,
+      "section": "set"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.384,
+      "end": 41.153,
+      "section": "set"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.153,
+      "end": 45.264,
+      "section": "set"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.264,
+      "end": 49.033,
+      "section": "set"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.033,
+      "end": 53.144,
+      "section": "set"
+    },
+    {
+      "text": "Anchor to the cost of the problem, not your hours of anxiety.",
+      "start": 53.464,
+      "end": 57.773,
+      "section": "anchor"
+    },
+    {
+      "text": "Remember the objective: set a test price.",
+      "start": 57.773,
+      "end": 60.286,
+      "section": "anchor"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 60.286,
+      "end": 64.236,
+      "section": "anchor"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 64.236,
+      "end": 68.544,
+      "section": "anchor"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 68.544,
+      "end": 72.494,
+      "section": "anchor"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 72.494,
+      "end": 76.802,
+      "section": "anchor"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 76.802,
+      "end": 79.316,
+      "section": "anchor"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 79.316,
+      "end": 80.752,
+      "section": "anchor"
+    },
+    {
+      "text": "Say the number in real conversations.",
+      "start": 81.072,
+      "end": 83.258,
+      "section": "ask"
+    },
+    {
+      "text": "Quiet after the price is useful data.",
+      "start": 83.258,
+      "end": 85.809,
+      "section": "ask"
+    },
+    {
+      "text": "Remember the objective: set a test price.",
+      "start": 85.809,
+      "end": 88.359,
+      "section": "ask"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 88.359,
+      "end": 92.367,
+      "section": "ask"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 92.367,
+      "end": 96.74,
+      "section": "ask"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 96.74,
+      "end": 100.748,
+      "section": "ask"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 100.748,
+      "end": 105.12,
+      "section": "ask"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 105.12,
+      "end": 107.671,
+      "section": "ask"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 107.671,
+      "end": 109.128,
+      "section": "ask"
+    },
+    {
+      "text": "In the quiz, you will choose a test price.",
+      "start": 109.448,
+      "end": 112.381,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can set a test price.",
+      "start": 112.381,
+      "end": 116.617,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 116.617,
+      "end": 117.269,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 117.269,
+      "end": 120.202,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 120.202,
+      "end": 124.112,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Price before the product is perfect. A test price teaches faster than free forever. This lesson is about pricing that feels fair. Price before perfect product. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: set a test price before you optimize branding or tools. Choose a test price you can say out loud. Raise it later when evidence supports it. Remember the objective: set a test price. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Anchor to the cost of the problem, not your hours of anxiety. Remember the objective: set a test price. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Say the number in real conversations. Quiet after the price is useful data. Remember the objective: set a test price. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will choose a test price. In the quiz, you will practice until you can set a test price. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

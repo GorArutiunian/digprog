@@ -1,0 +1,225 @@
+{
+  "lessonId": "L038",
+  "duration": 130.856,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Focus beats idea hopping.",
+      "start": 0.0,
+      "end": 1.433,
+      "section": "hook"
+    },
+    {
+      "text": "Fourteen days on one idea teaches more than fourteen ideas in a day.",
+      "start": 1.433,
+      "end": 6.09,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about one idea for 14 days.",
+      "start": 6.09,
+      "end": 9.314,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.314,
+      "end": 11.822,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.822,
+      "end": 15.404,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.404,
+      "end": 20.778,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.778,
+      "end": 24.719,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: commit to one idea window before you optimize branding or tools.",
+      "start": 24.719,
+      "end": 29.376,
+      "section": "hook"
+    },
+    {
+      "text": "Commit to one idea window.",
+      "start": 29.696,
+      "end": 31.49,
+      "section": "commit"
+    },
+    {
+      "text": "Write the start date and the kill date.",
+      "start": 31.49,
+      "end": 34.36,
+      "section": "commit"
+    },
+    {
+      "text": "Remember the objective: commit to one idea window.",
+      "start": 34.36,
+      "end": 37.23,
+      "section": "commit"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.23,
+      "end": 41.177,
+      "section": "commit"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.177,
+      "end": 45.482,
+      "section": "commit"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.482,
+      "end": 49.428,
+      "section": "commit"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.428,
+      "end": 53.734,
+      "section": "commit"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.734,
+      "end": 56.245,
+      "section": "commit"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 56.245,
+      "end": 57.68,
+      "section": "commit"
+    },
+    {
+      "text": "During the window: talk to people, ship tiny tests, and do not switch for boredom.",
+      "start": 58.0,
+      "end": 63.254,
+      "section": "rules"
+    },
+    {
+      "text": "Remember the objective: commit to one idea window.",
+      "start": 63.254,
+      "end": 66.056,
+      "section": "rules"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.056,
+      "end": 69.909,
+      "section": "rules"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.909,
+      "end": 74.112,
+      "section": "rules"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 74.112,
+      "end": 77.965,
+      "section": "rules"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.965,
+      "end": 82.168,
+      "section": "rules"
+    },
+    {
+      "text": "After fourteen days, keep, kill, or change with evidence - not vibes.",
+      "start": 82.488,
+      "end": 87.1,
+      "section": "after"
+    },
+    {
+      "text": "Remember the objective: commit to one idea window.",
+      "start": 87.1,
+      "end": 90.174,
+      "section": "after"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.174,
+      "end": 94.402,
+      "section": "after"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.402,
+      "end": 99.013,
+      "section": "after"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.013,
+      "end": 103.241,
+      "section": "after"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.241,
+      "end": 107.853,
+      "section": "after"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.853,
+      "end": 110.543,
+      "section": "after"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.543,
+      "end": 112.08,
+      "section": "after"
+    },
+    {
+      "text": "In the quiz, you will commit to one idea window.",
+      "start": 112.4,
+      "end": 115.796,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can commit to one idea window.",
+      "start": 115.796,
+      "end": 120.55,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.55,
+      "end": 121.229,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.229,
+      "end": 124.285,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 124.285,
+      "end": 128.36,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Focus beats idea hopping. Fourteen days on one idea teaches more than fourteen ideas in a day. This lesson is about one idea for 14 days. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: commit to one idea window before you optimize branding or tools. Commit to one idea window. Write the start date and the kill date. Remember the objective: commit to one idea window. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. During the window: talk to people, ship tiny tests, and do not switch for boredom. Remember the objective: commit to one idea window. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. After fourteen days, keep, kill, or change with evidence - not vibes. Remember the objective: commit to one idea window. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will commit to one idea window. In the quiz, you will practice until you can commit to one idea window. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

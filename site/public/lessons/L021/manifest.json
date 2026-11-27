@@ -1,0 +1,19 @@
+{
+  "id": "L021",
+  "slug": "score-ideas-like-an-investor",
+  "title": "Score ideas like an investor",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Score three ideas 1\u20135",
+  "durationSeconds": 134.792,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L021DataCamp",
+  "assets": {
+    "video": "/lessons/L021/video.mp4",
+    "poster": "/lessons/L021/poster.jpg",
+    "captionsVtt": "/lessons/L021/captions.vtt",
+    "captionsSrt": "/lessons/L021/captions.srt",
+    "transcript": "/lessons/L021/transcript.json"
+  },
+  "sourceLessonId": "L021"
+}

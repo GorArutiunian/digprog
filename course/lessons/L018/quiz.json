@@ -1,0 +1,207 @@
+{
+  "lessonId": "L024",
+  "title": "Practice \u00b7 From waitlist to student",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Onboarding means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Show up, loop, ship"
+        },
+        {
+          "id": "b",
+          "text": "Collect more courses"
+        },
+        {
+          "id": "c",
+          "text": "Only binge"
+        },
+        {
+          "id": "d",
+          "text": "Skip quizzes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "First week includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Quizzes, hour budget, kill criterion, one outreach"
+        },
+        {
+          "id": "b",
+          "text": "Logo only"
+        },
+        {
+          "id": "c",
+          "text": "CRM setup only"
+        },
+        {
+          "id": "d",
+          "text": "No action"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Describe your first week plan"
+        },
+        {
+          "id": "b",
+          "text": "Avoid planning"
+        },
+        {
+          "id": "c",
+          "text": "Skip Foundations"
+        },
+        {
+          "id": "d",
+          "text": "Hide from outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Use the weekly loop:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Watch, quiz, action, note"
+        },
+        {
+          "id": "b",
+          "text": "Watch only"
+        },
+        {
+          "id": "c",
+          "text": "Quiz never"
+        },
+        {
+          "id": "d",
+          "text": "Note never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Your plan should be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Four bullets you can keep"
+        },
+        {
+          "id": "b",
+          "text": "A fantasy schedule"
+        },
+        {
+          "id": "c",
+          "text": "Zero hours"
+        },
+        {
+          "id": "d",
+          "text": "Endless research"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "You are not here to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Collect courses"
+        },
+        {
+          "id": "b",
+          "text": "Ship tiny work"
+        },
+        {
+          "id": "c",
+          "text": "Pass quizzes"
+        },
+        {
+          "id": "d",
+          "text": "Do outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can describe your first week plan"
+        },
+        {
+          "id": "b",
+          "text": "You joined a waitlist only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your first week plan"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

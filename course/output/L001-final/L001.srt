@@ -1,71 +1,204 @@
 1
-00:00:00,050 --> 00:00:05,138
-You built an app. Your friends love it. Does that mean customers will pay?
+00:00:00,000 --> 00:00:01,224
+You built an app.
 
 2
-00:00:05,138 --> 00:00:09,175
-Not yet - you have evidence of interest, but not of paying demand.
+00:00:01,224 --> 00:00:02,449
+Your friends love it.
 
 3
-00:00:10,890 --> 00:00:15,265
-A business provides something customers value in exchange for payment.
+00:00:02,449 --> 00:00:04,285
+Does that mean customers will pay?
 
 4
-00:00:15,265 --> 00:00:21,690
-To understand how it works, start with three parts: customer, offer, and delivery.
+00:00:04,285 --> 00:00:08,265
+Not yet - you have evidence of interest, but not of paying demand.
 
 5
-00:00:23,610 --> 00:00:27,098
-The customer is the person or organization buying.
+00:00:08,265 --> 00:00:10,713
+This lesson is about what a business is.
 
 6
-00:00:27,098 --> 00:00:29,460
-Ask: who are they, and what do they need?
+00:00:10,713 --> 00:00:13,468
+Customer → offer → delivery; interest vs paying demand.
 
 7
-00:00:30,962 --> 00:00:36,524
-The offer is what they can buy: a clear product or service, its price, and what is included.
+00:00:13,468 --> 00:00:15,611
+Do not treat this as theory only.
 
 8
-00:00:38,026 --> 00:00:41,213
-Delivery is how they receive what you promised.
+00:00:15,611 --> 00:00:18,672
+Treat it as a move you can run this week.
 
 9
-00:00:41,213 --> 00:00:45,813
-Payment can happen before or after delivery, depending on the arrangement.
+00:00:18,992 --> 00:00:22,824
+A business provides something customers value in exchange for payment.
 
 10
-00:00:47,922 --> 00:00:53,272
-For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.
+00:00:22,824 --> 00:00:27,805
+To understand how it works, start with three parts: customer, offer, and delivery.
 
 11
-00:00:54,370 --> 00:00:59,120
-Her customers are freelance designers who need help organizing invoices.
+00:00:27,805 --> 00:00:32,019
+Remember the objective: identify customer, offer, delivery in a simple example.
 
 12
-00:00:59,120 --> 00:01:02,358
-Her offer is the guide for seventy-nine dollars.
+00:00:32,019 --> 00:00:36,234
+Write the idea in your own words before you move on.
 
 13
-00:01:02,358 --> 00:01:05,070
-She delivers it through a download link.
+00:00:36,234 --> 00:00:40,832
+Name one concrete next action you can finish in under an hour.
 
 14
-00:01:07,522 --> 00:01:11,447
-Now compare that with an app that friends praise but nobody buys.
+00:00:41,152 --> 00:00:43,991
+The customer is the person or organization buying.
 
 15
-00:01:11,447 --> 00:01:16,372
-The feedback may be useful. It does not yet show that customers will pay.
+00:00:43,991 --> 00:00:47,184
+Ask: who are they, and what do they need?
 
 16
-00:01:16,372 --> 00:01:22,735
-A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.
+00:00:47,184 --> 00:00:51,087
+Remember the objective: identify customer, offer, delivery in a simple example.
 
 17
-00:01:24,834 --> 00:01:31,497
-When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?
+00:00:51,087 --> 00:00:54,990
+Write the idea in your own words before you move on.
 
 18
-00:01:33,202 --> 00:01:38,377
+00:00:54,990 --> 00:00:59,248
+Name one concrete next action you can finish in under an hour.
+
+19
+00:00:59,568 --> 00:01:06,090
+The offer is what they can buy: a clear product or service, its price, and what is included.
+
+20
+00:01:06,090 --> 00:01:10,075
+Remember the objective: identify customer, offer, delivery in a simple example.
+
+21
+00:01:10,075 --> 00:01:14,060
+Write the idea in your own words before you move on.
+
+22
+00:01:14,060 --> 00:01:18,408
+Name one concrete next action you can finish in under an hour.
+
+23
+00:01:18,728 --> 00:01:21,651
+Delivery is how they receive what you promised.
+
+24
+00:01:21,651 --> 00:01:25,671
+Payment can happen before or after delivery, depending on the arrangement.
+
+25
+00:01:25,671 --> 00:01:29,691
+Remember the objective: identify customer, offer, delivery in a simple example.
+
+26
+00:01:29,691 --> 00:01:33,711
+Write the idea in your own words before you move on.
+
+27
+00:01:33,711 --> 00:01:38,096
+Name one concrete next action you can finish in under an hour.
+
+28
+00:01:38,416 --> 00:01:42,913
+For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.
+
+29
+00:01:42,913 --> 00:01:47,411
+Remember the objective: identify customer, offer, delivery in a simple example.
+
+30
+00:01:47,411 --> 00:01:51,908
+Write the idea in your own words before you move on.
+
+31
+00:01:51,908 --> 00:01:56,815
+Name one concrete next action you can finish in under an hour.
+
+32
+00:01:56,815 --> 00:02:01,312
+Avoid vanity work that feels busy but does not create proof.
+
+33
+00:02:01,632 --> 00:02:05,346
+Her customers are freelance designers who need help organizing invoices.
+
+34
+00:02:05,346 --> 00:02:08,317
+Her offer is the guide for seventy-nine dollars.
+
+35
+00:02:08,317 --> 00:02:10,917
+She delivers it through a download link.
+
+36
+00:02:10,917 --> 00:02:15,002
+Remember the objective: identify customer, offer, delivery in a simple example.
+
+37
+00:02:15,002 --> 00:02:19,087
+Write the idea in your own words before you move on.
+
+38
+00:02:19,087 --> 00:02:23,544
+Name one concrete next action you can finish in under an hour.
+
+39
+00:02:23,864 --> 00:02:28,467
+Now compare that with an app that friends praise but nobody buys.
+
+40
+00:02:28,467 --> 00:02:30,384
+The feedback may be useful.
+
+41
+00:02:30,384 --> 00:02:33,836
+It does not yet show that customers will pay.
+
+42
+00:02:33,836 --> 00:02:39,973
+A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.
+
+43
+00:02:39,973 --> 00:02:44,192
+Remember the objective: identify customer, offer, delivery in a simple example.
+
+44
+00:02:44,512 --> 00:02:51,739
+When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?
+
+45
+00:02:51,739 --> 00:02:55,713
+Remember the objective: identify customer, offer, delivery in a simple example.
+
+46
+00:02:55,713 --> 00:02:59,688
+Write the idea in your own words before you move on.
+
+47
+00:02:59,688 --> 00:03:04,024
+Name one concrete next action you can finish in under an hour.
+
+48
+00:03:04,344 --> 00:03:10,682
 In the quiz, you'll identify these three parts and spot what is missing in a new example.
+
+49
+00:03:10,682 --> 00:03:17,019
+In the quiz, you will practice until you can identify customer, offer, delivery in a simple example.
+
+50
+00:03:17,019 --> 00:03:17,765
+Answer carefully.
+
+51
+00:03:17,765 --> 00:03:21,120
+If you miss one, review the idea and retry.
+

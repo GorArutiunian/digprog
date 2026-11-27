@@ -1,0 +1,124 @@
+{
+  "lessonId": "L002",
+  "title": "Practice · Money words without MBA",
+  "instructions": "Answer one question at a time. Feedback appears after you submit.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Maya sells one $79 guide. What is her revenue from that sale?",
+      "choices": [
+        { "id": "a", "text": "$79" },
+        { "id": "b", "text": "$79 minus her costs" },
+        { "id": "c", "text": "Whatever cash hits her bank this week" },
+        { "id": "d", "text": "Her follower count" }
+      ],
+      "correct": "a",
+      "feedback": "Revenue is the money customers pay you — here, $79."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Revenue is $79 and cash cost is $3. What is profit before counting time?",
+      "choices": [
+        { "id": "a", "text": "$79" },
+        { "id": "b", "text": "$3" },
+        { "id": "c", "text": "$76" },
+        { "id": "d", "text": "$82" }
+      ],
+      "correct": "c",
+      "feedback": "Profit is revenue minus cost: 79 − 3 = 76."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "You show a profit on paper, but the buyer has not paid yet. What might you still lack?",
+      "choices": [
+        { "id": "a", "text": "A price" },
+        { "id": "b", "text": "Cash you can spend" },
+        { "id": "c", "text": "A customer definition" },
+        { "id": "d", "text": "A logo" }
+      ],
+      "correct": "b",
+      "feedback": "Profit on paper is not the same as cash in hand."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "What is the primary learning objective of this lesson?",
+      "choices": [
+        { "id": "a", "text": "Skip practice and binge videos" },
+        { "id": "b", "text": "Design a logo system" },
+        { "id": "c", "text": "Define revenue vs profit vs cash" },
+        { "id": "d", "text": "Memorize unrelated jargon" }
+      ],
+      "correct": "c",
+      "feedback": "The lesson objective is: define revenue vs profit vs cash."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Price is what the buyer pays. Margin is:",
+      "choices": [
+        { "id": "a", "text": "Follower growth" },
+        { "id": "b", "text": "What remains after unit cost" },
+        { "id": "c", "text": "Total bank balance" },
+        { "id": "d", "text": "Marketing spend only" }
+      ],
+      "correct": "b",
+      "feedback": "Margin is what remains after the unit cost."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Which is NOT cash?",
+      "choices": [
+        { "id": "a", "text": "Money in your account you can spend" },
+        { "id": "b", "text": "Likes and empty waitlists" },
+        { "id": "c", "text": "A completed customer payment that cleared" },
+        { "id": "d", "text": "Cash collected at delivery" }
+      ],
+      "correct": "b",
+      "feedback": "Vanity metrics are not cash."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know “Money words without MBA” landed?",
+      "choices": [
+        { "id": "a", "text": "You can define revenue vs profit vs cash" },
+        { "id": "b", "text": "You watched at 2× with captions off" },
+        { "id": "c", "text": "You liked the thumbnail" },
+        { "id": "d", "text": "You forwarded the video unread" }
+      ],
+      "correct": "a",
+      "feedback": "Competence is shown by doing the objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "After watching, your next step should be:",
+      "choices": [
+        { "id": "a", "text": "Do the practice / quiz, then list costs for one unit of your offer" },
+        { "id": "b", "text": "Ignore the quiz gate" },
+        { "id": "c", "text": "Buy more courses first" },
+        { "id": "d", "text": "Redesign brand colors" }
+      ],
+      "correct": "a",
+      "feedback": "Video pairs with practice — then apply the words to your offer."
+    }
+  ],
+  "application": {
+    "id": "app1",
+    "optional": true,
+    "type": "self_check",
+    "prompt": "For one unit of a simple digital product, write: price, estimated cost, profit, and when cash actually arrives.",
+    "rubric": [
+      "Clear price",
+      "At least one cost listed",
+      "Profit = price − cost (rough OK)",
+      "Cash timing noted"
+    ],
+    "note": "Self-check against the rubric. Rough numbers are fine."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L014",
+  "slug": "asking-for-help-without-stalling",
+  "title": "Asking for help without stalling",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Write one ask",
+  "durationSeconds": 129.176,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L014DataCamp",
+  "assets": {
+    "video": "/lessons/L014/video.mp4",
+    "poster": "/lessons/L014/poster.jpg",
+    "captionsVtt": "/lessons/L014/captions.vtt",
+    "captionsSrt": "/lessons/L014/captions.srt",
+    "transcript": "/lessons/L014/transcript.json"
+  },
+  "sourceLessonId": "L014"
+}

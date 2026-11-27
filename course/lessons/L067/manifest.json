@@ -1,0 +1,24 @@
+{
+  "id": "L067",
+  "slug": "live-critique-patterns",
+  "title": "Live critique patterns",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Spot three failure patterns",
+  "durationSeconds": 135.536,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L067DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L067-final/L067-Live-critique-patterns.mp4",
+    "poster": "output/L067-final/poster.jpg",
+    "voice": "output/L067-final/voice-l067-final.mp3",
+    "captionsSrt": "output/L067-final/L067.srt",
+    "captionsVtt": "output/L067-final/L067.vtt",
+    "transcript": "output/L067-final/transcript.json",
+    "timeline": "output/L067-final/timeline.json",
+    "quiz": "lessons/L067/quiz.json",
+    "storyboard": "lessons/L067/storyboard.md"
+  },
+  "sourceLessonId": "L067"
+}

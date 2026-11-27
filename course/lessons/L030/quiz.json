@@ -1,0 +1,207 @@
+{
+  "lessonId": "L036",
+  "title": "Practice \u00b7 Validation in 48 hours",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Before building for months:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Talk"
+        },
+        {
+          "id": "b",
+          "text": "Hide"
+        },
+        {
+          "id": "c",
+          "text": "Only brand"
+        },
+        {
+          "id": "d",
+          "text": "Only automate"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Forty-eight hours is enough to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Start validation"
+        },
+        {
+          "id": "b",
+          "text": "Finish a unicorn"
+        },
+        {
+          "id": "c",
+          "text": "Skip humans"
+        },
+        {
+          "id": "d",
+          "text": "Perfect the logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Plan five conversations"
+        },
+        {
+          "id": "b",
+          "text": "Avoid talks"
+        },
+        {
+          "id": "c",
+          "text": "Build in silence"
+        },
+        {
+          "id": "d",
+          "text": "Skip notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Each planned talk needs:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, channel, ask, mind-changer"
+        },
+        {
+          "id": "b",
+          "text": "Only a vibe"
+        },
+        {
+          "id": "c",
+          "text": "No ask"
+        },
+        {
+          "id": "d",
+          "text": "A fake review"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Capture:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Interest, objections, pay signals"
+        },
+        {
+          "id": "b",
+          "text": "Only likes"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "After five talks:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Update offer or audience"
+        },
+        {
+          "id": "b",
+          "text": "Disappear into building"
+        },
+        {
+          "id": "c",
+          "text": "Ignore evidence"
+        },
+        {
+          "id": "d",
+          "text": "Hop ideas randomly"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can plan five conversations"
+        },
+        {
+          "id": "b",
+          "text": "You skipped humans"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then plan five conversations"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Build for months first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L025",
+  "slug": "illegal-tos-death-checks",
+  "title": "Illegal/ToS death checks",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Run a ToS risk check",
+  "durationSeconds": 123.872,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L025DataCamp",
+  "assets": {
+    "video": "/lessons/L025/video.mp4",
+    "poster": "/lessons/L025/poster.jpg",
+    "captionsVtt": "/lessons/L025/captions.vtt",
+    "captionsSrt": "/lessons/L025/captions.srt",
+    "transcript": "/lessons/L025/transcript.json"
+  },
+  "sourceLessonId": "L025"
+}

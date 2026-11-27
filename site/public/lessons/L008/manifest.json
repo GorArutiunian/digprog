@@ -1,0 +1,19 @@
+{
+  "id": "L008",
+  "slug": "how-quizzes-unlock-progress",
+  "title": "How quizzes unlock progress",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Explain why quizzes gate progress",
+  "durationSeconds": 122.888,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L008DataCamp",
+  "assets": {
+    "video": "/lessons/L008/video.mp4",
+    "poster": "/lessons/L008/poster.jpg",
+    "captionsVtt": "/lessons/L008/captions.vtt",
+    "captionsSrt": "/lessons/L008/captions.srt",
+    "transcript": "/lessons/L008/transcript.json"
+  },
+  "sourceLessonId": "L008"
+}

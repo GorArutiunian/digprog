@@ -1,0 +1,273 @@
+{
+  "lessonId": "L002",
+  "duration": 165.848,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Beginners mix up money words and then make bad decisions.",
+      "start": 0.0,
+      "end": 3.686,
+      "section": "hook"
+    },
+    {
+      "text": "You only need six: revenue, cost, profit, cash, price, and margin.",
+      "start": 3.686,
+      "end": 7.741,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about money words without mba.",
+      "start": 7.741,
+      "end": 10.689,
+      "section": "hook"
+    },
+    {
+      "text": "Revenue, cost, profit, cash, price, margin.",
+      "start": 10.689,
+      "end": 12.901,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 12.901,
+      "end": 15.481,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 15.481,
+      "end": 19.167,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 19.167,
+      "end": 24.696,
+      "section": "hook"
+    },
+    {
+      "text": "Revenue is the money customers pay you.",
+      "start": 25.016,
+      "end": 27.725,
+      "section": "revenue"
+    },
+    {
+      "text": "If Maya sells one invoicing guide for seventy-nine dollars, revenue from that sale is seventy-nine dollars.",
+      "start": 27.725,
+      "end": 33.918,
+      "section": "revenue"
+    },
+    {
+      "text": "Remember the objective: define revenue vs profit vs cash.",
+      "start": 33.918,
+      "end": 37.402,
+      "section": "revenue"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.402,
+      "end": 41.659,
+      "section": "revenue"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.659,
+      "end": 46.304,
+      "section": "revenue"
+    },
+    {
+      "text": "Cost is what it takes to deliver.",
+      "start": 46.624,
+      "end": 49.106,
+      "section": "cost"
+    },
+    {
+      "text": "Maya tools might cost three dollars.",
+      "start": 49.106,
+      "end": 51.233,
+      "section": "cost"
+    },
+    {
+      "text": "Your time counts too - even when no cash leaves the bank.",
+      "start": 51.233,
+      "end": 55.487,
+      "section": "cost"
+    },
+    {
+      "text": "Remember the objective: define revenue vs profit vs cash.",
+      "start": 55.487,
+      "end": 58.678,
+      "section": "cost"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 58.678,
+      "end": 62.578,
+      "section": "cost"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 62.578,
+      "end": 66.832,
+      "section": "cost"
+    },
+    {
+      "text": "Profit is revenue minus cost.",
+      "start": 67.152,
+      "end": 69.134,
+      "section": "profit"
+    },
+    {
+      "text": "Seventy-nine minus three leaves seventy-six dollars before you count your time.",
+      "start": 69.134,
+      "end": 73.496,
+      "section": "profit"
+    },
+    {
+      "text": "Remember the objective: define revenue vs profit vs cash.",
+      "start": 73.496,
+      "end": 77.064,
+      "section": "profit"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 77.064,
+      "end": 81.426,
+      "section": "profit"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 81.426,
+      "end": 86.184,
+      "section": "profit"
+    },
+    {
+      "text": "Cash is different.",
+      "start": 86.504,
+      "end": 87.543,
+      "section": "cash"
+    },
+    {
+      "text": "Cash is money you can actually spend.",
+      "start": 87.543,
+      "end": 89.967,
+      "section": "cash"
+    },
+    {
+      "text": "You can show profit on paper and still be broke if payment is delayed.",
+      "start": 89.967,
+      "end": 94.815,
+      "section": "cash"
+    },
+    {
+      "text": "Remember the objective: define revenue vs profit vs cash.",
+      "start": 94.815,
+      "end": 97.931,
+      "section": "cash"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 97.931,
+      "end": 101.741,
+      "section": "cash"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 101.741,
+      "end": 105.896,
+      "section": "cash"
+    },
+    {
+      "text": "Price is what the buyer pays.",
+      "start": 106.216,
+      "end": 108.479,
+      "section": "price_margin"
+    },
+    {
+      "text": "Margin is what remains after the unit cost.",
+      "start": 108.479,
+      "end": 111.496,
+      "section": "price_margin"
+    },
+    {
+      "text": "Use rough numbers early - precision theater delays first sales.",
+      "start": 111.496,
+      "end": 115.267,
+      "section": "price_margin"
+    },
+    {
+      "text": "Remember the objective: define revenue vs profit vs cash.",
+      "start": 115.267,
+      "end": 118.662,
+      "section": "price_margin"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 118.662,
+      "end": 122.81,
+      "section": "price_margin"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 122.81,
+      "end": 127.336,
+      "section": "price_margin"
+    },
+    {
+      "text": "Remember: likes and empty waitlists are not cash.",
+      "start": 127.656,
+      "end": 130.509,
+      "section": "caution"
+    },
+    {
+      "text": "Revenue comes in, cost goes out, profit is the gap, and cash is what you can use.",
+      "start": 130.509,
+      "end": 136.572,
+      "section": "caution"
+    },
+    {
+      "text": "Remember the objective: define revenue vs profit vs cash.",
+      "start": 136.572,
+      "end": 139.781,
+      "section": "caution"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 139.781,
+      "end": 143.704,
+      "section": "caution"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 143.704,
+      "end": 147.984,
+      "section": "caution"
+    },
+    {
+      "text": "In the quiz, you will separate revenue, profit, and cash in a new example.",
+      "start": 148.304,
+      "end": 153.453,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can define revenue vs profit vs cash.",
+      "start": 153.453,
+      "end": 158.97,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 158.97,
+      "end": 159.706,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 159.706,
+      "end": 163.016,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Beginners mix up money words and then make bad decisions. You only need six: revenue, cost, profit, cash, price, and margin. This lesson is about money words without mba. Revenue, cost, profit, cash, price, margin. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Revenue is the money customers pay you. If Maya sells one invoicing guide for seventy-nine dollars, revenue from that sale is seventy-nine dollars. Remember the objective: define revenue vs profit vs cash. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Cost is what it takes to deliver. Maya tools might cost three dollars. Your time counts too - even when no cash leaves the bank. Remember the objective: define revenue vs profit vs cash. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Profit is revenue minus cost. Seventy-nine minus three leaves seventy-six dollars before you count your time. Remember the objective: define revenue vs profit vs cash. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Cash is different. Cash is money you can actually spend. You can show profit on paper and still be broke if payment is delayed. Remember the objective: define revenue vs profit vs cash. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Price is what the buyer pays. Margin is what remains after the unit cost. Use rough numbers early - precision theater delays first sales. Remember the objective: define revenue vs profit vs cash. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Remember: likes and empty waitlists are not cash. Revenue comes in, cost goes out, profit is the gap, and cash is what you can use. Remember the objective: define revenue vs profit vs cash. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. In the quiz, you will separate revenue, profit, and cash in a new example. In the quiz, you will practice until you can define revenue vs profit vs cash. Answer carefully. If you miss one, review the idea and retry."
+}

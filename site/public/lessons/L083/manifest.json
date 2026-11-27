@@ -1,0 +1,19 @@
+{
+  "id": "L083",
+  "slug": "improve-from-refunds-feedback",
+  "title": "Improve from refunds/feedback",
+  "module": "05 \u00b7 Systems",
+  "objective": "Log three improvements",
+  "durationSeconds": 132.464,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L083DataCamp",
+  "assets": {
+    "video": "/lessons/L083/video.mp4",
+    "poster": "/lessons/L083/poster.jpg",
+    "captionsVtt": "/lessons/L083/captions.vtt",
+    "captionsSrt": "/lessons/L083/captions.srt",
+    "transcript": "/lessons/L083/transcript.json"
+  },
+  "sourceLessonId": "L083"
+}

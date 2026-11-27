@@ -1,0 +1,237 @@
+{
+  "lessonId": "L057",
+  "duration": 126.896,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Hybrid offers mix a product with human help.",
+      "start": 0.0,
+      "end": 2.837,
+      "section": "hook"
+    },
+    {
+      "text": "That is a productized service.",
+      "start": 2.837,
+      "end": 4.61,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about hybrid offers.",
+      "start": 4.61,
+      "end": 6.738,
+      "section": "hook"
+    },
+    {
+      "text": "Productized services.",
+      "start": 6.738,
+      "end": 7.447,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.447,
+      "end": 9.93,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 9.93,
+      "end": 13.476,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.476,
+      "end": 18.795,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 18.795,
+      "end": 22.696,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: draft a hybrid sketch before you optimize branding or tools.",
+      "start": 22.696,
+      "end": 26.952,
+      "section": "hook"
+    },
+    {
+      "text": "Draft a hybrid sketch: the asset they keep, plus the live or async support you add.",
+      "start": 27.272,
+      "end": 33.054,
+      "section": "mix"
+    },
+    {
+      "text": "Remember the objective: draft a hybrid sketch.",
+      "start": 33.054,
+      "end": 35.584,
+      "section": "mix"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.584,
+      "end": 39.559,
+      "section": "mix"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.559,
+      "end": 43.896,
+      "section": "mix"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.896,
+      "end": 47.871,
+      "section": "mix"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.871,
+      "end": 52.208,
+      "section": "mix"
+    },
+    {
+      "text": "Hybrids teach fast and still leave something reusable.",
+      "start": 52.528,
+      "end": 55.6,
+      "section": "why"
+    },
+    {
+      "text": "Remember the objective: draft a hybrid sketch.",
+      "start": 55.6,
+      "end": 58.288,
+      "section": "why"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 58.288,
+      "end": 62.512,
+      "section": "why"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 62.512,
+      "end": 67.12,
+      "section": "why"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 67.12,
+      "end": 71.344,
+      "section": "why"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 71.344,
+      "end": 75.952,
+      "section": "why"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 75.952,
+      "end": 78.64,
+      "section": "why"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 78.64,
+      "end": 80.176,
+      "section": "why"
+    },
+    {
+      "text": "Keep version one simple.",
+      "start": 80.496,
+      "end": 82.024,
+      "section": "keep"
+    },
+    {
+      "text": "One asset.",
+      "start": 82.024,
+      "end": 82.788,
+      "section": "keep"
+    },
+    {
+      "text": "One support layer.",
+      "start": 82.788,
+      "end": 83.934,
+      "section": "keep"
+    },
+    {
+      "text": "Remember the objective: draft a hybrid sketch.",
+      "start": 83.934,
+      "end": 86.608,
+      "section": "keep"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 86.608,
+      "end": 90.811,
+      "section": "keep"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 90.811,
+      "end": 95.395,
+      "section": "keep"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 95.395,
+      "end": 99.597,
+      "section": "keep"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 99.597,
+      "end": 104.182,
+      "section": "keep"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 104.182,
+      "end": 106.856,
+      "section": "keep"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 106.856,
+      "end": 108.384,
+      "section": "keep"
+    },
+    {
+      "text": "In the quiz, you will draft a hybrid sketch.",
+      "start": 108.704,
+      "end": 111.843,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can draft a hybrid sketch.",
+      "start": 111.843,
+      "end": 116.378,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 116.378,
+      "end": 117.075,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 117.075,
+      "end": 120.214,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 120.214,
+      "end": 124.4,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Hybrid offers mix a product with human help. That is a productized service. This lesson is about hybrid offers. Productized services. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: draft a hybrid sketch before you optimize branding or tools. Draft a hybrid sketch: the asset they keep, plus the live or async support you add. Remember the objective: draft a hybrid sketch. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Hybrids teach fast and still leave something reusable. Remember the objective: draft a hybrid sketch. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Keep version one simple. One asset. One support layer. Remember the objective: draft a hybrid sketch. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will draft a hybrid sketch. In the quiz, you will practice until you can draft a hybrid sketch. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

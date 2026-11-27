@@ -1,0 +1,19 @@
+{
+  "id": "L056",
+  "slug": "objection-map-basics",
+  "title": "Objection map basics",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Map four objections",
+  "durationSeconds": 130.424,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L056DataCamp",
+  "assets": {
+    "video": "/lessons/L056/video.mp4",
+    "poster": "/lessons/L056/poster.jpg",
+    "captionsVtt": "/lessons/L056/captions.vtt",
+    "captionsSrt": "/lessons/L056/captions.srt",
+    "transcript": "/lessons/L056/transcript.json"
+  },
+  "sourceLessonId": "L056"
+}

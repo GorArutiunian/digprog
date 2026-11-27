@@ -1,0 +1,207 @@
+{
+  "lessonId": "L068",
+  "title": "Practice \u00b7 Refunds and tough moments",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "In tough moments:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stay calm and keep process"
+        },
+        {
+          "id": "b",
+          "text": "Invent policy under stress"
+        },
+        {
+          "id": "c",
+          "text": "Panic publicly"
+        },
+        {
+          "id": "d",
+          "text": "Ghost the buyer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Follow:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The refund rule you wrote"
+        },
+        {
+          "id": "b",
+          "text": "A new rule every time"
+        },
+        {
+          "id": "c",
+          "text": "No rule"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write refund response"
+        },
+        {
+          "id": "b",
+          "text": "Argue angrily"
+        },
+        {
+          "id": "c",
+          "text": "Hide the policy"
+        },
+        {
+          "id": "d",
+          "text": "Skip learning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A good response is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clear, kind, and bounded"
+        },
+        {
+          "id": "b",
+          "text": "Vague and endless"
+        },
+        {
+          "id": "c",
+          "text": "Hostile"
+        },
+        {
+          "id": "d",
+          "text": "Silent"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "After the hit:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Capture what you will change"
+        },
+        {
+          "id": "b",
+          "text": "Ignore lessons"
+        },
+        {
+          "id": "c",
+          "text": "Only vent"
+        },
+        {
+          "id": "d",
+          "text": "Fake scarcity"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Emotion without learning:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Wastes the hit"
+        },
+        {
+          "id": "b",
+          "text": "Is enough"
+        },
+        {
+          "id": "c",
+          "text": "Replaces process"
+        },
+        {
+          "id": "d",
+          "text": "Fixes product alone"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write a refund response"
+        },
+        {
+          "id": "b",
+          "text": "You panicked only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write refund response"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Invent policy live"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

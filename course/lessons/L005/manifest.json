@@ -1,0 +1,24 @@
+{
+  "id": "L005",
+  "slug": "side-path-vs-full-jump",
+  "title": "Side path vs full jump",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Choose a realistic weekly hour budget",
+  "durationSeconds": 119.048,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L005DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L005-final/L005-Side-path-vs-full-jump.mp4",
+    "poster": "output/L005-final/poster.jpg",
+    "voice": "output/L005-final/voice-l005-final.mp3",
+    "captionsSrt": "output/L005-final/L005.srt",
+    "captionsVtt": "output/L005-final/L005.vtt",
+    "transcript": "output/L005-final/transcript.json",
+    "timeline": "output/L005-final/timeline.json",
+    "quiz": "lessons/L005/quiz.json",
+    "storyboard": "lessons/L005/storyboard.md"
+  },
+  "sourceLessonId": "L005"
+}

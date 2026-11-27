@@ -1,0 +1,207 @@
+{
+  "lessonId": "L010",
+  "title": "Practice \u00b7 Your first scoreboard",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Conversations beat:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Followers as a learning score"
+        },
+        {
+          "id": "b",
+          "text": "All offers"
+        },
+        {
+          "id": "c",
+          "text": "All quizzes"
+        },
+        {
+          "id": "d",
+          "text": "All notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A first scoreboard is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One line of countable weekly numbers"
+        },
+        {
+          "id": "b",
+          "text": "A fancy dashboard"
+        },
+        {
+          "id": "c",
+          "text": "Follower count only"
+        },
+        {
+          "id": "d",
+          "text": "Brand colors"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Good early metrics include:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Conversations, offers made, money asked"
+        },
+        {
+          "id": "b",
+          "text": "Likes only"
+        },
+        {
+          "id": "c",
+          "text": "Fonts chosen"
+        },
+        {
+          "id": "d",
+          "text": "Tools installed"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Create a one-line weekly scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "Grow followers first"
+        },
+        {
+          "id": "c",
+          "text": "Build analytics stack"
+        },
+        {
+          "id": "d",
+          "text": "Ignore numbers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Pick metrics you can:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Count every week without a dashboard"
+        },
+        {
+          "id": "b",
+          "text": "Never measure"
+        },
+        {
+          "id": "c",
+          "text": "Only estimate yearly"
+        },
+        {
+          "id": "d",
+          "text": "Hide from yourself"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "If a metric does not change action:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Drop it"
+        },
+        {
+          "id": "b",
+          "text": "Double it"
+        },
+        {
+          "id": "c",
+          "text": "Automate it first"
+        },
+        {
+          "id": "d",
+          "text": "Post it publicly always"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can create a one-line weekly scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "You bought analytics software"
+        },
+        {
+          "id": "c",
+          "text": "You chased followers"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your scoreboard line"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only check likes"
+        },
+        {
+          "id": "d",
+          "text": "Redesign the logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

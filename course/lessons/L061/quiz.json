@@ -1,0 +1,207 @@
+{
+  "lessonId": "L067",
+  "title": "Practice \u00b7 One sale \u2260 long-term proof",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "One sale is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A start, not long-term proof"
+        },
+        {
+          "id": "b",
+          "text": "Forever proof"
+        },
+        {
+          "id": "c",
+          "text": "A reason to freeze"
+        },
+        {
+          "id": "d",
+          "text": "A reason to quit learning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "After the first dollar:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep learning"
+        },
+        {
+          "id": "b",
+          "text": "Freeze the offer forever"
+        },
+        {
+          "id": "c",
+          "text": "Stop outreach"
+        },
+        {
+          "id": "d",
+          "text": "Ignore experiments"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List next three experiments"
+        },
+        {
+          "id": "b",
+          "text": "Celebrate and stop"
+        },
+        {
+          "id": "c",
+          "text": "Skip repeats"
+        },
+        {
+          "id": "d",
+          "text": "Avoid tweaks"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Experiments can cover:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who else, what message, what tweak"
+        },
+        {
+          "id": "b",
+          "text": "Only logos"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Stay in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The weekly loop"
+        },
+        {
+          "id": "b",
+          "text": "Binge-only mode"
+        },
+        {
+          "id": "c",
+          "text": "Random hopping"
+        },
+        {
+          "id": "d",
+          "text": "No scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Proof compounds with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Repeats"
+        },
+        {
+          "id": "b",
+          "text": "One lucky sale only"
+        },
+        {
+          "id": "c",
+          "text": "Brand theater"
+        },
+        {
+          "id": "d",
+          "text": "Tool hopping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can list three next experiments"
+        },
+        {
+          "id": "b",
+          "text": "You froze forever"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then list three experiments"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stop after one sale"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

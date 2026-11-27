@@ -1,0 +1,207 @@
+{
+  "lessonId": "L039",
+  "title": "Practice \u00b7 Pick-lane checkpoint quiz lesson",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "This checkpoint's gate is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The quiz"
+        },
+        {
+          "id": "b",
+          "text": "A logo review"
+        },
+        {
+          "id": "c",
+          "text": "Follower count"
+        },
+        {
+          "id": "d",
+          "text": "Ad spend"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "You should be able to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Name a problem, score ideas, map contacts, commit 14 days"
+        },
+        {
+          "id": "b",
+          "text": "Only binge videos"
+        },
+        {
+          "id": "c",
+          "text": "Skip warm maps"
+        },
+        {
+          "id": "d",
+          "text": "Avoid kill dates"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pass the module gate"
+        },
+        {
+          "id": "b",
+          "text": "Skip the gate"
+        },
+        {
+          "id": "c",
+          "text": "Jump without skills"
+        },
+        {
+          "id": "d",
+          "text": "Ignore review"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Missing pieces mean:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Review, not bingeing ahead"
+        },
+        {
+          "id": "b",
+          "text": "Skip to Offer anyway"
+        },
+        {
+          "id": "c",
+          "text": "Quit"
+        },
+        {
+          "id": "d",
+          "text": "Buy tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Bring into Offer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Niche sentence and kill criterion"
+        },
+        {
+          "id": "b",
+          "text": "Only a logo"
+        },
+        {
+          "id": "c",
+          "text": "Only vibes"
+        },
+        {
+          "id": "d",
+          "text": "No plan"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Consolidate means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Prove module skills on the quiz"
+        },
+        {
+          "id": "b",
+          "text": "Watch twice only"
+        },
+        {
+          "id": "c",
+          "text": "Ignore objectives"
+        },
+        {
+          "id": "d",
+          "text": "Tool hop"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can pass the module gate"
+        },
+        {
+          "id": "b",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "c",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "d",
+          "text": "You redesigned the site"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then unlock Offer"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

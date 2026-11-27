@@ -1,0 +1,231 @@
+{
+  "lessonId": "L010",
+  "duration": 130.712,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Followers are vanity.",
+      "start": 0.0,
+      "end": 1.115,
+      "section": "hook"
+    },
+    {
+      "text": "Conversations are the score that teaches.",
+      "start": 1.115,
+      "end": 3.344,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about your first scoreboard.",
+      "start": 3.344,
+      "end": 5.944,
+      "section": "hook"
+    },
+    {
+      "text": "Conversations > followers.",
+      "start": 5.944,
+      "end": 7.059,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.059,
+      "end": 9.66,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 9.66,
+      "end": 13.375,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.375,
+      "end": 18.948,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 18.948,
+      "end": 23.034,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: create a one-line weekly scoreboard before you optimize branding or tools.",
+      "start": 23.034,
+      "end": 27.864,
+      "section": "hook"
+    },
+    {
+      "text": "Your first scoreboard is one line: conversations started, offers made, money asked, lessons shipped.",
+      "start": 28.184,
+      "end": 33.649,
+      "section": "metric"
+    },
+    {
+      "text": "Remember the objective: create a one-line weekly scoreboard.",
+      "start": 33.649,
+      "end": 36.772,
+      "section": "metric"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 36.772,
+      "end": 41.067,
+      "section": "metric"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.067,
+      "end": 45.751,
+      "section": "metric"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.751,
+      "end": 50.045,
+      "section": "metric"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.045,
+      "end": 54.73,
+      "section": "metric"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.73,
+      "end": 57.462,
+      "section": "metric"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.462,
+      "end": 59.024,
+      "section": "metric"
+    },
+    {
+      "text": "Pick two numbers you can count every week without a dashboard.",
+      "start": 59.344,
+      "end": 63.377,
+      "section": "pick"
+    },
+    {
+      "text": "Remember the objective: create a one-line weekly scoreboard.",
+      "start": 63.377,
+      "end": 66.31,
+      "section": "pick"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.31,
+      "end": 70.343,
+      "section": "pick"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.343,
+      "end": 74.743,
+      "section": "pick"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 74.743,
+      "end": 78.775,
+      "section": "pick"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 78.775,
+      "end": 83.175,
+      "section": "pick"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 83.175,
+      "end": 85.741,
+      "section": "pick"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 85.741,
+      "end": 87.208,
+      "section": "pick"
+    },
+    {
+      "text": "If a metric does not change your next action, drop it.",
+      "start": 87.528,
+      "end": 91.564,
+      "section": "rule"
+    },
+    {
+      "text": "Remember the objective: create a one-line weekly scoreboard.",
+      "start": 91.564,
+      "end": 94.5,
+      "section": "rule"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 94.5,
+      "end": 98.536,
+      "section": "rule"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 98.536,
+      "end": 102.94,
+      "section": "rule"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 102.94,
+      "end": 106.976,
+      "section": "rule"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 106.976,
+      "end": 111.38,
+      "section": "rule"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 111.38,
+      "end": 113.948,
+      "section": "rule"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 113.948,
+      "end": 115.416,
+      "section": "rule"
+    },
+    {
+      "text": "In the quiz, you will create a one-line weekly scoreboard.",
+      "start": 115.736,
+      "end": 119.302,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can create a one-line weekly scoreboard.",
+      "start": 119.302,
+      "end": 124.294,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 124.294,
+      "end": 125.007,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 125.007,
+      "end": 128.216,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Followers are vanity. Conversations are the score that teaches. This lesson is about your first scoreboard. Conversations > followers. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: create a one-line weekly scoreboard before you optimize branding or tools. Your first scoreboard is one line: conversations started, offers made, money asked, lessons shipped. Remember the objective: create a one-line weekly scoreboard. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Pick two numbers you can count every week without a dashboard. Remember the objective: create a one-line weekly scoreboard. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. If a metric does not change your next action, drop it. Remember the objective: create a one-line weekly scoreboard. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will create a one-line weekly scoreboard. In the quiz, you will practice until you can create a one-line weekly scoreboard. Answer carefully. If you miss one, review the idea and retry."
+}

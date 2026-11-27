@@ -1,0 +1,243 @@
+{
+  "lessonId": "L082",
+  "duration": 129.128,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Deep work and outreach need protected blocks.",
+      "start": 0.0,
+      "end": 2.535,
+      "section": "hook"
+    },
+    {
+      "text": "Hope is not a schedule.",
+      "start": 2.535,
+      "end": 4.346,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about calendar blocks that stick.",
+      "start": 4.346,
+      "end": 7.243,
+      "section": "hook"
+    },
+    {
+      "text": "Protect deep work and outreach.",
+      "start": 7.243,
+      "end": 9.053,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.053,
+      "end": 11.588,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.588,
+      "end": 15.209,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.209,
+      "end": 20.641,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.641,
+      "end": 24.625,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: block next week before you optimize branding or tools.",
+      "start": 24.625,
+      "end": 28.608,
+      "section": "hook"
+    },
+    {
+      "text": "Block next week on a real calendar: delivery, outreach, and learning.",
+      "start": 28.928,
+      "end": 33.102,
+      "section": "block"
+    },
+    {
+      "text": "Remember the objective: block next week.",
+      "start": 33.102,
+      "end": 35.379,
+      "section": "block"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.379,
+      "end": 39.553,
+      "section": "block"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.553,
+      "end": 44.106,
+      "section": "block"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.106,
+      "end": 48.28,
+      "section": "block"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.28,
+      "end": 52.834,
+      "section": "block"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.834,
+      "end": 55.49,
+      "section": "block"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.49,
+      "end": 57.008,
+      "section": "block"
+    },
+    {
+      "text": "Protect the blocks like customer meetings.",
+      "start": 57.328,
+      "end": 59.486,
+      "section": "protect"
+    },
+    {
+      "text": "Move them, do not delete them.",
+      "start": 59.486,
+      "end": 61.644,
+      "section": "protect"
+    },
+    {
+      "text": "Remember the objective: block next week.",
+      "start": 61.644,
+      "end": 63.802,
+      "section": "protect"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.802,
+      "end": 67.759,
+      "section": "protect"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.759,
+      "end": 72.075,
+      "section": "protect"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.075,
+      "end": 76.031,
+      "section": "protect"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.031,
+      "end": 80.348,
+      "section": "protect"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.348,
+      "end": 82.865,
+      "section": "protect"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.865,
+      "end": 84.304,
+      "section": "protect"
+    },
+    {
+      "text": "Start with two deep blocks and two outreach blocks.",
+      "start": 84.624,
+      "end": 88.035,
+      "section": "start"
+    },
+    {
+      "text": "Remember the objective: block next week.",
+      "start": 88.035,
+      "end": 90.309,
+      "section": "start"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.309,
+      "end": 94.478,
+      "section": "start"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.478,
+      "end": 99.026,
+      "section": "start"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.026,
+      "end": 103.195,
+      "section": "start"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.195,
+      "end": 107.743,
+      "section": "start"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.743,
+      "end": 110.396,
+      "section": "start"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.396,
+      "end": 111.912,
+      "section": "start"
+    },
+    {
+      "text": "In the quiz, you will block next week.",
+      "start": 112.232,
+      "end": 114.911,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can block next week.",
+      "start": 114.911,
+      "end": 118.93,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 118.93,
+      "end": 119.599,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 119.599,
+      "end": 122.613,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 122.613,
+      "end": 126.632,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Deep work and outreach need protected blocks. Hope is not a schedule. This lesson is about calendar blocks that stick. Protect deep work and outreach. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: block next week before you optimize branding or tools. Block next week on a real calendar: delivery, outreach, and learning. Remember the objective: block next week. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Protect the blocks like customer meetings. Move them, do not delete them. Remember the objective: block next week. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Start with two deep blocks and two outreach blocks. Remember the objective: block next week. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will block next week. In the quiz, you will practice until you can block next week. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

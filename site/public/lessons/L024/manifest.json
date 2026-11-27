@@ -1,0 +1,19 @@
+{
+  "id": "L024",
+  "slug": "digital-vs-service-vs-hybrid",
+  "title": "Digital vs service vs hybrid",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Choose a delivery type for v1",
+  "durationSeconds": 123.44,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L024DataCamp",
+  "assets": {
+    "video": "/lessons/L024/video.mp4",
+    "poster": "/lessons/L024/poster.jpg",
+    "captionsVtt": "/lessons/L024/captions.vtt",
+    "captionsSrt": "/lessons/L024/captions.srt",
+    "transcript": "/lessons/L024/transcript.json"
+  },
+  "sourceLessonId": "L024"
+}

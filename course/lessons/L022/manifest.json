@@ -1,0 +1,24 @@
+{
+  "id": "L022",
+  "slug": "warm-network-mapping",
+  "title": "Warm network mapping",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "List 20 reachable contacts",
+  "durationSeconds": 132.872,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L022DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L022-final/L022-Warm-network-mapping.mp4",
+    "poster": "output/L022-final/poster.jpg",
+    "voice": "output/L022-final/voice-l022-final.mp3",
+    "captionsSrt": "output/L022-final/L022.srt",
+    "captionsVtt": "output/L022-final/L022.vtt",
+    "transcript": "output/L022-final/transcript.json",
+    "timeline": "output/L022-final/timeline.json",
+    "quiz": "lessons/L022/quiz.json",
+    "storyboard": "lessons/L022/storyboard.md"
+  },
+  "sourceLessonId": "L022"
+}

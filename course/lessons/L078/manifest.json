@@ -1,0 +1,24 @@
+{
+  "id": "L078",
+  "slug": "quality-bar-for-ugc-clips",
+  "title": "Quality bar for UGC clips",
+  "module": "05 \u00b7 Systems",
+  "objective": "Define your quality bar",
+  "durationSeconds": 124.664,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L078DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L078-final/L078-Quality-bar-for-UGC-clips.mp4",
+    "poster": "output/L078-final/poster.jpg",
+    "voice": "output/L078-final/voice-l078-final.mp3",
+    "captionsSrt": "output/L078-final/L078.srt",
+    "captionsVtt": "output/L078-final/L078.vtt",
+    "transcript": "output/L078-final/transcript.json",
+    "timeline": "output/L078-final/timeline.json",
+    "quiz": "lessons/L078/quiz.json",
+    "storyboard": "lessons/L078/storyboard.md"
+  },
+  "sourceLessonId": "L078"
+}

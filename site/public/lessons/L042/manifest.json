@@ -1,0 +1,19 @@
+{
+  "id": "L042",
+  "slug": "name-and-one-liner",
+  "title": "Name and one-liner",
+  "module": "03 \u00b7 Offer",
+  "objective": "Write a one-liner",
+  "durationSeconds": 129.488,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L042DataCamp",
+  "assets": {
+    "video": "/lessons/L042/video.mp4",
+    "poster": "/lessons/L042/poster.jpg",
+    "captionsVtt": "/lessons/L042/captions.vtt",
+    "captionsSrt": "/lessons/L042/captions.srt",
+    "transcript": "/lessons/L042/transcript.json"
+  },
+  "sourceLessonId": "L042"
+}

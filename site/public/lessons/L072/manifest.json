@@ -1,0 +1,19 @@
+{
+  "id": "L072",
+  "slug": "support-without-drowning",
+  "title": "Support without drowning",
+  "module": "05 \u00b7 Systems",
+  "objective": "Draft FAQ for buyers",
+  "durationSeconds": 130.736,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L072DataCamp",
+  "assets": {
+    "video": "/lessons/L072/video.mp4",
+    "poster": "/lessons/L072/poster.jpg",
+    "captionsVtt": "/lessons/L072/captions.vtt",
+    "captionsSrt": "/lessons/L072/captions.srt",
+    "transcript": "/lessons/L072/transcript.json"
+  },
+  "sourceLessonId": "L072"
+}

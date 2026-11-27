@@ -1,0 +1,24 @@
+{
+  "id": "L090",
+  "slug": "talk-to-10-humans",
+  "title": "Talk to 10 humans",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Plan ten conversations",
+  "durationSeconds": 131.048,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L090DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L090-final/L090-Talk-to-10-humans.mp4",
+    "poster": "output/L090-final/poster.jpg",
+    "voice": "output/L090-final/voice-l090-final.mp3",
+    "captionsSrt": "output/L090-final/L090.srt",
+    "captionsVtt": "output/L090-final/L090.vtt",
+    "transcript": "output/L090-final/transcript.json",
+    "timeline": "output/L090-final/timeline.json",
+    "quiz": "lessons/L090/quiz.json",
+    "storyboard": "lessons/L090/storyboard.md"
+  },
+  "sourceLessonId": "L090"
+}

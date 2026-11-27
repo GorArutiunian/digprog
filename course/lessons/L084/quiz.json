@@ -1,0 +1,207 @@
+{
+  "lessonId": "L090",
+  "title": "Practice \u00b7 Cash buffer basics",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Do not spend first dollars on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Logos"
+        },
+        {
+          "id": "b",
+          "text": "Delivery tools that unblock customers"
+        },
+        {
+          "id": "c",
+          "text": "Required taxes"
+        },
+        {
+          "id": "d",
+          "text": "A buffer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A buffer rule holds:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sales or weeks of costs before vanity spends"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only brand kits"
+        },
+        {
+          "id": "d",
+          "text": "Infinite luxury"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Set a buffer rule"
+        },
+        {
+          "id": "b",
+          "text": "Buy logos first"
+        },
+        {
+          "id": "c",
+          "text": "Skip taxes if required"
+        },
+        {
+          "id": "d",
+          "text": "Ignore the scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Allowed early spends:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Delivery tools that unblock customers, required taxes"
+        },
+        {
+          "id": "b",
+          "text": "Vanity brand kits first"
+        },
+        {
+          "id": "c",
+          "text": "Unused SaaS piles"
+        },
+        {
+          "id": "d",
+          "text": "Impulse courses only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Write the rule:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Next to your scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "Nowhere"
+        },
+        {
+          "id": "c",
+          "text": "Only after bankruptcy"
+        },
+        {
+          "id": "d",
+          "text": "In invisible ink"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Build buffer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "First"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "After logos"
+        },
+        {
+          "id": "d",
+          "text": "After moodboards"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can set a buffer rule"
+        },
+        {
+          "id": "b",
+          "text": "You bought logos first"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your buffer rule"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Spend on logos first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

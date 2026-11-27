@@ -1,0 +1,231 @@
+{
+  "lessonId": "L025",
+  "duration": 128.144,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Progress is not vibes.",
+      "start": 0.0,
+      "end": 1.454,
+      "section": "hook"
+    },
+    {
+      "text": "Progress is evidence you can show.",
+      "start": 1.454,
+      "end": 3.634,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about evidence of progress.",
+      "start": 3.634,
+      "end": 6.178,
+      "section": "hook"
+    },
+    {
+      "text": "What counts as weekly proof.",
+      "start": 6.178,
+      "end": 7.995,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.995,
+      "end": 10.539,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.539,
+      "end": 14.174,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.174,
+      "end": 19.625,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.625,
+      "end": 23.623,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: list three evidence metrics before you optimize branding or tools.",
+      "start": 23.623,
+      "end": 27.984,
+      "section": "hook"
+    },
+    {
+      "text": "Weekly proof looks like conversations started, offers sent, money asked, and lessons shipped with a quiz pass.",
+      "start": 28.304,
+      "end": 34.686,
+      "section": "what"
+    },
+    {
+      "text": "Remember the objective: list three evidence metrics.",
+      "start": 34.686,
+      "end": 37.314,
+      "section": "what"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.314,
+      "end": 41.444,
+      "section": "what"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.444,
+      "end": 45.949,
+      "section": "what"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.949,
+      "end": 50.079,
+      "section": "what"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.079,
+      "end": 54.584,
+      "section": "what"
+    },
+    {
+      "text": "List three evidence metrics you will track this month.",
+      "start": 54.904,
+      "end": 58.24,
+      "section": "three"
+    },
+    {
+      "text": "Keep them countable without a dashboard.",
+      "start": 58.24,
+      "end": 60.463,
+      "section": "three"
+    },
+    {
+      "text": "Remember the objective: list three evidence metrics.",
+      "start": 60.463,
+      "end": 63.058,
+      "section": "three"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.058,
+      "end": 67.135,
+      "section": "three"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.135,
+      "end": 71.582,
+      "section": "three"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.582,
+      "end": 75.659,
+      "section": "three"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.659,
+      "end": 80.107,
+      "section": "three"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.107,
+      "end": 82.701,
+      "section": "three"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.701,
+      "end": 84.184,
+      "section": "three"
+    },
+    {
+      "text": "Hours watched alone is not evidence.",
+      "start": 84.504,
+      "end": 86.802,
+      "section": "fake"
+    },
+    {
+      "text": "Neither is a new logo.",
+      "start": 86.802,
+      "end": 88.717,
+      "section": "fake"
+    },
+    {
+      "text": "Remember the objective: list three evidence metrics.",
+      "start": 88.717,
+      "end": 91.399,
+      "section": "fake"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 91.399,
+      "end": 95.612,
+      "section": "fake"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 95.612,
+      "end": 100.209,
+      "section": "fake"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 100.209,
+      "end": 104.422,
+      "section": "fake"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 104.422,
+      "end": 109.019,
+      "section": "fake"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 109.019,
+      "end": 111.7,
+      "section": "fake"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.7,
+      "end": 113.232,
+      "section": "fake"
+    },
+    {
+      "text": "In the quiz, you will list three evidence metrics.",
+      "start": 113.552,
+      "end": 116.851,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can list three evidence metrics.",
+      "start": 116.851,
+      "end": 121.616,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 121.616,
+      "end": 122.349,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 122.349,
+      "end": 125.648,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Progress is not vibes. Progress is evidence you can show. This lesson is about evidence of progress. What counts as weekly proof. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: list three evidence metrics before you optimize branding or tools. Weekly proof looks like conversations started, offers sent, money asked, and lessons shipped with a quiz pass. Remember the objective: list three evidence metrics. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. List three evidence metrics you will track this month. Keep them countable without a dashboard. Remember the objective: list three evidence metrics. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Hours watched alone is not evidence. Neither is a new logo. Remember the objective: list three evidence metrics. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will list three evidence metrics. In the quiz, you will practice until you can list three evidence metrics. Answer carefully. If you miss one, review the idea and retry."
+}

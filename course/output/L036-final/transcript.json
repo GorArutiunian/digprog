@@ -1,0 +1,231 @@
+{
+  "lessonId": "L048",
+  "duration": 131.504,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Vague promises do not sell.",
+      "start": 0.0,
+      "end": 1.774,
+      "section": "hook"
+    },
+    {
+      "text": "Specific promises invite a yes or a no.",
+      "start": 1.774,
+      "end": 4.614,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about promise that is specific.",
+      "start": 4.614,
+      "end": 7.453,
+      "section": "hook"
+    },
+    {
+      "text": "Vague promises don't sell.",
+      "start": 7.453,
+      "end": 8.872,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.872,
+      "end": 11.357,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.357,
+      "end": 14.906,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.906,
+      "end": 20.229,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.229,
+      "end": 24.133,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: rewrite a vague promise before you optimize branding or tools.",
+      "start": 24.133,
+      "end": 28.392,
+      "section": "hook"
+    },
+    {
+      "text": "Help you grow and unlock potential is fog.",
+      "start": 28.712,
+      "end": 31.658,
+      "section": "bad"
+    },
+    {
+      "text": "Name the outcome, the who, and a time box.",
+      "start": 31.658,
+      "end": 34.972,
+      "section": "bad"
+    },
+    {
+      "text": "Remember the objective: rewrite a vague promise.",
+      "start": 34.972,
+      "end": 37.549,
+      "section": "bad"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.549,
+      "end": 41.6,
+      "section": "bad"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.6,
+      "end": 46.019,
+      "section": "bad"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.019,
+      "end": 50.069,
+      "section": "bad"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.069,
+      "end": 54.488,
+      "section": "bad"
+    },
+    {
+      "text": "Rewrite a vague promise into one sentence a stranger can test.",
+      "start": 54.808,
+      "end": 59.102,
+      "section": "rewrite"
+    },
+    {
+      "text": "Remember the objective: rewrite a vague promise.",
+      "start": 59.102,
+      "end": 61.835,
+      "section": "rewrite"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.835,
+      "end": 66.13,
+      "section": "rewrite"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 66.13,
+      "end": 70.814,
+      "section": "rewrite"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.814,
+      "end": 75.109,
+      "section": "rewrite"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.109,
+      "end": 79.794,
+      "section": "rewrite"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.794,
+      "end": 82.526,
+      "section": "rewrite"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.526,
+      "end": 84.088,
+      "section": "rewrite"
+    },
+    {
+      "text": "If they cannot imagine the before and after, tighten it.",
+      "start": 84.408,
+      "end": 88.144,
+      "section": "check"
+    },
+    {
+      "text": "Remember the objective: rewrite a vague promise.",
+      "start": 88.144,
+      "end": 90.76,
+      "section": "check"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.76,
+      "end": 94.869,
+      "section": "check"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.869,
+      "end": 99.353,
+      "section": "check"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.353,
+      "end": 103.463,
+      "section": "check"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.463,
+      "end": 107.946,
+      "section": "check"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.946,
+      "end": 110.562,
+      "section": "check"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.562,
+      "end": 112.056,
+      "section": "check"
+    },
+    {
+      "text": "In the quiz, you will rewrite a vague promise.",
+      "start": 112.376,
+      "end": 115.702,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can rewrite a vague promise.",
+      "start": 115.702,
+      "end": 120.507,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.507,
+      "end": 121.246,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.246,
+      "end": 124.573,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 124.573,
+      "end": 129.008,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Vague promises do not sell. Specific promises invite a yes or a no. This lesson is about promise that is specific. Vague promises don't sell. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: rewrite a vague promise before you optimize branding or tools. Help you grow and unlock potential is fog. Name the outcome, the who, and a time box. Remember the objective: rewrite a vague promise. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Rewrite a vague promise into one sentence a stranger can test. Remember the objective: rewrite a vague promise. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. If they cannot imagine the before and after, tighten it. Remember the objective: rewrite a vague promise. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will rewrite a vague promise. In the quiz, you will practice until you can rewrite a vague promise. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

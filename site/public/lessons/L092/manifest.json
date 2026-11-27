@@ -1,0 +1,19 @@
+{
+  "id": "L092",
+  "slug": "deliver-once",
+  "title": "Deliver once",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Deliver and document",
+  "durationSeconds": 124.976,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L092DataCamp",
+  "assets": {
+    "video": "/lessons/L092/video.mp4",
+    "poster": "/lessons/L092/poster.jpg",
+    "captionsVtt": "/lessons/L092/captions.vtt",
+    "captionsSrt": "/lessons/L092/captions.srt",
+    "transcript": "/lessons/L092/transcript.json"
+  },
+  "sourceLessonId": "L092"
+}

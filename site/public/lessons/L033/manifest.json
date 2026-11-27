@@ -1,0 +1,19 @@
+{
+  "id": "L033",
+  "slug": "pick-lane-checkpoint-quiz-lesson",
+  "title": "Pick-lane checkpoint quiz lesson",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Pass the module gate",
+  "durationSeconds": 127.328,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L033DataCamp",
+  "assets": {
+    "video": "/lessons/L033/video.mp4",
+    "poster": "/lessons/L033/poster.jpg",
+    "captionsVtt": "/lessons/L033/captions.vtt",
+    "captionsSrt": "/lessons/L033/captions.srt",
+    "transcript": "/lessons/L033/transcript.json"
+  },
+  "sourceLessonId": "L033"
+}

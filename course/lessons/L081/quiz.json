@@ -1,0 +1,207 @@
+{
+  "lessonId": "L087",
+  "title": "Practice \u00b7 Personal: operating system sheet",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A weekly OS sheet prevents:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Improvisation as the default week"
+        },
+        {
+          "id": "b",
+          "text": "All learning"
+        },
+        {
+          "id": "c",
+          "text": "All outreach"
+        },
+        {
+          "id": "d",
+          "text": "All recovery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fill blocks for:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outreach, delivery, learning, content, recovery"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only ads"
+        },
+        {
+          "id": "d",
+          "text": "Only sleep forever with no work"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fill weekly OS"
+        },
+        {
+          "id": "b",
+          "text": "Skip stop rules"
+        },
+        {
+          "id": "c",
+          "text": "Hide the scoreboard"
+        },
+        {
+          "id": "d",
+          "text": "Avoid updating"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Put in one place:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stop rule, scoreboard, FAQ link"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only logos"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Use the sheet:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Every week"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Once a year"
+        },
+        {
+          "id": "d",
+          "text": "Only when angry"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Update what:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Broke"
+        },
+        {
+          "id": "b",
+          "text": "Worked only and ignore breaks"
+        },
+        {
+          "id": "c",
+          "text": "Nothing"
+        },
+        {
+          "id": "d",
+          "text": "Only aesthetics"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can fill a weekly OS"
+        },
+        {
+          "id": "b",
+          "text": "You improvised all week"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then fill the OS sheet"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stay improvising"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

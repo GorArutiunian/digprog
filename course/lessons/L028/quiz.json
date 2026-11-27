@@ -1,0 +1,207 @@
+{
+  "lessonId": "L034",
+  "title": "Practice \u00b7 Buyer language library",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Marketing should sound like:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Their mouth"
+        },
+        {
+          "id": "b",
+          "text": "Only your brand workshop"
+        },
+        {
+          "id": "c",
+          "text": "Legal Latin"
+        },
+        {
+          "id": "d",
+          "text": "Random hashtags"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Collect:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ten exact phrases"
+        },
+        {
+          "id": "b",
+          "text": "Zero phrases"
+        },
+        {
+          "id": "c",
+          "text": "Only invented slogans"
+        },
+        {
+          "id": "d",
+          "text": "Font names"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Collect 10 phrases"
+        },
+        {
+          "id": "b",
+          "text": "Avoid buyer words"
+        },
+        {
+          "id": "c",
+          "text": "Rewrite everything cleverly first"
+        },
+        {
+          "id": "d",
+          "text": "Skip interviews"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Reuse phrases in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Offers, headlines, outreach"
+        },
+        {
+          "id": "b",
+          "text": "Only private notes"
+        },
+        {
+          "id": "c",
+          "text": "Nowhere"
+        },
+        {
+          "id": "d",
+          "text": "Logo files"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Familiar words:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Lower trust friction"
+        },
+        {
+          "id": "b",
+          "text": "Always confuse"
+        },
+        {
+          "id": "c",
+          "text": "Are illegal"
+        },
+        {
+          "id": "d",
+          "text": "Replace quizzes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Keep the library:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Living - add weekly from talks"
+        },
+        {
+          "id": "b",
+          "text": "Frozen forever"
+        },
+        {
+          "id": "c",
+          "text": "Secret from yourself"
+        },
+        {
+          "id": "d",
+          "text": "Deleted after day one"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can collect ten buyer phrases"
+        },
+        {
+          "id": "b",
+          "text": "You invented slogans only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then collect ten phrases"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

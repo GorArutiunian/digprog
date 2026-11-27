@@ -1,0 +1,231 @@
+{
+  "lessonId": "L018",
+  "duration": 124.424,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Roadmap step ten: systematize the week so week two is not chaos.",
+      "start": 0.0,
+      "end": 4.373,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about systematize the week.",
+      "start": 4.373,
+      "end": 6.924,
+      "section": "hook"
+    },
+    {
+      "text": "Roadmap step 10.",
+      "start": 6.924,
+      "end": 8.017,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.017,
+      "end": 10.568,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.568,
+      "end": 14.212,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.212,
+      "end": 19.679,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.679,
+      "end": 23.687,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write week-2 system before you optimize branding or tools.",
+      "start": 23.687,
+      "end": 27.696,
+      "section": "hook"
+    },
+    {
+      "text": "Write a week-two system: outreach, delivery, learning, recovery.",
+      "start": 28.016,
+      "end": 31.196,
+      "section": "write"
+    },
+    {
+      "text": "Remember the objective: write week-2 system.",
+      "start": 31.196,
+      "end": 33.581,
+      "section": "write"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 33.581,
+      "end": 37.954,
+      "section": "write"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 37.954,
+      "end": 42.724,
+      "section": "write"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 42.724,
+      "end": 47.097,
+      "section": "write"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.097,
+      "end": 51.867,
+      "section": "write"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 51.867,
+      "end": 54.65,
+      "section": "write"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.65,
+      "end": 56.24,
+      "section": "write"
+    },
+    {
+      "text": "Put blocks on the calendar before motivation fades.",
+      "start": 56.56,
+      "end": 59.602,
+      "section": "blocks"
+    },
+    {
+      "text": "Remember the objective: write week-2 system.",
+      "start": 59.602,
+      "end": 61.884,
+      "section": "blocks"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.884,
+      "end": 66.067,
+      "section": "blocks"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 66.067,
+      "end": 70.63,
+      "section": "blocks"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.63,
+      "end": 74.814,
+      "section": "blocks"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 74.814,
+      "end": 79.377,
+      "section": "blocks"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.377,
+      "end": 82.039,
+      "section": "blocks"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.039,
+      "end": 83.56,
+      "section": "blocks"
+    },
+    {
+      "text": "Keep the scoreboard.",
+      "start": 83.88,
+      "end": 85.03,
+      "section": "score"
+    },
+    {
+      "text": "Repeat what worked.",
+      "start": 85.03,
+      "end": 86.18,
+      "section": "score"
+    },
+    {
+      "text": "Remember the objective: write week-2 system.",
+      "start": 86.18,
+      "end": 88.48,
+      "section": "score"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 88.48,
+      "end": 92.696,
+      "section": "score"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 92.696,
+      "end": 97.296,
+      "section": "score"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 97.296,
+      "end": 101.512,
+      "section": "score"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 101.512,
+      "end": 106.112,
+      "section": "score"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 106.112,
+      "end": 108.795,
+      "section": "score"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 108.795,
+      "end": 110.328,
+      "section": "score"
+    },
+    {
+      "text": "In the quiz, you will write a week-two system.",
+      "start": 110.648,
+      "end": 113.82,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write week-2 system.",
+      "start": 113.82,
+      "end": 118.05,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 118.05,
+      "end": 118.755,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 118.755,
+      "end": 121.928,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Roadmap step ten: systematize the week so week two is not chaos. This lesson is about systematize the week. Roadmap step 10. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write week-2 system before you optimize branding or tools. Write a week-two system: outreach, delivery, learning, recovery. Remember the objective: write week-2 system. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Put blocks on the calendar before motivation fades. Remember the objective: write week-2 system. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Keep the scoreboard. Repeat what worked. Remember the objective: write week-2 system. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write a week-two system. In the quiz, you will practice until you can write week-2 system. Answer carefully. If you miss one, review the idea and retry."
+}

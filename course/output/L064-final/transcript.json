@@ -1,0 +1,243 @@
+{
+  "lessonId": "L076",
+  "duration": 130.904,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "A service first sale often starts with one scoped outcome, not endless hours.",
+      "start": 0.0,
+      "end": 4.613,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about case: service first sale path.",
+      "start": 4.613,
+      "end": 7.806,
+      "section": "hook"
+    },
+    {
+      "text": "Worked service example.",
+      "start": 7.806,
+      "end": 8.871,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.871,
+      "end": 11.355,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.355,
+      "end": 14.903,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.903,
+      "end": 20.226,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.226,
+      "end": 24.129,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: map service path before you optimize branding or tools.",
+      "start": 24.129,
+      "end": 28.032,
+      "section": "hook"
+    },
+    {
+      "text": "Path: warm intro, discovery, scoped package, price said out loud, kickoff in writing.",
+      "start": 28.352,
+      "end": 33.471,
+      "section": "path"
+    },
+    {
+      "text": "Remember the objective: map service path.",
+      "start": 33.471,
+      "end": 35.834,
+      "section": "path"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.834,
+      "end": 40.166,
+      "section": "path"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 40.166,
+      "end": 44.891,
+      "section": "path"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.891,
+      "end": 49.223,
+      "section": "path"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.223,
+      "end": 53.948,
+      "section": "path"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.948,
+      "end": 56.705,
+      "section": "path"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 56.705,
+      "end": 58.28,
+      "section": "path"
+    },
+    {
+      "text": "Map the service path onto your offer.",
+      "start": 58.6,
+      "end": 61.118,
+      "section": "map"
+    },
+    {
+      "text": "Where will you get stuck?",
+      "start": 61.118,
+      "end": 62.916,
+      "section": "map"
+    },
+    {
+      "text": "Remember the objective: map service path.",
+      "start": 62.916,
+      "end": 65.074,
+      "section": "map"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 65.074,
+      "end": 69.031,
+      "section": "map"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.031,
+      "end": 73.347,
+      "section": "map"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.347,
+      "end": 77.303,
+      "section": "map"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.303,
+      "end": 81.62,
+      "section": "map"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.62,
+      "end": 84.137,
+      "section": "map"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.137,
+      "end": 85.576,
+      "section": "map"
+    },
+    {
+      "text": "Bound delivery before you celebrate.",
+      "start": 85.896,
+      "end": 87.793,
+      "section": "bound"
+    },
+    {
+      "text": "Scope protects the win.",
+      "start": 87.793,
+      "end": 89.31,
+      "section": "bound"
+    },
+    {
+      "text": "Remember the objective: map service path.",
+      "start": 89.31,
+      "end": 91.586,
+      "section": "bound"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 91.586,
+      "end": 95.759,
+      "section": "bound"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 95.759,
+      "end": 100.311,
+      "section": "bound"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 100.311,
+      "end": 104.483,
+      "section": "bound"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 104.483,
+      "end": 109.035,
+      "section": "bound"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 109.035,
+      "end": 111.691,
+      "section": "bound"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.691,
+      "end": 113.208,
+      "section": "bound"
+    },
+    {
+      "text": "In the quiz, you will map a service path.",
+      "start": 113.528,
+      "end": 116.572,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can map service path.",
+      "start": 116.572,
+      "end": 120.63,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.63,
+      "end": 121.306,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.306,
+      "end": 124.35,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 124.35,
+      "end": 128.408,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "A service first sale often starts with one scoped outcome, not endless hours. This lesson is about case: service first sale path. Worked service example. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: map service path before you optimize branding or tools. Path: warm intro, discovery, scoped package, price said out loud, kickoff in writing. Remember the objective: map service path. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Map the service path onto your offer. Where will you get stuck? Remember the objective: map service path. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Bound delivery before you celebrate. Scope protects the win. Remember the objective: map service path. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will map a service path. In the quiz, you will practice until you can map service path. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

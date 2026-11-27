@@ -1,0 +1,19 @@
+{
+  "id": "L068",
+  "slug": "pricing-conversations",
+  "title": "Pricing conversations",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Roleplay a price talk",
+  "durationSeconds": 127.376,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L068DataCamp",
+  "assets": {
+    "video": "/lessons/L068/video.mp4",
+    "poster": "/lessons/L068/poster.jpg",
+    "captionsVtt": "/lessons/L068/captions.vtt",
+    "captionsSrt": "/lessons/L068/captions.srt",
+    "transcript": "/lessons/L068/transcript.json"
+  },
+  "sourceLessonId": "L068"
+}

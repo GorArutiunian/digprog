@@ -1,0 +1,207 @@
+{
+  "lessonId": "L030",
+  "title": "Practice \u00b7 Digital vs service vs hybrid",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Delivery type for beginners is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A tradeoff, not forever identity"
+        },
+        {
+          "id": "b",
+          "text": "A tattoo"
+        },
+        {
+          "id": "c",
+          "text": "Illegal to change"
+        },
+        {
+          "id": "d",
+          "text": "Only digital forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Service tends to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach fast"
+        },
+        {
+          "id": "b",
+          "text": "Scale instantly with zero work"
+        },
+        {
+          "id": "c",
+          "text": "Need no humans"
+        },
+        {
+          "id": "d",
+          "text": "Skip learning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Choose a delivery type for v1"
+        },
+        {
+          "id": "b",
+          "text": "Pick all forever"
+        },
+        {
+          "id": "c",
+          "text": "Avoid choosing"
+        },
+        {
+          "id": "d",
+          "text": "Build the perfect model first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Choose v1 based on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Speed to first paid customer"
+        },
+        {
+          "id": "b",
+          "text": "Logo quality"
+        },
+        {
+          "id": "c",
+          "text": "Tool count"
+        },
+        {
+          "id": "d",
+          "text": "Follower count"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Hybrid means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Product plus human help"
+        },
+        {
+          "id": "b",
+          "text": "No delivery"
+        },
+        {
+          "id": "c",
+          "text": "Ads only"
+        },
+        {
+          "id": "d",
+          "text": "Fake scarcity"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "You can:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Switch later after paid proof"
+        },
+        {
+          "id": "b",
+          "text": "Never change"
+        },
+        {
+          "id": "c",
+          "text": "Only dream"
+        },
+        {
+          "id": "d",
+          "text": "Skip customers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can choose a delivery type for version one"
+        },
+        {
+          "id": "b",
+          "text": "You avoided choosing"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then choose v1 delivery"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

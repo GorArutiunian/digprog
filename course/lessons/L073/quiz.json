@@ -1,0 +1,207 @@
+{
+  "lessonId": "L079",
+  "title": "Practice \u00b7 Simple automations later",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Do not automate:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A broken process"
+        },
+        {
+          "id": "b",
+          "text": "Stable boring steps after repeats"
+        },
+        {
+          "id": "c",
+          "text": "Nothing useful ever"
+        },
+        {
+          "id": "d",
+          "text": "Learning by hand first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Automations come:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Later, after hand repeats"
+        },
+        {
+          "id": "b",
+          "text": "Day zero always"
+        },
+        {
+          "id": "c",
+          "text": "Before the offer"
+        },
+        {
+          "id": "d",
+          "text": "Instead of learning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List what not to automate yet"
+        },
+        {
+          "id": "b",
+          "text": "Automate everything now"
+        },
+        {
+          "id": "c",
+          "text": "Skip manual learning"
+        },
+        {
+          "id": "d",
+          "text": "Break processes faster"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Manual is fine while:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You learn"
+        },
+        {
+          "id": "b",
+          "text": "You refuse forever"
+        },
+        {
+          "id": "c",
+          "text": "You hide"
+        },
+        {
+          "id": "d",
+          "text": "You binge"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Automate only:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stable boring steps that waste hours weekly"
+        },
+        {
+          "id": "b",
+          "text": "Chaos"
+        },
+        {
+          "id": "c",
+          "text": "Unstable experiments"
+        },
+        {
+          "id": "d",
+          "text": "Brand theater"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Fix the path:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "First"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "After automation only"
+        },
+        {
+          "id": "d",
+          "text": "With more tools only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can list what not to automate yet"
+        },
+        {
+          "id": "b",
+          "text": "You automated chaos"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then list no-automate items"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Automate broken steps"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

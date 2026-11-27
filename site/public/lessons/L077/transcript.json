@@ -1,0 +1,225 @@
+{
+  "lessonId": "L089",
+  "duration": 126.584,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Your course is a content engine.",
+      "start": 0.0,
+      "end": 2.155,
+      "section": "hook"
+    },
+    {
+      "text": "One lesson can become several Shorts.",
+      "start": 2.155,
+      "end": 4.309,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about repurpose one lesson into shorts.",
+      "start": 4.309,
+      "end": 7.542,
+      "section": "hook"
+    },
+    {
+      "text": "Course as content engine.",
+      "start": 7.542,
+      "end": 8.978,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.978,
+      "end": 11.492,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.492,
+      "end": 15.083,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.083,
+      "end": 20.47,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.47,
+      "end": 24.42,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: cut three hooks from one lesson before you optimize branding or tools.",
+      "start": 24.42,
+      "end": 29.448,
+      "section": "hook"
+    },
+    {
+      "text": "Cut three hooks from one lesson: a tension line, a rule, and a next action.",
+      "start": 29.768,
+      "end": 35.009,
+      "section": "hooks"
+    },
+    {
+      "text": "Remember the objective: cut three hooks from one lesson.",
+      "start": 35.009,
+      "end": 38.153,
+      "section": "hooks"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 38.153,
+      "end": 41.996,
+      "section": "hooks"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.996,
+      "end": 46.188,
+      "section": "hooks"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.188,
+      "end": 50.032,
+      "section": "hooks"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.032,
+      "end": 54.224,
+      "section": "hooks"
+    },
+    {
+      "text": "Keep each clip under a short attention window.",
+      "start": 54.544,
+      "end": 57.476,
+      "section": "keep"
+    },
+    {
+      "text": "One idea per clip.",
+      "start": 57.476,
+      "end": 58.942,
+      "section": "keep"
+    },
+    {
+      "text": "Remember the objective: cut three hooks from one lesson.",
+      "start": 58.942,
+      "end": 62.24,
+      "section": "keep"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 62.24,
+      "end": 66.271,
+      "section": "keep"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 66.271,
+      "end": 70.668,
+      "section": "keep"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.668,
+      "end": 74.699,
+      "section": "keep"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 74.699,
+      "end": 79.097,
+      "section": "keep"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.097,
+      "end": 81.662,
+      "section": "keep"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 81.662,
+      "end": 83.128,
+      "section": "keep"
+    },
+    {
+      "text": "End with a clear CTA back to the offer or the lesson.",
+      "start": 83.448,
+      "end": 87.742,
+      "section": "cta"
+    },
+    {
+      "text": "Remember the objective: cut three hooks from one lesson.",
+      "start": 87.742,
+      "end": 90.963,
+      "section": "cta"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.963,
+      "end": 94.899,
+      "section": "cta"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.899,
+      "end": 99.193,
+      "section": "cta"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.193,
+      "end": 103.13,
+      "section": "cta"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.13,
+      "end": 107.424,
+      "section": "cta"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.424,
+      "end": 109.929,
+      "section": "cta"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 109.929,
+      "end": 111.36,
+      "section": "cta"
+    },
+    {
+      "text": "In the quiz, you will cut three hooks from one lesson.",
+      "start": 111.68,
+      "end": 115.369,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can cut three hooks from one lesson.",
+      "start": 115.369,
+      "end": 120.399,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.399,
+      "end": 121.07,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.07,
+      "end": 124.088,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Your course is a content engine. One lesson can become several Shorts. This lesson is about repurpose one lesson into shorts. Course as content engine. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: cut three hooks from one lesson before you optimize branding or tools. Cut three hooks from one lesson: a tension line, a rule, and a next action. Remember the objective: cut three hooks from one lesson. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Keep each clip under a short attention window. One idea per clip. Remember the objective: cut three hooks from one lesson. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. End with a clear CTA back to the offer or the lesson. Remember the objective: cut three hooks from one lesson. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will cut three hooks from one lesson. In the quiz, you will practice until you can cut three hooks from one lesson. Answer carefully. If you miss one, review the idea and retry."
+}

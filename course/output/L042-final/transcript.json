@@ -1,0 +1,237 @@
+{
+  "lessonId": "L054",
+  "duration": 129.488,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "You need a name and a one-liner people can repeat.",
+      "start": 0.0,
+      "end": 3.522,
+      "section": "hook"
+    },
+    {
+      "text": "Not a branding theater project.",
+      "start": 3.522,
+      "end": 5.283,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about name and one-liner.",
+      "start": 5.283,
+      "end": 7.748,
+      "section": "hook"
+    },
+    {
+      "text": "Memorable without branding theater.",
+      "start": 7.748,
+      "end": 9.157,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.157,
+      "end": 11.623,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.623,
+      "end": 15.145,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.145,
+      "end": 20.428,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.428,
+      "end": 24.302,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write a one-liner before you optimize branding or tools.",
+      "start": 24.302,
+      "end": 28.176,
+      "section": "hook"
+    },
+    {
+      "text": "Pick a simple name you can say on a call without apologizing.",
+      "start": 28.496,
+      "end": 32.87,
+      "section": "name"
+    },
+    {
+      "text": "Remember the objective: write a one-liner.",
+      "start": 32.87,
+      "end": 35.057,
+      "section": "name"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.057,
+      "end": 39.066,
+      "section": "name"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.066,
+      "end": 43.44,
+      "section": "name"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.44,
+      "end": 47.449,
+      "section": "name"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.449,
+      "end": 51.823,
+      "section": "name"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 51.823,
+      "end": 54.374,
+      "section": "name"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.374,
+      "end": 55.832,
+      "section": "name"
+    },
+    {
+      "text": "Write a one-liner: who it helps, what outcome, and how it is different enough.",
+      "start": 56.152,
+      "end": 61.279,
+      "section": "line"
+    },
+    {
+      "text": "Remember the objective: write a one-liner.",
+      "start": 61.279,
+      "end": 63.477,
+      "section": "line"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.477,
+      "end": 67.505,
+      "section": "line"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.505,
+      "end": 71.9,
+      "section": "line"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.9,
+      "end": 75.929,
+      "section": "line"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.929,
+      "end": 80.323,
+      "section": "line"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.323,
+      "end": 82.887,
+      "section": "line"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.887,
+      "end": 84.352,
+      "section": "line"
+    },
+    {
+      "text": "If a friend cannot repeat it after one hearing, shorten it.",
+      "start": 84.672,
+      "end": 88.803,
+      "section": "test"
+    },
+    {
+      "text": "Remember the objective: write a one-liner.",
+      "start": 88.803,
+      "end": 91.057,
+      "section": "test"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 91.057,
+      "end": 95.188,
+      "section": "test"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 95.188,
+      "end": 99.695,
+      "section": "test"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.695,
+      "end": 103.826,
+      "section": "test"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.826,
+      "end": 108.333,
+      "section": "test"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 108.333,
+      "end": 110.962,
+      "section": "test"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.962,
+      "end": 112.464,
+      "section": "test"
+    },
+    {
+      "text": "In the quiz, you will write a one-liner.",
+      "start": 112.784,
+      "end": 115.427,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write a one-liner.",
+      "start": 115.427,
+      "end": 119.392,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 119.392,
+      "end": 120.053,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 120.053,
+      "end": 123.027,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 123.027,
+      "end": 126.992,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "You need a name and a one-liner people can repeat. Not a branding theater project. This lesson is about name and one-liner. Memorable without branding theater. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write a one-liner before you optimize branding or tools. Pick a simple name you can say on a call without apologizing. Remember the objective: write a one-liner. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write a one-liner: who it helps, what outcome, and how it is different enough. Remember the objective: write a one-liner. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. If a friend cannot repeat it after one hearing, shorten it. Remember the objective: write a one-liner. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write a one-liner. In the quiz, you will practice until you can write a one-liner. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

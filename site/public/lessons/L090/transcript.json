@@ -1,0 +1,243 @@
+{
+  "lessonId": "L014",
+  "duration": 131.048,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Roadmap step six: talk to ten humans.",
+      "start": 0.0,
+      "end": 2.646,
+      "section": "hook"
+    },
+    {
+      "text": "Pages without conversations stall.",
+      "start": 2.646,
+      "end": 4.158,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about talk to 10 humans.",
+      "start": 4.158,
+      "end": 7.182,
+      "section": "hook"
+    },
+    {
+      "text": "Roadmap step 6.",
+      "start": 7.182,
+      "end": 8.316,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.316,
+      "end": 10.962,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.962,
+      "end": 14.742,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.742,
+      "end": 20.412,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.412,
+      "end": 24.57,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: plan ten conversations before you optimize branding or tools.",
+      "start": 24.57,
+      "end": 28.728,
+      "section": "hook"
+    },
+    {
+      "text": "Plan ten conversations: who, channel, ask, and what you will learn.",
+      "start": 29.048,
+      "end": 33.318,
+      "section": "plan"
+    },
+    {
+      "text": "Remember the objective: plan ten conversations.",
+      "start": 33.318,
+      "end": 35.648,
+      "section": "plan"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.648,
+      "end": 39.918,
+      "section": "plan"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.918,
+      "end": 44.577,
+      "section": "plan"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.577,
+      "end": 48.847,
+      "section": "plan"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.847,
+      "end": 53.506,
+      "section": "plan"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.506,
+      "end": 56.223,
+      "section": "plan"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 56.223,
+      "end": 57.776,
+      "section": "plan"
+    },
+    {
+      "text": "Ask about the problem and whether your offer would help.",
+      "start": 58.096,
+      "end": 61.808,
+      "section": "ask"
+    },
+    {
+      "text": "Remember the objective: plan ten conversations.",
+      "start": 61.808,
+      "end": 64.035,
+      "section": "ask"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 64.035,
+      "end": 68.118,
+      "section": "ask"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 68.118,
+      "end": 72.572,
+      "section": "ask"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.572,
+      "end": 76.655,
+      "section": "ask"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.655,
+      "end": 81.109,
+      "section": "ask"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.109,
+      "end": 83.707,
+      "section": "ask"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 83.707,
+      "end": 85.192,
+      "section": "ask"
+    },
+    {
+      "text": "Log each talk.",
+      "start": 85.512,
+      "end": 86.678,
+      "section": "log"
+    },
+    {
+      "text": "Patterns beat opinions.",
+      "start": 86.678,
+      "end": 87.843,
+      "section": "log"
+    },
+    {
+      "text": "Remember the objective: plan ten conversations.",
+      "start": 87.843,
+      "end": 90.174,
+      "section": "log"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.174,
+      "end": 94.448,
+      "section": "log"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.448,
+      "end": 99.11,
+      "section": "log"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.11,
+      "end": 103.384,
+      "section": "log"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.384,
+      "end": 108.046,
+      "section": "log"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 108.046,
+      "end": 110.766,
+      "section": "log"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.766,
+      "end": 112.32,
+      "section": "log"
+    },
+    {
+      "text": "In the quiz, you will plan ten conversations.",
+      "start": 112.64,
+      "end": 115.6,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can plan ten conversations.",
+      "start": 115.6,
+      "end": 120.041,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.041,
+      "end": 120.781,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 120.781,
+      "end": 124.111,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 124.111,
+      "end": 128.552,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Roadmap step six: talk to ten humans. Pages without conversations stall. This lesson is about talk to 10 humans. Roadmap step 6. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: plan ten conversations before you optimize branding or tools. Plan ten conversations: who, channel, ask, and what you will learn. Remember the objective: plan ten conversations. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Ask about the problem and whether your offer would help. Remember the objective: plan ten conversations. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Log each talk. Patterns beat opinions. Remember the objective: plan ten conversations. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will plan ten conversations. In the quiz, you will practice until you can plan ten conversations. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

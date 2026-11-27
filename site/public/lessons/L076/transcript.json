@@ -1,0 +1,237 @@
+{
+  "lessonId": "L088",
+  "duration": 130.952,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Content ops means batch recording once, then many cuts.",
+      "start": 0.0,
+      "end": 3.292,
+      "section": "hook"
+    },
+    {
+      "text": "Do not live in endless one-offs.",
+      "start": 3.292,
+      "end": 5.487,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about content that sells (ops).",
+      "start": 5.487,
+      "end": 8.413,
+      "section": "hook"
+    },
+    {
+      "text": "Batch recording \u2192 many cuts.",
+      "start": 8.413,
+      "end": 10.242,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.242,
+      "end": 12.802,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.802,
+      "end": 16.46,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.46,
+      "end": 21.947,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.947,
+      "end": 25.971,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: plan one batch session before you optimize branding or tools.",
+      "start": 25.971,
+      "end": 30.36,
+      "section": "hook"
+    },
+    {
+      "text": "Plan one batch session: topics, hooks, and a finish time.",
+      "start": 30.68,
+      "end": 34.406,
+      "section": "batch"
+    },
+    {
+      "text": "Remember the objective: plan one batch session.",
+      "start": 34.406,
+      "end": 37.015,
+      "section": "batch"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.015,
+      "end": 41.114,
+      "section": "batch"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.114,
+      "end": 45.586,
+      "section": "batch"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.586,
+      "end": 49.685,
+      "section": "batch"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.685,
+      "end": 54.157,
+      "section": "batch"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.157,
+      "end": 56.765,
+      "section": "batch"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 56.765,
+      "end": 58.256,
+      "section": "batch"
+    },
+    {
+      "text": "From one batch, cut multiple clips for outreach and posts.",
+      "start": 58.576,
+      "end": 62.345,
+      "section": "cut"
+    },
+    {
+      "text": "Remember the objective: plan one batch session.",
+      "start": 62.345,
+      "end": 64.983,
+      "section": "cut"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 64.983,
+      "end": 69.128,
+      "section": "cut"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.128,
+      "end": 73.651,
+      "section": "cut"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.651,
+      "end": 77.796,
+      "section": "cut"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.796,
+      "end": 82.318,
+      "section": "cut"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 82.318,
+      "end": 84.957,
+      "section": "cut"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.957,
+      "end": 86.464,
+      "section": "cut"
+    },
+    {
+      "text": "Put the batch on the calendar like delivery work.",
+      "start": 86.784,
+      "end": 89.994,
+      "section": "cadence"
+    },
+    {
+      "text": "Remember the objective: plan one batch session.",
+      "start": 89.994,
+      "end": 92.491,
+      "section": "cadence"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.491,
+      "end": 96.415,
+      "section": "cadence"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.415,
+      "end": 100.696,
+      "section": "cadence"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 100.696,
+      "end": 104.62,
+      "section": "cadence"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 104.62,
+      "end": 108.9,
+      "section": "cadence"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 108.9,
+      "end": 111.397,
+      "section": "cadence"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.397,
+      "end": 112.824,
+      "section": "cadence"
+    },
+    {
+      "text": "In the quiz, you will plan one batch session.",
+      "start": 113.144,
+      "end": 116.206,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can plan one batch session.",
+      "start": 116.206,
+      "end": 120.63,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.63,
+      "end": 121.31,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.31,
+      "end": 124.373,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 124.373,
+      "end": 128.456,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Content ops means batch recording once, then many cuts. Do not live in endless one-offs. This lesson is about content that sells (ops). Batch recording \u2192 many cuts. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: plan one batch session before you optimize branding or tools. Plan one batch session: topics, hooks, and a finish time. Remember the objective: plan one batch session. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. From one batch, cut multiple clips for outreach and posts. Remember the objective: plan one batch session. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Put the batch on the calendar like delivery work. Remember the objective: plan one batch session. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will plan one batch session. In the quiz, you will practice until you can plan one batch session. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

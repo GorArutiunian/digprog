@@ -1,0 +1,19 @@
+{
+  "id": "L089",
+  "slug": "tiny-landing-page",
+  "title": "Tiny landing page",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Outline landing sections",
+  "durationSeconds": 130.28,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L089DataCamp",
+  "assets": {
+    "video": "/lessons/L089/video.mp4",
+    "poster": "/lessons/L089/poster.jpg",
+    "captionsVtt": "/lessons/L089/captions.vtt",
+    "captionsSrt": "/lessons/L089/captions.srt",
+    "transcript": "/lessons/L089/transcript.json"
+  },
+  "sourceLessonId": "L089"
+}

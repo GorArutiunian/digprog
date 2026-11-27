@@ -1,0 +1,24 @@
+{
+  "id": "L034",
+  "slug": "personal-idea-kill-list",
+  "title": "Personal: idea kill list",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Complete kill/keep sheet",
+  "durationSeconds": 137.072,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L034DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L034-final/L034-Personal-idea-kill-list.mp4",
+    "poster": "output/L034-final/poster.jpg",
+    "voice": "output/L034-final/voice-l034-final.mp3",
+    "captionsSrt": "output/L034-final/L034.srt",
+    "captionsVtt": "output/L034-final/L034.vtt",
+    "transcript": "output/L034-final/transcript.json",
+    "timeline": "output/L034-final/timeline.json",
+    "quiz": "lessons/L034/quiz.json",
+    "storyboard": "lessons/L034/storyboard.md"
+  },
+  "sourceLessonId": "L034"
+}

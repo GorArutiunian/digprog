@@ -1,0 +1,19 @@
+{
+  "id": "L074",
+  "slug": "team-of-three-pattern",
+  "title": "Team of three pattern",
+  "module": "05 \u00b7 Systems",
+  "objective": "Assign roles or solo blocks",
+  "durationSeconds": 130.496,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L074DataCamp",
+  "assets": {
+    "video": "/lessons/L074/video.mp4",
+    "poster": "/lessons/L074/poster.jpg",
+    "captionsVtt": "/lessons/L074/captions.vtt",
+    "captionsSrt": "/lessons/L074/captions.srt",
+    "transcript": "/lessons/L074/transcript.json"
+  },
+  "sourceLessonId": "L074"
+}

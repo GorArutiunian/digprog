@@ -1,0 +1,237 @@
+{
+  "lessonId": "L067",
+  "duration": 129.896,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Discovery before pitch.",
+      "start": 0.0,
+      "end": 1.107,
+      "section": "hook"
+    },
+    {
+      "text": "Pain, impact, urgency - then you earn the ask.",
+      "start": 1.107,
+      "end": 4.429,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about discovery before pitch.",
+      "start": 4.429,
+      "end": 7.013,
+      "section": "hook"
+    },
+    {
+      "text": "Pain \u2192 impact \u2192 urgency.",
+      "start": 7.013,
+      "end": 8.859,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.859,
+      "end": 11.443,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.443,
+      "end": 15.134,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.134,
+      "end": 20.67,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.67,
+      "end": 24.731,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write five discovery questions before you optimize branding or tools.",
+      "start": 24.731,
+      "end": 29.16,
+      "section": "hook"
+    },
+    {
+      "text": "Write five discovery questions that reveal what hurts, what it costs, and why now.",
+      "start": 29.48,
+      "end": 34.727,
+      "section": "five"
+    },
+    {
+      "text": "Remember the objective: write five discovery questions.",
+      "start": 34.727,
+      "end": 37.35,
+      "section": "five"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.35,
+      "end": 41.473,
+      "section": "five"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.473,
+      "end": 45.97,
+      "section": "five"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.97,
+      "end": 50.092,
+      "section": "five"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.092,
+      "end": 54.59,
+      "section": "five"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.59,
+      "end": 57.213,
+      "section": "five"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.213,
+      "end": 58.712,
+      "section": "five"
+    },
+    {
+      "text": "Ask, then shut up.",
+      "start": 59.032,
+      "end": 60.564,
+      "section": "listen"
+    },
+    {
+      "text": "Notes beat clever rebuttals.",
+      "start": 60.564,
+      "end": 62.096,
+      "section": "listen"
+    },
+    {
+      "text": "Remember the objective: write five discovery questions.",
+      "start": 62.096,
+      "end": 64.777,
+      "section": "listen"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 64.777,
+      "end": 68.99,
+      "section": "listen"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 68.99,
+      "end": 73.586,
+      "section": "listen"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.586,
+      "end": 77.799,
+      "section": "listen"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.799,
+      "end": 82.395,
+      "section": "listen"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 82.395,
+      "end": 85.076,
+      "section": "listen"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 85.076,
+      "end": 86.608,
+      "section": "listen"
+    },
+    {
+      "text": "Only after discovery do you bridge to your offer.",
+      "start": 86.928,
+      "end": 90.322,
+      "section": "bridge"
+    },
+    {
+      "text": "Remember the objective: write five discovery questions.",
+      "start": 90.322,
+      "end": 92.962,
+      "section": "bridge"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.962,
+      "end": 97.11,
+      "section": "bridge"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 97.11,
+      "end": 101.635,
+      "section": "bridge"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 101.635,
+      "end": 105.783,
+      "section": "bridge"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 105.783,
+      "end": 110.308,
+      "section": "bridge"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 110.308,
+      "end": 112.948,
+      "section": "bridge"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 112.948,
+      "end": 114.456,
+      "section": "bridge"
+    },
+    {
+      "text": "In the quiz, you will write five discovery questions.",
+      "start": 114.776,
+      "end": 118.219,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write five discovery questions.",
+      "start": 118.219,
+      "end": 123.192,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 123.192,
+      "end": 123.957,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.957,
+      "end": 127.4,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Discovery before pitch. Pain, impact, urgency - then you earn the ask. This lesson is about discovery before pitch. Pain \u2192 impact \u2192 urgency. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write five discovery questions before you optimize branding or tools. Write five discovery questions that reveal what hurts, what it costs, and why now. Remember the objective: write five discovery questions. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Ask, then shut up. Notes beat clever rebuttals. Remember the objective: write five discovery questions. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Only after discovery do you bridge to your offer. Remember the objective: write five discovery questions. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write five discovery questions. In the quiz, you will practice until you can write five discovery questions. Answer carefully. If you miss one, review the idea and retry."
+}

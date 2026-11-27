@@ -1,0 +1,207 @@
+{
+  "lessonId": "L061",
+  "title": "Practice \u00b7 Discovery before pitch",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Discovery comes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before the pitch"
+        },
+        {
+          "id": "b",
+          "text": "After the hard close only"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only in ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Reveal:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pain, impact, urgency"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only price first always"
+        },
+        {
+          "id": "d",
+          "text": "Only your bio"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write five discovery questions"
+        },
+        {
+          "id": "b",
+          "text": "Pitch first always"
+        },
+        {
+          "id": "c",
+          "text": "Skip listening"
+        },
+        {
+          "id": "d",
+          "text": "Avoid notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "After you ask:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Shut up and take notes"
+        },
+        {
+          "id": "b",
+          "text": "Rebut immediately"
+        },
+        {
+          "id": "c",
+          "text": "Pitch harder"
+        },
+        {
+          "id": "d",
+          "text": "Leave"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Bridge to offer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Only after discovery"
+        },
+        {
+          "id": "b",
+          "text": "In message zero always"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "With guilt"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Write questions about:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What hurts, what it costs, why now"
+        },
+        {
+          "id": "b",
+          "text": "Favorite colors"
+        },
+        {
+          "id": "c",
+          "text": "Logo taste"
+        },
+        {
+          "id": "d",
+          "text": "Weather only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write five discovery questions"
+        },
+        {
+          "id": "b",
+          "text": "You pitched first"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write five questions"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Pitch first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

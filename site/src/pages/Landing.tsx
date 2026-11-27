@@ -265,10 +265,7 @@ export function Landing() {
                 <h3>{plan.name}</h3>
                 <p className="price">{plan.price}</p>
                 <p className="price-waitlist">
-                  Waitlist:{" "}
-                  <strong>
-                    {plan.id === "simple" ? "$34" : plan.id === "medium" ? "$104" : "$209"}
-                  </strong>
+                  Waitlist: <strong>{plan.waitlistPrice}</strong>
                 </p>
                 <p className="price-blurb">{plan.blurb}</p>
                 <ul>
@@ -276,8 +273,8 @@ export function Landing() {
                     <li key={f}>{f}</li>
                   ))}
                 </ul>
-                <a href="#join" className="btn btn-primary">
-                  Save my 30%
+                <a href={`/checkout?plan=${plan.id}`} className="btn btn-primary">
+                  {plan.cta}
                 </a>
               </article>
             ))}

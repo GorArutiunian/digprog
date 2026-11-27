@@ -1,0 +1,19 @@
+{
+  "id": "L100",
+  "slug": "course-close-waitlist-alumni-perk",
+  "title": "Course close + waitlist alumni perk",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Note alumni perk",
+  "durationSeconds": 128.552,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L100DataCamp",
+  "assets": {
+    "video": "/lessons/L100/video.mp4",
+    "poster": "/lessons/L100/poster.jpg",
+    "captionsVtt": "/lessons/L100/captions.vtt",
+    "captionsSrt": "/lessons/L100/captions.srt",
+    "transcript": "/lessons/L100/transcript.json"
+  },
+  "sourceLessonId": "L100"
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L044",
+  "title": "Practice \u00b7 Pricing that feels fair",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Price before:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The product is perfect"
+        },
+        {
+          "id": "b",
+          "text": "You talk to anyone"
+        },
+        {
+          "id": "c",
+          "text": "You write a promise"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A test price teaches faster than:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Free forever"
+        },
+        {
+          "id": "b",
+          "text": "One conversation"
+        },
+        {
+          "id": "c",
+          "text": "One quiz"
+        },
+        {
+          "id": "d",
+          "text": "One note"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Set a test price"
+        },
+        {
+          "id": "b",
+          "text": "Avoid saying a number"
+        },
+        {
+          "id": "c",
+          "text": "Undercut forever"
+        },
+        {
+          "id": "d",
+          "text": "Skip asking"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Anchor to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cost of the problem"
+        },
+        {
+          "id": "b",
+          "text": "Your anxiety hours"
+        },
+        {
+          "id": "c",
+          "text": "Follower count"
+        },
+        {
+          "id": "d",
+          "text": "Font cost"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "After you say the number:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Silence is data"
+        },
+        {
+          "id": "b",
+          "text": "Panic and retract always"
+        },
+        {
+          "id": "c",
+          "text": "Apologize for existing"
+        },
+        {
+          "id": "d",
+          "text": "Change the subject to logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Raise price with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Evidence"
+        },
+        {
+          "id": "b",
+          "text": "Random vibes"
+        },
+        {
+          "id": "c",
+          "text": "Fear only"
+        },
+        {
+          "id": "d",
+          "text": "No conversations"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can set a test price"
+        },
+        {
+          "id": "b",
+          "text": "You avoided pricing"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then set your test price"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stay free forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

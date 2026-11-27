@@ -1,0 +1,24 @@
+{
+  "id": "L028",
+  "slug": "buyer-language-library",
+  "title": "Buyer language library",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Collect 10 phrases",
+  "durationSeconds": 132.344,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L028DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L028-final/L028-Buyer-language-library.mp4",
+    "poster": "output/L028-final/poster.jpg",
+    "voice": "output/L028-final/voice-l028-final.mp3",
+    "captionsSrt": "output/L028-final/L028.srt",
+    "captionsVtt": "output/L028-final/L028.vtt",
+    "transcript": "output/L028-final/transcript.json",
+    "timeline": "output/L028-final/timeline.json",
+    "quiz": "lessons/L028/quiz.json",
+    "storyboard": "lessons/L028/storyboard.md"
+  },
+  "sourceLessonId": "L028"
+}

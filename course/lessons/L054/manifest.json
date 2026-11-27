@@ -1,0 +1,24 @@
+{
+  "id": "L054",
+  "slug": "sheet-crm",
+  "title": "Sheet CRM",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Build a 20-row CRM",
+  "durationSeconds": 127.64,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L054DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L054-final/L054-Sheet-CRM.mp4",
+    "poster": "output/L054-final/poster.jpg",
+    "voice": "output/L054-final/voice-l054-final.mp3",
+    "captionsSrt": "output/L054-final/L054.srt",
+    "captionsVtt": "output/L054-final/L054.vtt",
+    "transcript": "output/L054-final/transcript.json",
+    "timeline": "output/L054-final/timeline.json",
+    "quiz": "lessons/L054/quiz.json",
+    "storyboard": "lessons/L054/storyboard.md"
+  },
+  "sourceLessonId": "L054"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L041",
+  "slug": "refund-rules-you-can-honor",
+  "title": "Refund rules you can honor",
+  "module": "03 \u00b7 Offer",
+  "objective": "Write a refund rule",
+  "durationSeconds": 124.04,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L041DataCamp",
+  "assets": {
+    "video": "/lessons/L041/video.mp4",
+    "poster": "/lessons/L041/poster.jpg",
+    "captionsVtt": "/lessons/L041/captions.vtt",
+    "captionsSrt": "/lessons/L041/captions.srt",
+    "transcript": "/lessons/L041/transcript.json"
+  },
+  "sourceLessonId": "L041"
+}

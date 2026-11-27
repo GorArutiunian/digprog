@@ -1,0 +1,207 @@
+{
+  "lessonId": "L008",
+  "title": "Practice \u00b7 How quizzes unlock progress",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "In this course, practice is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The product"
+        },
+        {
+          "id": "b",
+          "text": "Optional fluff"
+        },
+        {
+          "id": "c",
+          "text": "A punishment"
+        },
+        {
+          "id": "d",
+          "text": "Only for beginners"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Quizzes force:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Retrieval \u2014 using the idea"
+        },
+        {
+          "id": "b",
+          "text": "Passive recognition only"
+        },
+        {
+          "id": "c",
+          "text": "Longer binge sessions"
+        },
+        {
+          "id": "d",
+          "text": "Skipping outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Progress unlocks when you:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pass the quiz"
+        },
+        {
+          "id": "b",
+          "text": "Finish the video only"
+        },
+        {
+          "id": "c",
+          "text": "Like the thumbnail"
+        },
+        {
+          "id": "d",
+          "text": "Skip practice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Explain why quizzes gate progress"
+        },
+        {
+          "id": "b",
+          "text": "Avoid all quizzes"
+        },
+        {
+          "id": "c",
+          "text": "Binge more videos"
+        },
+        {
+          "id": "d",
+          "text": "Hide from practice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A missed quiz means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Review, then retry"
+        },
+        {
+          "id": "b",
+          "text": "Quit the course"
+        },
+        {
+          "id": "c",
+          "text": "Skip forever"
+        },
+        {
+          "id": "d",
+          "text": "Buy another course"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "The gate protects you from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Bingeing and calling it work"
+        },
+        {
+          "id": "b",
+          "text": "Learning"
+        },
+        {
+          "id": "c",
+          "text": "Outreach"
+        },
+        {
+          "id": "d",
+          "text": "Writing notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can explain why quizzes gate progress"
+        },
+        {
+          "id": "b",
+          "text": "You watched twice"
+        },
+        {
+          "id": "c",
+          "text": "You muted audio"
+        },
+        {
+          "id": "d",
+          "text": "You skipped ahead"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then unlock the next lesson"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Tool hop"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

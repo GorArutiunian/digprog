@@ -1,0 +1,19 @@
+{
+  "id": "L064",
+  "slug": "case-service-first-sale-path",
+  "title": "Case: service first sale path",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Map service path",
+  "durationSeconds": 130.904,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L064DataCamp",
+  "assets": {
+    "video": "/lessons/L064/video.mp4",
+    "poster": "/lessons/L064/poster.jpg",
+    "captionsVtt": "/lessons/L064/captions.vtt",
+    "captionsSrt": "/lessons/L064/captions.srt",
+    "transcript": "/lessons/L064/transcript.json"
+  },
+  "sourceLessonId": "L064"
+}

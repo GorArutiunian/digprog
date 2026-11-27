@@ -1,0 +1,19 @@
+{
+  "id": "L081",
+  "slug": "personal-operating-system-sheet",
+  "title": "Personal: operating system sheet",
+  "module": "05 \u00b7 Systems",
+  "objective": "Fill weekly OS",
+  "durationSeconds": 129.464,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L081DataCamp",
+  "assets": {
+    "video": "/lessons/L081/video.mp4",
+    "poster": "/lessons/L081/poster.jpg",
+    "captionsVtt": "/lessons/L081/captions.vtt",
+    "captionsSrt": "/lessons/L081/captions.srt",
+    "transcript": "/lessons/L081/transcript.json"
+  },
+  "sourceLessonId": "L081"
+}

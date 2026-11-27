@@ -1,0 +1,207 @@
+{
+  "lessonId": "L082",
+  "title": "Practice \u00b7 Content that sells (ops)",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Content ops means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Batch once, many cuts"
+        },
+        {
+          "id": "b",
+          "text": "Endless one-offs only"
+        },
+        {
+          "id": "c",
+          "text": "No calendar"
+        },
+        {
+          "id": "d",
+          "text": "No hooks"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Plan a batch with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Topics, hooks, finish time"
+        },
+        {
+          "id": "b",
+          "text": "No end time"
+        },
+        {
+          "id": "c",
+          "text": "Only vibes"
+        },
+        {
+          "id": "d",
+          "text": "Only gear shopping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Plan one batch session"
+        },
+        {
+          "id": "b",
+          "text": "Live in one-offs"
+        },
+        {
+          "id": "c",
+          "text": "Skip cutting"
+        },
+        {
+          "id": "d",
+          "text": "Avoid calendar"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "From one batch:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cut multiple clips"
+        },
+        {
+          "id": "b",
+          "text": "Ship nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only archive"
+        },
+        {
+          "id": "d",
+          "text": "Only rewatch raw"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Put batch on calendar like:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Delivery work"
+        },
+        {
+          "id": "b",
+          "text": "Optional fluff"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only holidays"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Avoid:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Endless one-offs"
+        },
+        {
+          "id": "b",
+          "text": "Batching"
+        },
+        {
+          "id": "c",
+          "text": "Hooks"
+        },
+        {
+          "id": "d",
+          "text": "Finish times"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can plan one batch session"
+        },
+        {
+          "id": "b",
+          "text": "You stayed one-off only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then plan a batch"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip batching"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

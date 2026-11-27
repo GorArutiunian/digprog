@@ -1,0 +1,207 @@
+{
+  "lessonId": "L048",
+  "title": "Practice \u00b7 Name and one-liner",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "You need:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A name and a one-liner"
+        },
+        {
+          "id": "b",
+          "text": "A full brand system first"
+        },
+        {
+          "id": "c",
+          "text": "A logo animation"
+        },
+        {
+          "id": "d",
+          "text": "A moodboard only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "The name should be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sayable on a call without apologizing"
+        },
+        {
+          "id": "b",
+          "text": "Impossible to pronounce"
+        },
+        {
+          "id": "c",
+          "text": "A legal essay"
+        },
+        {
+          "id": "d",
+          "text": "Hidden"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write a one-liner"
+        },
+        {
+          "id": "b",
+          "text": "Start branding theater"
+        },
+        {
+          "id": "c",
+          "text": "Skip the who"
+        },
+        {
+          "id": "d",
+          "text": "Avoid outcomes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A one-liner includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, outcome, difference"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only price"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "If a friend cannot repeat it:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Shorten it"
+        },
+        {
+          "id": "b",
+          "text": "Make it longer"
+        },
+        {
+          "id": "c",
+          "text": "Add jargon"
+        },
+        {
+          "id": "d",
+          "text": "Abandon naming"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Avoid:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Branding theater before a clear line"
+        },
+        {
+          "id": "b",
+          "text": "A simple name"
+        },
+        {
+          "id": "c",
+          "text": "A testable line"
+        },
+        {
+          "id": "d",
+          "text": "Talking to humans"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write a one-liner"
+        },
+        {
+          "id": "b",
+          "text": "You only made logos"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your one-liner"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

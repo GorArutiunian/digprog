@@ -1,0 +1,231 @@
+{
+  "lessonId": "L069",
+  "duration": 125.816,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Choose your close based on the relationship.",
+      "start": 0.0,
+      "end": 2.466,
+      "section": "hook"
+    },
+    {
+      "text": "Soft and hard both have a place.",
+      "start": 2.466,
+      "end": 4.932,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about soft close vs hard close.",
+      "start": 4.932,
+      "end": 8.103,
+      "section": "hook"
+    },
+    {
+      "text": "Choose based on relationship.",
+      "start": 8.103,
+      "end": 9.512,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.512,
+      "end": 11.978,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.978,
+      "end": 15.501,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.501,
+      "end": 20.785,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.785,
+      "end": 24.661,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write both closes before you optimize branding or tools.",
+      "start": 24.661,
+      "end": 28.536,
+      "section": "hook"
+    },
+    {
+      "text": "A soft close invites a next step without pressure.",
+      "start": 28.856,
+      "end": 32.242,
+      "section": "soft"
+    },
+    {
+      "text": "Example: want me to send the one-pager?",
+      "start": 32.242,
+      "end": 34.876,
+      "section": "soft"
+    },
+    {
+      "text": "Remember the objective: write both closes.",
+      "start": 34.876,
+      "end": 37.133,
+      "section": "soft"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.133,
+      "end": 41.272,
+      "section": "soft"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.272,
+      "end": 45.787,
+      "section": "soft"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.787,
+      "end": 49.925,
+      "section": "soft"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.925,
+      "end": 54.44,
+      "section": "soft"
+    },
+    {
+      "text": "A hard close asks for the decision.",
+      "start": 54.76,
+      "end": 57.245,
+      "section": "hard"
+    },
+    {
+      "text": "Example: shall we start this week at this price?",
+      "start": 57.245,
+      "end": 60.441,
+      "section": "hard"
+    },
+    {
+      "text": "Remember the objective: write both closes.",
+      "start": 60.441,
+      "end": 62.571,
+      "section": "hard"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 62.571,
+      "end": 66.477,
+      "section": "hard"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 66.477,
+      "end": 70.738,
+      "section": "hard"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.738,
+      "end": 74.643,
+      "section": "hard"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 74.643,
+      "end": 78.904,
+      "section": "hard"
+    },
+    {
+      "text": "Write both closes now.",
+      "start": 79.224,
+      "end": 80.748,
+      "section": "write"
+    },
+    {
+      "text": "Use soft early, hard when discovery is done.",
+      "start": 80.748,
+      "end": 83.797,
+      "section": "write"
+    },
+    {
+      "text": "Remember the objective: write both closes.",
+      "start": 83.797,
+      "end": 86.084,
+      "section": "write"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 86.084,
+      "end": 90.276,
+      "section": "write"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 90.276,
+      "end": 94.85,
+      "section": "write"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 94.85,
+      "end": 99.042,
+      "section": "write"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 99.042,
+      "end": 103.616,
+      "section": "write"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 103.616,
+      "end": 106.284,
+      "section": "write"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 106.284,
+      "end": 107.808,
+      "section": "write"
+    },
+    {
+      "text": "In the quiz, you will write both closes.",
+      "start": 108.128,
+      "end": 110.954,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write both closes.",
+      "start": 110.954,
+      "end": 115.194,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 115.194,
+      "end": 115.901,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 115.901,
+      "end": 119.08,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 119.08,
+      "end": 123.32,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Choose your close based on the relationship. Soft and hard both have a place. This lesson is about soft close vs hard close. Choose based on relationship. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write both closes before you optimize branding or tools. A soft close invites a next step without pressure. Example: want me to send the one-pager? Remember the objective: write both closes. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. A hard close asks for the decision. Example: shall we start this week at this price? Remember the objective: write both closes. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Write both closes now. Use soft early, hard when discovery is done. Remember the objective: write both closes. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write both closes. In the quiz, you will practice until you can write both closes. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

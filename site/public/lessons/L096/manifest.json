@@ -1,0 +1,19 @@
+{
+  "id": "L096",
+  "slug": "what-to-build-next-and-not",
+  "title": "What to build next (and not)",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Choose next experiment",
+  "durationSeconds": 122.864,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L096DataCamp",
+  "assets": {
+    "video": "/lessons/L096/video.mp4",
+    "poster": "/lessons/L096/poster.jpg",
+    "captionsVtt": "/lessons/L096/captions.vtt",
+    "captionsSrt": "/lessons/L096/captions.srt",
+    "transcript": "/lessons/L096/transcript.json"
+  },
+  "sourceLessonId": "L096"
+}

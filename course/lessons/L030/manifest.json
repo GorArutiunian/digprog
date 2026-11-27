@@ -1,0 +1,24 @@
+{
+  "id": "L030",
+  "slug": "validation-in-48-hours",
+  "title": "Validation in 48 hours",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Plan five conversations",
+  "durationSeconds": 139.04,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L030DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L030-final/L030-Validation-in-48-hours.mp4",
+    "poster": "output/L030-final/poster.jpg",
+    "voice": "output/L030-final/voice-l030-final.mp3",
+    "captionsSrt": "output/L030-final/L030.srt",
+    "captionsVtt": "output/L030-final/L030.vtt",
+    "transcript": "output/L030-final/transcript.json",
+    "timeline": "output/L030-final/timeline.json",
+    "quiz": "lessons/L030/quiz.json",
+    "storyboard": "lessons/L030/storyboard.md"
+  },
+  "sourceLessonId": "L030"
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L027",
+  "title": "Practice \u00b7 Score ideas like an investor",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Score ideas on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Urgency, reachability, delivery speed"
+        },
+        {
+          "id": "b",
+          "text": "Logo beauty only"
+        },
+        {
+          "id": "c",
+          "text": "Your mood"
+        },
+        {
+          "id": "d",
+          "text": "Follower count"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Use a scale of:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One to five"
+        },
+        {
+          "id": "b",
+          "text": "Zero forever"
+        },
+        {
+          "id": "c",
+          "text": "Pass or fail only"
+        },
+        {
+          "id": "d",
+          "text": "Color codes only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Score three ideas 1\u20135"
+        },
+        {
+          "id": "b",
+          "text": "Pick randomly"
+        },
+        {
+          "id": "c",
+          "text": "Inflate every score"
+        },
+        {
+          "id": "d",
+          "text": "Skip scoring"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Highest honest total gets:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fourteen days"
+        },
+        {
+          "id": "b",
+          "text": "Forever with no check"
+        },
+        {
+          "id": "c",
+          "text": "A logo budget"
+        },
+        {
+          "id": "d",
+          "text": "No focus"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Do not inflate scores because:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You like the idea"
+        },
+        {
+          "id": "b",
+          "text": "The math is hard"
+        },
+        {
+          "id": "c",
+          "text": "Investors asked"
+        },
+        {
+          "id": "d",
+          "text": "Quizzes exist"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Equal-feeling ideas become clear when you:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Score them"
+        },
+        {
+          "id": "b",
+          "text": "Ignore them"
+        },
+        {
+          "id": "c",
+          "text": "Brand them first"
+        },
+        {
+          "id": "d",
+          "text": "Automate first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can score three ideas from one to five"
+        },
+        {
+          "id": "b",
+          "text": "You skipped the sheet"
+        },
+        {
+          "id": "c",
+          "text": "You watched twice"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then score three ideas"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

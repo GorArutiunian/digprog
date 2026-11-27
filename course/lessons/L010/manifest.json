@@ -1,0 +1,24 @@
+{
+  "id": "L010",
+  "slug": "your-first-scoreboard",
+  "title": "Your first scoreboard",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Create a one-line weekly scoreboard",
+  "durationSeconds": 130.712,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L010DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L010-final/L010-Your-first-scoreboard.mp4",
+    "poster": "output/L010-final/poster.jpg",
+    "voice": "output/L010-final/voice-l010-final.mp3",
+    "captionsSrt": "output/L010-final/L010.srt",
+    "captionsVtt": "output/L010-final/L010.vtt",
+    "transcript": "output/L010-final/transcript.json",
+    "timeline": "output/L010-final/timeline.json",
+    "quiz": "lessons/L010/quiz.json",
+    "storyboard": "lessons/L010/storyboard.md"
+  },
+  "sourceLessonId": "L010"
+}

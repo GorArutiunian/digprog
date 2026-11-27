@@ -1,0 +1,249 @@
+{
+  "lessonId": "L032",
+  "duration": 131.936,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Interviews feel awkward when you pitch too early.",
+      "start": 0.0,
+      "end": 3.005,
+      "section": "hook"
+    },
+    {
+      "text": "Ask first.",
+      "start": 3.005,
+      "end": 3.756,
+      "section": "hook"
+    },
+    {
+      "text": "Sell later.",
+      "start": 3.756,
+      "end": 4.507,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about interview without awkwardness.",
+      "start": 4.507,
+      "end": 7.136,
+      "section": "hook"
+    },
+    {
+      "text": "Five questions that reveal pain.",
+      "start": 7.136,
+      "end": 9.014,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.014,
+      "end": 11.644,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.644,
+      "end": 15.4,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.4,
+      "end": 21.034,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.034,
+      "end": 25.165,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: run one practice interview script before you optimize branding or tools.",
+      "start": 25.165,
+      "end": 30.048,
+      "section": "hook"
+    },
+    {
+      "text": "Five questions: what is hard, how often, what it costs them, what they tried, and what a win would look like.",
+      "start": 30.368,
+      "end": 37.659,
+      "section": "five"
+    },
+    {
+      "text": "Remember the objective: run one practice interview script.",
+      "start": 37.659,
+      "end": 40.437,
+      "section": "five"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 40.437,
+      "end": 44.256,
+      "section": "five"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 44.256,
+      "end": 48.422,
+      "section": "five"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 48.422,
+      "end": 52.242,
+      "section": "five"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 52.242,
+      "end": 56.408,
+      "section": "five"
+    },
+    {
+      "text": "Run one practice interview script this week.",
+      "start": 56.728,
+      "end": 59.401,
+      "section": "script"
+    },
+    {
+      "text": "Record notes.",
+      "start": 59.401,
+      "end": 60.165,
+      "section": "script"
+    },
+    {
+      "text": "Do not defend your idea.",
+      "start": 60.165,
+      "end": 62.074,
+      "section": "script"
+    },
+    {
+      "text": "Remember the objective: run one practice interview script.",
+      "start": 62.074,
+      "end": 65.129,
+      "section": "script"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 65.129,
+      "end": 69.33,
+      "section": "script"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.33,
+      "end": 73.912,
+      "section": "script"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.912,
+      "end": 78.113,
+      "section": "script"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 78.113,
+      "end": 82.695,
+      "section": "script"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 82.695,
+      "end": 85.369,
+      "section": "script"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 85.369,
+      "end": 86.896,
+      "section": "script"
+    },
+    {
+      "text": "Silence is data.",
+      "start": 87.216,
+      "end": 88.366,
+      "section": "listen"
+    },
+    {
+      "text": "Let them talk.",
+      "start": 88.366,
+      "end": 89.516,
+      "section": "listen"
+    },
+    {
+      "text": "Your job is curiosity, not closing.",
+      "start": 89.516,
+      "end": 91.817,
+      "section": "listen"
+    },
+    {
+      "text": "Remember the objective: run one practice interview script.",
+      "start": 91.817,
+      "end": 94.884,
+      "section": "listen"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 94.884,
+      "end": 99.101,
+      "section": "listen"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 99.101,
+      "end": 103.701,
+      "section": "listen"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 103.701,
+      "end": 107.918,
+      "section": "listen"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.918,
+      "end": 112.519,
+      "section": "listen"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 112.519,
+      "end": 115.202,
+      "section": "listen"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 115.202,
+      "end": 116.736,
+      "section": "listen"
+    },
+    {
+      "text": "In the quiz, you will run one practice interview script.",
+      "start": 117.056,
+      "end": 120.594,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can run one practice interview script.",
+      "start": 120.594,
+      "end": 125.548,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 125.548,
+      "end": 126.256,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 126.256,
+      "end": 129.44,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Interviews feel awkward when you pitch too early. Ask first. Sell later. This lesson is about interview without awkwardness. Five questions that reveal pain. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: run one practice interview script before you optimize branding or tools. Five questions: what is hard, how often, what it costs them, what they tried, and what a win would look like. Remember the objective: run one practice interview script. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Run one practice interview script this week. Record notes. Do not defend your idea. Remember the objective: run one practice interview script. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Silence is data. Let them talk. Your job is curiosity, not closing. Remember the objective: run one practice interview script. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will run one practice interview script. In the quiz, you will practice until you can run one practice interview script. Answer carefully. If you miss one, review the idea and retry."
+}

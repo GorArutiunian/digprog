@@ -1,0 +1,207 @@
+{
+  "lessonId": "L058",
+  "title": "Practice \u00b7 DM scripts that start conversations",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Scripts are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Training wheels to customize"
+        },
+        {
+          "id": "b",
+          "text": "Robotic forever"
+        },
+        {
+          "id": "c",
+          "text": "Illegal"
+        },
+        {
+          "id": "d",
+          "text": "A replacement for listening"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Goal of message one:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A conversation"
+        },
+        {
+          "id": "b",
+          "text": "A hard close only"
+        },
+        {
+          "id": "c",
+          "text": "A novel"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Customize one script"
+        },
+        {
+          "id": "b",
+          "text": "Copy paste blindly"
+        },
+        {
+          "id": "c",
+          "text": "Never send"
+        },
+        {
+          "id": "d",
+          "text": "Skip context"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Customize with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Their context, your one-liner, soft ask"
+        },
+        {
+          "id": "b",
+          "text": "Only spam"
+        },
+        {
+          "id": "c",
+          "text": "Only guilt"
+        },
+        {
+          "id": "d",
+          "text": "No ask"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Scripts die when you:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Never hit send"
+        },
+        {
+          "id": "b",
+          "text": "Customize them"
+        },
+        {
+          "id": "c",
+          "text": "Listen"
+        },
+        {
+          "id": "d",
+          "text": "Follow up"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "After send:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Listen"
+        },
+        {
+          "id": "b",
+          "text": "Pitch harder immediately always"
+        },
+        {
+          "id": "c",
+          "text": "Ignore replies"
+        },
+        {
+          "id": "d",
+          "text": "Delete the CRM"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can customize one script"
+        },
+        {
+          "id": "b",
+          "text": "You never customized"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then customize and send"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Never send"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L018",
+  "title": "Practice \u00b7 Course close + waitlist alumni perk",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Course close means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "DigProg continues via alumni practice and perk"
+        },
+        {
+          "id": "b",
+          "text": "Delete the OS"
+        },
+        {
+          "id": "c",
+          "text": "Stop the scoreboard"
+        },
+        {
+          "id": "d",
+          "text": "Collect unfinished tabs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Note the:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Alumni perk for waitlist and future cohorts"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only a logo"
+        },
+        {
+          "id": "d",
+          "text": "Only a binge badge"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Note alumni perk"
+        },
+        {
+          "id": "b",
+          "text": "Leave unfinished tabs"
+        },
+        {
+          "id": "c",
+          "text": "Drop the plan"
+        },
+        {
+          "id": "d",
+          "text": "Skip shipping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Carry forward:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "OS, scoreboard, thirty-day plan"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only tools"
+        },
+        {
+          "id": "d",
+          "text": "Only redesign ideas"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Close by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Shipping"
+        },
+        {
+          "id": "b",
+          "text": "Collecting tabs"
+        },
+        {
+          "id": "c",
+          "text": "Binge only"
+        },
+        {
+          "id": "d",
+          "text": "Buying logos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Write where to find:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The alumni perk"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only secret links you invent"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can note the alumni perk"
+        },
+        {
+          "id": "b",
+          "text": "You left unfinished tabs"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then note the alumni perk"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stop shipping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

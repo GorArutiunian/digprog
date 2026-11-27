@@ -1,0 +1,19 @@
+{
+  "id": "L098",
+  "slug": "final-oral-teach-the-framework",
+  "title": "Final oral: teach the framework",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Teach aloud once",
+  "durationSeconds": 133.784,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L098DataCamp",
+  "assets": {
+    "video": "/lessons/L098/video.mp4",
+    "poster": "/lessons/L098/poster.jpg",
+    "captionsVtt": "/lessons/L098/captions.vtt",
+    "captionsSrt": "/lessons/L098/captions.srt",
+    "transcript": "/lessons/L098/transcript.json"
+  },
+  "sourceLessonId": "L098"
+}

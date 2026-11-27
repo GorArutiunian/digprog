@@ -1,0 +1,19 @@
+{
+  "id": "L087",
+  "slug": "draft-a-one-line-offer",
+  "title": "Draft a one-line offer",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Write one-line offer",
+  "durationSeconds": 124.352,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L087DataCamp",
+  "assets": {
+    "video": "/lessons/L087/video.mp4",
+    "poster": "/lessons/L087/poster.jpg",
+    "captionsVtt": "/lessons/L087/captions.vtt",
+    "captionsSrt": "/lessons/L087/captions.srt",
+    "transcript": "/lessons/L087/transcript.json"
+  },
+  "sourceLessonId": "L087"
+}

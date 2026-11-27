@@ -1,0 +1,24 @@
+{
+  "id": "L075",
+  "slug": "free-stack-vs-paid-stack",
+  "title": "Free stack vs paid stack",
+  "module": "05 \u00b7 Systems",
+  "objective": "Audit your stack",
+  "durationSeconds": 126.392,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L075DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L075-final/L075-Free-stack-vs-paid-stack.mp4",
+    "poster": "output/L075-final/poster.jpg",
+    "voice": "output/L075-final/voice-l075-final.mp3",
+    "captionsSrt": "output/L075-final/L075.srt",
+    "captionsVtt": "output/L075-final/L075.vtt",
+    "transcript": "output/L075-final/transcript.json",
+    "timeline": "output/L075-final/timeline.json",
+    "quiz": "lessons/L075/quiz.json",
+    "storyboard": "lessons/L075/storyboard.md"
+  },
+  "sourceLessonId": "L075"
+}

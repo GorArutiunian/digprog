@@ -1,0 +1,237 @@
+{
+  "lessonId": "L035",
+  "duration": 133.472,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Too broad and no one feels spoken to.",
+      "start": 0.0,
+      "end": 2.745,
+      "section": "hook"
+    },
+    {
+      "text": "Too narrow and you cannot find anyone.",
+      "start": 2.745,
+      "end": 5.148,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about niche vs broad first offer.",
+      "start": 5.148,
+      "end": 8.236,
+      "section": "hook"
+    },
+    {
+      "text": "Narrow enough to sell, wide enough to find.",
+      "start": 8.236,
+      "end": 10.982,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.982,
+      "end": 13.384,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 13.384,
+      "end": 16.815,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.815,
+      "end": 21.963,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.963,
+      "end": 25.738,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write a niche sentence before you optimize branding or tools.",
+      "start": 25.738,
+      "end": 29.856,
+      "section": "hook"
+    },
+    {
+      "text": "First offer: narrow enough to sell, wide enough to find twenty conversations.",
+      "start": 30.176,
+      "end": 34.723,
+      "section": "balance"
+    },
+    {
+      "text": "Remember the objective: write a niche sentence.",
+      "start": 34.723,
+      "end": 37.376,
+      "section": "balance"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.376,
+      "end": 41.544,
+      "section": "balance"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.544,
+      "end": 46.092,
+      "section": "balance"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.092,
+      "end": 50.26,
+      "section": "balance"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.26,
+      "end": 54.808,
+      "section": "balance"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.808,
+      "end": 57.46,
+      "section": "balance"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.46,
+      "end": 58.976,
+      "section": "balance"
+    },
+    {
+      "text": "Write a niche sentence: who it is for, what pain, and what outcome.",
+      "start": 59.296,
+      "end": 64.081,
+      "section": "sentence"
+    },
+    {
+      "text": "Remember the objective: write a niche sentence.",
+      "start": 64.081,
+      "end": 66.658,
+      "section": "sentence"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.658,
+      "end": 70.707,
+      "section": "sentence"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.707,
+      "end": 75.124,
+      "section": "sentence"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 75.124,
+      "end": 79.174,
+      "section": "sentence"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 79.174,
+      "end": 83.591,
+      "section": "sentence"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 83.591,
+      "end": 86.168,
+      "section": "sentence"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 86.168,
+      "end": 87.64,
+      "section": "sentence"
+    },
+    {
+      "text": "If a stranger cannot tell who it is for in one breath, narrow it.",
+      "start": 87.96,
+      "end": 92.927,
+      "section": "test"
+    },
+    {
+      "text": "Remember the objective: write a niche sentence.",
+      "start": 92.927,
+      "end": 95.41,
+      "section": "test"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 95.41,
+      "end": 99.313,
+      "section": "test"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 99.313,
+      "end": 103.57,
+      "section": "test"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 103.57,
+      "end": 107.472,
+      "section": "test"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.472,
+      "end": 111.73,
+      "section": "test"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 111.73,
+      "end": 114.213,
+      "section": "test"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 114.213,
+      "end": 115.632,
+      "section": "test"
+    },
+    {
+      "text": "In the quiz, you will write a niche sentence.",
+      "start": 115.952,
+      "end": 118.957,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write a niche sentence.",
+      "start": 118.957,
+      "end": 123.297,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 123.297,
+      "end": 123.965,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.965,
+      "end": 126.97,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 126.97,
+      "end": 130.976,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Too broad and no one feels spoken to. Too narrow and you cannot find anyone. This lesson is about niche vs broad first offer. Narrow enough to sell, wide enough to find. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write a niche sentence before you optimize branding or tools. First offer: narrow enough to sell, wide enough to find twenty conversations. Remember the objective: write a niche sentence. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write a niche sentence: who it is for, what pain, and what outcome. Remember the objective: write a niche sentence. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. If a stranger cannot tell who it is for in one breath, narrow it. Remember the objective: write a niche sentence. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write a niche sentence. In the quiz, you will practice until you can write a niche sentence. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

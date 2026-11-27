@@ -1,0 +1,19 @@
+{
+  "id": "L031",
+  "slug": "smoke-tests-without-ads",
+  "title": "Smoke tests without ads",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Draft a smoke-test CTA",
+  "durationSeconds": 133.544,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L031DataCamp",
+  "assets": {
+    "video": "/lessons/L031/video.mp4",
+    "poster": "/lessons/L031/poster.jpg",
+    "captionsVtt": "/lessons/L031/captions.vtt",
+    "captionsSrt": "/lessons/L031/captions.srt",
+    "transcript": "/lessons/L031/transcript.json"
+  },
+  "sourceLessonId": "L031"
+}

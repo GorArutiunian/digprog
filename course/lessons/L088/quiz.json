@@ -1,0 +1,207 @@
+{
+  "lessonId": "L094",
+  "title": "Practice \u00b7 Price it simply",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step four is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Set price and refund simply"
+        },
+        {
+          "id": "b",
+          "text": "Hide price"
+        },
+        {
+          "id": "c",
+          "text": "Skip refund"
+        },
+        {
+          "id": "d",
+          "text": "Apologize forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Pick a price you can:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Say without apology"
+        },
+        {
+          "id": "b",
+          "text": "Never state"
+        },
+        {
+          "id": "c",
+          "text": "Change every hour"
+        },
+        {
+          "id": "d",
+          "text": "Hide behind DMs only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Set price + refund"
+        },
+        {
+          "id": "b",
+          "text": "Skip refund rules"
+        },
+        {
+          "id": "c",
+          "text": "Use guilt pricing"
+        },
+        {
+          "id": "d",
+          "text": "Hide both"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Refund window:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In plain language"
+        },
+        {
+          "id": "b",
+          "text": "In legal fog only"
+        },
+        {
+          "id": "c",
+          "text": "Never written"
+        },
+        {
+          "id": "d",
+          "text": "Only whispered"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "On the page:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Price and refund travel together"
+        },
+        {
+          "id": "b",
+          "text": "Price alone always"
+        },
+        {
+          "id": "c",
+          "text": "Refund alone always"
+        },
+        {
+          "id": "d",
+          "text": "Neither"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Simple pricing helps:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Buyers decide"
+        },
+        {
+          "id": "b",
+          "text": "Confusion"
+        },
+        {
+          "id": "c",
+          "text": "Endless haggling as the only plan"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can set price plus refund"
+        },
+        {
+          "id": "b",
+          "text": "You hid the price"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write price + refund"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Hide the refund"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

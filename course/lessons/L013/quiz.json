@@ -1,0 +1,207 @@
+{
+  "lessonId": "L019",
+  "title": "Practice \u00b7 Evidence of progress",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Progress is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Evidence you can show"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "A new logo"
+        },
+        {
+          "id": "d",
+          "text": "Hours watched alone"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Weekly proof can include:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Conversations, offers, money asked, shipped lessons"
+        },
+        {
+          "id": "b",
+          "text": "Follower spikes only"
+        },
+        {
+          "id": "c",
+          "text": "Brand colors"
+        },
+        {
+          "id": "d",
+          "text": "Tool installs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List three evidence metrics"
+        },
+        {
+          "id": "b",
+          "text": "Ignore metrics"
+        },
+        {
+          "id": "c",
+          "text": "Buy analytics"
+        },
+        {
+          "id": "d",
+          "text": "Binge videos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Hours watched alone is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not evidence"
+        },
+        {
+          "id": "b",
+          "text": "The best metric"
+        },
+        {
+          "id": "c",
+          "text": "A kill criterion"
+        },
+        {
+          "id": "d",
+          "text": "A scoreboard win"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Pick metrics that are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Countable without a dashboard"
+        },
+        {
+          "id": "b",
+          "text": "Impossible to count"
+        },
+        {
+          "id": "c",
+          "text": "Only yearly"
+        },
+        {
+          "id": "d",
+          "text": "Hidden"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A new logo counts as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not evidence of business progress"
+        },
+        {
+          "id": "b",
+          "text": "Primary proof"
+        },
+        {
+          "id": "c",
+          "text": "A paid conversation"
+        },
+        {
+          "id": "d",
+          "text": "A quiz pass"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can list three evidence metrics"
+        },
+        {
+          "id": "b",
+          "text": "You watched twice"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You redesigned the site"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then list three metrics"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

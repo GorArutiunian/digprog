@@ -1,0 +1,19 @@
+{
+  "id": "L097",
+  "slug": "personal-30-day-plan",
+  "title": "Personal: 30-day plan",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Fill 30-day plan",
+  "durationSeconds": 128.048,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L097DataCamp",
+  "assets": {
+    "video": "/lessons/L097/video.mp4",
+    "poster": "/lessons/L097/poster.jpg",
+    "captionsVtt": "/lessons/L097/captions.vtt",
+    "captionsSrt": "/lessons/L097/captions.srt",
+    "transcript": "/lessons/L097/transcript.json"
+  },
+  "sourceLessonId": "L097"
+}

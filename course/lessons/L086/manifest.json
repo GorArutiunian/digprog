@@ -1,0 +1,24 @@
+{
+  "id": "L086",
+  "slug": "name-a-buyer",
+  "title": "Name a buyer",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Name a specific buyer",
+  "durationSeconds": 98.36,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L086DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L086-final/L086-Name-a-buyer.mp4",
+    "poster": "output/L086-final/poster.jpg",
+    "voice": "output/L086-final/voice-l086-final.mp3",
+    "captionsSrt": "output/L086-final/L086.srt",
+    "captionsVtt": "output/L086-final/L086.vtt",
+    "transcript": "output/L086-final/transcript.json",
+    "timeline": "output/L086-final/timeline.json",
+    "quiz": "lessons/L086/quiz.json",
+    "storyboard": "lessons/L086/storyboard.md"
+  },
+  "sourceLessonId": "L086"
+}

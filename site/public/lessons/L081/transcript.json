@@ -1,0 +1,237 @@
+{
+  "lessonId": "L093",
+  "duration": 129.464,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "This is personal work.",
+      "start": 0.0,
+      "end": 1.534,
+      "section": "hook"
+    },
+    {
+      "text": "Fill a weekly operating system sheet so the week is not improvisation.",
+      "start": 1.534,
+      "end": 6.135,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about personal: operating system sheet.",
+      "start": 6.135,
+      "end": 9.202,
+      "section": "hook"
+    },
+    {
+      "text": "Attachment: weekly OS.",
+      "start": 9.202,
+      "end": 10.352,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.352,
+      "end": 13.036,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 13.036,
+      "end": 16.87,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.87,
+      "end": 22.621,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 22.621,
+      "end": 26.839,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: fill weekly OS before you optimize branding or tools.",
+      "start": 26.839,
+      "end": 31.056,
+      "section": "hook"
+    },
+    {
+      "text": "Fill blocks for outreach, delivery, learning, content, and recovery.",
+      "start": 31.376,
+      "end": 34.91,
+      "section": "fill"
+    },
+    {
+      "text": "Remember the objective: fill weekly OS.",
+      "start": 34.91,
+      "end": 37.266,
+      "section": "fill"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.266,
+      "end": 41.585,
+      "section": "fill"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.585,
+      "end": 46.297,
+      "section": "fill"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.297,
+      "end": 50.617,
+      "section": "fill"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.617,
+      "end": 55.329,
+      "section": "fill"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 55.329,
+      "end": 58.077,
+      "section": "fill"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 58.077,
+      "end": 59.648,
+      "section": "fill"
+    },
+    {
+      "text": "Add your stop rule, scoreboard line, and FAQ link in one place.",
+      "start": 59.968,
+      "end": 64.53,
+      "section": "rules"
+    },
+    {
+      "text": "Remember the objective: fill weekly OS.",
+      "start": 64.53,
+      "end": 66.811,
+      "section": "rules"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.811,
+      "end": 70.993,
+      "section": "rules"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.993,
+      "end": 75.555,
+      "section": "rules"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 75.555,
+      "end": 79.736,
+      "section": "rules"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 79.736,
+      "end": 84.298,
+      "section": "rules"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 84.298,
+      "end": 86.959,
+      "section": "rules"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 86.959,
+      "end": 88.48,
+      "section": "rules"
+    },
+    {
+      "text": "Use the sheet every week.",
+      "start": 88.8,
+      "end": 90.7,
+      "section": "use"
+    },
+    {
+      "text": "Update what broke.",
+      "start": 90.7,
+      "end": 91.84,
+      "section": "use"
+    },
+    {
+      "text": "Remember the objective: fill weekly OS.",
+      "start": 91.84,
+      "end": 94.119,
+      "section": "use"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 94.119,
+      "end": 98.299,
+      "section": "use"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 98.299,
+      "end": 102.858,
+      "section": "use"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 102.858,
+      "end": 107.037,
+      "section": "use"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.037,
+      "end": 111.597,
+      "section": "use"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 111.597,
+      "end": 114.256,
+      "section": "use"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 114.256,
+      "end": 115.776,
+      "section": "use"
+    },
+    {
+      "text": "In the quiz, you will fill a weekly OS.",
+      "start": 116.096,
+      "end": 119.154,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can fill weekly OS.",
+      "start": 119.154,
+      "end": 123.231,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 123.231,
+      "end": 123.91,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.91,
+      "end": 126.968,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "This is personal work. Fill a weekly operating system sheet so the week is not improvisation. This lesson is about personal: operating system sheet. Attachment: weekly OS. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: fill weekly OS before you optimize branding or tools. Fill blocks for outreach, delivery, learning, content, and recovery. Remember the objective: fill weekly OS. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Add your stop rule, scoreboard line, and FAQ link in one place. Remember the objective: fill weekly OS. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Use the sheet every week. Update what broke. Remember the objective: fill weekly OS. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will fill a weekly OS. In the quiz, you will practice until you can fill weekly OS. Answer carefully. If you miss one, review the idea and retry."
+}

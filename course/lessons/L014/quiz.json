@@ -1,0 +1,207 @@
+{
+  "lessonId": "L020",
+  "title": "Practice \u00b7 Asking for help without stalling",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Waiting forever for perfect help is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A stall"
+        },
+        {
+          "id": "b",
+          "text": "A requirement"
+        },
+        {
+          "id": "c",
+          "text": "A scoreboard"
+        },
+        {
+          "id": "d",
+          "text": "A kill date"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A good ask includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, what you tried, decision needed"
+        },
+        {
+          "id": "b",
+          "text": "A vague vent only"
+        },
+        {
+          "id": "c",
+          "text": "No context"
+        },
+        {
+          "id": "d",
+          "text": "A demand for magic"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write one ask"
+        },
+        {
+          "id": "b",
+          "text": "Avoid all help"
+        },
+        {
+          "id": "c",
+          "text": "Stall for months"
+        },
+        {
+          "id": "d",
+          "text": "Skip peers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Use:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Peers, mentors, office hours"
+        },
+        {
+          "id": "b",
+          "text": "Only strangers on ads"
+        },
+        {
+          "id": "c",
+          "text": "Nobody ever"
+        },
+        {
+          "id": "d",
+          "text": "Fake testimonials"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "If help does not arrive:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ship the next ugly version anyway"
+        },
+        {
+          "id": "b",
+          "text": "Quit forever"
+        },
+        {
+          "id": "c",
+          "text": "Wait another year"
+        },
+        {
+          "id": "d",
+          "text": "Hide the work"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Set a:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Time box on the ask"
+        },
+        {
+          "id": "b",
+          "text": "Infinite wait"
+        },
+        {
+          "id": "c",
+          "text": "Brand redesign"
+        },
+        {
+          "id": "d",
+          "text": "Tool hop"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write one clear ask"
+        },
+        {
+          "id": "b",
+          "text": "You avoided humans"
+        },
+        {
+          "id": "c",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write one ask"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only vent"
+        },
+        {
+          "id": "d",
+          "text": "Buy another course"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

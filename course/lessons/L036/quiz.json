@@ -1,0 +1,207 @@
+{
+  "lessonId": "L042",
+  "title": "Practice \u00b7 Promise that is specific",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Vague promises:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do not sell"
+        },
+        {
+          "id": "b",
+          "text": "Always convert"
+        },
+        {
+          "id": "c",
+          "text": "Replace price"
+        },
+        {
+          "id": "d",
+          "text": "Replace delivery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A specific promise names:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outcome, who, time box"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Rewrite a vague promise"
+        },
+        {
+          "id": "b",
+          "text": "Keep fog forever"
+        },
+        {
+          "id": "c",
+          "text": "Skip the who"
+        },
+        {
+          "id": "d",
+          "text": "Avoid time boxes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Help you grow is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fog"
+        },
+        {
+          "id": "b",
+          "text": "A clear outcome"
+        },
+        {
+          "id": "c",
+          "text": "A price"
+        },
+        {
+          "id": "d",
+          "text": "A delivery path"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Rewrite into:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One sentence a stranger can test"
+        },
+        {
+          "id": "b",
+          "text": "A fifty-page PDF"
+        },
+        {
+          "id": "c",
+          "text": "A logo brief"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "If they cannot imagine before and after:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Tighten it"
+        },
+        {
+          "id": "b",
+          "text": "Widen it to everyone"
+        },
+        {
+          "id": "c",
+          "text": "Add more jargon"
+        },
+        {
+          "id": "d",
+          "text": "Hide the promise"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can rewrite a vague promise"
+        },
+        {
+          "id": "b",
+          "text": "You kept it vague"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then rewrite your promise"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

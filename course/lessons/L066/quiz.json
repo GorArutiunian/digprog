@@ -1,0 +1,207 @@
+{
+  "lessonId": "L072",
+  "title": "Practice \u00b7 First-customer gate",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "This gate needs:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Evidence, not vibes"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only vibes"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Checklist includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Conversations, offers, money asked, payment path, onboarding draft"
+        },
+        {
+          "id": "b",
+          "text": "Fonts only"
+        },
+        {
+          "id": "c",
+          "text": "Followers only"
+        },
+        {
+          "id": "d",
+          "text": "Moodboards only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Complete evidence checklist"
+        },
+        {
+          "id": "b",
+          "text": "Skip proof"
+        },
+        {
+          "id": "c",
+          "text": "Jump to Systems empty"
+        },
+        {
+          "id": "d",
+          "text": "Hide outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Missing proof means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "More outreach, not more branding"
+        },
+        {
+          "id": "b",
+          "text": "More branding first"
+        },
+        {
+          "id": "c",
+          "text": "Quit"
+        },
+        {
+          "id": "d",
+          "text": "Buy tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Pass to unlock:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Systems"
+        },
+        {
+          "id": "b",
+          "text": "More binge only"
+        },
+        {
+          "id": "c",
+          "text": "Brand theater"
+        },
+        {
+          "id": "d",
+          "text": "Chaos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Skipped proof now becomes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Chaos later"
+        },
+        {
+          "id": "b",
+          "text": "Automatic success"
+        },
+        {
+          "id": "c",
+          "text": "Free customers"
+        },
+        {
+          "id": "d",
+          "text": "Perfect systems"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can complete an evidence checklist"
+        },
+        {
+          "id": "b",
+          "text": "You used vibes only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then complete checklist"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip evidence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

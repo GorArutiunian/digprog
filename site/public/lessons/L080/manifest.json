@@ -1,0 +1,19 @@
+{
+  "id": "L080",
+  "slug": "burnout-prevention",
+  "title": "Burnout prevention",
+  "module": "05 \u00b7 Systems",
+  "objective": "Set a stop rule",
+  "durationSeconds": 127.208,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L080DataCamp",
+  "assets": {
+    "video": "/lessons/L080/video.mp4",
+    "poster": "/lessons/L080/poster.jpg",
+    "captionsVtt": "/lessons/L080/captions.vtt",
+    "captionsSrt": "/lessons/L080/captions.srt",
+    "transcript": "/lessons/L080/transcript.json"
+  },
+  "sourceLessonId": "L080"
+}

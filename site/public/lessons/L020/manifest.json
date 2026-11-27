@@ -1,0 +1,19 @@
+{
+  "id": "L020",
+  "slug": "interview-without-awkwardness",
+  "title": "Interview without awkwardness",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Run one practice interview script",
+  "durationSeconds": 131.936,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L020DataCamp",
+  "assets": {
+    "video": "/lessons/L020/video.mp4",
+    "poster": "/lessons/L020/poster.jpg",
+    "captionsVtt": "/lessons/L020/captions.vtt",
+    "captionsSrt": "/lessons/L020/captions.srt",
+    "transcript": "/lessons/L020/transcript.json"
+  },
+  "sourceLessonId": "L020"
+}

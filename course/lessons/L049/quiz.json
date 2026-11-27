@@ -1,0 +1,207 @@
+{
+  "lessonId": "L055",
+  "title": "Practice \u00b7 Personal: offer canvas filled",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "This lesson is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Personal work on the canvas"
+        },
+        {
+          "id": "b",
+          "text": "Optional fluff"
+        },
+        {
+          "id": "c",
+          "text": "Only branding"
+        },
+        {
+          "id": "d",
+          "text": "Only ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fill every box including:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Includes and excludes"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only the logo"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Complete offer canvas"
+        },
+        {
+          "id": "b",
+          "text": "Leave boxes empty"
+        },
+        {
+          "id": "c",
+          "text": "Skip price"
+        },
+        {
+          "id": "d",
+          "text": "Skip next step"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Update the canvas when:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Evidence changes"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only after year five"
+        },
+        {
+          "id": "d",
+          "text": "Only for fonts"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Do not unlock outreach theater until:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The canvas is filled"
+        },
+        {
+          "id": "b",
+          "text": "You feel inspired"
+        },
+        {
+          "id": "c",
+          "text": "You have a moodboard"
+        },
+        {
+          "id": "d",
+          "text": "You binge more videos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Boxes include who, problem, promise, process, price, next step, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Includes/excludes"
+        },
+        {
+          "id": "b",
+          "text": "Only hashtags"
+        },
+        {
+          "id": "c",
+          "text": "Only CRM fields"
+        },
+        {
+          "id": "d",
+          "text": "Only ad copy"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can complete an offer canvas"
+        },
+        {
+          "id": "b",
+          "text": "You left it blank"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then finish the canvas"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start outreach empty"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L047",
+  "slug": "break-even-without-spreadsheets-panic",
+  "title": "Break-even without spreadsheets panic",
+  "module": "03 \u00b7 Offer",
+  "objective": "Compute rough break-even",
+  "durationSeconds": 131.048,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L047DataCamp",
+  "assets": {
+    "video": "/lessons/L047/video.mp4",
+    "poster": "/lessons/L047/poster.jpg",
+    "captionsVtt": "/lessons/L047/captions.vtt",
+    "captionsSrt": "/lessons/L047/captions.srt",
+    "transcript": "/lessons/L047/transcript.json"
+  },
+  "sourceLessonId": "L047"
+}

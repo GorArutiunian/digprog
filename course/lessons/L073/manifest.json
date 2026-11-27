@@ -1,0 +1,24 @@
+{
+  "id": "L073",
+  "slug": "simple-automations-later",
+  "title": "Simple automations later",
+  "module": "05 \u00b7 Systems",
+  "objective": "List what not to automate yet",
+  "durationSeconds": 126.776,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L073DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L073-final/L073-Simple-automations-later.mp4",
+    "poster": "output/L073-final/poster.jpg",
+    "voice": "output/L073-final/voice-l073-final.mp3",
+    "captionsSrt": "output/L073-final/L073.srt",
+    "captionsVtt": "output/L073-final/L073.vtt",
+    "transcript": "output/L073-final/transcript.json",
+    "timeline": "output/L073-final/timeline.json",
+    "quiz": "lessons/L073/quiz.json",
+    "storyboard": "lessons/L073/storyboard.md"
+  },
+  "sourceLessonId": "L073"
+}

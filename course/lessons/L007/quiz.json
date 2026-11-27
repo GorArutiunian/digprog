@@ -1,0 +1,207 @@
+{
+  "lessonId": "L007",
+  "title": "Practice \u00b7 Tools you actually need",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Minimum tool stack means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Free tools that cover notes, reach, offer, and payment"
+        },
+        {
+          "id": "b",
+          "text": "Paid CRM day one"
+        },
+        {
+          "id": "c",
+          "text": "A full brand kit"
+        },
+        {
+          "id": "d",
+          "text": "Five overlapping apps"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Which belongs in the minimum stack?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A simple page or doc for your offer"
+        },
+        {
+          "id": "b",
+          "text": "Custom animation software"
+        },
+        {
+          "id": "c",
+          "text": "Enterprise automation"
+        },
+        {
+          "id": "d",
+          "text": "A logo designer retainer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Until a customer forces need, skip:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fancy CRM and brand kits"
+        },
+        {
+          "id": "b",
+          "text": "Email or messaging"
+        },
+        {
+          "id": "c",
+          "text": "A notes app"
+        },
+        {
+          "id": "d",
+          "text": "A way to take payment"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pick a minimum tool stack"
+        },
+        {
+          "id": "b",
+          "text": "Buy every SaaS trial"
+        },
+        {
+          "id": "c",
+          "text": "Redesign your brand"
+        },
+        {
+          "id": "d",
+          "text": "Automate before selling"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Rule of thumb:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One tool per job; keep what you have"
+        },
+        {
+          "id": "b",
+          "text": "Switch tools weekly"
+        },
+        {
+          "id": "c",
+          "text": "Tools equal progress"
+        },
+        {
+          "id": "d",
+          "text": "Pay first, learn later"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Payment tools matter when:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Someone says yes"
+        },
+        {
+          "id": "b",
+          "text": "You have no offer"
+        },
+        {
+          "id": "c",
+          "text": "You are researching logos"
+        },
+        {
+          "id": "d",
+          "text": "Day zero always"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can pick a minimum tool stack"
+        },
+        {
+          "id": "b",
+          "text": "You installed twelve apps"
+        },
+        {
+          "id": "c",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then lock your free stack"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Buy a CRM"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

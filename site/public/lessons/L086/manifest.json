@@ -1,0 +1,19 @@
+{
+  "id": "L086",
+  "slug": "name-a-buyer",
+  "title": "Name a buyer",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Name a specific buyer",
+  "durationSeconds": 98.36,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L086DataCamp",
+  "assets": {
+    "video": "/lessons/L086/video.mp4",
+    "poster": "/lessons/L086/poster.jpg",
+    "captionsVtt": "/lessons/L086/captions.vtt",
+    "captionsSrt": "/lessons/L086/captions.srt",
+    "transcript": "/lessons/L086/transcript.json"
+  },
+  "sourceLessonId": "L086"
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L022",
+  "title": "Practice \u00b7 Note-taking that ships",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Pretty notes without action are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A hobby"
+        },
+        {
+          "id": "b",
+          "text": "Shipping"
+        },
+        {
+          "id": "c",
+          "text": "Evidence"
+        },
+        {
+          "id": "d",
+          "text": "A kill criterion"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Capture:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Next actions only"
+        },
+        {
+          "id": "b",
+          "text": "Every quote forever"
+        },
+        {
+          "id": "c",
+          "text": "Theory dumps only"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Create a next-action note"
+        },
+        {
+          "id": "b",
+          "text": "Highlight everything"
+        },
+        {
+          "id": "c",
+          "text": "Avoid verbs"
+        },
+        {
+          "id": "d",
+          "text": "Collect PDFs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Write notes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Verb first, one sentence"
+        },
+        {
+          "id": "b",
+          "text": "As a novel"
+        },
+        {
+          "id": "c",
+          "text": "Without an owner when needed"
+        },
+        {
+          "id": "d",
+          "text": "Only as screenshots"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Drop highlights unless they:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Change what you do tomorrow"
+        },
+        {
+          "id": "b",
+          "text": "Look pretty"
+        },
+        {
+          "id": "c",
+          "text": "Fill a notebook"
+        },
+        {
+          "id": "d",
+          "text": "Impress peers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Before you leave this lesson:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Create a next-action note"
+        },
+        {
+          "id": "b",
+          "text": "Close the tab forever"
+        },
+        {
+          "id": "c",
+          "text": "Skip writing"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can create a next-action note"
+        },
+        {
+          "id": "b",
+          "text": "You highlighted the PDF"
+        },
+        {
+          "id": "c",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write the next-action note"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only highlight"
+        },
+        {
+          "id": "d",
+          "text": "Tool hop"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

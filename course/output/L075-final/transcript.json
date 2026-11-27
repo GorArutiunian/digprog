@@ -1,0 +1,231 @@
+{
+  "lessonId": "L087",
+  "duration": 126.392,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Pay for tools after revenue, not before.",
+      "start": 0.0,
+      "end": 2.499,
+      "section": "hook"
+    },
+    {
+      "text": "Free stack first is still the rule.",
+      "start": 2.499,
+      "end": 4.999,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about free stack vs paid stack.",
+      "start": 4.999,
+      "end": 8.212,
+      "section": "hook"
+    },
+    {
+      "text": "Pay tools after revenue.",
+      "start": 8.212,
+      "end": 9.64,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.64,
+      "end": 12.139,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.139,
+      "end": 15.71,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.71,
+      "end": 21.065,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.065,
+      "end": 24.993,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: audit your stack before you optimize branding or tools.",
+      "start": 24.993,
+      "end": 28.92,
+      "section": "hook"
+    },
+    {
+      "text": "Audit your stack: what you use weekly, what is unused, and what you are tempted to buy.",
+      "start": 29.24,
+      "end": 35.112,
+      "section": "audit"
+    },
+    {
+      "text": "Remember the objective: audit your stack.",
+      "start": 35.112,
+      "end": 37.184,
+      "section": "audit"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.184,
+      "end": 40.983,
+      "section": "audit"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 40.983,
+      "end": 45.128,
+      "section": "audit"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.128,
+      "end": 48.927,
+      "section": "audit"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.927,
+      "end": 53.072,
+      "section": "audit"
+    },
+    {
+      "text": "Cut vanity tools.",
+      "start": 53.392,
+      "end": 54.559,
+      "section": "cut"
+    },
+    {
+      "text": "Keep only what touches delivery, outreach, or payment.",
+      "start": 54.559,
+      "end": 57.67,
+      "section": "cut"
+    },
+    {
+      "text": "Remember the objective: audit your stack.",
+      "start": 57.67,
+      "end": 60.003,
+      "section": "cut"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 60.003,
+      "end": 64.28,
+      "section": "cut"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 64.28,
+      "end": 68.947,
+      "section": "cut"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 68.947,
+      "end": 73.224,
+      "section": "cut"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 73.224,
+      "end": 77.89,
+      "section": "cut"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 77.89,
+      "end": 80.613,
+      "section": "cut"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 80.613,
+      "end": 82.168,
+      "section": "cut"
+    },
+    {
+      "text": "Buy a tool only when a free limit blocks a real customer.",
+      "start": 82.488,
+      "end": 86.735,
+      "section": "buy"
+    },
+    {
+      "text": "Remember the objective: audit your stack.",
+      "start": 86.735,
+      "end": 88.859,
+      "section": "buy"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 88.859,
+      "end": 92.752,
+      "section": "buy"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 92.752,
+      "end": 96.999,
+      "section": "buy"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 96.999,
+      "end": 100.892,
+      "section": "buy"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 100.892,
+      "end": 105.139,
+      "section": "buy"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 105.139,
+      "end": 107.616,
+      "section": "buy"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 107.616,
+      "end": 109.032,
+      "section": "buy"
+    },
+    {
+      "text": "In the quiz, you will audit your stack.",
+      "start": 109.352,
+      "end": 112.058,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can audit your stack.",
+      "start": 112.058,
+      "end": 116.117,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 116.117,
+      "end": 116.793,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 116.793,
+      "end": 119.837,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 119.837,
+      "end": 123.896,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Pay for tools after revenue, not before. Free stack first is still the rule. This lesson is about free stack vs paid stack. Pay tools after revenue. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: audit your stack before you optimize branding or tools. Audit your stack: what you use weekly, what is unused, and what you are tempted to buy. Remember the objective: audit your stack. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Cut vanity tools. Keep only what touches delivery, outreach, or payment. Remember the objective: audit your stack. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Buy a tool only when a free limit blocks a real customer. Remember the objective: audit your stack. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will audit your stack. In the quiz, you will practice until you can audit your stack. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

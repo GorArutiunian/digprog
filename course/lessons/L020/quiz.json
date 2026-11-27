@@ -1,0 +1,207 @@
+{
+  "lessonId": "L026",
+  "title": "Practice \u00b7 Interview without awkwardness",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Interviews feel awkward when you:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pitch too early"
+        },
+        {
+          "id": "b",
+          "text": "Ask first"
+        },
+        {
+          "id": "c",
+          "text": "Take notes"
+        },
+        {
+          "id": "d",
+          "text": "Stay curious"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Five questions cover hard, often, cost, tried, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What a win looks like"
+        },
+        {
+          "id": "b",
+          "text": "Their favorite color"
+        },
+        {
+          "id": "c",
+          "text": "Logo taste"
+        },
+        {
+          "id": "d",
+          "text": "Tax bracket only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Run one practice interview script"
+        },
+        {
+          "id": "b",
+          "text": "Close on call one always"
+        },
+        {
+          "id": "c",
+          "text": "Avoid humans"
+        },
+        {
+          "id": "d",
+          "text": "Defend your idea"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Your job in the interview is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Curiosity, not closing"
+        },
+        {
+          "id": "b",
+          "text": "Hard sell"
+        },
+        {
+          "id": "c",
+          "text": "Silence forever"
+        },
+        {
+          "id": "d",
+          "text": "Reading a brochure"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "When they pause:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Let silence work \u2014 it is data"
+        },
+        {
+          "id": "b",
+          "text": "Fill with a pitch"
+        },
+        {
+          "id": "c",
+          "text": "Change the subject to logo"
+        },
+        {
+          "id": "d",
+          "text": "End the call"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "This week you should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Run one practice script and record notes"
+        },
+        {
+          "id": "b",
+          "text": "Skip interviews"
+        },
+        {
+          "id": "c",
+          "text": "Only watch videos"
+        },
+        {
+          "id": "d",
+          "text": "Buy a CRM"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can run one practice interview script"
+        },
+        {
+          "id": "b",
+          "text": "You pitched immediately"
+        },
+        {
+          "id": "c",
+          "text": "You skipped notes"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then run one practice interview"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Defend the idea"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

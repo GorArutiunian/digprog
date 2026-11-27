@@ -1,0 +1,207 @@
+{
+  "lessonId": "L093",
+  "title": "Practice \u00b7 Draft a one-line offer",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step three is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Draft a one-line offer"
+        },
+        {
+          "id": "b",
+          "text": "Write a novel"
+        },
+        {
+          "id": "c",
+          "text": "Skip delivery path"
+        },
+        {
+          "id": "d",
+          "text": "Add only adjectives"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "The line covers:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, what changes, how they get it"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only branding"
+        },
+        {
+          "id": "d",
+          "text": "Only price jokes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write one-line offer"
+        },
+        {
+          "id": "b",
+          "text": "Stumble forever"
+        },
+        {
+          "id": "c",
+          "text": "Keep adjectives"
+        },
+        {
+          "id": "d",
+          "text": "Hide the promise"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Cut:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Adjectives that hide the promise"
+        },
+        {
+          "id": "b",
+          "text": "The delivery path"
+        },
+        {
+          "id": "c",
+          "text": "Who it is for"
+        },
+        {
+          "id": "d",
+          "text": "What changes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Say it out loud:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "If you stumble, simplify"
+        },
+        {
+          "id": "b",
+          "text": "Louder with more words"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only silently"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "One breath means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "They understand quickly"
+        },
+        {
+          "id": "b",
+          "text": "A long pitch"
+        },
+        {
+          "id": "c",
+          "text": "A brochure"
+        },
+        {
+          "id": "d",
+          "text": "A slogan only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write a one-line offer"
+        },
+        {
+          "id": "b",
+          "text": "You kept a novel pitch"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write the one-liner"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip simplifying"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

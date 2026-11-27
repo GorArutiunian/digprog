@@ -1,0 +1,243 @@
+{
+  "lessonId": "L026",
+  "duration": 129.176,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Help is a tool.",
+      "start": 0.0,
+      "end": 1.438,
+      "section": "hook"
+    },
+    {
+      "text": "Waiting forever for perfect help is a stall.",
+      "start": 1.438,
+      "end": 4.313,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about asking for help without stalling.",
+      "start": 4.313,
+      "end": 7.547,
+      "section": "hook"
+    },
+    {
+      "text": "Peers, mentors, office hours.",
+      "start": 7.547,
+      "end": 8.985,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.985,
+      "end": 11.501,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.501,
+      "end": 15.094,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.094,
+      "end": 20.485,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.485,
+      "end": 24.439,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write one ask before you optimize branding or tools.",
+      "start": 24.439,
+      "end": 28.392,
+      "section": "hook"
+    },
+    {
+      "text": "Use peers, mentors, and office hours.",
+      "start": 28.712,
+      "end": 31.049,
+      "section": "who"
+    },
+    {
+      "text": "Ask one specific person for one specific next step.",
+      "start": 31.049,
+      "end": 34.555,
+      "section": "who"
+    },
+    {
+      "text": "Remember the objective: write one ask.",
+      "start": 34.555,
+      "end": 36.892,
+      "section": "who"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 36.892,
+      "end": 41.177,
+      "section": "who"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.177,
+      "end": 45.852,
+      "section": "who"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.852,
+      "end": 50.137,
+      "section": "who"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.137,
+      "end": 54.811,
+      "section": "who"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.811,
+      "end": 57.538,
+      "section": "who"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.538,
+      "end": 59.096,
+      "section": "who"
+    },
+    {
+      "text": "Write one ask now: who, what you tried, and what decision you need.",
+      "start": 59.416,
+      "end": 64.166,
+      "section": "ask"
+    },
+    {
+      "text": "Remember the objective: write one ask.",
+      "start": 64.166,
+      "end": 66.358,
+      "section": "ask"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.358,
+      "end": 70.377,
+      "section": "ask"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.377,
+      "end": 74.761,
+      "section": "ask"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 74.761,
+      "end": 78.781,
+      "section": "ask"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 78.781,
+      "end": 83.165,
+      "section": "ask"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 83.165,
+      "end": 85.723,
+      "section": "ask"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 85.723,
+      "end": 87.184,
+      "section": "ask"
+    },
+    {
+      "text": "Set a time box.",
+      "start": 87.504,
+      "end": 88.949,
+      "section": "bound"
+    },
+    {
+      "text": "If help does not arrive, ship the next ugly version anyway.",
+      "start": 88.949,
+      "end": 92.922,
+      "section": "bound"
+    },
+    {
+      "text": "Remember the objective: write one ask.",
+      "start": 92.922,
+      "end": 95.09,
+      "section": "bound"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 95.09,
+      "end": 99.063,
+      "section": "bound"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 99.063,
+      "end": 103.398,
+      "section": "bound"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 103.398,
+      "end": 107.372,
+      "section": "bound"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.372,
+      "end": 111.706,
+      "section": "bound"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 111.706,
+      "end": 114.235,
+      "section": "bound"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 114.235,
+      "end": 115.68,
+      "section": "bound"
+    },
+    {
+      "text": "In the quiz, you will write one clear ask.",
+      "start": 116.0,
+      "end": 119.004,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write one ask.",
+      "start": 119.004,
+      "end": 123.009,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 123.009,
+      "end": 123.676,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.676,
+      "end": 126.68,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Help is a tool. Waiting forever for perfect help is a stall. This lesson is about asking for help without stalling. Peers, mentors, office hours. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write one ask before you optimize branding or tools. Use peers, mentors, and office hours. Ask one specific person for one specific next step. Remember the objective: write one ask. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write one ask now: who, what you tried, and what decision you need. Remember the objective: write one ask. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Set a time box. If help does not arrive, ship the next ugly version anyway. Remember the objective: write one ask. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write one clear ask. In the quiz, you will practice until you can write one ask. Answer carefully. If you miss one, review the idea and retry."
+}

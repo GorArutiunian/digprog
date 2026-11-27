@@ -1,0 +1,19 @@
+{
+  "id": "L069",
+  "slug": "weekly-scoreboard",
+  "title": "Weekly scoreboard",
+  "module": "05 \u00b7 Systems",
+  "objective": "Build scoreboard",
+  "durationSeconds": 129.08,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L069DataCamp",
+  "assets": {
+    "video": "/lessons/L069/video.mp4",
+    "poster": "/lessons/L069/poster.jpg",
+    "captionsVtt": "/lessons/L069/captions.vtt",
+    "captionsSrt": "/lessons/L069/captions.srt",
+    "transcript": "/lessons/L069/transcript.json"
+  },
+  "sourceLessonId": "L069"
+}

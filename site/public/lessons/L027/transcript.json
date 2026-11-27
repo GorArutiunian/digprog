@@ -1,0 +1,225 @@
+{
+  "lessonId": "L039",
+  "duration": 125.264,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "A problem statement is a canvas, not a slogan.",
+      "start": 0.0,
+      "end": 3.11,
+      "section": "hook"
+    },
+    {
+      "text": "Fill it before you decorate an offer.",
+      "start": 3.11,
+      "end": 5.53,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about problem statement worksheet.",
+      "start": 5.53,
+      "end": 7.949,
+      "section": "hook"
+    },
+    {
+      "text": "Who hurts, how often, what they tried.",
+      "start": 7.949,
+      "end": 10.368,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.368,
+      "end": 12.787,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.787,
+      "end": 16.243,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.243,
+      "end": 21.427,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.427,
+      "end": 25.229,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: fill the problem canvas before you optimize branding or tools.",
+      "start": 25.229,
+      "end": 29.376,
+      "section": "hook"
+    },
+    {
+      "text": "Who hurts, how often, what they tried, and what it costs them if nothing changes.",
+      "start": 29.696,
+      "end": 35.169,
+      "section": "who"
+    },
+    {
+      "text": "Remember the objective: fill the problem canvas.",
+      "start": 35.169,
+      "end": 37.723,
+      "section": "who"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.723,
+      "end": 41.736,
+      "section": "who"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.736,
+      "end": 46.115,
+      "section": "who"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.115,
+      "end": 50.128,
+      "section": "who"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.128,
+      "end": 54.507,
+      "section": "who"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 54.507,
+      "end": 57.061,
+      "section": "who"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.061,
+      "end": 58.52,
+      "section": "who"
+    },
+    {
+      "text": "Fill the problem canvas in plain language.",
+      "start": 58.84,
+      "end": 61.358,
+      "section": "fill"
+    },
+    {
+      "text": "If a box is empty, that is your research homework.",
+      "start": 61.358,
+      "end": 64.954,
+      "section": "fill"
+    },
+    {
+      "text": "Remember the objective: fill the problem canvas.",
+      "start": 64.954,
+      "end": 67.472,
+      "section": "fill"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 67.472,
+      "end": 71.428,
+      "section": "fill"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 71.428,
+      "end": 75.744,
+      "section": "fill"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 75.744,
+      "end": 79.7,
+      "section": "fill"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 79.7,
+      "end": 84.016,
+      "section": "fill"
+    },
+    {
+      "text": "This canvas becomes your interview guide and your offer draft.",
+      "start": 84.336,
+      "end": 87.972,
+      "section": "use"
+    },
+    {
+      "text": "Remember the objective: fill the problem canvas.",
+      "start": 87.972,
+      "end": 90.517,
+      "section": "use"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.517,
+      "end": 94.516,
+      "section": "use"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.516,
+      "end": 98.879,
+      "section": "use"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 98.879,
+      "end": 102.878,
+      "section": "use"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 102.878,
+      "end": 107.241,
+      "section": "use"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.241,
+      "end": 109.786,
+      "section": "use"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 109.786,
+      "end": 111.24,
+      "section": "use"
+    },
+    {
+      "text": "In the quiz, you will fill the problem canvas.",
+      "start": 111.56,
+      "end": 114.617,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can fill the problem canvas.",
+      "start": 114.617,
+      "end": 119.032,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 119.032,
+      "end": 119.711,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 119.711,
+      "end": 122.768,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "A problem statement is a canvas, not a slogan. Fill it before you decorate an offer. This lesson is about problem statement worksheet. Who hurts, how often, what they tried. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: fill the problem canvas before you optimize branding or tools. Who hurts, how often, what they tried, and what it costs them if nothing changes. Remember the objective: fill the problem canvas. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Fill the problem canvas in plain language. If a box is empty, that is your research homework. Remember the objective: fill the problem canvas. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. This canvas becomes your interview guide and your offer draft. Remember the objective: fill the problem canvas. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will fill the problem canvas. In the quiz, you will practice until you can fill the problem canvas. Answer carefully. If you miss one, review the idea and retry."
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L063",
+  "title": "Practice \u00b7 Soft close vs hard close",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Choose the close based on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The relationship"
+        },
+        {
+          "id": "b",
+          "text": "Random vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only fear"
+        },
+        {
+          "id": "d",
+          "text": "Only logos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A soft close:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Invites a next step without pressure"
+        },
+        {
+          "id": "b",
+          "text": "Demands payment now always"
+        },
+        {
+          "id": "c",
+          "text": "Avoids all asks"
+        },
+        {
+          "id": "d",
+          "text": "Uses guilt"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write both closes"
+        },
+        {
+          "id": "b",
+          "text": "Only soft forever"
+        },
+        {
+          "id": "c",
+          "text": "Only hard day one always"
+        },
+        {
+          "id": "d",
+          "text": "Skip closing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A hard close asks for:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The decision"
+        },
+        {
+          "id": "b",
+          "text": "More research only"
+        },
+        {
+          "id": "c",
+          "text": "A logo review"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Use soft early and hard when:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Discovery is done"
+        },
+        {
+          "id": "b",
+          "text": "You just met them"
+        },
+        {
+          "id": "c",
+          "text": "You have no offer"
+        },
+        {
+          "id": "d",
+          "text": "You are scared"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Write both closes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Now"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only after branding"
+        },
+        {
+          "id": "d",
+          "text": "Only in your head"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write both closes"
+        },
+        {
+          "id": "b",
+          "text": "You avoided asking"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write both closes"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Never ask"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

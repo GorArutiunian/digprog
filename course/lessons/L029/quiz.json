@@ -1,0 +1,207 @@
+{
+  "lessonId": "L035",
+  "title": "Practice \u00b7 Where buyers already hang out",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Go where:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Attention already is"
+        },
+        {
+          "id": "b",
+          "text": "Nobody ever looks"
+        },
+        {
+          "id": "c",
+          "text": "Only paid ads day one"
+        },
+        {
+          "id": "d",
+          "text": "Empty rooms"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Prefer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Free places first"
+        },
+        {
+          "id": "b",
+          "text": "Only expensive ads"
+        },
+        {
+          "id": "c",
+          "text": "No hangouts"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Name three hangouts"
+        },
+        {
+          "id": "b",
+          "text": "Avoid communities"
+        },
+        {
+          "id": "c",
+          "text": "Spam immediately"
+        },
+        {
+          "id": "d",
+          "text": "Skip listening"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Hangouts can be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Communities, feeds, events, inboxes"
+        },
+        {
+          "id": "b",
+          "text": "Only billboards"
+        },
+        {
+          "id": "c",
+          "text": "Only TV"
+        },
+        {
+          "id": "d",
+          "text": "Nowhere"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "This week name:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Three hangouts you can enter without big ads"
+        },
+        {
+          "id": "b",
+          "text": "Zero places"
+        },
+        {
+          "id": "c",
+          "text": "Only fantasy venues"
+        },
+        {
+          "id": "d",
+          "text": "A logo studio"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Show up to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Listen and help before spamming"
+        },
+        {
+          "id": "b",
+          "text": "Spam first"
+        },
+        {
+          "id": "c",
+          "text": "Never speak"
+        },
+        {
+          "id": "d",
+          "text": "Only lurk forever with no notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can name three hangouts"
+        },
+        {
+          "id": "b",
+          "text": "You bought ads only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then name three hangouts"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Spam everywhere"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

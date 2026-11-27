@@ -1,0 +1,207 @@
+{
+  "lessonId": "L056",
+  "title": "Practice \u00b7 Module offer gate",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "This gate proves:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The offer is buyable"
+        },
+        {
+          "id": "b",
+          "text": "You watched videos"
+        },
+        {
+          "id": "c",
+          "text": "You liked thumbnails"
+        },
+        {
+          "id": "d",
+          "text": "You have a logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Self-check includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, promise, price, delivery, refund rule"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only followers"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Self-check offer readiness"
+        },
+        {
+          "id": "b",
+          "text": "Skip the gate"
+        },
+        {
+          "id": "c",
+          "text": "Jump with empty offer"
+        },
+        {
+          "id": "d",
+          "text": "Avoid price"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Pass the gate to unlock:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Proof and first customers"
+        },
+        {
+          "id": "b",
+          "text": "More binge only"
+        },
+        {
+          "id": "c",
+          "text": "Brand theater"
+        },
+        {
+          "id": "d",
+          "text": "Tool hopping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Carry into outreach:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Your one-pager"
+        },
+        {
+          "id": "b",
+          "text": "An empty vibe"
+        },
+        {
+          "id": "c",
+          "text": "Only a logo"
+        },
+        {
+          "id": "d",
+          "text": "No next step"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Empty offers do not deserve:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Volume"
+        },
+        {
+          "id": "b",
+          "text": "Clarity"
+        },
+        {
+          "id": "c",
+          "text": "A price"
+        },
+        {
+          "id": "d",
+          "text": "A refund rule"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can self-check offer readiness"
+        },
+        {
+          "id": "b",
+          "text": "You skipped the checklist"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then pass the offer gate"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Scale empty outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

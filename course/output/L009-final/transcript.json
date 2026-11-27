@@ -1,0 +1,231 @@
+{
+  "lessonId": "L009",
+  "duration": 127.736,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "The study guide holds the why.",
+      "start": 0.0,
+      "end": 2.167,
+      "section": "hook"
+    },
+    {
+      "text": "The video shows the move.",
+      "start": 2.167,
+      "end": 3.972,
+      "section": "hook"
+    },
+    {
+      "text": "Use both.",
+      "start": 3.972,
+      "end": 4.695,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about study guide + video pairing.",
+      "start": 4.695,
+      "end": 7.945,
+      "section": "hook"
+    },
+    {
+      "text": "Book holds why; video shows move.",
+      "start": 7.945,
+      "end": 10.112,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 10.112,
+      "end": 12.64,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.64,
+      "end": 16.251,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.251,
+      "end": 21.668,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.668,
+      "end": 25.64,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: pair one chapter to one lesson before you optimize branding or tools.",
+      "start": 25.64,
+      "end": 30.696,
+      "section": "hook"
+    },
+    {
+      "text": "Pair one chapter to one lesson.",
+      "start": 31.016,
+      "end": 33.154,
+      "section": "pair"
+    },
+    {
+      "text": "Read the short why, watch the move, then do the action.",
+      "start": 33.154,
+      "end": 37.074,
+      "section": "pair"
+    },
+    {
+      "text": "Remember the objective: pair one chapter to one lesson.",
+      "start": 37.074,
+      "end": 40.281,
+      "section": "pair"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 40.281,
+      "end": 44.2,
+      "section": "pair"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 44.2,
+      "end": 48.476,
+      "section": "pair"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 48.476,
+      "end": 52.396,
+      "section": "pair"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 52.396,
+      "end": 56.672,
+      "section": "pair"
+    },
+    {
+      "text": "Do not binge either alone.",
+      "start": 56.992,
+      "end": 58.885,
+      "section": "order"
+    },
+    {
+      "text": "Book without action is theory.",
+      "start": 58.885,
+      "end": 60.777,
+      "section": "order"
+    },
+    {
+      "text": "Video without notes is entertainment.",
+      "start": 60.777,
+      "end": 62.67,
+      "section": "order"
+    },
+    {
+      "text": "Remember the objective: pair one chapter to one lesson.",
+      "start": 62.67,
+      "end": 66.076,
+      "section": "order"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.076,
+      "end": 70.24,
+      "section": "order"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.24,
+      "end": 74.782,
+      "section": "order"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 74.782,
+      "end": 78.946,
+      "section": "order"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 78.946,
+      "end": 83.488,
+      "section": "order"
+    },
+    {
+      "text": "After each pair, write one next action in your own words.",
+      "start": 83.808,
+      "end": 87.83,
+      "section": "habit"
+    },
+    {
+      "text": "Remember the objective: pair one chapter to one lesson.",
+      "start": 87.83,
+      "end": 91.12,
+      "section": "habit"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 91.12,
+      "end": 95.142,
+      "section": "habit"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 95.142,
+      "end": 99.529,
+      "section": "habit"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.529,
+      "end": 103.551,
+      "section": "habit"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.551,
+      "end": 107.938,
+      "section": "habit"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.938,
+      "end": 110.498,
+      "section": "habit"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.498,
+      "end": 111.96,
+      "section": "habit"
+    },
+    {
+      "text": "In the quiz, you will pair one chapter to one lesson.",
+      "start": 112.28,
+      "end": 116.133,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can pair one chapter to one lesson.",
+      "start": 116.133,
+      "end": 121.387,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 121.387,
+      "end": 122.088,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 122.088,
+      "end": 125.24,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "The study guide holds the why. The video shows the move. Use both. This lesson is about study guide + video pairing. Book holds why; video shows move. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: pair one chapter to one lesson before you optimize branding or tools. Pair one chapter to one lesson. Read the short why, watch the move, then do the action. Remember the objective: pair one chapter to one lesson. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Do not binge either alone. Book without action is theory. Video without notes is entertainment. Remember the objective: pair one chapter to one lesson. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. After each pair, write one next action in your own words. Remember the objective: pair one chapter to one lesson. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will pair one chapter to one lesson. In the quiz, you will practice until you can pair one chapter to one lesson. Answer carefully. If you miss one, review the idea and retry."
+}

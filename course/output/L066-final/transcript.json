@@ -1,0 +1,243 @@
+{
+  "lessonId": "L078",
+  "duration": 133.592,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "This gate is an evidence checklist.",
+      "start": 0.0,
+      "end": 2.148,
+      "section": "hook"
+    },
+    {
+      "text": "Vibes do not unlock Systems.",
+      "start": 2.148,
+      "end": 3.938,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about first-customer gate.",
+      "start": 3.938,
+      "end": 6.086,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 6.086,
+      "end": 8.591,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 8.591,
+      "end": 12.171,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 12.171,
+      "end": 17.541,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 17.541,
+      "end": 21.478,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: complete evidence checklist before you optimize branding or tools.",
+      "start": 21.478,
+      "end": 25.416,
+      "section": "hook"
+    },
+    {
+      "text": "Check: conversations logged, offers sent, money asked, payment path ready, onboarding draft.",
+      "start": 25.736,
+      "end": 30.663,
+      "section": "check"
+    },
+    {
+      "text": "Remember the objective: complete evidence checklist.",
+      "start": 30.663,
+      "end": 33.126,
+      "section": "check"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 33.126,
+      "end": 37.642,
+      "section": "check"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 37.642,
+      "end": 42.569,
+      "section": "check"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 42.569,
+      "end": 47.085,
+      "section": "check"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.085,
+      "end": 52.012,
+      "section": "check"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.012,
+      "end": 54.886,
+      "section": "check"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.886,
+      "end": 56.528,
+      "section": "check"
+    },
+    {
+      "text": "Complete the checklist to pass.",
+      "start": 56.848,
+      "end": 58.773,
+      "section": "pass"
+    },
+    {
+      "text": "Missing proof means more outreach, not more branding.",
+      "start": 58.773,
+      "end": 61.852,
+      "section": "pass"
+    },
+    {
+      "text": "Remember the objective: complete evidence checklist.",
+      "start": 61.852,
+      "end": 64.162,
+      "section": "pass"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 64.162,
+      "end": 68.396,
+      "section": "pass"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 68.396,
+      "end": 73.016,
+      "section": "pass"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.016,
+      "end": 77.25,
+      "section": "pass"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.25,
+      "end": 81.87,
+      "section": "pass"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.87,
+      "end": 84.564,
+      "section": "pass"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.564,
+      "end": 86.104,
+      "section": "pass"
+    },
+    {
+      "text": "Carry evidence into Systems.",
+      "start": 86.424,
+      "end": 87.968,
+      "section": "carry"
+    },
+    {
+      "text": "Chaos later starts as skipped proof now.",
+      "start": 87.968,
+      "end": 90.669,
+      "section": "carry"
+    },
+    {
+      "text": "Remember the objective: complete evidence checklist.",
+      "start": 90.669,
+      "end": 92.985,
+      "section": "carry"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.985,
+      "end": 97.23,
+      "section": "carry"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 97.23,
+      "end": 101.862,
+      "section": "carry"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 101.862,
+      "end": 106.107,
+      "section": "carry"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 106.107,
+      "end": 110.739,
+      "section": "carry"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 110.739,
+      "end": 113.44,
+      "section": "carry"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 113.44,
+      "end": 114.984,
+      "section": "carry"
+    },
+    {
+      "text": "In the quiz, you will complete an evidence checklist.",
+      "start": 115.304,
+      "end": 118.534,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can complete evidence checklist.",
+      "start": 118.534,
+      "end": 122.841,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 122.841,
+      "end": 123.559,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.559,
+      "end": 126.789,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 126.789,
+      "end": 131.096,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "This gate is an evidence checklist. Vibes do not unlock Systems. This lesson is about first-customer gate. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: complete evidence checklist before you optimize branding or tools. Check: conversations logged, offers sent, money asked, payment path ready, onboarding draft. Remember the objective: complete evidence checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Complete the checklist to pass. Missing proof means more outreach, not more branding. Remember the objective: complete evidence checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Carry evidence into Systems. Chaos later starts as skipped proof now. Remember the objective: complete evidence checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will complete an evidence checklist. In the quiz, you will practice until you can complete evidence checklist. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

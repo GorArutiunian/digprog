@@ -1,0 +1,207 @@
+{
+  "lessonId": "L030",
+  "duration": 125.408,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Onboarding is simple: show up, loop, ship.",
+      "start": 0.0,
+      "end": 2.539,
+      "section": "hook"
+    },
+    {
+      "text": "You are not collecting courses.",
+      "start": 2.539,
+      "end": 4.352,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about from waitlist to student.",
+      "start": 4.352,
+      "end": 7.253,
+      "section": "hook"
+    },
+    {
+      "text": "How DigProg onboarding will work.",
+      "start": 7.253,
+      "end": 9.067,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.067,
+      "end": 11.605,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.605,
+      "end": 15.232,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.232,
+      "end": 20.672,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.672,
+      "end": 24.661,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: describe your first week plan before you optimize branding or tools.",
+      "start": 24.661,
+      "end": 29.376,
+      "section": "hook"
+    },
+    {
+      "text": "First week plan: finish Foundations lessons with quizzes, set your hour budget, write a kill criterion, and do one real outreach.",
+      "start": 29.696,
+      "end": 37.269,
+      "section": "week"
+    },
+    {
+      "text": "Remember the objective: describe your first week plan.",
+      "start": 37.269,
+      "end": 40.155,
+      "section": "week"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 40.155,
+      "end": 44.122,
+      "section": "week"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 44.122,
+      "end": 48.449,
+      "section": "week"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 48.449,
+      "end": 52.416,
+      "section": "week"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 52.416,
+      "end": 56.744,
+      "section": "week"
+    },
+    {
+      "text": "Use the weekly loop every week: watch one lesson, take the quiz, do one action, then write a note.",
+      "start": 57.064,
+      "end": 63.835,
+      "section": "habit"
+    },
+    {
+      "text": "Remember the objective: describe your first week plan.",
+      "start": 63.835,
+      "end": 66.686,
+      "section": "habit"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.686,
+      "end": 70.607,
+      "section": "habit"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.607,
+      "end": 74.883,
+      "section": "habit"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 74.883,
+      "end": 78.803,
+      "section": "habit"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 78.803,
+      "end": 83.08,
+      "section": "habit"
+    },
+    {
+      "text": "Write your first week plan as four short bullets you can actually keep.",
+      "start": 83.4,
+      "end": 87.96,
+      "section": "own"
+    },
+    {
+      "text": "Remember the objective: describe your first week plan.",
+      "start": 87.96,
+      "end": 90.766,
+      "section": "own"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.766,
+      "end": 94.625,
+      "section": "own"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.625,
+      "end": 98.834,
+      "section": "own"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 98.834,
+      "end": 102.692,
+      "section": "own"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 102.692,
+      "end": 106.902,
+      "section": "own"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 106.902,
+      "end": 109.357,
+      "section": "own"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 109.357,
+      "end": 110.76,
+      "section": "own"
+    },
+    {
+      "text": "In the quiz, you will describe your first week plan.",
+      "start": 111.08,
+      "end": 114.461,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can describe your first week plan.",
+      "start": 114.461,
+      "end": 119.193,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 119.193,
+      "end": 119.869,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 119.869,
+      "end": 122.912,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Onboarding is simple: show up, loop, ship. You are not collecting courses. This lesson is about from waitlist to student. How DigProg onboarding will work. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: describe your first week plan before you optimize branding or tools. First week plan: finish Foundations lessons with quizzes, set your hour budget, write a kill criterion, and do one real outreach. Remember the objective: describe your first week plan. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Use the weekly loop every week: watch one lesson, take the quiz, do one action, then write a note. Remember the objective: describe your first week plan. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Write your first week plan as four short bullets you can actually keep. Remember the objective: describe your first week plan. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will describe your first week plan. In the quiz, you will practice until you can describe your first week plan. Answer carefully. If you miss one, review the idea and retry."
+}

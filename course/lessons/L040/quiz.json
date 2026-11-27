@@ -1,0 +1,207 @@
+{
+  "lessonId": "L046",
+  "title": "Practice \u00b7 Delivery design day one",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Delivery is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "How they receive the promise"
+        },
+        {
+          "id": "b",
+          "text": "Only the logo"
+        },
+        {
+          "id": "c",
+          "text": "Only the price"
+        },
+        {
+          "id": "d",
+          "text": "Only the ad"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Design it:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Day one \u2014 ugly is fine"
+        },
+        {
+          "id": "b",
+          "text": "After year two"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only after branding"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Describe delivery path"
+        },
+        {
+          "id": "b",
+          "text": "Skip kickoff"
+        },
+        {
+          "id": "c",
+          "text": "Hide checkpoints"
+        },
+        {
+          "id": "d",
+          "text": "Avoid done criteria"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Path includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Kickoff, files or calls, checkpoints, done"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Prefer tools that are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Boring ones you have"
+        },
+        {
+          "id": "b",
+          "text": "Fancy portals day one"
+        },
+        {
+          "id": "c",
+          "text": "Unfamiliar stacks"
+        },
+        {
+          "id": "d",
+          "text": "None"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Write the path in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Five clear lines"
+        },
+        {
+          "id": "b",
+          "text": "A novel"
+        },
+        {
+          "id": "c",
+          "text": "Silence"
+        },
+        {
+          "id": "d",
+          "text": "Latin"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can describe a delivery path"
+        },
+        {
+          "id": "b",
+          "text": "You skipped delivery"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write delivery path"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Buy a portal first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

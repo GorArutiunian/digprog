@@ -1,0 +1,207 @@
+{
+  "lessonId": "L089",
+  "title": "Practice \u00b7 Improve from refunds/feedback",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Complaints are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Product research if logged"
+        },
+        {
+          "id": "b",
+          "text": "Always insults only"
+        },
+        {
+          "id": "c",
+          "text": "Noise to ignore"
+        },
+        {
+          "id": "d",
+          "text": "Reasons to fake scarcity"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Log three improvements with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What broke, what changes, by when"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only blame"
+        },
+        {
+          "id": "d",
+          "text": "No dates"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Log three improvements"
+        },
+        {
+          "id": "b",
+          "text": "Ignore feedback"
+        },
+        {
+          "id": "c",
+          "text": "Hide refunds"
+        },
+        {
+          "id": "d",
+          "text": "Skip onboarding fixes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Turn complaints into:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clearer scope, better onboarding, sharper promise"
+        },
+        {
+          "id": "b",
+          "text": "Louder ads only"
+        },
+        {
+          "id": "c",
+          "text": "Fake testimonials"
+        },
+        {
+          "id": "d",
+          "text": "More vanity tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Ignored complaints become:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Silent churn patterns"
+        },
+        {
+          "id": "b",
+          "text": "Automatic loyalty"
+        },
+        {
+          "id": "c",
+          "text": "Free marketing"
+        },
+        {
+          "id": "d",
+          "text": "Better logos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Close the:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Loop"
+        },
+        {
+          "id": "b",
+          "text": "Business always"
+        },
+        {
+          "id": "c",
+          "text": "Scoreboard"
+        },
+        {
+          "id": "d",
+          "text": "Calendar"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can log three improvements"
+        },
+        {
+          "id": "b",
+          "text": "You ignored complaints"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then log three improvements"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Hide feedback"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

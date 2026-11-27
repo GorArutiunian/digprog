@@ -1,0 +1,207 @@
+{
+  "lessonId": "L091",
+  "title": "Practice \u00b7 Clarify the problem",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step one is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clarify the problem in buyer words"
+        },
+        {
+          "id": "b",
+          "text": "Buy a logo"
+        },
+        {
+          "id": "c",
+          "text": "Write jargon first"
+        },
+        {
+          "id": "d",
+          "text": "Skip the problem"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Rewrite so:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A buyer would say it out loud"
+        },
+        {
+          "id": "b",
+          "text": "Only founders understand"
+        },
+        {
+          "id": "c",
+          "text": "It stays vague"
+        },
+        {
+          "id": "d",
+          "text": "It hides the pain"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Rewrite problem in buyer words"
+        },
+        {
+          "id": "b",
+          "text": "Name a logo"
+        },
+        {
+          "id": "c",
+          "text": "Skip testing"
+        },
+        {
+          "id": "d",
+          "text": "Lock ten problems"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "If a stranger cannot feel it:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Rewrite again"
+        },
+        {
+          "id": "b",
+          "text": "Ship anyway"
+        },
+        {
+          "id": "c",
+          "text": "Add more jargon"
+        },
+        {
+          "id": "d",
+          "text": "Buy ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Lock one problem sentence:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before you name a buyer"
+        },
+        {
+          "id": "b",
+          "text": "After brand kits"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "After ten offers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Avoid:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Founder jargon as the problem line"
+        },
+        {
+          "id": "b",
+          "text": "Buyer words"
+        },
+        {
+          "id": "c",
+          "text": "One clear sentence"
+        },
+        {
+          "id": "d",
+          "text": "Rewrites"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can rewrite the problem in buyer words"
+        },
+        {
+          "id": "b",
+          "text": "You kept jargon"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then lock one problem sentence"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip to logos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

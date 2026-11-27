@@ -1,0 +1,207 @@
+{
+  "lessonId": "L069",
+  "title": "Practice \u00b7 Case: Maya-style first sale path",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Maya sold a digital offer at:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Seventy-nine dollars"
+        },
+        {
+          "id": "b",
+          "text": "Zero forever"
+        },
+        {
+          "id": "c",
+          "text": "Only brand fees"
+        },
+        {
+          "id": "d",
+          "text": "An undefined price"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Her path prioritized:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clear who, promise, warm outreach, discovery, close, payment"
+        },
+        {
+          "id": "b",
+          "text": "Logo first"
+        },
+        {
+          "id": "c",
+          "text": "Ads only"
+        },
+        {
+          "id": "d",
+          "text": "No outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Map Maya path to yours"
+        },
+        {
+          "id": "b",
+          "text": "Copy her niche exactly"
+        },
+        {
+          "id": "c",
+          "text": "Skip sequence"
+        },
+        {
+          "id": "d",
+          "text": "Avoid payment"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Steal:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The sequence, not her niche"
+        },
+        {
+          "id": "b",
+          "text": "Her name"
+        },
+        {
+          "id": "c",
+          "text": "Fake testimonials"
+        },
+        {
+          "id": "d",
+          "text": "Nothing useful"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Sequence is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Transferable"
+        },
+        {
+          "id": "b",
+          "text": "Useless"
+        },
+        {
+          "id": "c",
+          "text": "Illegal to reuse"
+        },
+        {
+          "id": "d",
+          "text": "Only for digital forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Map means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Same steps, your offer, your price"
+        },
+        {
+          "id": "b",
+          "text": "Ignore your offer"
+        },
+        {
+          "id": "c",
+          "text": "Only study her logo"
+        },
+        {
+          "id": "d",
+          "text": "Skip warm outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can map Maya path to yours"
+        },
+        {
+          "id": "b",
+          "text": "You only admired the case"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then map the path"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Copy niche blindly"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

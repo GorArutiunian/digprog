@@ -1,0 +1,207 @@
+{
+  "lessonId": "L062",
+  "title": "Practice \u00b7 Objection map basics",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Objections are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Information, not insults"
+        },
+        {
+          "id": "b",
+          "text": "Personal attacks always"
+        },
+        {
+          "id": "c",
+          "text": "Reasons to quit"
+        },
+        {
+          "id": "d",
+          "text": "Noise to ignore"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Map four:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Money, time, trust, timing"
+        },
+        {
+          "id": "b",
+          "text": "Fonts, logos, colors, vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only silence"
+        },
+        {
+          "id": "d",
+          "text": "Only spam"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Map four objections"
+        },
+        {
+          "id": "b",
+          "text": "Argue angrily"
+        },
+        {
+          "id": "c",
+          "text": "Ignore objections"
+        },
+        {
+          "id": "d",
+          "text": "Skip clarifying questions"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "For each objection write:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A calm reply and clarifying question"
+        },
+        {
+          "id": "b",
+          "text": "A guilt trip"
+        },
+        {
+          "id": "c",
+          "text": "Nothing"
+        },
+        {
+          "id": "d",
+          "text": "A fake scarcity claim"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Update the map when:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "New objections appear"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only after branding"
+        },
+        {
+          "id": "d",
+          "text": "Only yearly"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Use the map:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In calls"
+        },
+        {
+          "id": "b",
+          "text": "Only in your head forever"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "To insult buyers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can map four objections"
+        },
+        {
+          "id": "b",
+          "text": "You ignored them"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then map four objections"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Argue harder"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "lessonId": "L033",
+  "duration": 134.792,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Ideas feel equal until you score them.",
+      "start": 0.0,
+      "end": 2.703,
+      "section": "hook"
+    },
+    {
+      "text": "Investors score.",
+      "start": 2.703,
+      "end": 3.475,
+      "section": "hook"
+    },
+    {
+      "text": "So do you.",
+      "start": 3.475,
+      "end": 4.633,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about score ideas like an investor.",
+      "start": 4.633,
+      "end": 8.108,
+      "section": "hook"
+    },
+    {
+      "text": "Urgency, reachability, delivery speed.",
+      "start": 8.108,
+      "end": 9.652,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.652,
+      "end": 12.355,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.355,
+      "end": 16.216,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 16.216,
+      "end": 22.008,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 22.008,
+      "end": 26.255,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: score three ideas 1\u20135 before you optimize branding or tools.",
+      "start": 26.255,
+      "end": 30.888,
+      "section": "hook"
+    },
+    {
+      "text": "Score urgency, reachability, and delivery speed from one to five.",
+      "start": 31.208,
+      "end": 35.08,
+      "section": "axes"
+    },
+    {
+      "text": "Remember the objective: score three ideas 1\u20135.",
+      "start": 35.08,
+      "end": 37.791,
+      "section": "axes"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.791,
+      "end": 42.051,
+      "section": "axes"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 42.051,
+      "end": 46.698,
+      "section": "axes"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.698,
+      "end": 50.957,
+      "section": "axes"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.957,
+      "end": 55.604,
+      "section": "axes"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 55.604,
+      "end": 58.315,
+      "section": "axes"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 58.315,
+      "end": 59.864,
+      "section": "axes"
+    },
+    {
+      "text": "Score three ideas on the same sheet.",
+      "start": 60.184,
+      "end": 62.833,
+      "section": "three"
+    },
+    {
+      "text": "The highest honest total gets fourteen days.",
+      "start": 62.833,
+      "end": 65.482,
+      "section": "three"
+    },
+    {
+      "text": "Remember the objective: score three ideas 1\u20135.",
+      "start": 65.482,
+      "end": 68.132,
+      "section": "three"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 68.132,
+      "end": 72.295,
+      "section": "three"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 72.295,
+      "end": 76.836,
+      "section": "three"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 76.836,
+      "end": 80.999,
+      "section": "three"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 80.999,
+      "end": 85.541,
+      "section": "three"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 85.541,
+      "end": 88.19,
+      "section": "three"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 88.19,
+      "end": 89.704,
+      "section": "three"
+    },
+    {
+      "text": "Do not inflate scores because you like the logo idea.",
+      "start": 90.024,
+      "end": 93.796,
+      "section": "honest"
+    },
+    {
+      "text": "Honesty is the edge.",
+      "start": 93.796,
+      "end": 95.305,
+      "section": "honest"
+    },
+    {
+      "text": "Remember the objective: score three ideas 1\u20135.",
+      "start": 95.305,
+      "end": 97.946,
+      "section": "honest"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 97.946,
+      "end": 102.095,
+      "section": "honest"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 102.095,
+      "end": 106.622,
+      "section": "honest"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 106.622,
+      "end": 110.772,
+      "section": "honest"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 110.772,
+      "end": 115.298,
+      "section": "honest"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 115.298,
+      "end": 117.939,
+      "section": "honest"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 117.939,
+      "end": 119.448,
+      "section": "honest"
+    },
+    {
+      "text": "In the quiz, you will score three ideas from one to five.",
+      "start": 119.768,
+      "end": 123.944,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can score three ideas 1\u20135.",
+      "start": 123.944,
+      "end": 128.468,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 128.468,
+      "end": 129.164,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 129.164,
+      "end": 132.296,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Ideas feel equal until you score them. Investors score. So do you. This lesson is about score ideas like an investor. Urgency, reachability, delivery speed. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: score three ideas 1\u20135 before you optimize branding or tools. Score urgency, reachability, and delivery speed from one to five. Remember the objective: score three ideas 1\u20135. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Score three ideas on the same sheet. The highest honest total gets fourteen days. Remember the objective: score three ideas 1\u20135. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Do not inflate scores because you like the logo idea. Honesty is the edge. Remember the objective: score three ideas 1\u20135. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will score three ideas from one to five. In the quiz, you will practice until you can score three ideas 1\u20135. Answer carefully. If you miss one, review the idea and retry."
+}

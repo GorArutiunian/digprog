@@ -1,0 +1,237 @@
+{
+  "lessonId": "L095",
+  "duration": 132.464,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Complaints are product research if you log them.",
+      "start": 0.0,
+      "end": 2.935,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about improve from refunds/feedback.",
+      "start": 2.935,
+      "end": 5.504,
+      "section": "hook"
+    },
+    {
+      "text": "Turn complaints into product.",
+      "start": 5.504,
+      "end": 6.971,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 6.971,
+      "end": 9.54,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 9.54,
+      "end": 13.209,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.209,
+      "end": 18.712,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 18.712,
+      "end": 22.748,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: log three improvements before you optimize branding or tools.",
+      "start": 22.748,
+      "end": 26.784,
+      "section": "hook"
+    },
+    {
+      "text": "Log three improvements from refunds or feedback: what broke, what you will change, by when.",
+      "start": 27.104,
+      "end": 32.822,
+      "section": "log"
+    },
+    {
+      "text": "Remember the objective: log three improvements.",
+      "start": 32.822,
+      "end": 35.11,
+      "section": "log"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.11,
+      "end": 39.303,
+      "section": "log"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.303,
+      "end": 43.878,
+      "section": "log"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.878,
+      "end": 48.072,
+      "section": "log"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.072,
+      "end": 52.646,
+      "section": "log"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.646,
+      "end": 55.315,
+      "section": "log"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.315,
+      "end": 56.84,
+      "section": "log"
+    },
+    {
+      "text": "Turn complaints into clearer scope, better onboarding, or a sharper promise.",
+      "start": 57.16,
+      "end": 61.452,
+      "section": "turn"
+    },
+    {
+      "text": "Remember the objective: log three improvements.",
+      "start": 61.452,
+      "end": 63.793,
+      "section": "turn"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.793,
+      "end": 68.085,
+      "section": "turn"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 68.085,
+      "end": 72.766,
+      "section": "turn"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.766,
+      "end": 77.058,
+      "section": "turn"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.058,
+      "end": 81.74,
+      "section": "turn"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.74,
+      "end": 84.471,
+      "section": "turn"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.471,
+      "end": 86.032,
+      "section": "turn"
+    },
+    {
+      "text": "Close the loop.",
+      "start": 86.352,
+      "end": 87.48,
+      "section": "close"
+    },
+    {
+      "text": "An ignored complaint becomes a silent churn pattern.",
+      "start": 87.48,
+      "end": 90.487,
+      "section": "close"
+    },
+    {
+      "text": "Remember the objective: log three improvements.",
+      "start": 90.487,
+      "end": 92.742,
+      "section": "close"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.742,
+      "end": 96.877,
+      "section": "close"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.877,
+      "end": 101.388,
+      "section": "close"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 101.388,
+      "end": 105.522,
+      "section": "close"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 105.522,
+      "end": 110.033,
+      "section": "close"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 110.033,
+      "end": 112.664,
+      "section": "close"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 112.664,
+      "end": 114.168,
+      "section": "close"
+    },
+    {
+      "text": "In the quiz, you will log three improvements.",
+      "start": 114.488,
+      "end": 117.368,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can log three improvements.",
+      "start": 117.368,
+      "end": 121.688,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 121.688,
+      "end": 122.408,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 122.408,
+      "end": 125.648,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 125.648,
+      "end": 129.968,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Complaints are product research if you log them. This lesson is about improve from refunds/feedback. Turn complaints into product. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: log three improvements before you optimize branding or tools. Log three improvements from refunds or feedback: what broke, what you will change, by when. Remember the objective: log three improvements. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Turn complaints into clearer scope, better onboarding, or a sharper promise. Remember the objective: log three improvements. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Close the loop. An ignored complaint becomes a silent churn pattern. Remember the objective: log three improvements. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will log three improvements. In the quiz, you will practice until you can log three improvements. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

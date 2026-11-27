@@ -1,0 +1,207 @@
+{
+  "lessonId": "L088",
+  "title": "Practice \u00b7 Systems gate",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "The gate question is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Can you repeat last week without chaos?"
+        },
+        {
+          "id": "b",
+          "text": "Do you have a logo?"
+        },
+        {
+          "id": "c",
+          "text": "Did you binge?"
+        },
+        {
+          "id": "d",
+          "text": "Did you buy tools?"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Self-check includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Scoreboard, blocks, checklist, FAQ, stop rule"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only followers"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pass systems self-check"
+        },
+        {
+          "id": "b",
+          "text": "Skip systems"
+        },
+        {
+          "id": "c",
+          "text": "Jump with chaos"
+        },
+        {
+          "id": "d",
+          "text": "More branding first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Missing pieces mean:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fix systems"
+        },
+        {
+          "id": "b",
+          "text": "Buy logos"
+        },
+        {
+          "id": "c",
+          "text": "Quit"
+        },
+        {
+          "id": "d",
+          "text": "Ignore the gate"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Pass unlocks:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Launch map"
+        },
+        {
+          "id": "b",
+          "text": "More binge only"
+        },
+        {
+          "id": "c",
+          "text": "Brand theater"
+        },
+        {
+          "id": "d",
+          "text": "Tool hopping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Repeatability is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The product now"
+        },
+        {
+          "id": "b",
+          "text": "Optional fluff"
+        },
+        {
+          "id": "c",
+          "text": "A logo trait"
+        },
+        {
+          "id": "d",
+          "text": "An ad metric"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can pass a systems self-check"
+        },
+        {
+          "id": "b",
+          "text": "You stayed chaotic"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then pass the systems gate"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip the OS"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

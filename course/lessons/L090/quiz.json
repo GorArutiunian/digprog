@@ -1,0 +1,207 @@
+{
+  "lessonId": "L096",
+  "title": "Practice \u00b7 Talk to 10 humans",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step six is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Talk to ten humans"
+        },
+        {
+          "id": "b",
+          "text": "Avoid conversations"
+        },
+        {
+          "id": "c",
+          "text": "Only post ads"
+        },
+        {
+          "id": "d",
+          "text": "Only redesign"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Plan ten talks with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, channel, ask, what you learn"
+        },
+        {
+          "id": "b",
+          "text": "No ask"
+        },
+        {
+          "id": "c",
+          "text": "No log"
+        },
+        {
+          "id": "d",
+          "text": "Random vibes only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Plan ten conversations"
+        },
+        {
+          "id": "b",
+          "text": "Skip humans"
+        },
+        {
+          "id": "c",
+          "text": "Trust opinions only"
+        },
+        {
+          "id": "d",
+          "text": "Hide patterns"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Ask about:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The problem and whether the offer helps"
+        },
+        {
+          "id": "b",
+          "text": "Only the weather"
+        },
+        {
+          "id": "c",
+          "text": "Only your logo"
+        },
+        {
+          "id": "d",
+          "text": "Only followers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Log each talk because:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Patterns beat opinions"
+        },
+        {
+          "id": "b",
+          "text": "Logs are useless"
+        },
+        {
+          "id": "c",
+          "text": "Memory is enough"
+        },
+        {
+          "id": "d",
+          "text": "Opinions win"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Pages without conversations:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stall"
+        },
+        {
+          "id": "b",
+          "text": "Always convert"
+        },
+        {
+          "id": "c",
+          "text": "Replace talks"
+        },
+        {
+          "id": "d",
+          "text": "Need no humans"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can plan ten conversations"
+        },
+        {
+          "id": "b",
+          "text": "You avoided humans"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then plan ten talks"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip logging"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

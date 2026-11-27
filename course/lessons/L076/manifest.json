@@ -1,0 +1,24 @@
+{
+  "id": "L076",
+  "slug": "content-that-sells-ops",
+  "title": "Content that sells (ops)",
+  "module": "05 \u00b7 Systems",
+  "objective": "Plan one batch session",
+  "durationSeconds": 130.952,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L076DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L076-final/L076-Content-that-sells-ops.mp4",
+    "poster": "output/L076-final/poster.jpg",
+    "voice": "output/L076-final/voice-l076-final.mp3",
+    "captionsSrt": "output/L076-final/L076.srt",
+    "captionsVtt": "output/L076-final/L076.vtt",
+    "transcript": "output/L076-final/transcript.json",
+    "timeline": "output/L076-final/timeline.json",
+    "quiz": "lessons/L076/quiz.json",
+    "storyboard": "lessons/L076/storyboard.md"
+  },
+  "sourceLessonId": "L076"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "L059",
+  "slug": "onboarding-in-48-hours",
+  "title": "Onboarding in 48 hours",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Write welcome message",
+  "durationSeconds": 127.112,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L059DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L059-final/L059-Onboarding-in-48-hours.mp4",
+    "poster": "output/L059-final/poster.jpg",
+    "voice": "output/L059-final/voice-l059-final.mp3",
+    "captionsSrt": "output/L059-final/L059.srt",
+    "captionsVtt": "output/L059-final/L059.vtt",
+    "transcript": "output/L059-final/transcript.json",
+    "timeline": "output/L059-final/timeline.json",
+    "quiz": "lessons/L059/quiz.json",
+    "storyboard": "lessons/L059/storyboard.md"
+  },
+  "sourceLessonId": "L059"
+}

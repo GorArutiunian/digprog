@@ -1,0 +1,207 @@
+{
+  "lessonId": "L045",
+  "title": "Practice \u00b7 Starter / Builder / Operator ladder",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Start with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One offer that sells"
+        },
+        {
+          "id": "b",
+          "text": "All three rungs built"
+        },
+        {
+          "id": "c",
+          "text": "No offer"
+        },
+        {
+          "id": "d",
+          "text": "Only a ladder diagram"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Rungs are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Starter, Builder, Operator"
+        },
+        {
+          "id": "b",
+          "text": "Logo, font, color"
+        },
+        {
+          "id": "c",
+          "text": "Ads, ads, ads"
+        },
+        {
+          "id": "d",
+          "text": "Quiz, quiz, quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sketch a future ladder"
+        },
+        {
+          "id": "b",
+          "text": "Build all rungs now"
+        },
+        {
+          "id": "c",
+          "text": "Skip starter"
+        },
+        {
+          "id": "d",
+          "text": "Delay first cash for fantasy"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Sketch on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One page"
+        },
+        {
+          "id": "b",
+          "text": "A fifty-page plan"
+        },
+        {
+          "id": "c",
+          "text": "Nowhere"
+        },
+        {
+          "id": "d",
+          "text": "Only in your head"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Ship first:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The starter rung"
+        },
+        {
+          "id": "b",
+          "text": "Operator only"
+        },
+        {
+          "id": "c",
+          "text": "All rungs"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Ladder fantasies:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Delay first cash"
+        },
+        {
+          "id": "b",
+          "text": "Replace outreach"
+        },
+        {
+          "id": "c",
+          "text": "Replace quizzes"
+        },
+        {
+          "id": "d",
+          "text": "Create paying demand alone"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can sketch a future ladder"
+        },
+        {
+          "id": "b",
+          "text": "You built all three now"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then sketch the ladder"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Build all rungs now"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

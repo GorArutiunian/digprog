@@ -1,0 +1,19 @@
+{
+  "id": "L003",
+  "slug": "are-you-ready-to-start",
+  "title": "Are you ready to start",
+  "module": "01 \u00b7 Foundations",
+  "objective": "List readiness gaps honestly",
+  "durationSeconds": 122.576,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L003DataCamp",
+  "assets": {
+    "video": "/lessons/L003/video.mp4",
+    "poster": "/lessons/L003/poster.jpg",
+    "captionsVtt": "/lessons/L003/captions.vtt",
+    "captionsSrt": "/lessons/L003/captions.srt",
+    "transcript": "/lessons/L003/transcript.json"
+  },
+  "sourceLessonId": "L003"
+}

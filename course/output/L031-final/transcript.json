@@ -1,0 +1,231 @@
+{
+  "lessonId": "L043",
+  "duration": 133.544,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "You can smoke-test without an ads budget.",
+      "start": 0.0,
+      "end": 2.535,
+      "section": "hook"
+    },
+    {
+      "text": "Landing plus outbound is enough.",
+      "start": 2.535,
+      "end": 4.346,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about smoke tests without ads.",
+      "start": 4.346,
+      "end": 7.243,
+      "section": "hook"
+    },
+    {
+      "text": "Landing + outbound.",
+      "start": 7.243,
+      "end": 8.33,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.33,
+      "end": 10.865,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.865,
+      "end": 14.486,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.486,
+      "end": 19.918,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.918,
+      "end": 23.902,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: draft a smoke-test CTA before you optimize branding or tools.",
+      "start": 23.902,
+      "end": 28.248,
+      "section": "hook"
+    },
+    {
+      "text": "Draft a simple page or doc with the offer, then send it to warm contacts with a clear call to action.",
+      "start": 28.568,
+      "end": 35.835,
+      "section": "parts"
+    },
+    {
+      "text": "Remember the objective: draft a smoke-test CTA.",
+      "start": 35.835,
+      "end": 38.258,
+      "section": "parts"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 38.258,
+      "end": 42.064,
+      "section": "parts"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 42.064,
+      "end": 46.217,
+      "section": "parts"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.217,
+      "end": 50.023,
+      "section": "parts"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.023,
+      "end": 54.176,
+      "section": "parts"
+    },
+    {
+      "text": "Draft a smoke-test CTA: what to do next, by when, and what they get.",
+      "start": 54.496,
+      "end": 59.816,
+      "section": "cta"
+    },
+    {
+      "text": "Remember the objective: draft a smoke-test CTA.",
+      "start": 59.816,
+      "end": 62.476,
+      "section": "cta"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 62.476,
+      "end": 66.656,
+      "section": "cta"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 66.656,
+      "end": 71.216,
+      "section": "cta"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.216,
+      "end": 75.396,
+      "section": "cta"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.396,
+      "end": 79.956,
+      "section": "cta"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.956,
+      "end": 82.616,
+      "section": "cta"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.616,
+      "end": 84.136,
+      "section": "cta"
+    },
+    {
+      "text": "Count replies, objections, and yes signals.",
+      "start": 84.456,
+      "end": 86.864,
+      "section": "learn"
+    },
+    {
+      "text": "The test is contact, not perfection.",
+      "start": 86.864,
+      "end": 89.272,
+      "section": "learn"
+    },
+    {
+      "text": "Remember the objective: draft a smoke-test CTA.",
+      "start": 89.272,
+      "end": 92.082,
+      "section": "learn"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.082,
+      "end": 96.497,
+      "section": "learn"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.497,
+      "end": 101.313,
+      "section": "learn"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 101.313,
+      "end": 105.729,
+      "section": "learn"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 105.729,
+      "end": 110.545,
+      "section": "learn"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 110.545,
+      "end": 113.355,
+      "section": "learn"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 113.355,
+      "end": 114.96,
+      "section": "learn"
+    },
+    {
+      "text": "In the quiz, you will draft a smoke-test CTA.",
+      "start": 115.28,
+      "end": 118.434,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can draft a smoke-test CTA.",
+      "start": 118.434,
+      "end": 122.989,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 122.989,
+      "end": 123.69,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.69,
+      "end": 126.843,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 126.843,
+      "end": 131.048,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "You can smoke-test without an ads budget. Landing plus outbound is enough. This lesson is about smoke tests without ads. Landing + outbound. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: draft a smoke-test CTA before you optimize branding or tools. Draft a simple page or doc with the offer, then send it to warm contacts with a clear call to action. Remember the objective: draft a smoke-test CTA. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Draft a smoke-test CTA: what to do next, by when, and what they get. Remember the objective: draft a smoke-test CTA. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Count replies, objections, and yes signals. The test is contact, not perfection. Remember the objective: draft a smoke-test CTA. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will draft a smoke-test CTA. In the quiz, you will practice until you can draft a smoke-test CTA. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

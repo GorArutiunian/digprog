@@ -1,0 +1,19 @@
+{
+  "id": "L011",
+  "slug": "common-beginner-traps",
+  "title": "Common beginner traps",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Name two traps to avoid this week",
+  "durationSeconds": 129.056,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L011DataCamp",
+  "assets": {
+    "video": "/lessons/L011/video.mp4",
+    "poster": "/lessons/L011/poster.jpg",
+    "captionsVtt": "/lessons/L011/captions.vtt",
+    "captionsSrt": "/lessons/L011/captions.srt",
+    "transcript": "/lessons/L011/transcript.json"
+  },
+  "sourceLessonId": "L011"
+}

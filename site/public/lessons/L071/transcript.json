@@ -1,0 +1,225 @@
+{
+  "lessonId": "L083",
+  "duration": 122.552,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Same quality every time needs a checklist, not memory.",
+      "start": 0.0,
+      "end": 3.323,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about delivery checklist.",
+      "start": 3.323,
+      "end": 5.538,
+      "section": "hook"
+    },
+    {
+      "text": "Same quality every time.",
+      "start": 5.538,
+      "end": 7.015,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.015,
+      "end": 9.599,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 9.599,
+      "end": 13.291,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.291,
+      "end": 18.829,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 18.829,
+      "end": 22.891,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: write delivery checklist before you optimize branding or tools.",
+      "start": 22.891,
+      "end": 26.952,
+      "section": "hook"
+    },
+    {
+      "text": "Write a delivery checklist from kickoff to done.",
+      "start": 27.272,
+      "end": 30.239,
+      "section": "write"
+    },
+    {
+      "text": "Remember the objective: write delivery checklist.",
+      "start": 30.239,
+      "end": 32.463,
+      "section": "write"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 32.463,
+      "end": 36.542,
+      "section": "write"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 36.542,
+      "end": 40.992,
+      "section": "write"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 40.992,
+      "end": 45.071,
+      "section": "write"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 45.071,
+      "end": 49.521,
+      "section": "write"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 49.521,
+      "end": 52.117,
+      "section": "write"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 52.117,
+      "end": 53.6,
+      "section": "write"
+    },
+    {
+      "text": "Use the same list for every buyer so quality does not depend on mood.",
+      "start": 53.92,
+      "end": 59.004,
+      "section": "same"
+    },
+    {
+      "text": "Remember the objective: write delivery checklist.",
+      "start": 59.004,
+      "end": 61.182,
+      "section": "same"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.182,
+      "end": 65.177,
+      "section": "same"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 65.177,
+      "end": 69.534,
+      "section": "same"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 69.534,
+      "end": 73.528,
+      "section": "same"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 73.528,
+      "end": 77.886,
+      "section": "same"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 77.886,
+      "end": 80.428,
+      "section": "same"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 80.428,
+      "end": 81.88,
+      "section": "same"
+    },
+    {
+      "text": "Improve the checklist when something breaks once.",
+      "start": 82.2,
+      "end": 84.845,
+      "section": "improve"
+    },
+    {
+      "text": "Remember the objective: write delivery checklist.",
+      "start": 84.845,
+      "end": 87.112,
+      "section": "improve"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 87.112,
+      "end": 91.268,
+      "section": "improve"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 91.268,
+      "end": 95.802,
+      "section": "improve"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 95.802,
+      "end": 99.958,
+      "section": "improve"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 99.958,
+      "end": 104.492,
+      "section": "improve"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 104.492,
+      "end": 107.137,
+      "section": "improve"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 107.137,
+      "end": 108.648,
+      "section": "improve"
+    },
+    {
+      "text": "In the quiz, you will write a delivery checklist.",
+      "start": 108.968,
+      "end": 112.086,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can write delivery checklist.",
+      "start": 112.086,
+      "end": 116.244,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 116.244,
+      "end": 116.937,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 116.937,
+      "end": 120.056,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Same quality every time needs a checklist, not memory. This lesson is about delivery checklist. Same quality every time. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: write delivery checklist before you optimize branding or tools. Write a delivery checklist from kickoff to done. Remember the objective: write delivery checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Use the same list for every buyer so quality does not depend on mood. Remember the objective: write delivery checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Improve the checklist when something breaks once. Remember the objective: write delivery checklist. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will write a delivery checklist. In the quiz, you will practice until you can write delivery checklist. Answer carefully. If you miss one, review the idea and retry."
+}

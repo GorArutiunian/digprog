@@ -1,0 +1,207 @@
+{
+  "lessonId": "L053",
+  "title": "Practice \u00b7 Break-even without spreadsheets panic",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Break-even here means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "How many sales cover your week"
+        },
+        {
+          "id": "b",
+          "text": "A perfect spreadsheet"
+        },
+        {
+          "id": "c",
+          "text": "Follower count"
+        },
+        {
+          "id": "d",
+          "text": "Logo cost only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Rough math:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cash needed divided by contribution per sale"
+        },
+        {
+          "id": "b",
+          "text": "Ignore unit cost"
+        },
+        {
+          "id": "c",
+          "text": "Only vibes"
+        },
+        {
+          "id": "d",
+          "text": "Only ad spend"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Compute rough break-even"
+        },
+        {
+          "id": "b",
+          "text": "Panic in Excel"
+        },
+        {
+          "id": "c",
+          "text": "Skip the number"
+        },
+        {
+          "id": "d",
+          "text": "Hide the math"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Write:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The break-even number of sales"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only a logo budget"
+        },
+        {
+          "id": "d",
+          "text": "A novel"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "If the number is fantasy:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Change price, packaging, or hours"
+        },
+        {
+          "id": "b",
+          "text": "Lie to yourself"
+        },
+        {
+          "id": "c",
+          "text": "Ignore it"
+        },
+        {
+          "id": "d",
+          "text": "Quit honesty"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "You do not need:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Spreadsheet panic"
+        },
+        {
+          "id": "b",
+          "text": "A rough count"
+        },
+        {
+          "id": "c",
+          "text": "Honesty"
+        },
+        {
+          "id": "d",
+          "text": "A test price"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can compute a rough break-even"
+        },
+        {
+          "id": "b",
+          "text": "You panicked only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write break-even sales"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Avoid the number"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

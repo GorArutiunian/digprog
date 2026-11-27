@@ -1,0 +1,219 @@
+{
+  "lessonId": "L008",
+  "duration": 122.888,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "In this course, practice is the product.",
+      "start": 0.0,
+      "end": 2.527,
+      "section": "hook"
+    },
+    {
+      "text": "Watching is not finishing.",
+      "start": 2.527,
+      "end": 3.971,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about how quizzes unlock progress.",
+      "start": 3.971,
+      "end": 6.858,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 6.858,
+      "end": 9.385,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 9.385,
+      "end": 12.995,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 12.995,
+      "end": 18.409,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 18.409,
+      "end": 22.38,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: explain why quizzes gate progress before you optimize branding or tools.",
+      "start": 22.38,
+      "end": 27.072,
+      "section": "hook"
+    },
+    {
+      "text": "Quizzes force retrieval.",
+      "start": 27.392,
+      "end": 28.496,
+      "section": "why"
+    },
+    {
+      "text": "You prove you can use the idea, not just recognize the words.",
+      "start": 28.496,
+      "end": 32.912,
+      "section": "why"
+    },
+    {
+      "text": "Remember the objective: explain why quizzes gate progress.",
+      "start": 32.912,
+      "end": 35.856,
+      "section": "why"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.856,
+      "end": 39.904,
+      "section": "why"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.904,
+      "end": 44.32,
+      "section": "why"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.32,
+      "end": 48.368,
+      "section": "why"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.368,
+      "end": 52.784,
+      "section": "why"
+    },
+    {
+      "text": "Progress unlocks when you pass.",
+      "start": 53.104,
+      "end": 54.961,
+      "section": "gate"
+    },
+    {
+      "text": "That gate protects you from bingeing and calling it work.",
+      "start": 54.961,
+      "end": 58.676,
+      "section": "gate"
+    },
+    {
+      "text": "Remember the objective: explain why quizzes gate progress.",
+      "start": 58.676,
+      "end": 61.648,
+      "section": "gate"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.648,
+      "end": 65.734,
+      "section": "gate"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 65.734,
+      "end": 70.192,
+      "section": "gate"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.192,
+      "end": 74.278,
+      "section": "gate"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 74.278,
+      "end": 78.736,
+      "section": "gate"
+    },
+    {
+      "text": "Treat each quiz as a short workout.",
+      "start": 79.056,
+      "end": 81.772,
+      "section": "action"
+    },
+    {
+      "text": "Miss one, review, retry.",
+      "start": 81.772,
+      "end": 83.325,
+      "section": "action"
+    },
+    {
+      "text": "Speed is optional.",
+      "start": 83.325,
+      "end": 84.489,
+      "section": "action"
+    },
+    {
+      "text": "Clarity is not.",
+      "start": 84.489,
+      "end": 85.653,
+      "section": "action"
+    },
+    {
+      "text": "Remember the objective: explain why quizzes gate progress.",
+      "start": 85.653,
+      "end": 88.757,
+      "section": "action"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 88.757,
+      "end": 93.026,
+      "section": "action"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 93.026,
+      "end": 97.683,
+      "section": "action"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 97.683,
+      "end": 101.951,
+      "section": "action"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 101.951,
+      "end": 106.608,
+      "section": "action"
+    },
+    {
+      "text": "In the quiz, you will explain why quizzes gate progress.",
+      "start": 106.928,
+      "end": 110.775,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can explain why quizzes gate progress.",
+      "start": 110.775,
+      "end": 116.16,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 116.16,
+      "end": 116.93,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 116.93,
+      "end": 120.392,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "In this course, practice is the product. Watching is not finishing. This lesson is about how quizzes unlock progress. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: explain why quizzes gate progress before you optimize branding or tools. Quizzes force retrieval. You prove you can use the idea, not just recognize the words. Remember the objective: explain why quizzes gate progress. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Progress unlocks when you pass. That gate protects you from bingeing and calling it work. Remember the objective: explain why quizzes gate progress. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Treat each quiz as a short workout. Miss one, review, retry. Speed is optional. Clarity is not. Remember the objective: explain why quizzes gate progress. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. In the quiz, you will explain why quizzes gate progress. In the quiz, you will practice until you can explain why quizzes gate progress. Answer carefully. If you miss one, review the idea and retry."
+}

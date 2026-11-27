@@ -1,0 +1,281 @@
+{
+  "createdAt": "2026-11-27T18:53:22.224Z",
+  "environment": "sandbox",
+  "pricingModel": "website-matched",
+  "note": "Amounts match DigProg site Simple $49 / Medium $149 / Pro $299 (one-time). Annual = 10× optional.",
+  "countryOverridesNote": "GB/IE/AU PPP starting points — adjust in Paddle dashboard.",
+  "overridesHuman": {
+    "simple": {
+      "oneTime": {
+        "USD": "$49",
+        "GB": "£39",
+        "IE": "€45",
+        "AU": "A$75"
+      },
+      "year": {
+        "USD": "$490",
+        "GB": "£390",
+        "IE": "€450",
+        "AU": "A$750"
+      }
+    },
+    "medium": {
+      "oneTime": {
+        "USD": "$149",
+        "GB": "£119",
+        "IE": "€135",
+        "AU": "A$225"
+      },
+      "year": {
+        "USD": "$1,490",
+        "GB": "£1,190",
+        "IE": "€1,350",
+        "AU": "A$2,250"
+      }
+    },
+    "pro": {
+      "oneTime": {
+        "USD": "$299",
+        "GB": "£239",
+        "IE": "€269",
+        "AU": "A$449"
+      },
+      "year": {
+        "USD": "$2,990",
+        "GB": "£2,390",
+        "IE": "€2,690",
+        "AU": "A$4,490"
+      }
+    }
+  },
+  "products": {
+    "simple": {
+      "productId": "pro_01m8f5ns09xyr0rsxgnwjeyj28",
+      "name": "DigProg Simple",
+      "prices": {
+        "oneTime": {
+          "id": "pri_01m8f5ns9fw1bnpn3henq4h0bs",
+          "amount": "4900",
+          "currency": "USD",
+          "display": "USD 49.00",
+          "overrides": [
+            {
+              "country_codes": [
+                "GB"
+              ],
+              "unit_price": {
+                "amount": "3900",
+                "currency_code": "GBP"
+              }
+            },
+            {
+              "country_codes": [
+                "IE"
+              ],
+              "unit_price": {
+                "amount": "4500",
+                "currency_code": "EUR"
+              }
+            },
+            {
+              "country_codes": [
+                "AU"
+              ],
+              "unit_price": {
+                "amount": "7500",
+                "currency_code": "AUD"
+              }
+            }
+          ]
+        },
+        "year": {
+          "id": "pri_01m8f5nsg8zmrec19hpyevf593",
+          "amount": "49000",
+          "currency": "USD",
+          "display": "USD 490.00",
+          "overrides": [
+            {
+              "country_codes": [
+                "GB"
+              ],
+              "unit_price": {
+                "amount": "39000",
+                "currency_code": "GBP"
+              }
+            },
+            {
+              "country_codes": [
+                "IE"
+              ],
+              "unit_price": {
+                "amount": "45000",
+                "currency_code": "EUR"
+              }
+            },
+            {
+              "country_codes": [
+                "AU"
+              ],
+              "unit_price": {
+                "amount": "75000",
+                "currency_code": "AUD"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "medium": {
+      "productId": "pro_01m8f5nsqrc21j392wptdymmnw",
+      "name": "DigProg Medium",
+      "prices": {
+        "oneTime": {
+          "id": "pri_01m8f5nsx90cfaw5pe8fs9f70g",
+          "amount": "14900",
+          "currency": "USD",
+          "display": "USD 149.00",
+          "overrides": [
+            {
+              "country_codes": [
+                "GB"
+              ],
+              "unit_price": {
+                "amount": "11900",
+                "currency_code": "GBP"
+              }
+            },
+            {
+              "country_codes": [
+                "IE"
+              ],
+              "unit_price": {
+                "amount": "13500",
+                "currency_code": "EUR"
+              }
+            },
+            {
+              "country_codes": [
+                "AU"
+              ],
+              "unit_price": {
+                "amount": "22500",
+                "currency_code": "AUD"
+              }
+            }
+          ]
+        },
+        "year": {
+          "id": "pri_01m8f5nt31vdp2hqk1pg5m4kdn",
+          "amount": "149000",
+          "currency": "USD",
+          "display": "USD 1490.00",
+          "overrides": [
+            {
+              "country_codes": [
+                "GB"
+              ],
+              "unit_price": {
+                "amount": "119000",
+                "currency_code": "GBP"
+              }
+            },
+            {
+              "country_codes": [
+                "IE"
+              ],
+              "unit_price": {
+                "amount": "135000",
+                "currency_code": "EUR"
+              }
+            },
+            {
+              "country_codes": [
+                "AU"
+              ],
+              "unit_price": {
+                "amount": "225000",
+                "currency_code": "AUD"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "pro": {
+      "productId": "pro_01m8f5ntac2qhev00d9hwysvq4",
+      "name": "DigProg Pro",
+      "prices": {
+        "oneTime": {
+          "id": "pri_01m8f5ntftsx8ey0w97fc9khyg",
+          "amount": "29900",
+          "currency": "USD",
+          "display": "USD 299.00",
+          "overrides": [
+            {
+              "country_codes": [
+                "GB"
+              ],
+              "unit_price": {
+                "amount": "23900",
+                "currency_code": "GBP"
+              }
+            },
+            {
+              "country_codes": [
+                "IE"
+              ],
+              "unit_price": {
+                "amount": "26900",
+                "currency_code": "EUR"
+              }
+            },
+            {
+              "country_codes": [
+                "AU"
+              ],
+              "unit_price": {
+                "amount": "44900",
+                "currency_code": "AUD"
+              }
+            }
+          ]
+        },
+        "year": {
+          "id": "pri_01m8f5ntnh9g4c2xj78hf30pbe",
+          "amount": "299000",
+          "currency": "USD",
+          "display": "USD 2990.00",
+          "overrides": [
+            {
+              "country_codes": [
+                "GB"
+              ],
+              "unit_price": {
+                "amount": "239000",
+                "currency_code": "GBP"
+              }
+            },
+            {
+              "country_codes": [
+                "IE"
+              ],
+              "unit_price": {
+                "amount": "269000",
+                "currency_code": "EUR"
+              }
+            },
+            {
+              "country_codes": [
+                "AU"
+              ],
+              "unit_price": {
+                "amount": "449000",
+                "currency_code": "AUD"
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

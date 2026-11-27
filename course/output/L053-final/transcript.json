@@ -1,0 +1,243 @@
+{
+  "lessonId": "L065",
+  "duration": 132.464,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Most sales die from silence, not from a clear no.",
+      "start": 0.0,
+      "end": 3.61,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about follow-up 3\u00d7.",
+      "start": 3.61,
+      "end": 5.775,
+      "section": "hook"
+    },
+    {
+      "text": "Most sales die from silence.",
+      "start": 5.775,
+      "end": 7.58,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.58,
+      "end": 10.107,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.107,
+      "end": 13.716,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.716,
+      "end": 19.131,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.131,
+      "end": 23.101,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: schedule three follow-ups before you optimize branding or tools.",
+      "start": 23.101,
+      "end": 27.072,
+      "section": "hook"
+    },
+    {
+      "text": "Schedule three follow-ups before you need them.",
+      "start": 27.392,
+      "end": 30.115,
+      "section": "plan"
+    },
+    {
+      "text": "Calendar beats memory.",
+      "start": 30.115,
+      "end": 31.281,
+      "section": "plan"
+    },
+    {
+      "text": "Remember the objective: schedule three follow-ups.",
+      "start": 31.281,
+      "end": 33.615,
+      "section": "plan"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 33.615,
+      "end": 37.893,
+      "section": "plan"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 37.893,
+      "end": 42.56,
+      "section": "plan"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 42.56,
+      "end": 46.839,
+      "section": "plan"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 46.839,
+      "end": 51.506,
+      "section": "plan"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 51.506,
+      "end": 54.228,
+      "section": "plan"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.228,
+      "end": 55.784,
+      "section": "plan"
+    },
+    {
+      "text": "Each follow-up adds a little value or clarity.",
+      "start": 56.104,
+      "end": 59.132,
+      "section": "value"
+    },
+    {
+      "text": "Do not nag empty.",
+      "start": 59.132,
+      "end": 60.647,
+      "section": "value"
+    },
+    {
+      "text": "Remember the objective: schedule three follow-ups.",
+      "start": 60.647,
+      "end": 62.918,
+      "section": "value"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 62.918,
+      "end": 67.082,
+      "section": "value"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.082,
+      "end": 71.625,
+      "section": "value"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.625,
+      "end": 75.789,
+      "section": "value"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.789,
+      "end": 80.332,
+      "section": "value"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.332,
+      "end": 82.982,
+      "section": "value"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.982,
+      "end": 84.496,
+      "section": "value"
+    },
+    {
+      "text": "After three thoughtful follow-ups, park or close politely.",
+      "start": 84.816,
+      "end": 88.039,
+      "section": "stop"
+    },
+    {
+      "text": "Remember the objective: schedule three follow-ups.",
+      "start": 88.039,
+      "end": 90.457,
+      "section": "stop"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.457,
+      "end": 94.889,
+      "section": "stop"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.889,
+      "end": 99.724,
+      "section": "stop"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.724,
+      "end": 104.157,
+      "section": "stop"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 104.157,
+      "end": 108.992,
+      "section": "stop"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 108.992,
+      "end": 111.812,
+      "section": "stop"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.812,
+      "end": 113.424,
+      "section": "stop"
+    },
+    {
+      "text": "In the quiz, you will schedule three follow-ups.",
+      "start": 113.744,
+      "end": 116.762,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can schedule three follow-ups.",
+      "start": 116.762,
+      "end": 121.29,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 121.29,
+      "end": 122.045,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 122.045,
+      "end": 125.44,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 125.44,
+      "end": 129.968,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Most sales die from silence, not from a clear no. This lesson is about follow-up 3\u00d7. Most sales die from silence. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: schedule three follow-ups before you optimize branding or tools. Schedule three follow-ups before you need them. Calendar beats memory. Remember the objective: schedule three follow-ups. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Each follow-up adds a little value or clarity. Do not nag empty. Remember the objective: schedule three follow-ups. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. After three thoughtful follow-ups, park or close politely. Remember the objective: schedule three follow-ups. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will schedule three follow-ups. In the quiz, you will practice until you can schedule three follow-ups. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

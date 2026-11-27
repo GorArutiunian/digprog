@@ -1,0 +1,207 @@
+{
+  "lessonId": "L059",
+  "title": "Practice \u00b7 Follow-up 3\u00d7",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Most sales die from:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Silence"
+        },
+        {
+          "id": "b",
+          "text": "A clear no"
+        },
+        {
+          "id": "c",
+          "text": "Too much follow-up always"
+        },
+        {
+          "id": "d",
+          "text": "Clear prices"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Schedule follow-ups:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before you need them"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only from memory"
+        },
+        {
+          "id": "d",
+          "text": "After you forget"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Schedule three follow-ups"
+        },
+        {
+          "id": "b",
+          "text": "Nag empty forever"
+        },
+        {
+          "id": "c",
+          "text": "Give up after one"
+        },
+        {
+          "id": "d",
+          "text": "Skip value"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Each follow-up should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Add value or clarity"
+        },
+        {
+          "id": "b",
+          "text": "Only guilt"
+        },
+        {
+          "id": "c",
+          "text": "Only spam"
+        },
+        {
+          "id": "d",
+          "text": "Only silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "After three thoughtful follow-ups:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Park or close politely"
+        },
+        {
+          "id": "b",
+          "text": "Harass forever"
+        },
+        {
+          "id": "c",
+          "text": "Ghost without note"
+        },
+        {
+          "id": "d",
+          "text": "Delete the lead"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Calendar beats:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Memory"
+        },
+        {
+          "id": "b",
+          "text": "All offers"
+        },
+        {
+          "id": "c",
+          "text": "All quizzes"
+        },
+        {
+          "id": "d",
+          "text": "All prices"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can schedule three follow-ups"
+        },
+        {
+          "id": "b",
+          "text": "You stayed silent"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then schedule three follow-ups"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Never follow up"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

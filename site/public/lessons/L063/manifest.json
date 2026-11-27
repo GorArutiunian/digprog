@@ -1,0 +1,19 @@
+{
+  "id": "L063",
+  "slug": "case-maya-style-first-sale-path",
+  "title": "Case: Maya-style first sale path",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Map Maya path to yours",
+  "durationSeconds": 134.504,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L063DataCamp",
+  "assets": {
+    "video": "/lessons/L063/video.mp4",
+    "poster": "/lessons/L063/poster.jpg",
+    "captionsVtt": "/lessons/L063/captions.vtt",
+    "captionsSrt": "/lessons/L063/captions.srt",
+    "transcript": "/lessons/L063/transcript.json"
+  },
+  "sourceLessonId": "L063"
+}

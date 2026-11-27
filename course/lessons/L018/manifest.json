@@ -1,0 +1,24 @@
+{
+  "id": "L018",
+  "slug": "from-waitlist-to-student",
+  "title": "From waitlist to student",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Describe your first week plan",
+  "durationSeconds": 125.408,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L018DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L018-final/L018-From-waitlist-to-student.mp4",
+    "poster": "output/L018-final/poster.jpg",
+    "voice": "output/L018-final/voice-l018-final.mp3",
+    "captionsSrt": "output/L018-final/L018.srt",
+    "captionsVtt": "output/L018-final/L018.vtt",
+    "transcript": "output/L018-final/transcript.json",
+    "timeline": "output/L018-final/timeline.json",
+    "quiz": "lessons/L018/quiz.json",
+    "storyboard": "lessons/L018/storyboard.md"
+  },
+  "sourceLessonId": "L018"
+}

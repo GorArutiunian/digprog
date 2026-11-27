@@ -1,0 +1,207 @@
+{
+  "lessonId": "L025",
+  "title": "Practice \u00b7 Problem hunting in public",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Your next offer often hides in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Public complaints"
+        },
+        {
+          "id": "b",
+          "text": "Your logo drafts"
+        },
+        {
+          "id": "c",
+          "text": "Ads dashboards only"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Capture phrases in:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Their words"
+        },
+        {
+          "id": "b",
+          "text": "MBA jargon"
+        },
+        {
+          "id": "c",
+          "text": "Your brand voice first"
+        },
+        {
+          "id": "d",
+          "text": "Latin mottos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Capture three buyer phrases"
+        },
+        {
+          "id": "b",
+          "text": "Invent slogans"
+        },
+        {
+          "id": "c",
+          "text": "Skip listening"
+        },
+        {
+          "id": "d",
+          "text": "Buy ads day one"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Useful places include:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Forums, reviews, group chats"
+        },
+        {
+          "id": "b",
+          "text": "Only your private notes"
+        },
+        {
+          "id": "c",
+          "text": "Empty notebooks"
+        },
+        {
+          "id": "d",
+          "text": "Stock photo sites"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Capture pain plus:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Frequency and what they tried"
+        },
+        {
+          "id": "b",
+          "text": "Font preferences"
+        },
+        {
+          "id": "c",
+          "text": "Logo colors"
+        },
+        {
+          "id": "d",
+          "text": "Tool stack only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Product vocabulary starts as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stolen buyer sentences"
+        },
+        {
+          "id": "b",
+          "text": "Invented elegance"
+        },
+        {
+          "id": "c",
+          "text": "Legal Latin"
+        },
+        {
+          "id": "d",
+          "text": "Random hashtags"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can capture three buyer phrases"
+        },
+        {
+          "id": "b",
+          "text": "You watched twice"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You redesigned the site"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then capture three phrases"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

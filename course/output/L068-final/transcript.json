@@ -1,0 +1,243 @@
+{
+  "lessonId": "L080",
+  "duration": 127.376,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Talking money without panic is a skill.",
+      "start": 0.0,
+      "end": 2.544,
+      "section": "hook"
+    },
+    {
+      "text": "Silence after the number is normal.",
+      "start": 2.544,
+      "end": 4.724,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about pricing conversations.",
+      "start": 4.724,
+      "end": 6.904,
+      "section": "hook"
+    },
+    {
+      "text": "Talking money without panic.",
+      "start": 6.904,
+      "end": 8.358,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.358,
+      "end": 10.902,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.902,
+      "end": 14.535,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.535,
+      "end": 19.986,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.986,
+      "end": 23.983,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: roleplay a price talk before you optimize branding or tools.",
+      "start": 23.983,
+      "end": 28.344,
+      "section": "hook"
+    },
+    {
+      "text": "Say the price clearly.",
+      "start": 28.664,
+      "end": 30.151,
+      "section": "say"
+    },
+    {
+      "text": "Then stop talking.",
+      "start": 30.151,
+      "end": 31.266,
+      "section": "say"
+    },
+    {
+      "text": "Let them respond.",
+      "start": 31.266,
+      "end": 32.381,
+      "section": "say"
+    },
+    {
+      "text": "Remember the objective: roleplay a price talk.",
+      "start": 32.381,
+      "end": 34.982,
+      "section": "say"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 34.982,
+      "end": 39.071,
+      "section": "say"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.071,
+      "end": 43.531,
+      "section": "say"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.531,
+      "end": 47.619,
+      "section": "say"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.619,
+      "end": 52.08,
+      "section": "say"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.08,
+      "end": 54.681,
+      "section": "say"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.681,
+      "end": 56.168,
+      "section": "say"
+    },
+    {
+      "text": "Roleplay a price talk: state value, state price, handle one objection, ask for the close.",
+      "start": 56.488,
+      "end": 62.02,
+      "section": "role"
+    },
+    {
+      "text": "Remember the objective: roleplay a price talk.",
+      "start": 62.02,
+      "end": 64.602,
+      "section": "role"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 64.602,
+      "end": 68.659,
+      "section": "role"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 68.659,
+      "end": 73.085,
+      "section": "role"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.085,
+      "end": 77.142,
+      "section": "role"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.142,
+      "end": 81.568,
+      "section": "role"
+    },
+    {
+      "text": "Repeat until your voice does not shake.",
+      "start": 81.888,
+      "end": 84.435,
+      "section": "rep"
+    },
+    {
+      "text": "Reps beat pep talks.",
+      "start": 84.435,
+      "end": 85.89,
+      "section": "rep"
+    },
+    {
+      "text": "Remember the objective: roleplay a price talk.",
+      "start": 85.89,
+      "end": 88.437,
+      "section": "rep"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 88.437,
+      "end": 92.439,
+      "section": "rep"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 92.439,
+      "end": 96.805,
+      "section": "rep"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 96.805,
+      "end": 100.808,
+      "section": "rep"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 100.808,
+      "end": 105.174,
+      "section": "rep"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 105.174,
+      "end": 107.721,
+      "section": "rep"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 107.721,
+      "end": 109.176,
+      "section": "rep"
+    },
+    {
+      "text": "In the quiz, you will roleplay a price talk.",
+      "start": 109.496,
+      "end": 112.573,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can roleplay a price talk.",
+      "start": 112.573,
+      "end": 117.017,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 117.017,
+      "end": 117.701,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 117.701,
+      "end": 120.778,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 120.778,
+      "end": 124.88,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Talking money without panic is a skill. Silence after the number is normal. This lesson is about pricing conversations. Talking money without panic. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: roleplay a price talk before you optimize branding or tools. Say the price clearly. Then stop talking. Let them respond. Remember the objective: roleplay a price talk. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Roleplay a price talk: state value, state price, handle one objection, ask for the close. Remember the objective: roleplay a price talk. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Repeat until your voice does not shake. Reps beat pep talks. Remember the objective: roleplay a price talk. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will roleplay a price talk. In the quiz, you will practice until you can roleplay a price talk. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

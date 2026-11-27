@@ -1,0 +1,207 @@
+{
+  "lessonId": "L083",
+  "title": "Practice \u00b7 Repurpose one lesson into Shorts",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Your course is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A content engine"
+        },
+        {
+          "id": "b",
+          "text": "Only private notes"
+        },
+        {
+          "id": "c",
+          "text": "Useless for clips"
+        },
+        {
+          "id": "d",
+          "text": "Only a binge library"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Cut three hooks:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Tension, rule, next action"
+        },
+        {
+          "id": "b",
+          "text": "Only logos"
+        },
+        {
+          "id": "c",
+          "text": "Only music"
+        },
+        {
+          "id": "d",
+          "text": "Only silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Cut three hooks from one lesson"
+        },
+        {
+          "id": "b",
+          "text": "Make one endless clip"
+        },
+        {
+          "id": "c",
+          "text": "Skip CTA"
+        },
+        {
+          "id": "d",
+          "text": "Avoid Shorts"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "One clip should hold:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One idea"
+        },
+        {
+          "id": "b",
+          "text": "Ten ideas"
+        },
+        {
+          "id": "c",
+          "text": "No idea"
+        },
+        {
+          "id": "d",
+          "text": "Only branding"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "End with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A clear CTA"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "A fake claim"
+        },
+        {
+          "id": "d",
+          "text": "A guilt trip"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Keep clips:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Short attention windows"
+        },
+        {
+          "id": "b",
+          "text": "Hour-long only"
+        },
+        {
+          "id": "c",
+          "text": "Mute-proof ignored"
+        },
+        {
+          "id": "d",
+          "text": "CTA-free"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can cut three hooks from one lesson"
+        },
+        {
+          "id": "b",
+          "text": "You made zero clips"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then cut three hooks"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip repurposing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

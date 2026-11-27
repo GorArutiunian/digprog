@@ -1,0 +1,24 @@
+{
+  "id": "L013",
+  "slug": "evidence-of-progress",
+  "title": "Evidence of progress",
+  "module": "01 \u00b7 Foundations",
+  "objective": "List three evidence metrics",
+  "durationSeconds": 128.144,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L013DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L013-final/L013-Evidence-of-progress.mp4",
+    "poster": "output/L013-final/poster.jpg",
+    "voice": "output/L013-final/voice-l013-final.mp3",
+    "captionsSrt": "output/L013-final/L013.srt",
+    "captionsVtt": "output/L013-final/L013.vtt",
+    "transcript": "output/L013-final/transcript.json",
+    "timeline": "output/L013-final/timeline.json",
+    "quiz": "lessons/L013/quiz.json",
+    "storyboard": "lessons/L013/storyboard.md"
+  },
+  "sourceLessonId": "L013"
+}

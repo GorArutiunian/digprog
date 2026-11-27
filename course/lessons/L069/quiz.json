@@ -1,0 +1,207 @@
+{
+  "lessonId": "L075",
+  "title": "Practice \u00b7 Weekly scoreboard",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Systems start with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A weekly scoreboard you look at"
+        },
+        {
+          "id": "b",
+          "text": "A fancy dashboard you ignore"
+        },
+        {
+          "id": "c",
+          "text": "No metrics"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Track:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Money, conversations, lessons, posts/outreaches"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only followers"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Build scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "Skip review"
+        },
+        {
+          "id": "c",
+          "text": "Add uncountable metrics"
+        },
+        {
+          "id": "d",
+          "text": "Ignore Sundays"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Keep metrics:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Countable"
+        },
+        {
+          "id": "b",
+          "text": "Vague"
+        },
+        {
+          "id": "c",
+          "text": "Hidden"
+        },
+        {
+          "id": "d",
+          "text": "Infinite"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "If a metric does not change action:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Drop it"
+        },
+        {
+          "id": "b",
+          "text": "Double it"
+        },
+        {
+          "id": "c",
+          "text": "Automate it first"
+        },
+        {
+          "id": "d",
+          "text": "Post it always"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Review:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Every Sunday"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Once a decade"
+        },
+        {
+          "id": "d",
+          "text": "Only when angry"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can build a weekly scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "You skipped metrics"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then build this week's scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip the board"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

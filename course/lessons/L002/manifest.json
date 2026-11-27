@@ -1,0 +1,24 @@
+{
+  "id": "L002",
+  "slug": "money-words-without-mba",
+  "title": "Money words without MBA",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Define revenue vs profit vs cash",
+  "durationSeconds": 165.848,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L002DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L002-final/L002-Money-words-without-MBA.mp4",
+    "poster": "output/L002-final/poster.jpg",
+    "voice": "output/L002-final/voice-l002-final.mp3",
+    "captionsSrt": "output/L002-final/L002.srt",
+    "captionsVtt": "output/L002-final/L002.vtt",
+    "transcript": "output/L002-final/transcript.json",
+    "timeline": "output/L002-final/timeline.json",
+    "quiz": "lessons/L002/quiz.json",
+    "storyboard": "lessons/L002/storyboard.md"
+  },
+  "sourceLessonId": "L002"
+}

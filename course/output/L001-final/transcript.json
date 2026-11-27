@@ -1,201 +1,315 @@
 {
   "lessonId": "L001",
-  "sections": [
+  "duration": 204.176,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
     {
-      "id": "hook",
-      "title": "Interest vs payment",
+      "text": "You built an app.",
       "start": 0.0,
-      "end": 9.24,
-      "text": "You built an app. Your friends love it. Does that mean customers will pay? Not yet\u2014you have evidence of interest, but not of paying demand.",
-      "sentences": [
-        {
-          "text": "You built an app.",
-          "start": 0.05,
-          "end": 1.387
-        },
-        {
-          "text": "Your friends love it.",
-          "start": 1.387,
-          "end": 2.837
-        },
-        {
-          "text": "Does that mean customers will pay?",
-          "start": 2.837,
-          "end": 5.138
-        },
-        {
-          "text": "Not yet - you have evidence of interest, but not of paying demand.",
-          "start": 5.138,
-          "end": 9.175
-        }
-      ]
+      "end": 1.224,
+      "section": "hook"
     },
     {
-      "id": "framework",
-      "title": "Three parts",
-      "start": 10.84,
-      "end": 21.76,
-      "text": "A business provides something customers value in exchange for payment. To understand how it works, start with three parts: customer, offer, and delivery.",
-      "sentences": [
-        {
-          "text": "A business provides something customers value in exchange for payment.",
-          "start": 10.89,
-          "end": 15.265
-        },
-        {
-          "text": "To understand how it works, start with three parts: customer, offer, and delivery.",
-          "start": 15.265,
-          "end": 21.69
-        }
-      ]
+      "text": "Your friends love it.",
+      "start": 1.224,
+      "end": 2.449,
+      "section": "hook"
     },
     {
-      "id": "customer",
-      "title": "Customer",
-      "start": 23.56,
-      "end": 29.512,
-      "text": "The customer is the person or organization buying. Ask: who are they, and what do they need?",
-      "sentences": [
-        {
-          "text": "The customer is the person or organization buying.",
-          "start": 23.61,
-          "end": 27.098
-        },
-        {
-          "text": "Ask: who are they, and what do they need?",
-          "start": 27.098,
-          "end": 29.46
-        }
-      ]
+      "text": "Does that mean customers will pay?",
+      "start": 2.449,
+      "end": 4.285,
+      "section": "hook"
     },
     {
-      "id": "offer",
-      "title": "Offer",
-      "start": 30.912,
-      "end": 36.576,
+      "text": "Not yet - you have evidence of interest, but not of paying demand.",
+      "start": 4.285,
+      "end": 8.265,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about what a business is.",
+      "start": 8.265,
+      "end": 10.713,
+      "section": "hook"
+    },
+    {
+      "text": "Customer \u2192 offer \u2192 delivery; interest vs paying demand.",
+      "start": 10.713,
+      "end": 13.468,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 13.468,
+      "end": 15.611,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 15.611,
+      "end": 18.672,
+      "section": "hook"
+    },
+    {
+      "text": "A business provides something customers value in exchange for payment.",
+      "start": 18.992,
+      "end": 22.824,
+      "section": "framework"
+    },
+    {
+      "text": "To understand how it works, start with three parts: customer, offer, and delivery.",
+      "start": 22.824,
+      "end": 27.805,
+      "section": "framework"
+    },
+    {
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 27.805,
+      "end": 32.019,
+      "section": "framework"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 32.019,
+      "end": 36.234,
+      "section": "framework"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 36.234,
+      "end": 40.832,
+      "section": "framework"
+    },
+    {
+      "text": "The customer is the person or organization buying.",
+      "start": 41.152,
+      "end": 43.991,
+      "section": "customer"
+    },
+    {
+      "text": "Ask: who are they, and what do they need?",
+      "start": 43.991,
+      "end": 47.184,
+      "section": "customer"
+    },
+    {
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 47.184,
+      "end": 51.087,
+      "section": "customer"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 51.087,
+      "end": 54.99,
+      "section": "customer"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 54.99,
+      "end": 59.248,
+      "section": "customer"
+    },
+    {
       "text": "The offer is what they can buy: a clear product or service, its price, and what is included.",
-      "sentences": [
-        {
-          "text": "The offer is what they can buy: a clear product or service, its price, and what is included.",
-          "start": 30.962,
-          "end": 36.524
-        }
-      ]
+      "start": 59.568,
+      "end": 66.09,
+      "section": "offer"
     },
     {
-      "id": "delivery",
-      "title": "Delivery",
-      "start": 37.976,
-      "end": 45.872,
-      "text": "Delivery is how they receive what you promised. Payment can happen before or after delivery, depending on the arrangement.",
-      "sentences": [
-        {
-          "text": "Delivery is how they receive what you promised.",
-          "start": 38.026,
-          "end": 41.213
-        },
-        {
-          "text": "Payment can happen before or after delivery, depending on the arrangement.",
-          "start": 41.213,
-          "end": 45.813
-        }
-      ]
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 66.09,
+      "end": 70.075,
+      "section": "offer"
     },
     {
-      "id": "example_intro",
-      "title": "Maya example",
-      "start": 47.872,
-      "end": 53.32,
+      "text": "Write the idea in your own words before you move on.",
+      "start": 70.075,
+      "end": 74.06,
+      "section": "offer"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 74.06,
+      "end": 78.408,
+      "section": "offer"
+    },
+    {
+      "text": "Delivery is how they receive what you promised.",
+      "start": 78.728,
+      "end": 81.651,
+      "section": "delivery"
+    },
+    {
+      "text": "Payment can happen before or after delivery, depending on the arrangement.",
+      "start": 81.651,
+      "end": 85.671,
+      "section": "delivery"
+    },
+    {
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 85.671,
+      "end": 89.691,
+      "section": "delivery"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 89.691,
+      "end": 93.711,
+      "section": "delivery"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 93.711,
+      "end": 98.096,
+      "section": "delivery"
+    },
+    {
       "text": "For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.",
-      "sentences": [
-        {
-          "text": "For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers.",
-          "start": 47.922,
-          "end": 53.272
-        }
-      ]
+      "start": 98.416,
+      "end": 102.913,
+      "section": "example_intro"
     },
     {
-      "id": "example_parts",
-      "title": "Worked parts",
-      "start": 54.32,
-      "end": 65.072,
-      "text": "Her customers are freelance designers who need help organizing invoices. Her offer is the guide for seventy-nine dollars. She delivers it through a download link.",
-      "sentences": [
-        {
-          "text": "Her customers are freelance designers who need help organizing invoices.",
-          "start": 54.37,
-          "end": 59.12
-        },
-        {
-          "text": "Her offer is the guide for seventy-nine dollars.",
-          "start": 59.12,
-          "end": 62.358
-        },
-        {
-          "text": "She delivers it through a download link.",
-          "start": 62.358,
-          "end": 65.07
-        }
-      ]
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 102.913,
+      "end": 107.411,
+      "section": "example_intro"
     },
     {
-      "id": "contrast",
-      "title": "Compare evidence",
-      "start": 67.472,
-      "end": 82.784,
-      "text": "Now compare that with an app that friends praise but nobody buys. The feedback may be useful. It does not yet show that customers will pay. A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
-      "sentences": [
-        {
-          "text": "Now compare that with an app that friends praise but nobody buys.",
-          "start": 67.522,
-          "end": 71.447
-        },
-        {
-          "text": "The feedback may be useful.",
-          "start": 71.447,
-          "end": 73.435
-        },
-        {
-          "text": "It does not yet show that customers will pay.",
-          "start": 73.435,
-          "end": 76.372
-        },
-        {
-          "text": "A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
-          "start": 76.372,
-          "end": 82.735
-        }
-      ]
+      "text": "Write the idea in your own words before you move on.",
+      "start": 107.411,
+      "end": 111.908,
+      "section": "example_intro"
     },
     {
-      "id": "recap",
-      "title": "Recap questions",
-      "start": 84.784,
-      "end": 91.552,
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 111.908,
+      "end": 116.815,
+      "section": "example_intro"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 116.815,
+      "end": 121.312,
+      "section": "example_intro"
+    },
+    {
+      "text": "Her customers are freelance designers who need help organizing invoices.",
+      "start": 121.632,
+      "end": 125.346,
+      "section": "example_parts"
+    },
+    {
+      "text": "Her offer is the guide for seventy-nine dollars.",
+      "start": 125.346,
+      "end": 128.317,
+      "section": "example_parts"
+    },
+    {
+      "text": "She delivers it through a download link.",
+      "start": 128.317,
+      "end": 130.917,
+      "section": "example_parts"
+    },
+    {
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 130.917,
+      "end": 135.002,
+      "section": "example_parts"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 135.002,
+      "end": 139.087,
+      "section": "example_parts"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 139.087,
+      "end": 143.544,
+      "section": "example_parts"
+    },
+    {
+      "text": "Now compare that with an app that friends praise but nobody buys.",
+      "start": 143.864,
+      "end": 148.467,
+      "section": "contrast"
+    },
+    {
+      "text": "The feedback may be useful.",
+      "start": 148.467,
+      "end": 150.384,
+      "section": "contrast"
+    },
+    {
+      "text": "It does not yet show that customers will pay.",
+      "start": 150.384,
+      "end": 153.836,
+      "section": "contrast"
+    },
+    {
+      "text": "A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success.",
+      "start": 153.836,
+      "end": 159.973,
+      "section": "contrast"
+    },
+    {
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 159.973,
+      "end": 164.192,
+      "section": "contrast"
+    },
+    {
       "text": "When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?",
-      "sentences": [
-        {
-          "text": "When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered?",
-          "start": 84.834,
-          "end": 91.497
-        }
-      ]
+      "start": 164.512,
+      "end": 171.739,
+      "section": "recap"
     },
     {
-      "id": "quiz",
-      "title": "Quiz handoff",
-      "start": 93.152,
-      "end": 98.432,
+      "text": "Remember the objective: identify customer, offer, delivery in a simple example.",
+      "start": 171.739,
+      "end": 175.713,
+      "section": "recap"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 175.713,
+      "end": 179.688,
+      "section": "recap"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 179.688,
+      "end": 184.024,
+      "section": "recap"
+    },
+    {
       "text": "In the quiz, you'll identify these three parts and spot what is missing in a new example.",
-      "sentences": [
-        {
-          "text": "In the quiz, you'll identify these three parts and spot what is missing in a new example.",
-          "start": 93.202,
-          "end": 98.377
-        }
-      ]
+      "start": 184.344,
+      "end": 190.682,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can identify customer, offer, delivery in a simple example.",
+      "start": 190.682,
+      "end": 197.019,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 197.019,
+      "end": 197.765,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 197.765,
+      "end": 201.12,
+      "section": "quiz"
     }
   ],
-  "summary": "A business exchanges customer value for payment. Identify customer, offer, and delivery. Interest from friends is not the same as paying demand."
+  "fullText": "You built an app. Your friends love it. Does that mean customers will pay? Not yet - you have evidence of interest, but not of paying demand. This lesson is about what a business is. Customer \u2192 offer \u2192 delivery; interest vs paying demand. Do not treat this as theory only. Treat it as a move you can run this week. A business provides something customers value in exchange for payment. To understand how it works, start with three parts: customer, offer, and delivery. Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. The customer is the person or organization buying. Ask: who are they, and what do they need? Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. The offer is what they can buy: a clear product or service, its price, and what is included. Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Delivery is how they receive what you promised. Payment can happen before or after delivery, depending on the arrangement. Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. For example, Maya sells a seventy-nine-dollar invoicing guide to freelance designers. Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. Her customers are freelance designers who need help organizing invoices. Her offer is the guide for seventy-nine dollars. She delivers it through a download link. Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Now compare that with an app that friends praise but nobody buys. The feedback may be useful. It does not yet show that customers will pay. A purchase gives stronger evidence of paying demand, although one sale does not prove long-term success. Remember the objective: identify customer, offer, delivery in a simple example. When you examine an idea, ask: who is the customer, what is the offer, and how will it be delivered? Remember the objective: identify customer, offer, delivery in a simple example. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. In the quiz, you'll identify these three parts and spot what is missing in a new example. In the quiz, you will practice until you can identify customer, offer, delivery in a simple example. Answer carefully. If you miss one, review the idea and retry."
 }

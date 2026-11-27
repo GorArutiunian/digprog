@@ -1,0 +1,24 @@
+{
+  "id": "L085",
+  "slug": "clarify-the-problem",
+  "title": "Clarify the problem",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Rewrite problem in buyer words",
+  "durationSeconds": 128.984,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L085DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L085-final/L085-Clarify-the-problem.mp4",
+    "poster": "output/L085-final/poster.jpg",
+    "voice": "output/L085-final/voice-l085-final.mp3",
+    "captionsSrt": "output/L085-final/L085.srt",
+    "captionsVtt": "output/L085-final/L085.vtt",
+    "transcript": "output/L085-final/transcript.json",
+    "timeline": "output/L085-final/timeline.json",
+    "quiz": "lessons/L085/quiz.json",
+    "storyboard": "lessons/L085/storyboard.md"
+  },
+  "sourceLessonId": "L085"
+}

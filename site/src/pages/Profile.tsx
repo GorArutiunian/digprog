@@ -44,20 +44,20 @@ export function Profile() {
         <div className="billing-row">
           <div>
             <strong>Plan</strong>
-            <p className="muted">Pro · sample · renews never (mock)</p>
+            <p className="muted">Managed in Paddle after checkout</p>
           </div>
-          <button type="button" className="btn btn-ghost-light">
-            Manage · fake
-          </button>
+          <a className="btn btn-ghost-light" href="/checkout?plan=pro">
+            Change plan
+          </a>
         </div>
         <div className="billing-row">
           <div>
             <strong>Payment method</strong>
-            <p className="muted">Visa ·••• 4242</p>
+            <p className="muted">Update cards in the Paddle customer portal</p>
           </div>
-          <button type="button" className="btn btn-ghost-light">
-            Update · fake
-          </button>
+          <a className="btn btn-ghost-light" href="/checkout?plan=pro">
+            Billing
+          </a>
         </div>
       </section>
     </div>

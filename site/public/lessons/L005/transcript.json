@@ -1,0 +1,213 @@
+{
+  "lessonId": "L005",
+  "duration": 119.048,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "You can start on a side path or take a full jump.",
+      "start": 0.0,
+      "end": 3.838,
+      "section": "hook"
+    },
+    {
+      "text": "Both are valid.",
+      "start": 3.838,
+      "end": 4.797,
+      "section": "hook"
+    },
+    {
+      "text": "The constraint is hours and risk, not identity.",
+      "start": 4.797,
+      "end": 7.355,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about side path vs full jump.",
+      "start": 7.355,
+      "end": 10.234,
+      "section": "hook"
+    },
+    {
+      "text": "Keep survival money; time budgets.",
+      "start": 10.234,
+      "end": 11.833,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 11.833,
+      "end": 14.071,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 14.071,
+      "end": 17.269,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 17.269,
+      "end": 22.066,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 22.066,
+      "end": 25.584,
+      "section": "hook"
+    },
+    {
+      "text": "Keep survival money if risk is high.",
+      "start": 25.904,
+      "end": 28.379,
+      "section": "survival"
+    },
+    {
+      "text": "Do not quit a paycheck for a fantasy schedule.",
+      "start": 28.379,
+      "end": 31.561,
+      "section": "survival"
+    },
+    {
+      "text": "Remember the objective: choose a realistic weekly hour budget.",
+      "start": 31.561,
+      "end": 34.743,
+      "section": "survival"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 34.743,
+      "end": 38.633,
+      "section": "survival"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 38.633,
+      "end": 42.876,
+      "section": "survival"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 42.876,
+      "end": 46.765,
+      "section": "survival"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 46.765,
+      "end": 51.008,
+      "section": "survival"
+    },
+    {
+      "text": "Pick a weekly hour budget you can keep for thirty days.",
+      "start": 51.328,
+      "end": 55.2,
+      "section": "budget"
+    },
+    {
+      "text": "Five to ten honest hours is enough to learn.",
+      "start": 55.2,
+      "end": 58.368,
+      "section": "budget"
+    },
+    {
+      "text": "Remember the objective: choose a realistic weekly hour budget.",
+      "start": 58.368,
+      "end": 61.536,
+      "section": "budget"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.536,
+      "end": 65.408,
+      "section": "budget"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 65.408,
+      "end": 69.632,
+      "section": "budget"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 69.632,
+      "end": 73.504,
+      "section": "budget"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 73.504,
+      "end": 77.728,
+      "section": "budget"
+    },
+    {
+      "text": "Zero hours is not a plan.",
+      "start": 78.048,
+      "end": 80.247,
+      "section": "zero"
+    },
+    {
+      "text": "A realistic budget beats an inspiring one you abandon.",
+      "start": 80.247,
+      "end": 83.546,
+      "section": "zero"
+    },
+    {
+      "text": "Remember the objective: choose a realistic weekly hour budget.",
+      "start": 83.546,
+      "end": 86.844,
+      "section": "zero"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 86.844,
+      "end": 90.876,
+      "section": "zero"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 90.876,
+      "end": 95.274,
+      "section": "zero"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 95.274,
+      "end": 99.306,
+      "section": "zero"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 99.306,
+      "end": 103.704,
+      "section": "zero"
+    },
+    {
+      "text": "In the quiz, you will choose a realistic weekly hour budget.",
+      "start": 104.024,
+      "end": 107.749,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can choose a realistic weekly hour budget.",
+      "start": 107.749,
+      "end": 112.827,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 112.827,
+      "end": 113.505,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 113.505,
+      "end": 116.552,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "You can start on a side path or take a full jump. Both are valid. The constraint is hours and risk, not identity. This lesson is about side path vs full jump. Keep survival money; time budgets. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Keep survival money if risk is high. Do not quit a paycheck for a fantasy schedule. Remember the objective: choose a realistic weekly hour budget. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Pick a weekly hour budget you can keep for thirty days. Five to ten honest hours is enough to learn. Remember the objective: choose a realistic weekly hour budget. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Zero hours is not a plan. A realistic budget beats an inspiring one you abandon. Remember the objective: choose a realistic weekly hour budget. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. In the quiz, you will choose a realistic weekly hour budget. In the quiz, you will practice until you can choose a realistic weekly hour budget. Answer carefully. If you miss one, review the idea and retry."
+}

@@ -1,23 +1,45 @@
 import { useMemo, useState } from "react";
 import type { FormEvent } from "react";
-import { Link, useNavigate, useSearchParams } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { plans } from "../data";
+import { openPaddleCheckout, type DigProgCycle, type DigProgPlanId } from "../lib/paddle";
 import "./Checkout.css";
 
 export function Checkout() {
   const [params] = useSearchParams();
-  const navigate = useNavigate();
-  const [submitted, setSubmitted] = useState(false);
+  const [cycle, setCycle] = useState<DigProgCycle>(
+    params.get("cycle") === "year" ? "year" : "oneTime",
+  );
+  const [email, setEmail] = useState("");
+  const [busy, setBusy] = useState(false);
+  const [error, setError] = useState<string | null>(null);
 
   const plan = useMemo(() => {
-    const id = params.get("plan") ?? "medium";
+    const id = (params.get("plan") ?? "medium") as DigProgPlanId;
     return plans.find((p) => p.id === id) ?? plans[1];
   }, [params]);
 
-  function onSubmit(event: FormEvent) {
+  const displayPrice = cycle === "year" ? plan.priceAnnual : plan.price;
+  const dueToday = cycle === "year" ? plan.priceAnnual : plan.price;
+
+  async function onSubmit(event: FormEvent) {
     event.preventDefault();
-    setSubmitted(true);
-    window.setTimeout(() => navigate("/onboarding"), 700);
+    setError(null);
+    setBusy(true);
+    try {
+      const ok = await openPaddleCheckout({
+        plan: plan.id,
+        cycle,
+        email: email.trim() || undefined,
+      });
+      if (!ok) {
+        setError("Paddle isn’t configured. Add VITE_PADDLE_CLIENT_TOKEN and restart the dev server.");
+      }
+    } catch (e) {
+      setError(e instanceof Error ? e.message : "Checkout failed to open.");
+    } finally {
+      setBusy(false);
+    }
   }
 
   return (
@@ -28,32 +50,48 @@ export function Checkout() {
         </Link>
         <div className="checkout-grid">
           <form className="checkout-form" onSubmit={onSubmit}>
-            <p className="eyebrow">Checkout · mock</p>
-            <h1 className="display">Complete your DigProg order</h1>
+            <p className="eyebrow">Checkout · Paddle sandbox</p>
+            <h1 className="display">Complete your DigProg {plan.name} order</h1>
             <p className="checkout-note">
-              Instant account after “payment” — no real Stripe. Fields are decorative.
+              Website pricing: Simple $49 · Medium $149 · Pro $299. Pay securely with Paddle.
             </p>
+
+            <div className="row-2" role="group" aria-label="Billing option">
+              <button
+                type="button"
+                className={`btn ${cycle === "oneTime" ? "btn-mint" : "btn-ghost-light"}`}
+                onClick={() => setCycle("oneTime")}
+              >
+                One-time · {plan.price}
+              </button>
+              <button
+                type="button"
+                className={`btn ${cycle === "year" ? "btn-mint" : "btn-ghost-light"}`}
+                onClick={() => setCycle("year")}
+              >
+                Annual · {plan.priceAnnual}
+              </button>
+            </div>
 
             <label>
               Email
-              <input required type="email" placeholder="you@example.com" defaultValue="alex@example.com" />
+              <input
+                required
+                type="email"
+                placeholder="you@example.com"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+              />
             </label>
-            <label>
-              Card number
-              <input required inputMode="numeric" placeholder="4242 4242 4242 4242" defaultValue="4242 4242 4242 4242" />
-            </label>
-            <div className="row-2">
-              <label>
-                Expiry
-                <input required placeholder="12 / 28" defaultValue="12 / 28" />
-              </label>
-              <label>
-                CVC
-                <input required placeholder="123" defaultValue="123" />
-              </label>
-            </div>
-            <button className="btn btn-mint" type="submit" disabled={submitted}>
-              {submitted ? "Creating account…" : `Pay ${plan.price} · fake`}
+
+            {error && (
+              <p className="checkout-note" style={{ color: "#c0392b" }}>
+                {error}
+              </p>
+            )}
+
+            <button className="btn btn-mint" type="submit" disabled={busy}>
+              {busy ? "Opening Paddle…" : `Pay ${displayPrice} with Paddle`}
             </button>
           </form>
 
@@ -61,7 +99,7 @@ export function Checkout() {
             <h2>Order summary</h2>
             <div className="summary-line">
               <span>DigProg {plan.name}</span>
-              <strong>{plan.price}</strong>
+              <strong>{displayPrice}</strong>
             </div>
             <ul>
               {plan.features.map((f) => (
@@ -70,9 +108,11 @@ export function Checkout() {
             </ul>
             <div className="summary-total">
               <span>Total due today</span>
-              <strong>{plan.price}</strong>
+              <strong>{dueToday}</strong>
             </div>
-            <p className="muted-note">Distraction-free checkout mock. Taxes not calculated.</p>
+            <p className="muted-note">
+              Powered by Paddle. Localized prices for GB / IE / AU apply automatically.
+            </p>
           </aside>
         </div>
       </div>

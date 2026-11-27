@@ -1,0 +1,19 @@
+{
+  "id": "L044",
+  "slug": "service-packaging",
+  "title": "Service packaging",
+  "module": "03 \u00b7 Offer",
+  "objective": "Package a service v1",
+  "durationSeconds": 126.728,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L044DataCamp",
+  "assets": {
+    "video": "/lessons/L044/video.mp4",
+    "poster": "/lessons/L044/poster.jpg",
+    "captionsVtt": "/lessons/L044/captions.vtt",
+    "captionsSrt": "/lessons/L044/captions.srt",
+    "transcript": "/lessons/L044/transcript.json"
+  },
+  "sourceLessonId": "L044"
+}

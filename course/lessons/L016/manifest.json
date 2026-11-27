@@ -1,0 +1,24 @@
+{
+  "id": "L016",
+  "slug": "note-taking-that-ships",
+  "title": "Note-taking that ships",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Create a next-action note",
+  "durationSeconds": 127.52,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L016DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L016-final/L016-Note-taking-that-ships.mp4",
+    "poster": "output/L016-final/poster.jpg",
+    "voice": "output/L016-final/voice-l016-final.mp3",
+    "captionsSrt": "output/L016-final/L016.srt",
+    "captionsVtt": "output/L016-final/L016.vtt",
+    "transcript": "output/L016-final/transcript.json",
+    "timeline": "output/L016-final/timeline.json",
+    "quiz": "lessons/L016/quiz.json",
+    "storyboard": "lessons/L016/storyboard.md"
+  },
+  "sourceLessonId": "L016"
+}

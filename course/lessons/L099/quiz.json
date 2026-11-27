@@ -1,0 +1,207 @@
+{
+  "lessonId": "L017",
+  "title": "Practice \u00b7 Alumni loop",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Alumni keep:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The scoreboard forever"
+        },
+        {
+          "id": "b",
+          "text": "No metrics"
+        },
+        {
+          "id": "c",
+          "text": "Only logos"
+        },
+        {
+          "id": "d",
+          "text": "Only binge"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Monthly review covers:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Money, conversations, delivery, next experiment"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only followers"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Schedule monthly review"
+        },
+        {
+          "id": "b",
+          "text": "Stop measuring"
+        },
+        {
+          "id": "c",
+          "text": "Drop the OS"
+        },
+        {
+          "id": "d",
+          "text": "Never return to framework"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Keep the:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Weekly OS"
+        },
+        {
+          "id": "b",
+          "text": "Chaos"
+        },
+        {
+          "id": "c",
+          "text": "Guessing"
+        },
+        {
+          "id": "d",
+          "text": "Tool hopping"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "When lost:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Return to the framework"
+        },
+        {
+          "id": "b",
+          "text": "Buy more tools"
+        },
+        {
+          "id": "c",
+          "text": "Redesign first"
+        },
+        {
+          "id": "d",
+          "text": "Quit measuring"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "The course ends; the loop:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Does not"
+        },
+        {
+          "id": "b",
+          "text": "Ends forever"
+        },
+        {
+          "id": "c",
+          "text": "Is optional fluff"
+        },
+        {
+          "id": "d",
+          "text": "Is a logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can schedule a monthly review"
+        },
+        {
+          "id": "b",
+          "text": "You stopped measuring"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then schedule monthly review"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Drop the scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

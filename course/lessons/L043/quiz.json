@@ -1,0 +1,207 @@
+{
+  "lessonId": "L049",
+  "title": "Practice \u00b7 Digital product packaging",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Digital packaging is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "How the promise arrives"
+        },
+        {
+          "id": "b",
+          "text": "Only a logo"
+        },
+        {
+          "id": "c",
+          "text": "Only ads"
+        },
+        {
+          "id": "d",
+          "text": "Only a CRM"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Choose v1 packaging by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Speed to deliver"
+        },
+        {
+          "id": "b",
+          "text": "Maximum sophistication"
+        },
+        {
+          "id": "c",
+          "text": "Most tools"
+        },
+        {
+          "id": "d",
+          "text": "Longest build"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Choose packaging for v1"
+        },
+        {
+          "id": "b",
+          "text": "Build every format"
+        },
+        {
+          "id": "c",
+          "text": "Delay shipping"
+        },
+        {
+          "id": "d",
+          "text": "Skip day-one files"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Keep the first package:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Small enough to ship this week"
+        },
+        {
+          "id": "b",
+          "text": "Huge forever"
+        },
+        {
+          "id": "c",
+          "text": "Undefined"
+        },
+        {
+          "id": "d",
+          "text": "Secret"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Write what the buyer gets:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "On day one"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only after month three"
+        },
+        {
+          "id": "d",
+          "text": "Only verbally forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Examples include:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Guides, templates, cohorts, toolkits"
+        },
+        {
+          "id": "b",
+          "text": "Only billboards"
+        },
+        {
+          "id": "c",
+          "text": "Only fonts"
+        },
+        {
+          "id": "d",
+          "text": "Only silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can choose packaging for version one"
+        },
+        {
+          "id": "b",
+          "text": "You built everything"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then choose v1 packaging"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Overbuild first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L007",
+  "slug": "tools-you-actually-need",
+  "title": "Tools you actually need",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Pick a minimum tool stack",
+  "durationSeconds": 126.896,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L007DataCamp",
+  "assets": {
+    "video": "/lessons/L007/video.mp4",
+    "poster": "/lessons/L007/poster.jpg",
+    "captionsVtt": "/lessons/L007/captions.vtt",
+    "captionsSrt": "/lessons/L007/captions.srt",
+    "transcript": "/lessons/L007/transcript.json"
+  },
+  "sourceLessonId": "L007"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L070",
+  "slug": "calendar-blocks-that-stick",
+  "title": "Calendar blocks that stick",
+  "module": "05 \u00b7 Systems",
+  "objective": "Block next week",
+  "durationSeconds": 129.128,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L070DataCamp",
+  "assets": {
+    "video": "/lessons/L070/video.mp4",
+    "poster": "/lessons/L070/poster.jpg",
+    "captionsVtt": "/lessons/L070/captions.vtt",
+    "captionsSrt": "/lessons/L070/captions.srt",
+    "transcript": "/lessons/L070/transcript.json"
+  },
+  "sourceLessonId": "L070"
+}

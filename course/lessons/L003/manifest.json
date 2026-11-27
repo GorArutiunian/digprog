@@ -1,0 +1,24 @@
+{
+  "id": "L003",
+  "slug": "are-you-ready-to-start",
+  "title": "Are you ready to start",
+  "module": "01 \u00b7 Foundations",
+  "objective": "List readiness gaps honestly",
+  "durationSeconds": 122.576,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L003DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L003-final/L003-Are-you-ready-to-start.mp4",
+    "poster": "output/L003-final/poster.jpg",
+    "voice": "output/L003-final/voice-l003-final.mp3",
+    "captionsSrt": "output/L003-final/L003.srt",
+    "captionsVtt": "output/L003-final/L003.vtt",
+    "transcript": "output/L003-final/transcript.json",
+    "timeline": "output/L003-final/timeline.json",
+    "quiz": "lessons/L003/quiz.json",
+    "storyboard": "lessons/L003/storyboard.md"
+  },
+  "sourceLessonId": "L003"
+}

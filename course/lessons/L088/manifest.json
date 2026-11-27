@@ -1,0 +1,24 @@
+{
+  "id": "L088",
+  "slug": "price-it-simply",
+  "title": "Price it simply",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Set price + refund",
+  "durationSeconds": 121.64,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L088DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L088-final/L088-Price-it-simply.mp4",
+    "poster": "output/L088-final/poster.jpg",
+    "voice": "output/L088-final/voice-l088-final.mp3",
+    "captionsSrt": "output/L088-final/L088.srt",
+    "captionsVtt": "output/L088-final/L088.vtt",
+    "transcript": "output/L088-final/transcript.json",
+    "timeline": "output/L088-final/timeline.json",
+    "quiz": "lessons/L088/quiz.json",
+    "storyboard": "lessons/L088/storyboard.md"
+  },
+  "sourceLessonId": "L088"
+}

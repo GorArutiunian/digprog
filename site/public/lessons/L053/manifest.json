@@ -1,0 +1,19 @@
+{
+  "id": "L053",
+  "slug": "follow-up-3x",
+  "title": "Follow-up 3\u00d7",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Schedule three follow-ups",
+  "durationSeconds": 132.464,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L053DataCamp",
+  "assets": {
+    "video": "/lessons/L053/video.mp4",
+    "poster": "/lessons/L053/poster.jpg",
+    "captionsVtt": "/lessons/L053/captions.vtt",
+    "captionsSrt": "/lessons/L053/captions.srt",
+    "transcript": "/lessons/L053/transcript.json"
+  },
+  "sourceLessonId": "L053"
+}

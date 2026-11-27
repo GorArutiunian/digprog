@@ -25,3 +25,10 @@ dashboard/node_modules/
 site/node_modules/
 quizzes/node_modules/
 .env*
+
+# Lesson video packages are large — keep local / hardlinked, not in git
+site/public/lessons/**/*.mp4
+site/public/lessons/**/*.mp3
+course/output/**/*.mp4
+course/output/**/*.mp3
+course/remotion-lecture/public/*.mp3

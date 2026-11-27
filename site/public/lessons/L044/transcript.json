@@ -1,0 +1,213 @@
+{
+  "lessonId": "L056",
+  "duration": 126.728,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Services sell better when packaged as outcomes, not vague hourly fog.",
+      "start": 0.0,
+      "end": 4.207,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about service packaging.",
+      "start": 4.207,
+      "end": 6.501,
+      "section": "hook"
+    },
+    {
+      "text": "Hours, outcomes, async options.",
+      "start": 6.501,
+      "end": 8.031,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.031,
+      "end": 10.708,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.708,
+      "end": 14.532,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.532,
+      "end": 20.268,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.268,
+      "end": 24.475,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: package a service v1 before you optimize branding or tools.",
+      "start": 24.475,
+      "end": 29.064,
+      "section": "hook"
+    },
+    {
+      "text": "Package service version one with hours or milestones, the outcome, and async options if you use them.",
+      "start": 29.384,
+      "end": 35.708,
+      "section": "pack"
+    },
+    {
+      "text": "Remember the objective: package a service v1.",
+      "start": 35.708,
+      "end": 38.312,
+      "section": "pack"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 38.312,
+      "end": 42.404,
+      "section": "pack"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 42.404,
+      "end": 46.868,
+      "section": "pack"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.868,
+      "end": 50.96,
+      "section": "pack"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.96,
+      "end": 55.424,
+      "section": "pack"
+    },
+    {
+      "text": "Bound the work: start, done, and what happens between.",
+      "start": 55.744,
+      "end": 59.147,
+      "section": "bound"
+    },
+    {
+      "text": "Remember the objective: package a service v1.",
+      "start": 59.147,
+      "end": 61.793,
+      "section": "bound"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.793,
+      "end": 65.952,
+      "section": "bound"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 65.952,
+      "end": 70.489,
+      "section": "bound"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.489,
+      "end": 74.648,
+      "section": "bound"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 74.648,
+      "end": 79.185,
+      "section": "bound"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.185,
+      "end": 81.832,
+      "section": "bound"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 81.832,
+      "end": 83.344,
+      "section": "bound"
+    },
+    {
+      "text": "Write the package so a buyer knows what they are buying without a second call.",
+      "start": 83.664,
+      "end": 88.991,
+      "section": "write"
+    },
+    {
+      "text": "Remember the objective: package a service v1.",
+      "start": 88.991,
+      "end": 91.477,
+      "section": "write"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 91.477,
+      "end": 95.384,
+      "section": "write"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 95.384,
+      "end": 99.645,
+      "section": "write"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.645,
+      "end": 103.552,
+      "section": "write"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.552,
+      "end": 107.813,
+      "section": "write"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.813,
+      "end": 110.299,
+      "section": "write"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.299,
+      "end": 111.72,
+      "section": "write"
+    },
+    {
+      "text": "In the quiz, you will package a service version one.",
+      "start": 112.04,
+      "end": 115.626,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can package a service v1.",
+      "start": 115.626,
+      "end": 120.288,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.288,
+      "end": 121.005,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.005,
+      "end": 124.232,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Services sell better when packaged as outcomes, not vague hourly fog. This lesson is about service packaging. Hours, outcomes, async options. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: package a service v1 before you optimize branding or tools. Package service version one with hours or milestones, the outcome, and async options if you use them. Remember the objective: package a service v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Bound the work: start, done, and what happens between. Remember the objective: package a service v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write the package so a buyer knows what they are buying without a second call. Remember the objective: package a service v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will package a service version one. In the quiz, you will practice until you can package a service v1. Answer carefully. If you miss one, review the idea and retry."
+}

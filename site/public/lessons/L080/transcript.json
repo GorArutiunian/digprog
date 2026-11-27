@@ -1,0 +1,237 @@
+{
+  "lessonId": "L092",
+  "duration": 127.208,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Sustainable cadence beats heroic weeks that collapse.",
+      "start": 0.0,
+      "end": 2.614,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about burnout prevention.",
+      "start": 2.614,
+      "end": 4.854,
+      "section": "hook"
+    },
+    {
+      "text": "Sustainable cadence.",
+      "start": 4.854,
+      "end": 5.601,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 5.601,
+      "end": 8.214,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 8.214,
+      "end": 11.948,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 11.948,
+      "end": 17.548,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 17.548,
+      "end": 21.656,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: set a stop rule before you optimize branding or tools.",
+      "start": 21.656,
+      "end": 26.136,
+      "section": "hook"
+    },
+    {
+      "text": "Set a stop rule: max deep blocks per day, and a hard end time.",
+      "start": 26.456,
+      "end": 31.552,
+      "section": "rule"
+    },
+    {
+      "text": "Remember the objective: set a stop rule.",
+      "start": 31.552,
+      "end": 34.1,
+      "section": "rule"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 34.1,
+      "end": 38.104,
+      "section": "rule"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 38.104,
+      "end": 42.472,
+      "section": "rule"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 42.472,
+      "end": 46.476,
+      "section": "rule"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 46.476,
+      "end": 50.844,
+      "section": "rule"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 50.844,
+      "end": 53.392,
+      "section": "rule"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 53.392,
+      "end": 54.848,
+      "section": "rule"
+    },
+    {
+      "text": "Protect sleep and one recovery block weekly.",
+      "start": 55.168,
+      "end": 57.847,
+      "section": "protect"
+    },
+    {
+      "text": "Burnout kills proof.",
+      "start": 57.847,
+      "end": 58.995,
+      "section": "protect"
+    },
+    {
+      "text": "Remember the objective: set a stop rule.",
+      "start": 58.995,
+      "end": 61.674,
+      "section": "protect"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 61.674,
+      "end": 65.884,
+      "section": "protect"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 65.884,
+      "end": 70.476,
+      "section": "protect"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 70.476,
+      "end": 74.686,
+      "section": "protect"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 74.686,
+      "end": 79.278,
+      "section": "protect"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 79.278,
+      "end": 81.957,
+      "section": "protect"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 81.957,
+      "end": 83.488,
+      "section": "protect"
+    },
+    {
+      "text": "Write your stop rule where you can see it.",
+      "start": 83.808,
+      "end": 86.989,
+      "section": "write"
+    },
+    {
+      "text": "Remember the objective: set a stop rule.",
+      "start": 86.989,
+      "end": 89.463,
+      "section": "write"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 89.463,
+      "end": 93.35,
+      "section": "write"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 93.35,
+      "end": 97.592,
+      "section": "write"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 97.592,
+      "end": 101.479,
+      "section": "write"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 101.479,
+      "end": 105.72,
+      "section": "write"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 105.72,
+      "end": 108.194,
+      "section": "write"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 108.194,
+      "end": 109.608,
+      "section": "write"
+    },
+    {
+      "text": "In the quiz, you will set a stop rule.",
+      "start": 109.928,
+      "end": 112.885,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can set a stop rule.",
+      "start": 112.885,
+      "end": 117.156,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 117.156,
+      "end": 117.813,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 117.813,
+      "end": 120.77,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 120.77,
+      "end": 124.712,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Sustainable cadence beats heroic weeks that collapse. This lesson is about burnout prevention. Sustainable cadence. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: set a stop rule before you optimize branding or tools. Set a stop rule: max deep blocks per day, and a hard end time. Remember the objective: set a stop rule. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Protect sleep and one recovery block weekly. Burnout kills proof. Remember the objective: set a stop rule. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write your stop rule where you can see it. Remember the objective: set a stop rule. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will set a stop rule. In the quiz, you will practice until you can set a stop rule. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

@@ -2411,7 +2411,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L095",
+          "id": "L013",
           "title": "Evidence of progress",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -2611,7 +2611,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L096",
+          "id": "L014",
           "title": "Asking for help without stalling",
           "durationSeconds": 115,
           "durationLabel": "1:55",
@@ -2811,7 +2811,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L097",
+          "id": "L015",
           "title": "Time boxing practice",
           "durationSeconds": 110,
           "durationLabel": "1:50",
@@ -3011,7 +3011,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L098",
+          "id": "L016",
           "title": "Note-taking that ships",
           "durationSeconds": 105,
           "durationLabel": "1:45",
@@ -3211,7 +3211,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L099",
+          "id": "L017",
           "title": "Ethics of selling",
           "durationSeconds": 125,
           "durationLabel": "2:05",
@@ -3411,7 +3411,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L100",
+          "id": "L018",
           "title": "From waitlist to student",
           "durationSeconds": 100,
           "durationLabel": "1:40",
@@ -3618,7 +3618,7 @@
       "goal": "Find a painful problem worth charging for",
       "lessons": [
         {
-          "id": "L013",
+          "id": "L019",
           "title": "Problem hunting in public",
           "durationSeconds": 160,
           "durationLabel": "2:40",
@@ -3818,7 +3818,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L014",
+          "id": "L020",
           "title": "Interview without awkwardness",
           "durationSeconds": 170,
           "durationLabel": "2:50",
@@ -4018,7 +4018,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L015",
+          "id": "L021",
           "title": "Score ideas like an investor",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -4218,7 +4218,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L016",
+          "id": "L022",
           "title": "Warm network mapping",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -4418,7 +4418,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L017",
+          "id": "L023",
           "title": "Niche vs broad first offer",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -4618,7 +4618,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L018",
+          "id": "L024",
           "title": "Digital vs service vs hybrid",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -4818,7 +4818,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L019",
+          "id": "L025",
           "title": "Illegal/ToS death checks",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -5018,7 +5018,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L020",
+          "id": "L026",
           "title": "One idea for 14 days",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -5218,7 +5218,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L021",
+          "id": "L027",
           "title": "Problem statement worksheet",
           "durationSeconds": 135,
           "durationLabel": "2:15",
@@ -5418,12 +5418,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "Problem statement worksheet",
-            "file_stub": "attachments/L021.md",
+            "file_stub": "attachments/L027.md",
             "prompt": "Complete the worksheet for: Fill the problem canvas"
           }
         },
         {
-          "id": "L022",
+          "id": "L028",
           "title": "Buyer language library",
           "durationSeconds": 125,
           "durationLabel": "2:05",
@@ -5623,7 +5623,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L023",
+          "id": "L029",
           "title": "Where buyers already hang out",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -5823,7 +5823,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L024",
+          "id": "L030",
           "title": "Validation in 48 hours",
           "durationSeconds": 165,
           "durationLabel": "2:45",
@@ -6023,7 +6023,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L025",
+          "id": "L031",
           "title": "Smoke tests without ads",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -6223,7 +6223,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L026",
+          "id": "L032",
           "title": "Interest vs paying demand revisited",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -6423,7 +6423,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L027",
+          "id": "L033",
           "title": "Pick-lane checkpoint quiz lesson",
           "durationSeconds": 110,
           "durationLabel": "1:50",
@@ -6623,7 +6623,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L028",
+          "id": "L034",
           "title": "Personal: idea kill list",
           "durationSeconds": 100,
           "durationLabel": "1:40",
@@ -6823,7 +6823,7 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "idea kill list",
-            "file_stub": "attachments/L028.md",
+            "file_stub": "attachments/L034.md",
             "prompt": "Complete the worksheet for: Complete kill/keep sheet"
           }
         }
@@ -6835,7 +6835,7 @@
       "goal": "Package something people can buy this week",
       "lessons": [
         {
-          "id": "L029",
+          "id": "L035",
           "title": "Offer skeleton",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -7035,7 +7035,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L030",
+          "id": "L036",
           "title": "Promise that is specific",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -7235,7 +7235,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L031",
+          "id": "L037",
           "title": "What's included (and not)",
           "durationSeconds": 135,
           "durationLabel": "2:15",
@@ -7435,7 +7435,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L032",
+          "id": "L038",
           "title": "Pricing that feels fair",
           "durationSeconds": 160,
           "durationLabel": "2:40",
@@ -7635,7 +7635,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L033",
+          "id": "L039",
           "title": "Starter / Builder / Operator ladder",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -7835,7 +7835,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L034",
+          "id": "L040",
           "title": "Delivery design day one",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -8035,7 +8035,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L035",
+          "id": "L041",
           "title": "Refund rules you can honor",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -8235,7 +8235,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L036",
+          "id": "L042",
           "title": "Name and one-liner",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -8435,7 +8435,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L037",
+          "id": "L043",
           "title": "Digital product packaging",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -8635,12 +8635,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "Digital product packaging",
-            "file_stub": "attachments/L037.md",
+            "file_stub": "attachments/L043.md",
             "prompt": "Complete the worksheet for: Choose packaging for v1"
           }
         },
         {
-          "id": "L038",
+          "id": "L044",
           "title": "Service packaging",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -8840,12 +8840,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "Service packaging",
-            "file_stub": "attachments/L038.md",
+            "file_stub": "attachments/L044.md",
             "prompt": "Complete the worksheet for: Package a service v1"
           }
         },
         {
-          "id": "L039",
+          "id": "L045",
           "title": "Hybrid offers",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -9045,7 +9045,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L040",
+          "id": "L046",
           "title": "Unit economics rough cut",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -9245,7 +9245,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L041",
+          "id": "L047",
           "title": "Break-even without spreadsheets panic",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -9445,12 +9445,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "Break-even without spreadsheets panic",
-            "file_stub": "attachments/L041.md",
+            "file_stub": "attachments/L047.md",
             "prompt": "Complete the worksheet for: Compute rough break-even"
           }
         },
         {
-          "id": "L042",
+          "id": "L048",
           "title": "Offer critique clinic",
           "durationSeconds": 160,
           "durationLabel": "2:40",
@@ -9650,7 +9650,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L043",
+          "id": "L049",
           "title": "Personal: offer canvas filled",
           "durationSeconds": 110,
           "durationLabel": "1:50",
@@ -9850,12 +9850,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "offer canvas filled",
-            "file_stub": "attachments/L043.md",
+            "file_stub": "attachments/L049.md",
             "prompt": "Complete the worksheet for: Complete offer canvas"
           }
         },
         {
-          "id": "L044",
+          "id": "L050",
           "title": "Module offer gate",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -10062,7 +10062,7 @@
       "goal": "Get first paying evidence without a brand",
       "lessons": [
         {
-          "id": "L045",
+          "id": "L051",
           "title": "Warm outreach that isn't weird",
           "durationSeconds": 160,
           "durationLabel": "2:40",
@@ -10262,7 +10262,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L046",
+          "id": "L052",
           "title": "DM scripts that start conversations",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -10462,7 +10462,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L047",
+          "id": "L053",
           "title": "Follow-up 3\u00d7",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -10662,7 +10662,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L048",
+          "id": "L054",
           "title": "Sheet CRM",
           "durationSeconds": 135,
           "durationLabel": "2:15",
@@ -10862,12 +10862,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "Sheet CRM",
-            "file_stub": "attachments/L048.md",
+            "file_stub": "attachments/L054.md",
             "prompt": "Complete the worksheet for: Build a 20-row CRM"
           }
         },
         {
-          "id": "L049",
+          "id": "L055",
           "title": "Discovery before pitch",
           "durationSeconds": 165,
           "durationLabel": "2:45",
@@ -11067,7 +11067,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L050",
+          "id": "L056",
           "title": "Objection map basics",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -11267,7 +11267,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L051",
+          "id": "L057",
           "title": "Soft close vs hard close",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -11467,7 +11467,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L052",
+          "id": "L058",
           "title": "Taking payment simply",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -11667,7 +11667,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L053",
+          "id": "L059",
           "title": "Onboarding in 48 hours",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -11867,7 +11867,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L054",
+          "id": "L060",
           "title": "Ask for a testimonial",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -12067,7 +12067,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L055",
+          "id": "L061",
           "title": "One sale \u2260 long-term proof",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -12267,7 +12267,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L056",
+          "id": "L062",
           "title": "Refunds and tough moments",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -12467,7 +12467,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L057",
+          "id": "L063",
           "title": "Case: Maya-style first sale path",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -12667,7 +12667,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L058",
+          "id": "L064",
           "title": "Case: service first sale path",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -12867,7 +12867,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L059",
+          "id": "L065",
           "title": "Personal: outreach pack",
           "durationSeconds": 115,
           "durationLabel": "1:55",
@@ -13067,12 +13067,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "outreach pack",
-            "file_stub": "attachments/L059.md",
+            "file_stub": "attachments/L065.md",
             "prompt": "Complete the worksheet for: Fill outreach pack"
           }
         },
         {
-          "id": "L060",
+          "id": "L066",
           "title": "First-customer gate",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -13272,7 +13272,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L061",
+          "id": "L067",
           "title": "Live critique patterns",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -13472,7 +13472,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L062",
+          "id": "L068",
           "title": "Pricing conversations",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -13679,7 +13679,7 @@
       "goal": "Ship, collect, repeat without chaos",
       "lessons": [
         {
-          "id": "L063",
+          "id": "L069",
           "title": "Weekly scoreboard",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -13879,7 +13879,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L064",
+          "id": "L070",
           "title": "Calendar blocks that stick",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -14079,7 +14079,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L065",
+          "id": "L071",
           "title": "Delivery checklist",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -14279,7 +14279,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L066",
+          "id": "L072",
           "title": "Support without drowning",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -14479,7 +14479,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L067",
+          "id": "L073",
           "title": "Simple automations later",
           "durationSeconds": 135,
           "durationLabel": "2:15",
@@ -14679,7 +14679,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L068",
+          "id": "L074",
           "title": "Team of three pattern",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -14879,7 +14879,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L069",
+          "id": "L075",
           "title": "Free stack vs paid stack",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -15079,7 +15079,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L070",
+          "id": "L076",
           "title": "Content that sells (ops)",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -15279,7 +15279,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L071",
+          "id": "L077",
           "title": "Repurpose one lesson into Shorts",
           "durationSeconds": 160,
           "durationLabel": "2:40",
@@ -15479,7 +15479,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L072",
+          "id": "L078",
           "title": "Quality bar for UGC clips",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -15679,7 +15679,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L073",
+          "id": "L079",
           "title": "Legal/privacy basics for creators",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -15879,7 +15879,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L074",
+          "id": "L080",
           "title": "Burnout prevention",
           "durationSeconds": 135,
           "durationLabel": "2:15",
@@ -16079,7 +16079,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L075",
+          "id": "L081",
           "title": "Personal: operating system sheet",
           "durationSeconds": 110,
           "durationLabel": "1:50",
@@ -16279,12 +16279,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "operating system sheet",
-            "file_stub": "attachments/L075.md",
+            "file_stub": "attachments/L081.md",
             "prompt": "Complete the worksheet for: Fill weekly OS"
           }
         },
         {
-          "id": "L076",
+          "id": "L082",
           "title": "Systems gate",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -16484,7 +16484,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L077",
+          "id": "L083",
           "title": "Improve from refunds/feedback",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -16684,7 +16684,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L078",
+          "id": "L084",
           "title": "Cash buffer basics",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -16891,7 +16891,7 @@
       "goal": "Ten-step roadmap to a live business",
       "lessons": [
         {
-          "id": "L079",
+          "id": "L085",
           "title": "Clarify the problem",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -17091,7 +17091,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L080",
+          "id": "L086",
           "title": "Name a buyer",
           "durationSeconds": 125,
           "durationLabel": "2:05",
@@ -17291,7 +17291,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L081",
+          "id": "L087",
           "title": "Draft a one-line offer",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -17491,7 +17491,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L082",
+          "id": "L088",
           "title": "Price it simply",
           "durationSeconds": 125,
           "durationLabel": "2:05",
@@ -17691,7 +17691,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L083",
+          "id": "L089",
           "title": "Tiny landing page",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -17891,7 +17891,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L084",
+          "id": "L090",
           "title": "Talk to 10 humans",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -18091,7 +18091,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L085",
+          "id": "L091",
           "title": "Close first sale",
           "durationSeconds": 155,
           "durationLabel": "2:35",
@@ -18291,7 +18291,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L086",
+          "id": "L092",
           "title": "Deliver once",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -18491,7 +18491,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L087",
+          "id": "L093",
           "title": "Capture a testimonial",
           "durationSeconds": 130,
           "durationLabel": "2:10",
@@ -18691,7 +18691,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L088",
+          "id": "L094",
           "title": "Systematize the week",
           "durationSeconds": 150,
           "durationLabel": "2:30",
@@ -18891,7 +18891,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L089",
+          "id": "L095",
           "title": "Capstone: ship checklist",
           "durationSeconds": 160,
           "durationLabel": "2:40",
@@ -19091,7 +19091,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L090",
+          "id": "L096",
           "title": "What to build next (and not)",
           "durationSeconds": 145,
           "durationLabel": "2:25",
@@ -19291,7 +19291,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L091",
+          "id": "L097",
           "title": "Personal: 30-day plan",
           "durationSeconds": 120,
           "durationLabel": "2:00",
@@ -19491,12 +19491,12 @@
           "personalAttachment": {
             "type": "worksheet",
             "title": "30-day plan",
-            "file_stub": "attachments/L091.md",
+            "file_stub": "attachments/L097.md",
             "prompt": "Complete the worksheet for: Fill 30-day plan"
           }
         },
         {
-          "id": "L092",
+          "id": "L098",
           "title": "Final oral: teach the framework",
           "durationSeconds": 140,
           "durationLabel": "2:20",
@@ -19696,7 +19696,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L093",
+          "id": "L099",
           "title": "Alumni loop",
           "durationSeconds": 125,
           "durationLabel": "2:05",
@@ -19896,7 +19896,7 @@
           "personalAttachment": null
         },
         {
-          "id": "L094",
+          "id": "L100",
           "title": "Course close + waitlist alumni perk",
           "durationSeconds": 110,
           "durationLabel": "1:50",
@@ -20100,73 +20100,73 @@
   ],
   "personal_attachments_index": [
     {
-      "lessonId": "L021",
+      "lessonId": "L027",
       "type": "worksheet",
       "title": "Problem statement worksheet",
-      "file_stub": "attachments/L021.md",
+      "file_stub": "attachments/L027.md",
       "prompt": "Complete the worksheet for: Fill the problem canvas"
     },
     {
-      "lessonId": "L028",
+      "lessonId": "L034",
       "type": "worksheet",
       "title": "idea kill list",
-      "file_stub": "attachments/L028.md",
+      "file_stub": "attachments/L034.md",
       "prompt": "Complete the worksheet for: Complete kill/keep sheet"
-    },
-    {
-      "lessonId": "L037",
-      "type": "worksheet",
-      "title": "Digital product packaging",
-      "file_stub": "attachments/L037.md",
-      "prompt": "Complete the worksheet for: Choose packaging for v1"
-    },
-    {
-      "lessonId": "L038",
-      "type": "worksheet",
-      "title": "Service packaging",
-      "file_stub": "attachments/L038.md",
-      "prompt": "Complete the worksheet for: Package a service v1"
-    },
-    {
-      "lessonId": "L041",
-      "type": "worksheet",
-      "title": "Break-even without spreadsheets panic",
-      "file_stub": "attachments/L041.md",
-      "prompt": "Complete the worksheet for: Compute rough break-even"
     },
     {
       "lessonId": "L043",
       "type": "worksheet",
-      "title": "offer canvas filled",
+      "title": "Digital product packaging",
       "file_stub": "attachments/L043.md",
+      "prompt": "Complete the worksheet for: Choose packaging for v1"
+    },
+    {
+      "lessonId": "L044",
+      "type": "worksheet",
+      "title": "Service packaging",
+      "file_stub": "attachments/L044.md",
+      "prompt": "Complete the worksheet for: Package a service v1"
+    },
+    {
+      "lessonId": "L047",
+      "type": "worksheet",
+      "title": "Break-even without spreadsheets panic",
+      "file_stub": "attachments/L047.md",
+      "prompt": "Complete the worksheet for: Compute rough break-even"
+    },
+    {
+      "lessonId": "L049",
+      "type": "worksheet",
+      "title": "offer canvas filled",
+      "file_stub": "attachments/L049.md",
       "prompt": "Complete the worksheet for: Complete offer canvas"
     },
     {
-      "lessonId": "L048",
+      "lessonId": "L054",
       "type": "worksheet",
       "title": "Sheet CRM",
-      "file_stub": "attachments/L048.md",
+      "file_stub": "attachments/L054.md",
       "prompt": "Complete the worksheet for: Build a 20-row CRM"
     },
     {
-      "lessonId": "L059",
+      "lessonId": "L065",
       "type": "worksheet",
       "title": "outreach pack",
-      "file_stub": "attachments/L059.md",
+      "file_stub": "attachments/L065.md",
       "prompt": "Complete the worksheet for: Fill outreach pack"
     },
     {
-      "lessonId": "L075",
+      "lessonId": "L081",
       "type": "worksheet",
       "title": "operating system sheet",
-      "file_stub": "attachments/L075.md",
+      "file_stub": "attachments/L081.md",
       "prompt": "Complete the worksheet for: Fill weekly OS"
     },
     {
-      "lessonId": "L091",
+      "lessonId": "L097",
       "type": "worksheet",
       "title": "30-day plan",
-      "file_stub": "attachments/L091.md",
+      "file_stub": "attachments/L097.md",
       "prompt": "Complete the worksheet for: Fill 30-day plan"
     }
   ],

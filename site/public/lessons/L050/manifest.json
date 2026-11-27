@@ -1,0 +1,19 @@
+{
+  "id": "L050",
+  "slug": "module-offer-gate",
+  "title": "Module offer gate",
+  "module": "03 \u00b7 Offer",
+  "objective": "Self-check offer readiness",
+  "durationSeconds": 136.76,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L050DataCamp",
+  "assets": {
+    "video": "/lessons/L050/video.mp4",
+    "poster": "/lessons/L050/poster.jpg",
+    "captionsVtt": "/lessons/L050/captions.vtt",
+    "captionsSrt": "/lessons/L050/captions.srt",
+    "transcript": "/lessons/L050/transcript.json"
+  },
+  "sourceLessonId": "L050"
+}

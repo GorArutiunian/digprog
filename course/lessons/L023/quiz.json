@@ -1,0 +1,207 @@
+{
+  "lessonId": "L029",
+  "title": "Practice \u00b7 Niche vs broad first offer",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Too broad means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "No one feels spoken to"
+        },
+        {
+          "id": "b",
+          "text": "Perfect fit always"
+        },
+        {
+          "id": "c",
+          "text": "Easy sales always"
+        },
+        {
+          "id": "d",
+          "text": "Instant trust"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "First offer should be:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Narrow enough to sell, wide enough to find twenty talks"
+        },
+        {
+          "id": "b",
+          "text": "Infinite market"
+        },
+        {
+          "id": "c",
+          "text": "One person only forever"
+        },
+        {
+          "id": "d",
+          "text": "No niche"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write a niche sentence"
+        },
+        {
+          "id": "b",
+          "text": "Stay vague"
+        },
+        {
+          "id": "c",
+          "text": "Skip who it is for"
+        },
+        {
+          "id": "d",
+          "text": "Only brand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Niche sentence includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Who, pain, outcome"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only price"
+        },
+        {
+          "id": "d",
+          "text": "Only logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "If a stranger cannot tell who it is for:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Narrow it"
+        },
+        {
+          "id": "b",
+          "text": "Widen to everyone"
+        },
+        {
+          "id": "c",
+          "text": "Add more jargon"
+        },
+        {
+          "id": "d",
+          "text": "Hide the offer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Balance is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sellable and findable"
+        },
+        {
+          "id": "b",
+          "text": "Only poetic"
+        },
+        {
+          "id": "c",
+          "text": "Only broad"
+        },
+        {
+          "id": "d",
+          "text": "Only secret"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write a niche sentence"
+        },
+        {
+          "id": "b",
+          "text": "You stayed vague"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your niche sentence"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

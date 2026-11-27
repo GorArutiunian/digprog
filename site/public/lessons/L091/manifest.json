@@ -1,0 +1,19 @@
+{
+  "id": "L091",
+  "slug": "close-first-sale",
+  "title": "Close first sale",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Run close checklist",
+  "durationSeconds": 127.328,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L091DataCamp",
+  "assets": {
+    "video": "/lessons/L091/video.mp4",
+    "poster": "/lessons/L091/poster.jpg",
+    "captionsVtt": "/lessons/L091/captions.vtt",
+    "captionsSrt": "/lessons/L091/captions.srt",
+    "transcript": "/lessons/L091/transcript.json"
+  },
+  "sourceLessonId": "L091"
+}

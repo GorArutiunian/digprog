@@ -1,0 +1,24 @@
+{
+  "id": "L017",
+  "slug": "ethics-of-selling",
+  "title": "Ethics of selling",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Write your ethics line",
+  "durationSeconds": 124.472,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L017DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L017-final/L017-Ethics-of-selling.mp4",
+    "poster": "output/L017-final/poster.jpg",
+    "voice": "output/L017-final/voice-l017-final.mp3",
+    "captionsSrt": "output/L017-final/L017.srt",
+    "captionsVtt": "output/L017-final/L017.vtt",
+    "transcript": "output/L017-final/transcript.json",
+    "timeline": "output/L017-final/timeline.json",
+    "quiz": "lessons/L017/quiz.json",
+    "storyboard": "lessons/L017/storyboard.md"
+  },
+  "sourceLessonId": "L017"
+}

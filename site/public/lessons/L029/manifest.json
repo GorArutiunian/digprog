@@ -1,0 +1,19 @@
+{
+  "id": "L029",
+  "slug": "where-buyers-already-hang-out",
+  "title": "Where buyers already hang out",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Name three hangouts",
+  "durationSeconds": 130.616,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L029DataCamp",
+  "assets": {
+    "video": "/lessons/L029/video.mp4",
+    "poster": "/lessons/L029/poster.jpg",
+    "captionsVtt": "/lessons/L029/captions.vtt",
+    "captionsSrt": "/lessons/L029/captions.srt",
+    "transcript": "/lessons/L029/transcript.json"
+  },
+  "sourceLessonId": "L029"
+}

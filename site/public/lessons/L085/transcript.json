@@ -1,0 +1,225 @@
+{
+  "lessonId": "L097",
+  "duration": 128.984,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Roadmap step one: clarify the problem in buyer words, not founder jargon.",
+      "start": 0.0,
+      "end": 4.361,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about clarify the problem.",
+      "start": 4.361,
+      "end": 6.904,
+      "section": "hook"
+    },
+    {
+      "text": "Roadmap step 1.",
+      "start": 6.904,
+      "end": 7.994,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.994,
+      "end": 10.538,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.538,
+      "end": 14.172,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.172,
+      "end": 19.623,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.623,
+      "end": 23.62,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: rewrite problem in buyer words before you optimize branding or tools.",
+      "start": 23.62,
+      "end": 28.344,
+      "section": "hook"
+    },
+    {
+      "text": "Rewrite the pain as something a buyer would say out loud.",
+      "start": 28.664,
+      "end": 32.728,
+      "section": "rewrite"
+    },
+    {
+      "text": "Remember the objective: rewrite problem in buyer words.",
+      "start": 32.728,
+      "end": 35.684,
+      "section": "rewrite"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.684,
+      "end": 39.748,
+      "section": "rewrite"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.748,
+      "end": 44.182,
+      "section": "rewrite"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.182,
+      "end": 48.246,
+      "section": "rewrite"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.246,
+      "end": 52.68,
+      "section": "rewrite"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.68,
+      "end": 55.266,
+      "section": "rewrite"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.266,
+      "end": 56.744,
+      "section": "rewrite"
+    },
+    {
+      "text": "If a stranger cannot feel the problem, rewrite again.",
+      "start": 57.064,
+      "end": 60.564,
+      "section": "test"
+    },
+    {
+      "text": "Remember the objective: rewrite problem in buyer words.",
+      "start": 60.564,
+      "end": 63.675,
+      "section": "test"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.675,
+      "end": 67.952,
+      "section": "test"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.952,
+      "end": 72.619,
+      "section": "test"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.619,
+      "end": 76.896,
+      "section": "test"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.896,
+      "end": 81.562,
+      "section": "test"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.562,
+      "end": 84.285,
+      "section": "test"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.285,
+      "end": 85.84,
+      "section": "test"
+    },
+    {
+      "text": "Lock one problem sentence before you name a buyer.",
+      "start": 86.16,
+      "end": 89.455,
+      "section": "lock"
+    },
+    {
+      "text": "Remember the objective: rewrite problem in buyer words.",
+      "start": 89.455,
+      "end": 92.385,
+      "section": "lock"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.385,
+      "end": 96.413,
+      "section": "lock"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.413,
+      "end": 100.806,
+      "section": "lock"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 100.806,
+      "end": 104.834,
+      "section": "lock"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 104.834,
+      "end": 109.228,
+      "section": "lock"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 109.228,
+      "end": 111.791,
+      "section": "lock"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 111.791,
+      "end": 113.256,
+      "section": "lock"
+    },
+    {
+      "text": "In the quiz, you will rewrite the problem in buyer words.",
+      "start": 113.576,
+      "end": 117.521,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can rewrite problem in buyer words.",
+      "start": 117.521,
+      "end": 122.543,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 122.543,
+      "end": 123.26,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 123.26,
+      "end": 126.488,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Roadmap step one: clarify the problem in buyer words, not founder jargon. This lesson is about clarify the problem. Roadmap step 1. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: rewrite problem in buyer words before you optimize branding or tools. Rewrite the pain as something a buyer would say out loud. Remember the objective: rewrite problem in buyer words. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. If a stranger cannot feel the problem, rewrite again. Remember the objective: rewrite problem in buyer words. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Lock one problem sentence before you name a buyer. Remember the objective: rewrite problem in buyer words. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will rewrite the problem in buyer words. In the quiz, you will practice until you can rewrite problem in buyer words. Answer carefully. If you miss one, review the idea and retry."
+}

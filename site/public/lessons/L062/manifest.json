@@ -1,0 +1,19 @@
+{
+  "id": "L062",
+  "slug": "refunds-and-tough-moments",
+  "title": "Refunds and tough moments",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Write refund response",
+  "durationSeconds": 129.608,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L062DataCamp",
+  "assets": {
+    "video": "/lessons/L062/video.mp4",
+    "poster": "/lessons/L062/poster.jpg",
+    "captionsVtt": "/lessons/L062/captions.vtt",
+    "captionsSrt": "/lessons/L062/captions.srt",
+    "transcript": "/lessons/L062/transcript.json"
+  },
+  "sourceLessonId": "L062"
+}

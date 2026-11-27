@@ -1,0 +1,207 @@
+{
+  "lessonId": "L074",
+  "title": "Practice \u00b7 Pricing conversations",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "After you say the price:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stop talking"
+        },
+        {
+          "id": "b",
+          "text": "Keep apologizing"
+        },
+        {
+          "id": "c",
+          "text": "Lower immediately always"
+        },
+        {
+          "id": "d",
+          "text": "Change the subject to logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Silence after the number is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Normal"
+        },
+        {
+          "id": "b",
+          "text": "Always a no"
+        },
+        {
+          "id": "c",
+          "text": "A crisis"
+        },
+        {
+          "id": "d",
+          "text": "Illegal"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Roleplay a price talk"
+        },
+        {
+          "id": "b",
+          "text": "Avoid money talk"
+        },
+        {
+          "id": "c",
+          "text": "Panic only"
+        },
+        {
+          "id": "d",
+          "text": "Skip the close"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Roleplay includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Value, price, one objection, close"
+        },
+        {
+          "id": "b",
+          "text": "Only small talk"
+        },
+        {
+          "id": "c",
+          "text": "Only branding"
+        },
+        {
+          "id": "d",
+          "text": "Only silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Reps beat:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pep talks"
+        },
+        {
+          "id": "b",
+          "text": "All offers"
+        },
+        {
+          "id": "c",
+          "text": "All quizzes"
+        },
+        {
+          "id": "d",
+          "text": "All delivery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Say the price:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clearly"
+        },
+        {
+          "id": "b",
+          "text": "In a whisper forever"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only in writing after they leave"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can roleplay a price talk"
+        },
+        {
+          "id": "b",
+          "text": "You avoided the number"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then roleplay the price talk"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stay panicked"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

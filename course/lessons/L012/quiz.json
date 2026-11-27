@@ -1,0 +1,207 @@
+{
+  "lessonId": "L012",
+  "title": "Practice \u00b7 Capstone preview: ship something tiny",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Graduation here means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Shipped, not binge-watched"
+        },
+        {
+          "id": "b",
+          "text": "Finished every video only"
+        },
+        {
+          "id": "c",
+          "text": "Perfect branding"
+        },
+        {
+          "id": "d",
+          "text": "Zero outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A tiny ship is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Small enough to finish in days"
+        },
+        {
+          "id": "b",
+          "text": "A full company launch"
+        },
+        {
+          "id": "c",
+          "text": "A year-long plan"
+        },
+        {
+          "id": "d",
+          "text": "A logo system"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Examples of tiny ships:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Offer draft, five outreaches, one paid conversation"
+        },
+        {
+          "id": "b",
+          "text": "Endless research"
+        },
+        {
+          "id": "c",
+          "text": "Tool hopping"
+        },
+        {
+          "id": "d",
+          "text": "Brand theater"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Define your tiny ship for week 2"
+        },
+        {
+          "id": "b",
+          "text": "Binge module one again"
+        },
+        {
+          "id": "c",
+          "text": "Avoid humans"
+        },
+        {
+          "id": "d",
+          "text": "Buy tools first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Define the deliverable:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In one sentence"
+        },
+        {
+          "id": "b",
+          "text": "In a fifty-page plan"
+        },
+        {
+          "id": "c",
+          "text": "Only in your head"
+        },
+        {
+          "id": "d",
+          "text": "After perfection"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Not shipped yet if:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You cannot show it to a human"
+        },
+        {
+          "id": "b",
+          "text": "Someone paid you"
+        },
+        {
+          "id": "c",
+          "text": "You sent five outreaches"
+        },
+        {
+          "id": "d",
+          "text": "You have an offer draft"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can define your tiny ship for week 2"
+        },
+        {
+          "id": "b",
+          "text": "You liked the intro"
+        },
+        {
+          "id": "c",
+          "text": "You watched twice"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your tiny ship"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

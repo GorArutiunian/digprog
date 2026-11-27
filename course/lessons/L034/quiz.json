@@ -1,0 +1,207 @@
+{
+  "lessonId": "L040",
+  "title": "Practice \u00b7 Personal: idea kill list",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Put ideas on a:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Kill or keep sheet"
+        },
+        {
+          "id": "b",
+          "text": "Secret folder forever"
+        },
+        {
+          "id": "c",
+          "text": "Logo moodboard only"
+        },
+        {
+          "id": "d",
+          "text": "Ads account"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Each idea gets:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep, kill, or park plus evidence"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "No note"
+        },
+        {
+          "id": "d",
+          "text": "A fake testimonial"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Complete kill/keep sheet"
+        },
+        {
+          "id": "b",
+          "text": "Skip the sheet"
+        },
+        {
+          "id": "c",
+          "text": "Carry every idea"
+        },
+        {
+          "id": "d",
+          "text": "Avoid evidence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Complete the sheet:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before you start Offer"
+        },
+        {
+          "id": "b",
+          "text": "After six months of building"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only after ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Carry forward:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Only the kept idea"
+        },
+        {
+          "id": "b",
+          "text": "Every parked idea at once"
+        },
+        {
+          "id": "c",
+          "text": "Nothing"
+        },
+        {
+          "id": "d",
+          "text": "Only killed ideas"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Evidence notes stop:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Romance from hiding"
+        },
+        {
+          "id": "b",
+          "text": "Learning"
+        },
+        {
+          "id": "c",
+          "text": "Quizzes"
+        },
+        {
+          "id": "d",
+          "text": "Outreach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can complete a kill/keep sheet"
+        },
+        {
+          "id": "b",
+          "text": "You skipped evidence"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then finish kill/keep"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Carry every idea"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

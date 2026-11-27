@@ -1,0 +1,24 @@
+{
+  "id": "L043",
+  "slug": "digital-product-packaging",
+  "title": "Digital product packaging",
+  "module": "03 \u00b7 Offer",
+  "objective": "Choose packaging for v1",
+  "durationSeconds": 131.072,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L043DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L043-final/L043-Digital-product-packaging.mp4",
+    "poster": "output/L043-final/poster.jpg",
+    "voice": "output/L043-final/voice-l043-final.mp3",
+    "captionsSrt": "output/L043-final/L043.srt",
+    "captionsVtt": "output/L043-final/L043.vtt",
+    "transcript": "output/L043-final/transcript.json",
+    "timeline": "output/L043-final/timeline.json",
+    "quiz": "lessons/L043/quiz.json",
+    "storyboard": "lessons/L043/storyboard.md"
+  },
+  "sourceLessonId": "L043"
+}

@@ -33,8 +33,8 @@ export function Learn() {
       </header>
 
       <p className="learn-note">
-        Levels unlock as you complete lessons. Only <strong>L001</strong> has a finished video so
-        far — later videos come from Sargis. You can still preview quizzes on early lessons.
+        Levels unlock as you complete lessons. All <strong>100</strong> lesson videos are ready —
+        watch, then clear the quiz to advance.
       </p>
 
       <div className="learn-levels">

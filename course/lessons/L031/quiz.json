@@ -1,0 +1,207 @@
+{
+  "lessonId": "L037",
+  "title": "Practice \u00b7 Smoke tests without ads",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Smoke tests can run:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Without an ads budget"
+        },
+        {
+          "id": "b",
+          "text": "Only with big ads"
+        },
+        {
+          "id": "c",
+          "text": "Only after branding"
+        },
+        {
+          "id": "d",
+          "text": "Never with outbound"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Core combo:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Landing plus outbound"
+        },
+        {
+          "id": "b",
+          "text": "Logo plus silence"
+        },
+        {
+          "id": "c",
+          "text": "CRM plus no CTA"
+        },
+        {
+          "id": "d",
+          "text": "Ads only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Draft a smoke-test CTA"
+        },
+        {
+          "id": "b",
+          "text": "Skip the CTA"
+        },
+        {
+          "id": "c",
+          "text": "Perfect the page forever"
+        },
+        {
+          "id": "d",
+          "text": "Avoid warm contacts"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "A CTA should include:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What to do next, by when, what they get"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "No deadline"
+        },
+        {
+          "id": "d",
+          "text": "Hidden price always"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Count:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Replies, objections, yes signals"
+        },
+        {
+          "id": "b",
+          "text": "Only pageviews of your logo"
+        },
+        {
+          "id": "c",
+          "text": "Fonts chosen"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "The test is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Contact, not perfection"
+        },
+        {
+          "id": "b",
+          "text": "Perfection first"
+        },
+        {
+          "id": "c",
+          "text": "Silence"
+        },
+        {
+          "id": "d",
+          "text": "Brand theater"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can draft a smoke-test CTA"
+        },
+        {
+          "id": "b",
+          "text": "You bought ads only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then draft your CTA"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

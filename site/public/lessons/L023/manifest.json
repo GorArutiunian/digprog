@@ -1,0 +1,19 @@
+{
+  "id": "L023",
+  "slug": "niche-vs-broad-first-offer",
+  "title": "Niche vs broad first offer",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Write a niche sentence",
+  "durationSeconds": 133.472,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L023DataCamp",
+  "assets": {
+    "video": "/lessons/L023/video.mp4",
+    "poster": "/lessons/L023/poster.jpg",
+    "captionsVtt": "/lessons/L023/captions.vtt",
+    "captionsSrt": "/lessons/L023/captions.srt",
+    "transcript": "/lessons/L023/transcript.json"
+  },
+  "sourceLessonId": "L023"
+}

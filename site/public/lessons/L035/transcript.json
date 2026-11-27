@@ -1,0 +1,231 @@
+{
+  "lessonId": "L047",
+  "duration": 128.024,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "An offer is a one-page skeleton, not a brand deck.",
+      "start": 0.0,
+      "end": 3.399,
+      "section": "hook"
+    },
+    {
+      "text": "Fill it so someone can buy this week.",
+      "start": 3.399,
+      "end": 6.119,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about offer skeleton.",
+      "start": 6.119,
+      "end": 8.159,
+      "section": "hook"
+    },
+    {
+      "text": "Who / problem / promise / process / price / next step.",
+      "start": 8.159,
+      "end": 12.238,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 12.238,
+      "end": 14.618,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 14.618,
+      "end": 18.017,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 18.017,
+      "end": 23.117,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 23.117,
+      "end": 26.856,
+      "section": "hook"
+    },
+    {
+      "text": "Six boxes: who, problem, promise, process, price, and next step.",
+      "start": 27.176,
+      "end": 31.118,
+      "section": "parts"
+    },
+    {
+      "text": "Remember the objective: fill one-page offer.",
+      "start": 31.118,
+      "end": 33.483,
+      "section": "parts"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 33.483,
+      "end": 37.819,
+      "section": "parts"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 37.819,
+      "end": 42.549,
+      "section": "parts"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 42.549,
+      "end": 46.886,
+      "section": "parts"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 46.886,
+      "end": 51.616,
+      "section": "parts"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 51.616,
+      "end": 54.375,
+      "section": "parts"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 54.375,
+      "end": 55.952,
+      "section": "parts"
+    },
+    {
+      "text": "Fill the one-page offer in plain language.",
+      "start": 56.272,
+      "end": 59.017,
+      "section": "fill"
+    },
+    {
+      "text": "Empty boxes are homework, not mystery.",
+      "start": 59.017,
+      "end": 61.371,
+      "section": "fill"
+    },
+    {
+      "text": "Remember the objective: fill one-page offer.",
+      "start": 61.371,
+      "end": 63.724,
+      "section": "fill"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.724,
+      "end": 68.038,
+      "section": "fill"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 68.038,
+      "end": 72.745,
+      "section": "fill"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.745,
+      "end": 77.059,
+      "section": "fill"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.059,
+      "end": 81.766,
+      "section": "fill"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.766,
+      "end": 84.511,
+      "section": "fill"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.511,
+      "end": 86.08,
+      "section": "fill"
+    },
+    {
+      "text": "This page becomes your outreach script and your checkout conversation.",
+      "start": 86.4,
+      "end": 90.132,
+      "section": "use"
+    },
+    {
+      "text": "Remember the objective: fill one-page offer.",
+      "start": 90.132,
+      "end": 92.37,
+      "section": "use"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.37,
+      "end": 96.475,
+      "section": "use"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.475,
+      "end": 100.953,
+      "section": "use"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 100.953,
+      "end": 105.058,
+      "section": "use"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 105.058,
+      "end": 109.535,
+      "section": "use"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 109.535,
+      "end": 112.147,
+      "section": "use"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 112.147,
+      "end": 113.64,
+      "section": "use"
+    },
+    {
+      "text": "In the quiz, you will fill a one-page offer.",
+      "start": 113.96,
+      "end": 117.213,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can fill one-page offer.",
+      "start": 117.213,
+      "end": 121.551,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 121.551,
+      "end": 122.274,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 122.274,
+      "end": 125.528,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "An offer is a one-page skeleton, not a brand deck. Fill it so someone can buy this week. This lesson is about offer skeleton. Who / problem / promise / process / price / next step. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Six boxes: who, problem, promise, process, price, and next step. Remember the objective: fill one-page offer. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Fill the one-page offer in plain language. Empty boxes are homework, not mystery. Remember the objective: fill one-page offer. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. This page becomes your outreach script and your checkout conversation. Remember the objective: fill one-page offer. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will fill a one-page offer. In the quiz, you will practice until you can fill one-page offer. Answer carefully. If you miss one, review the idea and retry."
+}

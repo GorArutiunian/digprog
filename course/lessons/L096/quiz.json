@@ -1,0 +1,207 @@
+{
+  "lessonId": "L014",
+  "title": "Practice \u00b7 What to build next (and not)",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Avoid:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Feature fever"
+        },
+        {
+          "id": "b",
+          "text": "Proof experiments"
+        },
+        {
+          "id": "c",
+          "text": "Kill dates"
+        },
+        {
+          "id": "d",
+          "text": "Sales-tied tests"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Choose next experiment tied to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Sales or delivery pain"
+        },
+        {
+          "id": "b",
+          "text": "Random redesign"
+        },
+        {
+          "id": "c",
+          "text": "New niche weekly"
+        },
+        {
+          "id": "d",
+          "text": "Ten tools at once"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Choose next experiment"
+        },
+        {
+          "id": "b",
+          "text": "Build everything"
+        },
+        {
+          "id": "c",
+          "text": "Skip kill dates"
+        },
+        {
+          "id": "d",
+          "text": "Chase fever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Not next:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Redesign, new niche, or ten tools at once"
+        },
+        {
+          "id": "b",
+          "text": "One sales pain test"
+        },
+        {
+          "id": "c",
+          "text": "One delivery fix"
+        },
+        {
+          "id": "d",
+          "text": "A kill-dated experiment"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Set a:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Kill date"
+        },
+        {
+          "id": "b",
+          "text": "Infinite build"
+        },
+        {
+          "id": "c",
+          "text": "No review"
+        },
+        {
+          "id": "d",
+          "text": "No proof check"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "If no proof:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stop and pick again"
+        },
+        {
+          "id": "b",
+          "text": "Build louder"
+        },
+        {
+          "id": "c",
+          "text": "Add ten features"
+        },
+        {
+          "id": "d",
+          "text": "Ignore sales"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can choose the next experiment"
+        },
+        {
+          "id": "b",
+          "text": "You chased feature fever"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then choose one experiment"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Build ten things"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "lessonId": "L042",
+  "duration": 139.04,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Talk before you build for months.",
+      "start": 0.0,
+      "end": 2.21,
+      "section": "hook"
+    },
+    {
+      "text": "Forty-eight hours is enough to start validation.",
+      "start": 2.21,
+      "end": 4.789,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about validation in 48 hours.",
+      "start": 4.789,
+      "end": 7.736,
+      "section": "hook"
+    },
+    {
+      "text": "Talk before building for months.",
+      "start": 7.736,
+      "end": 9.578,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.578,
+      "end": 12.157,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.157,
+      "end": 15.841,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.841,
+      "end": 21.367,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.367,
+      "end": 25.42,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: plan five conversations before you optimize branding or tools.",
+      "start": 25.42,
+      "end": 29.472,
+      "section": "hook"
+    },
+    {
+      "text": "Plan five conversations.",
+      "start": 29.792,
+      "end": 30.962,
+      "section": "plan"
+    },
+    {
+      "text": "Who, channel, ask, and what answer would change your mind.",
+      "start": 30.962,
+      "end": 34.862,
+      "section": "plan"
+    },
+    {
+      "text": "Remember the objective: plan five conversations.",
+      "start": 34.862,
+      "end": 37.202,
+      "section": "plan"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.202,
+      "end": 41.492,
+      "section": "plan"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.492,
+      "end": 46.172,
+      "section": "plan"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 46.172,
+      "end": 50.462,
+      "section": "plan"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.462,
+      "end": 55.142,
+      "section": "plan"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 55.142,
+      "end": 57.872,
+      "section": "plan"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.872,
+      "end": 59.432,
+      "section": "plan"
+    },
+    {
+      "text": "Run the talks.",
+      "start": 59.752,
+      "end": 60.949,
+      "section": "run"
+    },
+    {
+      "text": "Capture notes.",
+      "start": 60.949,
+      "end": 61.746,
+      "section": "run"
+    },
+    {
+      "text": "Count interest, objections, and willingness to pay signals.",
+      "start": 61.746,
+      "end": 64.937,
+      "section": "run"
+    },
+    {
+      "text": "Remember the objective: plan five conversations.",
+      "start": 64.937,
+      "end": 67.33,
+      "section": "run"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 67.33,
+      "end": 71.717,
+      "section": "run"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 71.717,
+      "end": 76.503,
+      "section": "run"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 76.503,
+      "end": 80.891,
+      "section": "run"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 80.891,
+      "end": 85.677,
+      "section": "run"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 85.677,
+      "end": 88.469,
+      "section": "run"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 88.469,
+      "end": 90.064,
+      "section": "run"
+    },
+    {
+      "text": "After five talks, update the offer or the audience.",
+      "start": 90.384,
+      "end": 93.874,
+      "section": "decide"
+    },
+    {
+      "text": "Do not disappear into building.",
+      "start": 93.874,
+      "end": 95.812,
+      "section": "decide"
+    },
+    {
+      "text": "Remember the objective: plan five conversations.",
+      "start": 95.812,
+      "end": 98.139,
+      "section": "decide"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 98.139,
+      "end": 102.404,
+      "section": "decide"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 102.404,
+      "end": 107.057,
+      "section": "decide"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 107.057,
+      "end": 111.322,
+      "section": "decide"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 111.322,
+      "end": 115.975,
+      "section": "decide"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 115.975,
+      "end": 118.689,
+      "section": "decide"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 118.689,
+      "end": 120.24,
+      "section": "decide"
+    },
+    {
+      "text": "In the quiz, you will plan five conversations.",
+      "start": 120.56,
+      "end": 123.534,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can plan five conversations.",
+      "start": 123.534,
+      "end": 127.994,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 127.994,
+      "end": 128.738,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 128.738,
+      "end": 132.083,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 132.083,
+      "end": 136.544,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Talk before you build for months. Forty-eight hours is enough to start validation. This lesson is about validation in 48 hours. Talk before building for months. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: plan five conversations before you optimize branding or tools. Plan five conversations. Who, channel, ask, and what answer would change your mind. Remember the objective: plan five conversations. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Run the talks. Capture notes. Count interest, objections, and willingness to pay signals. Remember the objective: plan five conversations. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. After five talks, update the offer or the audience. Do not disappear into building. Remember the objective: plan five conversations. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will plan five conversations. In the quiz, you will practice until you can plan five conversations. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

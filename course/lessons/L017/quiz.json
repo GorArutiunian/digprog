@@ -1,0 +1,207 @@
+{
+  "lessonId": "L023",
+  "title": "Practice \u00b7 Ethics of selling",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Selling is allowed. Lying is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not"
+        },
+        {
+          "id": "b",
+          "text": "Required"
+        },
+        {
+          "id": "c",
+          "text": "A growth hack"
+        },
+        {
+          "id": "d",
+          "text": "Optional ethics"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Do not use:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fake scarcity or fake testimonials"
+        },
+        {
+          "id": "b",
+          "text": "Clear prices"
+        },
+        {
+          "id": "c",
+          "text": "Honest delivery limits"
+        },
+        {
+          "id": "d",
+          "text": "Who it is for"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write your ethics line"
+        },
+        {
+          "id": "b",
+          "text": "Hide offer limits"
+        },
+        {
+          "id": "c",
+          "text": "Invent reviews"
+        },
+        {
+          "id": "d",
+          "text": "Fake urgency always"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Clarity on price and delivery is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Kindness"
+        },
+        {
+          "id": "b",
+          "text": "A weakness"
+        },
+        {
+          "id": "c",
+          "text": "Optional"
+        },
+        {
+          "id": "d",
+          "text": "Fake scarcity"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Your reputation is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inventory"
+        },
+        {
+          "id": "b",
+          "text": "Irrelevant"
+        },
+        {
+          "id": "c",
+          "text": "A logo only"
+        },
+        {
+          "id": "d",
+          "text": "A binge metric"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "An ethics line is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A promise you will not break to close"
+        },
+        {
+          "id": "b",
+          "text": "A slogan for ads only"
+        },
+        {
+          "id": "c",
+          "text": "A fake testimonial"
+        },
+        {
+          "id": "d",
+          "text": "A hidden clause"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write your ethics line"
+        },
+        {
+          "id": "b",
+          "text": "You faked scarcity"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your ethics line"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Invent reviews"
+        },
+        {
+          "id": "d",
+          "text": "Hide limits"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

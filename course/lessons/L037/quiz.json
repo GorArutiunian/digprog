@@ -1,0 +1,207 @@
+{
+  "lessonId": "L043",
+  "title": "Practice \u00b7 What's included (and not)",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Ambiguity creates:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Angry refunds"
+        },
+        {
+          "id": "b",
+          "text": "Trust automatically"
+        },
+        {
+          "id": "c",
+          "text": "Faster sales always"
+        },
+        {
+          "id": "d",
+          "text": "Better logos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "List:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Includes and excludes"
+        },
+        {
+          "id": "b",
+          "text": "Only includes"
+        },
+        {
+          "id": "c",
+          "text": "Only vibes"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List includes/excludes"
+        },
+        {
+          "id": "b",
+          "text": "Hide scope"
+        },
+        {
+          "id": "c",
+          "text": "Promise everything"
+        },
+        {
+          "id": "d",
+          "text": "Skip edge cases"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Call out:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Revisions, response time, stall cases"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only ads"
+        },
+        {
+          "id": "d",
+          "text": "Only followers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Write scope on:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The same page as the offer"
+        },
+        {
+          "id": "b",
+          "text": "A secret note"
+        },
+        {
+          "id": "c",
+          "text": "Nowhere"
+        },
+        {
+          "id": "d",
+          "text": "A moodboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Scope control protects:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You and the buyer"
+        },
+        {
+          "id": "b",
+          "text": "Only the logo"
+        },
+        {
+          "id": "c",
+          "text": "Only ads"
+        },
+        {
+          "id": "d",
+          "text": "Nobody"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can list includes and excludes"
+        },
+        {
+          "id": "b",
+          "text": "You stayed vague"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write includes/excludes"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Promise everything"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

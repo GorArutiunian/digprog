@@ -1,0 +1,207 @@
+{
+  "lessonId": "L095",
+  "title": "Practice \u00b7 Tiny landing page",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step five is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Tiny landing page outline"
+        },
+        {
+          "id": "b",
+          "text": "Overbuild animations first"
+        },
+        {
+          "id": "c",
+          "text": "Skip CTA"
+        },
+        {
+          "id": "d",
+          "text": "Skip price"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Outline sections:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Problem, offer, price, proof, FAQ, CTA"
+        },
+        {
+          "id": "b",
+          "text": "Only hero art"
+        },
+        {
+          "id": "c",
+          "text": "Only footer"
+        },
+        {
+          "id": "d",
+          "text": "Only fonts"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outline landing sections"
+        },
+        {
+          "id": "b",
+          "text": "Ship zero page"
+        },
+        {
+          "id": "c",
+          "text": "Animate first"
+        },
+        {
+          "id": "d",
+          "text": "Hide the ask"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Ship a page that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Books a talk or takes payment"
+        },
+        {
+          "id": "b",
+          "text": "Only looks pretty"
+        },
+        {
+          "id": "c",
+          "text": "Has no CTA"
+        },
+        {
+          "id": "d",
+          "text": "Hides price forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Skip fancy animations:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Until someone buys"
+        },
+        {
+          "id": "b",
+          "text": "Always forever"
+        },
+        {
+          "id": "c",
+          "text": "Before outlining"
+        },
+        {
+          "id": "d",
+          "text": "Instead of proof"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Do not:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Overbuild before proof"
+        },
+        {
+          "id": "b",
+          "text": "Outline sections"
+        },
+        {
+          "id": "c",
+          "text": "Include FAQ"
+        },
+        {
+          "id": "d",
+          "text": "Include CTA"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can outline landing sections"
+        },
+        {
+          "id": "b",
+          "text": "You overbuilt first"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then outline the page"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Animate first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

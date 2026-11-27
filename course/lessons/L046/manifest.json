@@ -1,0 +1,24 @@
+{
+  "id": "L046",
+  "slug": "unit-economics-rough-cut",
+  "title": "Unit economics rough cut",
+  "module": "03 \u00b7 Offer",
+  "objective": "Estimate unit cost",
+  "durationSeconds": 126.824,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L046DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L046-final/L046-Unit-economics-rough-cut.mp4",
+    "poster": "output/L046-final/poster.jpg",
+    "voice": "output/L046-final/voice-l046-final.mp3",
+    "captionsSrt": "output/L046-final/L046.srt",
+    "captionsVtt": "output/L046-final/L046.vtt",
+    "transcript": "output/L046-final/transcript.json",
+    "timeline": "output/L046-final/timeline.json",
+    "quiz": "lessons/L046/quiz.json",
+    "storyboard": "lessons/L046/storyboard.md"
+  },
+  "sourceLessonId": "L046"
+}

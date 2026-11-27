@@ -1,0 +1,19 @@
+{
+  "id": "L015",
+  "slug": "time-boxing-practice",
+  "title": "Time boxing practice",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Schedule two blocks",
+  "durationSeconds": 124.976,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L015DataCamp",
+  "assets": {
+    "video": "/lessons/L015/video.mp4",
+    "poster": "/lessons/L015/poster.jpg",
+    "captionsVtt": "/lessons/L015/captions.vtt",
+    "captionsSrt": "/lessons/L015/captions.srt",
+    "transcript": "/lessons/L015/transcript.json"
+  },
+  "sourceLessonId": "L015"
+}

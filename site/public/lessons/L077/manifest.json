@@ -1,0 +1,19 @@
+{
+  "id": "L077",
+  "slug": "repurpose-one-lesson-into-shorts",
+  "title": "Repurpose one lesson into Shorts",
+  "module": "05 \u00b7 Systems",
+  "objective": "Cut three hooks from one lesson",
+  "durationSeconds": 126.584,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L077DataCamp",
+  "assets": {
+    "video": "/lessons/L077/video.mp4",
+    "poster": "/lessons/L077/poster.jpg",
+    "captionsVtt": "/lessons/L077/captions.vtt",
+    "captionsSrt": "/lessons/L077/captions.srt",
+    "transcript": "/lessons/L077/transcript.json"
+  },
+  "sourceLessonId": "L077"
+}

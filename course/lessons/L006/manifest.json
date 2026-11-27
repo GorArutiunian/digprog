@@ -1,0 +1,24 @@
+{
+  "id": "L006",
+  "slug": "kill-criteria-early",
+  "title": "Kill criteria early",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Write a 14-day kill criterion",
+  "durationSeconds": 130.472,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L006DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L006-final/L006-Kill-criteria-early.mp4",
+    "poster": "output/L006-final/poster.jpg",
+    "voice": "output/L006-final/voice-l006-final.mp3",
+    "captionsSrt": "output/L006-final/L006.srt",
+    "captionsVtt": "output/L006-final/L006.vtt",
+    "transcript": "output/L006-final/transcript.json",
+    "timeline": "output/L006-final/timeline.json",
+    "quiz": "lessons/L006/quiz.json",
+    "storyboard": "lessons/L006/storyboard.md"
+  },
+  "sourceLessonId": "L006"
+}

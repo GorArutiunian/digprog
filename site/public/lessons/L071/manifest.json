@@ -1,0 +1,19 @@
+{
+  "id": "L071",
+  "slug": "delivery-checklist",
+  "title": "Delivery checklist",
+  "module": "05 \u00b7 Systems",
+  "objective": "Write delivery checklist",
+  "durationSeconds": 122.552,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L071DataCamp",
+  "assets": {
+    "video": "/lessons/L071/video.mp4",
+    "poster": "/lessons/L071/poster.jpg",
+    "captionsVtt": "/lessons/L071/captions.vtt",
+    "captionsSrt": "/lessons/L071/captions.srt",
+    "transcript": "/lessons/L071/transcript.json"
+  },
+  "sourceLessonId": "L071"
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L004",
+  "title": "Practice \u00b7 The DigProg weekly loop",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "The weekly loop is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Watch \u2192 quiz \u2192 one action \u2192 note"
+        },
+        {
+          "id": "b",
+          "text": "Binge all videos first"
+        },
+        {
+          "id": "c",
+          "text": "Logo \u2192 ads \u2192 product"
+        },
+        {
+          "id": "d",
+          "text": "Skip quizzes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Watching alone means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You did not finish the loop"
+        },
+        {
+          "id": "b",
+          "text": "You graduated"
+        },
+        {
+          "id": "c",
+          "text": "You proved demand"
+        },
+        {
+          "id": "d",
+          "text": "You finished DigProg"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "The quiz exists to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Force retrieval"
+        },
+        {
+          "id": "b",
+          "text": "Replace outreach"
+        },
+        {
+          "id": "c",
+          "text": "Replace notes"
+        },
+        {
+          "id": "d",
+          "text": "Skip action"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "The action step forces:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Contact with reality"
+        },
+        {
+          "id": "b",
+          "text": "More passive watching"
+        },
+        {
+          "id": "c",
+          "text": "Logo revisions"
+        },
+        {
+          "id": "d",
+          "text": "Silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Primary objective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Describe the weekly loop steps"
+        },
+        {
+          "id": "b",
+          "text": "Ignore practice"
+        },
+        {
+          "id": "c",
+          "text": "Memorize jargon"
+        },
+        {
+          "id": "d",
+          "text": "Design a site"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "If stuck:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Re-read the objective and do the smallest next action"
+        },
+        {
+          "id": "b",
+          "text": "Restart the whole course"
+        },
+        {
+          "id": "c",
+          "text": "Quit for a month"
+        },
+        {
+          "id": "d",
+          "text": "Change niches with no notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know it landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can describe the weekly loop steps"
+        },
+        {
+          "id": "b",
+          "text": "You forwarded unread"
+        },
+        {
+          "id": "c",
+          "text": "You liked the thumbnail"
+        },
+        {
+          "id": "d",
+          "text": "You skipped notes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then run one loop this week"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Buy more courses"
+        },
+        {
+          "id": "d",
+          "text": "Redesign brand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

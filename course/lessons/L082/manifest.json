@@ -1,0 +1,24 @@
+{
+  "id": "L082",
+  "slug": "systems-gate",
+  "title": "Systems gate",
+  "module": "05 \u00b7 Systems",
+  "objective": "Pass systems self-check",
+  "durationSeconds": 134.24,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L082DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L082-final/L082-Systems-gate.mp4",
+    "poster": "output/L082-final/poster.jpg",
+    "voice": "output/L082-final/voice-l082-final.mp3",
+    "captionsSrt": "output/L082-final/L082.srt",
+    "captionsVtt": "output/L082-final/L082.vtt",
+    "transcript": "output/L082-final/transcript.json",
+    "timeline": "output/L082-final/timeline.json",
+    "quiz": "lessons/L082/quiz.json",
+    "storyboard": "lessons/L082/storyboard.md"
+  },
+  "sourceLessonId": "L082"
+}

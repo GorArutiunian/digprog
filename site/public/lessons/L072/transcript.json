@@ -1,0 +1,237 @@
+{
+  "lessonId": "L084",
+  "duration": 130.736,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Support needs boundaries or it will drown your delivery time.",
+      "start": 0.0,
+      "end": 3.658,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about support without drowning.",
+      "start": 3.658,
+      "end": 6.218,
+      "section": "hook"
+    },
+    {
+      "text": "Boundaries and FAQs.",
+      "start": 6.218,
+      "end": 7.315,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.315,
+      "end": 9.876,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 9.876,
+      "end": 13.533,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.533,
+      "end": 19.02,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.02,
+      "end": 23.043,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: draft FAQ for buyers before you optimize branding or tools.",
+      "start": 23.043,
+      "end": 27.432,
+      "section": "hook"
+    },
+    {
+      "text": "Draft an FAQ for buyers: common questions, response windows, and what is out of scope.",
+      "start": 27.752,
+      "end": 33.512,
+      "section": "faq"
+    },
+    {
+      "text": "Remember the objective: draft FAQ for buyers.",
+      "start": 33.512,
+      "end": 36.2,
+      "section": "faq"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 36.2,
+      "end": 40.424,
+      "section": "faq"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 40.424,
+      "end": 45.032,
+      "section": "faq"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.032,
+      "end": 49.256,
+      "section": "faq"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.256,
+      "end": 53.864,
+      "section": "faq"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.864,
+      "end": 56.552,
+      "section": "faq"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 56.552,
+      "end": 58.088,
+      "section": "faq"
+    },
+    {
+      "text": "State channels and hours.",
+      "start": 58.408,
+      "end": 59.95,
+      "section": "bound"
+    },
+    {
+      "text": "Unlimited chat is not a plan.",
+      "start": 59.95,
+      "end": 62.264,
+      "section": "bound"
+    },
+    {
+      "text": "Remember the objective: draft FAQ for buyers.",
+      "start": 62.264,
+      "end": 64.964,
+      "section": "bound"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 64.964,
+      "end": 69.205,
+      "section": "bound"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.205,
+      "end": 73.833,
+      "section": "bound"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.833,
+      "end": 78.075,
+      "section": "bound"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 78.075,
+      "end": 82.702,
+      "section": "bound"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 82.702,
+      "end": 85.402,
+      "section": "bound"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 85.402,
+      "end": 86.944,
+      "section": "bound"
+    },
+    {
+      "text": "Reuse FAQ answers.",
+      "start": 87.264,
+      "end": 88.455,
+      "section": "reuse"
+    },
+    {
+      "text": "Do not reinvent kindness every time.",
+      "start": 88.455,
+      "end": 90.838,
+      "section": "reuse"
+    },
+    {
+      "text": "Remember the objective: draft FAQ for buyers.",
+      "start": 90.838,
+      "end": 93.618,
+      "section": "reuse"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 93.618,
+      "end": 97.987,
+      "section": "reuse"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 97.987,
+      "end": 102.753,
+      "section": "reuse"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 102.753,
+      "end": 107.122,
+      "section": "reuse"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.122,
+      "end": 111.887,
+      "section": "reuse"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 111.887,
+      "end": 114.667,
+      "section": "reuse"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 114.667,
+      "end": 116.256,
+      "section": "reuse"
+    },
+    {
+      "text": "In the quiz, you will draft a buyer FAQ.",
+      "start": 116.576,
+      "end": 119.757,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can draft FAQ for buyers.",
+      "start": 119.757,
+      "end": 124.352,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 124.352,
+      "end": 125.059,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 125.059,
+      "end": 128.24,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Support needs boundaries or it will drown your delivery time. This lesson is about support without drowning. Boundaries and FAQs. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: draft FAQ for buyers before you optimize branding or tools. Draft an FAQ for buyers: common questions, response windows, and what is out of scope. Remember the objective: draft FAQ for buyers. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. State channels and hours. Unlimited chat is not a plan. Remember the objective: draft FAQ for buyers. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Reuse FAQ answers. Do not reinvent kindness every time. Remember the objective: draft FAQ for buyers. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will draft a buyer FAQ. In the quiz, you will practice until you can draft FAQ for buyers. Answer carefully. If you miss one, review the idea and retry."
+}

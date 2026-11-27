@@ -1,0 +1,207 @@
+{
+  "lessonId": "L085",
+  "title": "Practice \u00b7 Legal/privacy basics for creators",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Creators get burned by:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Claims, testimonials, music"
+        },
+        {
+          "id": "b",
+          "text": "Clear prices"
+        },
+        {
+          "id": "c",
+          "text": "Honest delivery"
+        },
+        {
+          "id": "d",
+          "text": "Simple CTAs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Checklist includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "No fake testimonials, no impossible claims, licensed music, privacy"
+        },
+        {
+          "id": "b",
+          "text": "Fake reviews OK"
+        },
+        {
+          "id": "c",
+          "text": "Any music OK"
+        },
+        {
+          "id": "d",
+          "text": "Ignore privacy"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Checklist compliance"
+        },
+        {
+          "id": "b",
+          "text": "Skip checks"
+        },
+        {
+          "id": "c",
+          "text": "Publish risky lines"
+        },
+        {
+          "id": "d",
+          "text": "Hide takedown risk"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Run checklist:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before you publish"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "After a lawsuit only"
+        },
+        {
+          "id": "d",
+          "text": "Only yearly"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "When unsure:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Remove the risky line"
+        },
+        {
+          "id": "b",
+          "text": "Publish louder"
+        },
+        {
+          "id": "c",
+          "text": "Fake scarcity"
+        },
+        {
+          "id": "d",
+          "text": "Invent testimonials"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Speed is not worth:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A takedown"
+        },
+        {
+          "id": "b",
+          "text": "Compliance"
+        },
+        {
+          "id": "c",
+          "text": "Honesty"
+        },
+        {
+          "id": "d",
+          "text": "Licensed music"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can run a compliance checklist"
+        },
+        {
+          "id": "b",
+          "text": "You ignored risk"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then run the checklist"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Publish risky claims"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

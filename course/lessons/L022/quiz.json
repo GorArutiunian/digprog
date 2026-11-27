@@ -1,0 +1,207 @@
+{
+  "lessonId": "L028",
+  "title": "Practice \u00b7 Warm network mapping",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "At first, prefer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Warm paths"
+        },
+        {
+          "id": "b",
+          "text": "Only cold ads"
+        },
+        {
+          "id": "c",
+          "text": "Zero contacts"
+        },
+        {
+          "id": "d",
+          "text": "Buying followers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Reachable means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can message them this week without ads"
+        },
+        {
+          "id": "b",
+          "text": "They follow a celebrity"
+        },
+        {
+          "id": "c",
+          "text": "They are famous"
+        },
+        {
+          "id": "d",
+          "text": "They bought once years ago only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List 20 reachable contacts"
+        },
+        {
+          "id": "b",
+          "text": "Buy a lead list"
+        },
+        {
+          "id": "c",
+          "text": "Ignore your network"
+        },
+        {
+          "id": "d",
+          "text": "Spam strangers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Map includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Friends, alumni, communities you belong to"
+        },
+        {
+          "id": "b",
+          "text": "Only influencers"
+        },
+        {
+          "id": "c",
+          "text": "Only bots"
+        },
+        {
+          "id": "d",
+          "text": "Stock emails"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Goal of outreach here:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Conversations and introductions"
+        },
+        {
+          "id": "b",
+          "text": "Hard spam"
+        },
+        {
+          "id": "c",
+          "text": "Fake testimonials"
+        },
+        {
+          "id": "d",
+          "text": "Logo feedback only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "List size target:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Twenty reachable contacts"
+        },
+        {
+          "id": "b",
+          "text": "Two maybe"
+        },
+        {
+          "id": "c",
+          "text": "Zero"
+        },
+        {
+          "id": "d",
+          "text": "Two thousand purchased"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can list twenty reachable contacts"
+        },
+        {
+          "id": "b",
+          "text": "You bought ads"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then list twenty contacts"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Buy a CRM"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

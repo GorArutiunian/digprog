@@ -1,0 +1,225 @@
+{
+  "lessonId": "L055",
+  "duration": 131.072,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Digital packaging is how the promise arrives: guide, template, cohort, or toolkit.",
+      "start": 0.0,
+      "end": 4.724,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about digital product packaging.",
+      "start": 4.724,
+      "end": 7.48,
+      "section": "hook"
+    },
+    {
+      "text": "Guides, templates, cohorts.",
+      "start": 7.48,
+      "end": 8.661,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.661,
+      "end": 11.416,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.416,
+      "end": 15.353,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.353,
+      "end": 21.258,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.258,
+      "end": 25.588,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: choose packaging for v1 before you optimize branding or tools.",
+      "start": 25.588,
+      "end": 30.312,
+      "section": "hook"
+    },
+    {
+      "text": "Choose packaging for version one based on speed to deliver, not maximum sophistication.",
+      "start": 30.632,
+      "end": 35.652,
+      "section": "choose"
+    },
+    {
+      "text": "Remember the objective: choose packaging for v1.",
+      "start": 35.652,
+      "end": 38.356,
+      "section": "choose"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 38.356,
+      "end": 42.604,
+      "section": "choose"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 42.604,
+      "end": 47.238,
+      "section": "choose"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 47.238,
+      "end": 51.486,
+      "section": "choose"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 51.486,
+      "end": 56.12,
+      "section": "choose"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 56.12,
+      "end": 58.823,
+      "section": "choose"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 58.823,
+      "end": 60.368,
+      "section": "choose"
+    },
+    {
+      "text": "Keep the first package small enough to ship this week.",
+      "start": 60.688,
+      "end": 64.385,
+      "section": "keep"
+    },
+    {
+      "text": "Remember the objective: choose packaging for v1.",
+      "start": 64.385,
+      "end": 66.973,
+      "section": "keep"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 66.973,
+      "end": 71.04,
+      "section": "keep"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 71.04,
+      "end": 75.477,
+      "section": "keep"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 75.477,
+      "end": 79.544,
+      "section": "keep"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 79.544,
+      "end": 83.981,
+      "section": "keep"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 83.981,
+      "end": 86.569,
+      "section": "keep"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 86.569,
+      "end": 88.048,
+      "section": "keep"
+    },
+    {
+      "text": "Write what files or sessions the buyer receives on day one.",
+      "start": 88.368,
+      "end": 92.409,
+      "section": "note"
+    },
+    {
+      "text": "Remember the objective: choose packaging for v1.",
+      "start": 92.409,
+      "end": 94.98,
+      "section": "note"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 94.98,
+      "end": 99.021,
+      "section": "note"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 99.021,
+      "end": 103.43,
+      "section": "note"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 103.43,
+      "end": 107.471,
+      "section": "note"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.471,
+      "end": 111.879,
+      "section": "note"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 111.879,
+      "end": 114.451,
+      "section": "note"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 114.451,
+      "end": 115.92,
+      "section": "note"
+    },
+    {
+      "text": "In the quiz, you will choose packaging for version one.",
+      "start": 116.24,
+      "end": 119.868,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can choose packaging for v1.",
+      "start": 119.868,
+      "end": 124.585,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 124.585,
+      "end": 125.311,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 125.311,
+      "end": 128.576,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Digital packaging is how the promise arrives: guide, template, cohort, or toolkit. This lesson is about digital product packaging. Guides, templates, cohorts. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: choose packaging for v1 before you optimize branding or tools. Choose packaging for version one based on speed to deliver, not maximum sophistication. Remember the objective: choose packaging for v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Keep the first package small enough to ship this week. Remember the objective: choose packaging for v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Write what files or sessions the buyer receives on day one. Remember the objective: choose packaging for v1. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will choose packaging for version one. In the quiz, you will practice until you can choose packaging for v1. Answer carefully. If you miss one, review the idea and retry."
+}

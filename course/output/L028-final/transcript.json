@@ -1,0 +1,243 @@
+{
+  "lessonId": "L040",
+  "duration": 132.344,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Your marketing should sound like their mouth, not your brand workshop.",
+      "start": 0.0,
+      "end": 3.816,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about buyer language library.",
+      "start": 3.816,
+      "end": 6.244,
+      "section": "hook"
+    },
+    {
+      "text": "Reuse their words in offers.",
+      "start": 6.244,
+      "end": 7.979,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.979,
+      "end": 10.407,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.407,
+      "end": 13.876,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.876,
+      "end": 19.08,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.08,
+      "end": 22.896,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: collect 10 phrases before you optimize branding or tools.",
+      "start": 22.896,
+      "end": 26.712,
+      "section": "hook"
+    },
+    {
+      "text": "Collect ten phrases from interviews, forums, and reviews.",
+      "start": 27.032,
+      "end": 30.243,
+      "section": "collect"
+    },
+    {
+      "text": "Exact words beat clever rewrites.",
+      "start": 30.243,
+      "end": 32.25,
+      "section": "collect"
+    },
+    {
+      "text": "Remember the objective: collect 10 phrases.",
+      "start": 32.25,
+      "end": 34.658,
+      "section": "collect"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 34.658,
+      "end": 39.073,
+      "section": "collect"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.073,
+      "end": 43.889,
+      "section": "collect"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.889,
+      "end": 48.305,
+      "section": "collect"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.305,
+      "end": 53.121,
+      "section": "collect"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.121,
+      "end": 55.931,
+      "section": "collect"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.931,
+      "end": 57.536,
+      "section": "collect"
+    },
+    {
+      "text": "Reuse those phrases in offers, headlines, and outreach.",
+      "start": 57.856,
+      "end": 61.112,
+      "section": "reuse"
+    },
+    {
+      "text": "Familiar words lower trust friction.",
+      "start": 61.112,
+      "end": 63.148,
+      "section": "reuse"
+    },
+    {
+      "text": "Remember the objective: collect 10 phrases.",
+      "start": 63.148,
+      "end": 65.59,
+      "section": "reuse"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 65.59,
+      "end": 70.068,
+      "section": "reuse"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 70.068,
+      "end": 74.952,
+      "section": "reuse"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 74.952,
+      "end": 79.43,
+      "section": "reuse"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 79.43,
+      "end": 84.314,
+      "section": "reuse"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 84.314,
+      "end": 87.164,
+      "section": "reuse"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 87.164,
+      "end": 88.792,
+      "section": "reuse"
+    },
+    {
+      "text": "Keep a living library.",
+      "start": 89.112,
+      "end": 90.622,
+      "section": "grow"
+    },
+    {
+      "text": "Add phrases every week you talk to humans.",
+      "start": 90.622,
+      "end": 93.643,
+      "section": "grow"
+    },
+    {
+      "text": "Remember the objective: collect 10 phrases.",
+      "start": 93.643,
+      "end": 95.909,
+      "section": "grow"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 95.909,
+      "end": 100.062,
+      "section": "grow"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 100.062,
+      "end": 104.594,
+      "section": "grow"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 104.594,
+      "end": 108.747,
+      "section": "grow"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 108.747,
+      "end": 113.278,
+      "section": "grow"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 113.278,
+      "end": 115.922,
+      "section": "grow"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 115.922,
+      "end": 117.432,
+      "section": "grow"
+    },
+    {
+      "text": "In the quiz, you will collect ten buyer phrases.",
+      "start": 117.752,
+      "end": 121.154,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can collect 10 phrases.",
+      "start": 121.154,
+      "end": 125.69,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 125.69,
+      "end": 126.446,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 126.446,
+      "end": 129.848,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Your marketing should sound like their mouth, not your brand workshop. This lesson is about buyer language library. Reuse their words in offers. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: collect 10 phrases before you optimize branding or tools. Collect ten phrases from interviews, forums, and reviews. Exact words beat clever rewrites. Remember the objective: collect 10 phrases. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Reuse those phrases in offers, headlines, and outreach. Familiar words lower trust friction. Remember the objective: collect 10 phrases. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Keep a living library. Add phrases every week you talk to humans. Remember the objective: collect 10 phrases. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will collect ten buyer phrases. In the quiz, you will practice until you can collect 10 phrases. Answer carefully. If you miss one, review the idea and retry."
+}

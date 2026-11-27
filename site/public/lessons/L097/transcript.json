@@ -1,0 +1,231 @@
+{
+  "lessonId": "L021",
+  "duration": 128.048,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "This is personal work.",
+      "start": 0.0,
+      "end": 1.537,
+      "section": "hook"
+    },
+    {
+      "text": "Fill a thirty-day plan so momentum survives the course.",
+      "start": 1.537,
+      "end": 4.996,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about personal: 30-day plan.",
+      "start": 4.996,
+      "end": 7.686,
+      "section": "hook"
+    },
+    {
+      "text": "Attachment: 30-day calendar.",
+      "start": 7.686,
+      "end": 8.839,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.839,
+      "end": 11.529,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.529,
+      "end": 15.372,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.372,
+      "end": 21.137,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.137,
+      "end": 25.365,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: fill 30-day plan before you optimize branding or tools.",
+      "start": 25.365,
+      "end": 29.592,
+      "section": "hook"
+    },
+    {
+      "text": "Fill weeks with outreach, delivery, learning, and one experiment.",
+      "start": 29.912,
+      "end": 33.353,
+      "section": "fill"
+    },
+    {
+      "text": "Remember the objective: fill 30-day plan.",
+      "start": 33.353,
+      "end": 35.647,
+      "section": "fill"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 35.647,
+      "end": 39.853,
+      "section": "fill"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 39.853,
+      "end": 44.441,
+      "section": "fill"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 44.441,
+      "end": 48.646,
+      "section": "fill"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 48.646,
+      "end": 53.234,
+      "section": "fill"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.234,
+      "end": 55.911,
+      "section": "fill"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.911,
+      "end": 57.44,
+      "section": "fill"
+    },
+    {
+      "text": "Put real dates and kill criteria on the calendar.",
+      "start": 57.76,
+      "end": 61.228,
+      "section": "dates"
+    },
+    {
+      "text": "Remember the objective: fill 30-day plan.",
+      "start": 61.228,
+      "end": 63.54,
+      "section": "dates"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.54,
+      "end": 67.779,
+      "section": "dates"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.779,
+      "end": 72.403,
+      "section": "dates"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.403,
+      "end": 76.641,
+      "section": "dates"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.641,
+      "end": 81.265,
+      "section": "dates"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.265,
+      "end": 83.963,
+      "section": "dates"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 83.963,
+      "end": 85.504,
+      "section": "dates"
+    },
+    {
+      "text": "Schedule a mid-month review so the plan can change with proof.",
+      "start": 85.824,
+      "end": 90.012,
+      "section": "review"
+    },
+    {
+      "text": "Remember the objective: fill 30-day plan.",
+      "start": 90.012,
+      "end": 92.297,
+      "section": "review"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.297,
+      "end": 96.485,
+      "section": "review"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.485,
+      "end": 101.054,
+      "section": "review"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 101.054,
+      "end": 105.243,
+      "section": "review"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 105.243,
+      "end": 109.812,
+      "section": "review"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 109.812,
+      "end": 112.477,
+      "section": "review"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 112.477,
+      "end": 114.0,
+      "section": "review"
+    },
+    {
+      "text": "In the quiz, you will fill a thirty-day plan.",
+      "start": 114.32,
+      "end": 117.479,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can fill 30-day plan.",
+      "start": 117.479,
+      "end": 121.691,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 121.691,
+      "end": 122.393,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 122.393,
+      "end": 125.552,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "This is personal work. Fill a thirty-day plan so momentum survives the course. This lesson is about personal: 30-day plan. Attachment: 30-day calendar. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: fill 30-day plan before you optimize branding or tools. Fill weeks with outreach, delivery, learning, and one experiment. Remember the objective: fill 30-day plan. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Put real dates and kill criteria on the calendar. Remember the objective: fill 30-day plan. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Schedule a mid-month review so the plan can change with proof. Remember the objective: fill 30-day plan. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will fill a thirty-day plan. In the quiz, you will practice until you can fill 30-day plan. Answer carefully. If you miss one, review the idea and retry."
+}

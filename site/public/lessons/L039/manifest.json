@@ -1,0 +1,19 @@
+{
+  "id": "L039",
+  "slug": "starter-builder-operator-ladder",
+  "title": "Starter / Builder / Operator ladder",
+  "module": "03 \u00b7 Offer",
+  "objective": "Sketch a future ladder",
+  "durationSeconds": 134.864,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L039DataCamp",
+  "assets": {
+    "video": "/lessons/L039/video.mp4",
+    "poster": "/lessons/L039/poster.jpg",
+    "captionsVtt": "/lessons/L039/captions.vtt",
+    "captionsSrt": "/lessons/L039/captions.srt",
+    "transcript": "/lessons/L039/transcript.json"
+  },
+  "sourceLessonId": "L039"
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L032",
+  "title": "Practice \u00b7 One idea for 14 days",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Focus beats:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Idea hopping"
+        },
+        {
+          "id": "b",
+          "text": "Customer talks"
+        },
+        {
+          "id": "c",
+          "text": "Quizzes"
+        },
+        {
+          "id": "d",
+          "text": "Kill dates"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Commit to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "One idea window with start and kill dates"
+        },
+        {
+          "id": "b",
+          "text": "Fourteen ideas a day"
+        },
+        {
+          "id": "c",
+          "text": "No dates"
+        },
+        {
+          "id": "d",
+          "text": "Forever with no check"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Commit to one idea window"
+        },
+        {
+          "id": "b",
+          "text": "Hop weekly"
+        },
+        {
+          "id": "c",
+          "text": "Avoid humans"
+        },
+        {
+          "id": "d",
+          "text": "Skip evidence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "During the window do not switch for:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Boredom"
+        },
+        {
+          "id": "b",
+          "text": "Clear evidence"
+        },
+        {
+          "id": "c",
+          "text": "Kill criteria"
+        },
+        {
+          "id": "d",
+          "text": "Paid proof"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "After fourteen days:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep, kill, or change with evidence"
+        },
+        {
+          "id": "b",
+          "text": "Ignore results"
+        },
+        {
+          "id": "c",
+          "text": "Only redesign logo"
+        },
+        {
+          "id": "d",
+          "text": "Quit learning"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Fourteen days on one idea teaches more than:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fourteen ideas in a day"
+        },
+        {
+          "id": "b",
+          "text": "One conversation"
+        },
+        {
+          "id": "c",
+          "text": "One quiz"
+        },
+        {
+          "id": "d",
+          "text": "One note"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can commit to one idea window"
+        },
+        {
+          "id": "b",
+          "text": "You hopped daily"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then set your 14-day window"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

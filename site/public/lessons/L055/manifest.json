@@ -1,0 +1,19 @@
+{
+  "id": "L055",
+  "slug": "discovery-before-pitch",
+  "title": "Discovery before pitch",
+  "module": "04 \u00b7 Proof & first customers",
+  "objective": "Write five discovery questions",
+  "durationSeconds": 129.896,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L055DataCamp",
+  "assets": {
+    "video": "/lessons/L055/video.mp4",
+    "poster": "/lessons/L055/poster.jpg",
+    "captionsVtt": "/lessons/L055/captions.vtt",
+    "captionsSrt": "/lessons/L055/captions.srt",
+    "transcript": "/lessons/L055/transcript.json"
+  },
+  "sourceLessonId": "L055"
+}

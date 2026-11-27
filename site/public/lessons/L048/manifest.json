@@ -1,0 +1,19 @@
+{
+  "id": "L048",
+  "slug": "offer-critique-clinic",
+  "title": "Offer critique clinic",
+  "module": "03 \u00b7 Offer",
+  "objective": "Fix three weak lines",
+  "durationSeconds": 131.144,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L048DataCamp",
+  "assets": {
+    "video": "/lessons/L048/video.mp4",
+    "poster": "/lessons/L048/poster.jpg",
+    "captionsVtt": "/lessons/L048/captions.vtt",
+    "captionsSrt": "/lessons/L048/captions.srt",
+    "transcript": "/lessons/L048/transcript.json"
+  },
+  "sourceLessonId": "L048"
+}

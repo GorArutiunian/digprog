@@ -1,0 +1,207 @@
+{
+  "lessonId": "L098",
+  "title": "Practice \u00b7 Deliver once",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step eight is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Deliver once and document"
+        },
+        {
+          "id": "b",
+          "text": "Skip delivery"
+        },
+        {
+          "id": "c",
+          "text": "Document never"
+        },
+        {
+          "id": "d",
+          "text": "Only promise"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Deliver using:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Your checklist"
+        },
+        {
+          "id": "b",
+          "text": "Memory only"
+        },
+        {
+          "id": "c",
+          "text": "Mood only"
+        },
+        {
+          "id": "d",
+          "text": "No steps"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Deliver and document"
+        },
+        {
+          "id": "b",
+          "text": "Hide surprises"
+        },
+        {
+          "id": "c",
+          "text": "Skip time logs"
+        },
+        {
+          "id": "d",
+          "text": "Avoid reuse"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Document:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Steps, time, surprises"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only screenshots of logos"
+        },
+        {
+          "id": "d",
+          "text": "Nothing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "The document becomes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "The next delivery system"
+        },
+        {
+          "id": "b",
+          "text": "Trash"
+        },
+        {
+          "id": "c",
+          "text": "A secret"
+        },
+        {
+          "id": "d",
+          "text": "A logo brief"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Fresh notes beat:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Late reconstruction"
+        },
+        {
+          "id": "b",
+          "text": "All systems"
+        },
+        {
+          "id": "c",
+          "text": "All checklists"
+        },
+        {
+          "id": "d",
+          "text": "All delivery"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can deliver and document"
+        },
+        {
+          "id": "b",
+          "text": "You skipped delivery"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then deliver and document"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip docs"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

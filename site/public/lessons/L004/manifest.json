@@ -1,0 +1,19 @@
+{
+  "id": "L004",
+  "slug": "the-digprog-weekly-loop",
+  "title": "The DigProg weekly loop",
+  "module": "01 \u00b7 Foundations",
+  "objective": "Describe the weekly loop steps",
+  "durationSeconds": 119.24,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L004DataCamp",
+  "assets": {
+    "video": "/lessons/L004/video.mp4",
+    "poster": "/lessons/L004/poster.jpg",
+    "captionsVtt": "/lessons/L004/captions.vtt",
+    "captionsSrt": "/lessons/L004/captions.srt",
+    "transcript": "/lessons/L004/transcript.json"
+  },
+  "sourceLessonId": "L004"
+}

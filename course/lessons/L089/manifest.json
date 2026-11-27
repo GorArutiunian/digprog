@@ -1,0 +1,24 @@
+{
+  "id": "L089",
+  "slug": "tiny-landing-page",
+  "title": "Tiny landing page",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Outline landing sections",
+  "durationSeconds": 130.28,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L089DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L089-final/L089-Tiny-landing-page.mp4",
+    "poster": "output/L089-final/poster.jpg",
+    "voice": "output/L089-final/voice-l089-final.mp3",
+    "captionsSrt": "output/L089-final/L089.srt",
+    "captionsVtt": "output/L089-final/L089.vtt",
+    "transcript": "output/L089-final/transcript.json",
+    "timeline": "output/L089-final/timeline.json",
+    "quiz": "lessons/L089/quiz.json",
+    "storyboard": "lessons/L089/storyboard.md"
+  },
+  "sourceLessonId": "L089"
+}

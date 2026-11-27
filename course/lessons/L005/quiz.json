@@ -1,0 +1,207 @@
+{
+  "lessonId": "L005",
+  "title": "Practice \u00b7 Side path vs full jump",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Both side path and full jump are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Valid \u2014 constraint is hours and risk"
+        },
+        {
+          "id": "b",
+          "text": "Invalid without LLC"
+        },
+        {
+          "id": "c",
+          "text": "Only for full-time founders"
+        },
+        {
+          "id": "d",
+          "text": "Identity labels first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "If risk is high:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Keep survival money"
+        },
+        {
+          "id": "b",
+          "text": "Quit immediately"
+        },
+        {
+          "id": "c",
+          "text": "Ignore the paycheck"
+        },
+        {
+          "id": "d",
+          "text": "Spend ads first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "A useful weekly budget is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "5\u201310 honest hours for 30 days"
+        },
+        {
+          "id": "b",
+          "text": "Zero hours of inspiration"
+        },
+        {
+          "id": "c",
+          "text": "80 hours once"
+        },
+        {
+          "id": "d",
+          "text": "Whatever feels exciting"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Zero hours is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not a plan"
+        },
+        {
+          "id": "b",
+          "text": "A valid strategy"
+        },
+        {
+          "id": "c",
+          "text": "Proof of demand"
+        },
+        {
+          "id": "d",
+          "text": "Enough to learn"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Primary objective?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Choose a realistic weekly hour budget"
+        },
+        {
+          "id": "b",
+          "text": "Design logos"
+        },
+        {
+          "id": "c",
+          "text": "Ignore risk"
+        },
+        {
+          "id": "d",
+          "text": "Memorize jargon"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Better than an inspiring abandoned plan:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A smaller budget you keep"
+        },
+        {
+          "id": "b",
+          "text": "No schedule"
+        },
+        {
+          "id": "c",
+          "text": "Infinite research"
+        },
+        {
+          "id": "d",
+          "text": "Waiting for courage"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know it landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can choose a realistic weekly hour budget"
+        },
+        {
+          "id": "b",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "c",
+          "text": "You liked the thumbnail"
+        },
+        {
+          "id": "d",
+          "text": "You skipped practice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your weekly hours"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Buy tools first"
+        },
+        {
+          "id": "d",
+          "text": "Quit your job today"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

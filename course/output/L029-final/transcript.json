@@ -1,0 +1,231 @@
+{
+  "lessonId": "L041",
+  "duration": 130.616,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Go where attention already is.",
+      "start": 0.0,
+      "end": 1.781,
+      "section": "hook"
+    },
+    {
+      "text": "Free places first.",
+      "start": 1.781,
+      "end": 2.85,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about where buyers already hang out.",
+      "start": 2.85,
+      "end": 6.057,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 6.057,
+      "end": 8.551,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 8.551,
+      "end": 12.114,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 12.114,
+      "end": 17.458,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 17.458,
+      "end": 21.377,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: name three hangouts before you optimize branding or tools.",
+      "start": 21.377,
+      "end": 25.296,
+      "section": "hook"
+    },
+    {
+      "text": "Name communities, feeds, events, and inboxes your buyers already check.",
+      "start": 25.616,
+      "end": 29.703,
+      "section": "places"
+    },
+    {
+      "text": "Remember the objective: name three hangouts.",
+      "start": 29.703,
+      "end": 32.155,
+      "section": "places"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 32.155,
+      "end": 36.65,
+      "section": "places"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 36.65,
+      "end": 41.554,
+      "section": "places"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 41.554,
+      "end": 46.049,
+      "section": "places"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 46.049,
+      "end": 50.953,
+      "section": "places"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 50.953,
+      "end": 53.813,
+      "section": "places"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 53.813,
+      "end": 55.448,
+      "section": "places"
+    },
+    {
+      "text": "Name three hangouts you can enter this week without a big ad budget.",
+      "start": 55.768,
+      "end": 60.649,
+      "section": "three"
+    },
+    {
+      "text": "Remember the objective: name three hangouts.",
+      "start": 60.649,
+      "end": 62.902,
+      "section": "three"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 62.902,
+      "end": 67.032,
+      "section": "three"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.032,
+      "end": 71.538,
+      "section": "three"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 71.538,
+      "end": 75.668,
+      "section": "three"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 75.668,
+      "end": 80.174,
+      "section": "three"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 80.174,
+      "end": 82.802,
+      "section": "three"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 82.802,
+      "end": 84.304,
+      "section": "three"
+    },
+    {
+      "text": "Show up to listen and help before you spam an offer.",
+      "start": 84.624,
+      "end": 88.698,
+      "section": "show"
+    },
+    {
+      "text": "Remember the objective: name three hangouts.",
+      "start": 88.698,
+      "end": 90.92,
+      "section": "show"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.92,
+      "end": 94.995,
+      "section": "show"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.995,
+      "end": 99.439,
+      "section": "show"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.439,
+      "end": 103.513,
+      "section": "show"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.513,
+      "end": 107.958,
+      "section": "show"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.958,
+      "end": 110.55,
+      "section": "show"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.55,
+      "end": 112.032,
+      "section": "show"
+    },
+    {
+      "text": "In the quiz, you will name three hangouts.",
+      "start": 112.352,
+      "end": 115.286,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can name three hangouts.",
+      "start": 115.286,
+      "end": 119.686,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 119.686,
+      "end": 120.419,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 120.419,
+      "end": 123.72,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 123.72,
+      "end": 128.12,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Go where attention already is. Free places first. This lesson is about where buyers already hang out. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: name three hangouts before you optimize branding or tools. Name communities, feeds, events, and inboxes your buyers already check. Remember the objective: name three hangouts. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Name three hangouts you can enter this week without a big ad budget. Remember the objective: name three hangouts. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Show up to listen and help before you spam an offer. Remember the objective: name three hangouts. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will name three hangouts. In the quiz, you will practice until you can name three hangouts. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

@@ -1,0 +1,237 @@
+{
+  "lessonId": "L023",
+  "duration": 125.912,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Alumni keep the scoreboard forever.",
+      "start": 0.0,
+      "end": 1.822,
+      "section": "hook"
+    },
+    {
+      "text": "The course ends; the loop does not.",
+      "start": 1.822,
+      "end": 4.374,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about alumni loop.",
+      "start": 4.374,
+      "end": 6.561,
+      "section": "hook"
+    },
+    {
+      "text": "Keep scoreboard forever.",
+      "start": 6.561,
+      "end": 7.654,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 7.654,
+      "end": 10.205,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 10.205,
+      "end": 13.85,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 13.85,
+      "end": 19.317,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 19.317,
+      "end": 23.327,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: schedule monthly review before you optimize branding or tools.",
+      "start": 23.327,
+      "end": 27.336,
+      "section": "hook"
+    },
+    {
+      "text": "Schedule a monthly review: money, conversations, delivery, next experiment.",
+      "start": 27.656,
+      "end": 31.355,
+      "section": "schedule"
+    },
+    {
+      "text": "Remember the objective: schedule monthly review.",
+      "start": 31.355,
+      "end": 33.821,
+      "section": "schedule"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 33.821,
+      "end": 38.342,
+      "section": "schedule"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 38.342,
+      "end": 43.274,
+      "section": "schedule"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 43.274,
+      "end": 47.795,
+      "section": "schedule"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 47.795,
+      "end": 52.727,
+      "section": "schedule"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 52.727,
+      "end": 55.604,
+      "section": "schedule"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 55.604,
+      "end": 57.248,
+      "section": "schedule"
+    },
+    {
+      "text": "Keep the weekly OS.",
+      "start": 57.568,
+      "end": 59.108,
+      "section": "keep"
+    },
+    {
+      "text": "Alumni who stop measuring drift.",
+      "start": 59.108,
+      "end": 61.033,
+      "section": "keep"
+    },
+    {
+      "text": "Remember the objective: schedule monthly review.",
+      "start": 61.033,
+      "end": 63.343,
+      "section": "keep"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 63.343,
+      "end": 67.578,
+      "section": "keep"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 67.578,
+      "end": 72.198,
+      "section": "keep"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 72.198,
+      "end": 76.433,
+      "section": "keep"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 76.433,
+      "end": 81.053,
+      "section": "keep"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.053,
+      "end": 83.748,
+      "section": "keep"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 83.748,
+      "end": 85.288,
+      "section": "keep"
+    },
+    {
+      "text": "Return to the framework when you feel lost.",
+      "start": 85.608,
+      "end": 88.585,
+      "section": "return"
+    },
+    {
+      "text": "Remember the objective: schedule monthly review.",
+      "start": 88.585,
+      "end": 90.818,
+      "section": "return"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 90.818,
+      "end": 94.912,
+      "section": "return"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 94.912,
+      "end": 99.378,
+      "section": "return"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 99.378,
+      "end": 103.472,
+      "section": "return"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 103.472,
+      "end": 107.938,
+      "section": "return"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 107.938,
+      "end": 110.543,
+      "section": "return"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 110.543,
+      "end": 112.032,
+      "section": "return"
+    },
+    {
+      "text": "In the quiz, you will schedule a monthly review.",
+      "start": 112.352,
+      "end": 115.464,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can schedule monthly review.",
+      "start": 115.464,
+      "end": 119.613,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 119.613,
+      "end": 120.304,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 120.304,
+      "end": 123.416,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Alumni keep the scoreboard forever. The course ends; the loop does not. This lesson is about alumni loop. Keep scoreboard forever. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: schedule monthly review before you optimize branding or tools. Schedule a monthly review: money, conversations, delivery, next experiment. Remember the objective: schedule monthly review. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Keep the weekly OS. Alumni who stop measuring drift. Remember the objective: schedule monthly review. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Return to the framework when you feel lost. Remember the objective: schedule monthly review. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will schedule a monthly review. In the quiz, you will practice until you can schedule monthly review. Answer carefully. If you miss one, review the idea and retry."
+}

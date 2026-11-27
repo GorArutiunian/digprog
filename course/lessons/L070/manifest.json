@@ -1,0 +1,24 @@
+{
+  "id": "L070",
+  "slug": "calendar-blocks-that-stick",
+  "title": "Calendar blocks that stick",
+  "module": "05 \u00b7 Systems",
+  "objective": "Block next week",
+  "durationSeconds": 129.128,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L070DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L070-final/L070-Calendar-blocks-that-stick.mp4",
+    "poster": "output/L070-final/poster.jpg",
+    "voice": "output/L070-final/voice-l070-final.mp3",
+    "captionsSrt": "output/L070-final/L070.srt",
+    "captionsVtt": "output/L070-final/L070.vtt",
+    "transcript": "output/L070-final/transcript.json",
+    "timeline": "output/L070-final/timeline.json",
+    "quiz": "lessons/L070/quiz.json",
+    "storyboard": "lessons/L070/storyboard.md"
+  },
+  "sourceLessonId": "L070"
+}

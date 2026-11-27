@@ -1,0 +1,19 @@
+{
+  "id": "L040",
+  "slug": "delivery-design-day-one",
+  "title": "Delivery design day one",
+  "module": "03 \u00b7 Offer",
+  "objective": "Describe delivery path",
+  "durationSeconds": 126.248,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L040DataCamp",
+  "assets": {
+    "video": "/lessons/L040/video.mp4",
+    "poster": "/lessons/L040/poster.jpg",
+    "captionsVtt": "/lessons/L040/captions.vtt",
+    "captionsSrt": "/lessons/L040/captions.srt",
+    "transcript": "/lessons/L040/transcript.json"
+  },
+  "sourceLessonId": "L040"
+}

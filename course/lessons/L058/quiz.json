@@ -1,0 +1,207 @@
+{
+  "lessonId": "L064",
+  "title": "Practice \u00b7 Taking payment simply",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Payment can start with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Stripe, PayPal, or manual"
+        },
+        {
+          "id": "b",
+          "text": "Only custom checkout"
+        },
+        {
+          "id": "c",
+          "text": "No path"
+        },
+        {
+          "id": "d",
+          "text": "Crypto only always"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Pick a path you can:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Set up today"
+        },
+        {
+          "id": "b",
+          "text": "Build in six months"
+        },
+        {
+          "id": "c",
+          "text": "Never test"
+        },
+        {
+          "id": "d",
+          "text": "Hide from buyers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pick a payment path"
+        },
+        {
+          "id": "b",
+          "text": "Delay forever"
+        },
+        {
+          "id": "c",
+          "text": "Skip testing"
+        },
+        {
+          "id": "d",
+          "text": "Wait for custom UI"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Before a real buyer:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Send yourself a test"
+        },
+        {
+          "id": "b",
+          "text": "Hope it works"
+        },
+        {
+          "id": "c",
+          "text": "Skip invoices"
+        },
+        {
+          "id": "d",
+          "text": "Change brands"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Friction:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Kills yeses"
+        },
+        {
+          "id": "b",
+          "text": "Helps always"
+        },
+        {
+          "id": "c",
+          "text": "Is required"
+        },
+        {
+          "id": "d",
+          "text": "Replaces offers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Get paid, then:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Polish"
+        },
+        {
+          "id": "b",
+          "text": "Never polish"
+        },
+        {
+          "id": "c",
+          "text": "Hide delivery"
+        },
+        {
+          "id": "d",
+          "text": "Skip onboarding"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can pick a payment path"
+        },
+        {
+          "id": "b",
+          "text": "You delayed setup"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then pick and test payment"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Wait for custom checkout"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

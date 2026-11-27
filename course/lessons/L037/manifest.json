@@ -1,0 +1,24 @@
+{
+  "id": "L037",
+  "slug": "whats-included-and-not",
+  "title": "What's included (and not)",
+  "module": "03 \u00b7 Offer",
+  "objective": "List includes/excludes",
+  "durationSeconds": 137.912,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L037DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L037-final/L037-What-s-included-and-not.mp4",
+    "poster": "output/L037-final/poster.jpg",
+    "voice": "output/L037-final/voice-l037-final.mp3",
+    "captionsSrt": "output/L037-final/L037.srt",
+    "captionsVtt": "output/L037-final/L037.vtt",
+    "transcript": "output/L037-final/transcript.json",
+    "timeline": "output/L037-final/timeline.json",
+    "quiz": "lessons/L037/quiz.json",
+    "storyboard": "lessons/L037/storyboard.md"
+  },
+  "sourceLessonId": "L037"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "L028",
+  "slug": "buyer-language-library",
+  "title": "Buyer language library",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Collect 10 phrases",
+  "durationSeconds": 132.344,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L028DataCamp",
+  "assets": {
+    "video": "/lessons/L028/video.mp4",
+    "poster": "/lessons/L028/poster.jpg",
+    "captionsVtt": "/lessons/L028/captions.vtt",
+    "captionsSrt": "/lessons/L028/captions.srt",
+    "transcript": "/lessons/L028/transcript.json"
+  },
+  "sourceLessonId": "L028"
+}

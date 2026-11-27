@@ -1,0 +1,207 @@
+{
+  "lessonId": "L097",
+  "title": "Practice \u00b7 Close first sale",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step seven is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Close the first sale"
+        },
+        {
+          "id": "b",
+          "text": "Collect interest only"
+        },
+        {
+          "id": "c",
+          "text": "Skip the ask"
+        },
+        {
+          "id": "d",
+          "text": "Hide the price"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Close checklist includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Offer, price, next step, payment or booking"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only logo"
+        },
+        {
+          "id": "d",
+          "text": "No next step"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Run close checklist"
+        },
+        {
+          "id": "b",
+          "text": "Avoid asking"
+        },
+        {
+          "id": "c",
+          "text": "Skip logging"
+        },
+        {
+          "id": "d",
+          "text": "Apologize through the ask"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "After the ask:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Silence is allowed"
+        },
+        {
+          "id": "b",
+          "text": "Fill with guilt"
+        },
+        {
+          "id": "c",
+          "text": "Immediately discount forever"
+        },
+        {
+          "id": "d",
+          "text": "Delete the offer"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Log:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Yes, no, and objections"
+        },
+        {
+          "id": "b",
+          "text": "Only wins"
+        },
+        {
+          "id": "c",
+          "text": "Nothing"
+        },
+        {
+          "id": "d",
+          "text": "Only likes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Interest is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Not a sale"
+        },
+        {
+          "id": "b",
+          "text": "Always a sale"
+        },
+        {
+          "id": "c",
+          "text": "Better than payment"
+        },
+        {
+          "id": "d",
+          "text": "Enough forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can run a close checklist"
+        },
+        {
+          "id": "b",
+          "text": "You never asked"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then run the close checklist"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip the ask"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

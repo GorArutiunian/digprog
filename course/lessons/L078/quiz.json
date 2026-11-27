@@ -1,0 +1,207 @@
+{
+  "lessonId": "L084",
+  "title": "Practice \u00b7 Quality bar for UGC clips",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Quality bar includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Readable on mute and clear CTA"
+        },
+        {
+          "id": "b",
+          "text": "Pretty noise only"
+        },
+        {
+          "id": "c",
+          "text": "No text"
+        },
+        {
+          "id": "d",
+          "text": "Hidden CTA"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Define:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Text, one idea, face/demo, late CTA"
+        },
+        {
+          "id": "b",
+          "text": "Only filters"
+        },
+        {
+          "id": "c",
+          "text": "Only music"
+        },
+        {
+          "id": "d",
+          "text": "Only length"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Define your quality bar"
+        },
+        {
+          "id": "b",
+          "text": "Ship mute failures"
+        },
+        {
+          "id": "c",
+          "text": "Reject nothing"
+        },
+        {
+          "id": "d",
+          "text": "Skip CTA"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "If it fails on mute:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "It fails in the feed"
+        },
+        {
+          "id": "b",
+          "text": "It still wins always"
+        },
+        {
+          "id": "c",
+          "text": "Ignore it"
+        },
+        {
+          "id": "d",
+          "text": "Add more music only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Reject:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pretty noise"
+        },
+        {
+          "id": "b",
+          "text": "Clear CTAs"
+        },
+        {
+          "id": "c",
+          "text": "Readable text"
+        },
+        {
+          "id": "d",
+          "text": "One-idea clips"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Ship clips that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pass the bar"
+        },
+        {
+          "id": "b",
+          "text": "Fail mute"
+        },
+        {
+          "id": "c",
+          "text": "Hide the ask"
+        },
+        {
+          "id": "d",
+          "text": "Crowd ten ideas"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can define your quality bar"
+        },
+        {
+          "id": "b",
+          "text": "You ship mute failures"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your quality bar"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip the bar"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

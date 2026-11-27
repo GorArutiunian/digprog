@@ -1,0 +1,24 @@
+{
+  "id": "L019",
+  "slug": "problem-hunting-in-public",
+  "title": "Problem hunting in public",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Capture three buyer phrases",
+  "durationSeconds": 136.712,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L019DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L019-final/L019-Problem-hunting-in-public.mp4",
+    "poster": "output/L019-final/poster.jpg",
+    "voice": "output/L019-final/voice-l019-final.mp3",
+    "captionsSrt": "output/L019-final/L019.srt",
+    "captionsVtt": "output/L019-final/L019.vtt",
+    "transcript": "output/L019-final/transcript.json",
+    "timeline": "output/L019-final/timeline.json",
+    "quiz": "lessons/L019/quiz.json",
+    "storyboard": "lessons/L019/storyboard.md"
+  },
+  "sourceLessonId": "L019"
+}

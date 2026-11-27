@@ -1,0 +1,207 @@
+{
+  "lessonId": "L033",
+  "title": "Practice \u00b7 Problem statement worksheet",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A problem statement is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A canvas, not a slogan"
+        },
+        {
+          "id": "b",
+          "text": "Only a logo line"
+        },
+        {
+          "id": "c",
+          "text": "A fake testimonial"
+        },
+        {
+          "id": "d",
+          "text": "An ad budget"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fill who hurts, how often, what they tried, and:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What it costs if nothing changes"
+        },
+        {
+          "id": "b",
+          "text": "Favorite fonts"
+        },
+        {
+          "id": "c",
+          "text": "Tool stack only"
+        },
+        {
+          "id": "d",
+          "text": "Follower count"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fill the problem canvas"
+        },
+        {
+          "id": "b",
+          "text": "Skip empty boxes"
+        },
+        {
+          "id": "c",
+          "text": "Decorate first"
+        },
+        {
+          "id": "d",
+          "text": "Avoid research"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Empty boxes mean:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Research homework"
+        },
+        {
+          "id": "b",
+          "text": "You are done"
+        },
+        {
+          "id": "c",
+          "text": "Ignore them"
+        },
+        {
+          "id": "d",
+          "text": "Buy ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "The canvas becomes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Interview guide and offer draft"
+        },
+        {
+          "id": "b",
+          "text": "Only wallpaper"
+        },
+        {
+          "id": "c",
+          "text": "A CRM"
+        },
+        {
+          "id": "d",
+          "text": "A binge list"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Use:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Plain language"
+        },
+        {
+          "id": "b",
+          "text": "Only jargon"
+        },
+        {
+          "id": "c",
+          "text": "Hidden meaning"
+        },
+        {
+          "id": "d",
+          "text": "Latin mottos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can fill the problem canvas"
+        },
+        {
+          "id": "b",
+          "text": "You wrote a slogan only"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then fill the canvas"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Start a rebrand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L016",
+  "title": "Practice \u00b7 Final oral: teach the framework",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Teaching proves:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ownership"
+        },
+        {
+          "id": "b",
+          "text": "Nothing"
+        },
+        {
+          "id": "c",
+          "text": "Only charisma"
+        },
+        {
+          "id": "d",
+          "text": "Only slides"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Explain:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Customer, offer, delivery"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only tools"
+        },
+        {
+          "id": "d",
+          "text": "Only vibes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Teach aloud once"
+        },
+        {
+          "id": "b",
+          "text": "Stay silent"
+        },
+        {
+          "id": "c",
+          "text": "Hide the triangle"
+        },
+        {
+          "id": "d",
+          "text": "Read forever with no teach"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "If you freeze:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Rewrite one-liners and try again"
+        },
+        {
+          "id": "b",
+          "text": "Quit"
+        },
+        {
+          "id": "c",
+          "text": "Add jargon"
+        },
+        {
+          "id": "d",
+          "text": "Skip the oral"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Pass when you teach clearly:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In under two minutes"
+        },
+        {
+          "id": "b",
+          "text": "In an hour lecture only"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "Only with a script forever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Teach to:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A peer, camera, or friend"
+        },
+        {
+          "id": "b",
+          "text": "Nobody"
+        },
+        {
+          "id": "c",
+          "text": "Only your notes"
+        },
+        {
+          "id": "d",
+          "text": "Only ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can teach aloud once"
+        },
+        {
+          "id": "b",
+          "text": "You never taught"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then teach the framework aloud"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip the oral"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

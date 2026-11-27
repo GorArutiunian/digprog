@@ -10,10 +10,11 @@
       "choices": [
         { "id": "a", "text": "Maya → freelance designers → $79" },
         { "id": "b", "text": "Freelance designers → the $79 invoicing guide → download link" },
-        { "id": "c", "text": "Download link → invoicing → freelance designers" }
+        { "id": "c", "text": "Download link → invoicing → freelance designers" },
+        { "id": "d", "text": "Freelance designers → download link → $79" }
       ],
       "correct": "b",
-      "feedback": "The customer buys, the offer specifies what they receive and its price, and delivery provides access to it."
+      "feedback": "The customer buys, the offer is what they buy at a price, and delivery is how they receive it."
     },
     {
       "id": "q2",
@@ -22,10 +23,11 @@
       "choices": [
         { "id": "a", "text": "That he can build an app" },
         { "id": "b", "text": "That some people respond positively" },
-        { "id": "c", "text": "That customers will actually pay for access" }
+        { "id": "c", "text": "That customers will actually pay for access" },
+        { "id": "d", "text": "That the app has a user interface" }
       ],
       "correct": "c",
-      "feedback": "Positive feedback demonstrates interest. It does not demonstrate completed purchases."
+      "feedback": "Positive feedback shows interest. It does not show completed purchases."
     },
     {
       "id": "q3",
@@ -34,10 +36,76 @@
       "choices": [
         { "id": "a", "text": "Customer" },
         { "id": "b", "text": "Offer" },
-        { "id": "c", "text": "Delivery" }
+        { "id": "c", "text": "Delivery" },
+        { "id": "d", "text": "None — the business is complete" }
       ],
       "correct": "c",
-      "feedback": "The customer and offer are specified. The tutor still needs a workable way to provide the promised lessons."
+      "feedback": "Customer and offer are specified. Delivery still needs a workable way to provide the lessons."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Which DigProg idea connects to “What a business is”?",
+      "choices": [
+        { "id": "a", "text": "LLC → logo → ads → product last" },
+        { "id": "b", "text": "Customer → offer → delivery with payment evidence" },
+        { "id": "c", "text": "Viral clip → product never" },
+        { "id": "d", "text": "Followers → vibes → maybe money later" }
+      ],
+      "correct": "b",
+      "feedback": "Keep the business spine visible: customer, offer, delivery."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "What should you avoid while practicing “What a business is”?",
+      "choices": [
+        { "id": "a", "text": "Treating praise/likes as proof of paying demand" },
+        { "id": "b", "text": "Tracking conversations" },
+        { "id": "c", "text": "Writing a clear next step" },
+        { "id": "d", "text": "Talking to real buyers" }
+      ],
+      "correct": "a",
+      "feedback": "Interest is useful; purchases are stronger evidence."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "How do you know “What a business is” landed?",
+      "choices": [
+        { "id": "a", "text": "You watched at 2× with captions off and no notes" },
+        { "id": "b", "text": "You liked the thumbnail" },
+        { "id": "c", "text": "You can identify customer, offer, and delivery in a simple example" },
+        { "id": "d", "text": "You forwarded the video unread" }
+      ],
+      "correct": "c",
+      "feedback": "Competence is shown by doing the objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which metric fits this lesson better than vanity?",
+      "choices": [
+        { "id": "a", "text": "Logo revisions" },
+        { "id": "b", "text": "Hours of passive watching" },
+        { "id": "c", "text": "Follower count alone" },
+        { "id": "d", "text": "Conversations started / offers sent / deliveries completed" }
+      ],
+      "correct": "d",
+      "feedback": "Action metrics beat vanity metrics."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "After watching this lesson, your next step should be:",
+      "choices": [
+        { "id": "a", "text": "Do the practice / quiz, then name your own customer → offer → delivery" },
+        { "id": "b", "text": "Redesign brand colors" },
+        { "id": "c", "text": "Ignore the quiz gate" },
+        { "id": "d", "text": "Buy more courses first" }
+      ],
+      "correct": "a",
+      "feedback": "Video pairs with practice and quiz — then apply it to your idea."
     }
   ],
   "application": {
@@ -50,6 +118,6 @@
       "Concrete offer and price",
       "Feasible delivery method"
     ],
-    "note": "Self-check against the rubric. Different valid answers are accepted; this is not auto-graded as understanding."
+    "note": "Self-check against the rubric. Different valid answers are accepted; this is not auto-graded."
   }
 }

@@ -1,0 +1,24 @@
+{
+  "id": "L044",
+  "slug": "service-packaging",
+  "title": "Service packaging",
+  "module": "03 \u00b7 Offer",
+  "objective": "Package a service v1",
+  "durationSeconds": 126.728,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L044DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L044-final/L044-Service-packaging.mp4",
+    "poster": "output/L044-final/poster.jpg",
+    "voice": "output/L044-final/voice-l044-final.mp3",
+    "captionsSrt": "output/L044-final/L044.srt",
+    "captionsVtt": "output/L044-final/L044.vtt",
+    "transcript": "output/L044-final/transcript.json",
+    "timeline": "output/L044-final/timeline.json",
+    "quiz": "lessons/L044/quiz.json",
+    "storyboard": "lessons/L044/storyboard.md"
+  },
+  "sourceLessonId": "L044"
+}

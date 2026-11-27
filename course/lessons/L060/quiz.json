@@ -1,0 +1,207 @@
+{
+  "lessonId": "L066",
+  "title": "Practice \u00b7 Ask for a testimonial",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Ask for a testimonial:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "After a first win"
+        },
+        {
+          "id": "b",
+          "text": "After silence"
+        },
+        {
+          "id": "c",
+          "text": "Before delivery"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Ask while the win is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fresh"
+        },
+        {
+          "id": "b",
+          "text": "Forgotten"
+        },
+        {
+          "id": "c",
+          "text": "Hidden"
+        },
+        {
+          "id": "d",
+          "text": "Denied"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Draft ask template"
+        },
+        {
+          "id": "b",
+          "text": "Demand essays"
+        },
+        {
+          "id": "c",
+          "text": "Skip prompts"
+        },
+        {
+          "id": "d",
+          "text": "Fake quotes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Template prompts:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What changed, would you recommend"
+        },
+        {
+          "id": "b",
+          "text": "Only fonts"
+        },
+        {
+          "id": "c",
+          "text": "Only price"
+        },
+        {
+          "id": "d",
+          "text": "Only guilt"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Make it:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Easy \u2014 short answers beat essays"
+        },
+        {
+          "id": "b",
+          "text": "Hard and long"
+        },
+        {
+          "id": "c",
+          "text": "Secret"
+        },
+        {
+          "id": "d",
+          "text": "Fake"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Do not invent:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fake testimonials"
+        },
+        {
+          "id": "b",
+          "text": "Clear asks"
+        },
+        {
+          "id": "c",
+          "text": "Easy prompts"
+        },
+        {
+          "id": "d",
+          "text": "Real wins"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can draft an ask template"
+        },
+        {
+          "id": "b",
+          "text": "You faked quotes"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then draft the ask"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Invent reviews"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

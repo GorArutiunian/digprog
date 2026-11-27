@@ -1,0 +1,19 @@
+{
+  "id": "L093",
+  "slug": "capture-a-testimonial",
+  "title": "Capture a testimonial",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Request testimonial",
+  "durationSeconds": 128.024,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L093DataCamp",
+  "assets": {
+    "video": "/lessons/L093/video.mp4",
+    "poster": "/lessons/L093/poster.jpg",
+    "captionsVtt": "/lessons/L093/captions.vtt",
+    "captionsSrt": "/lessons/L093/captions.srt",
+    "transcript": "/lessons/L093/transcript.json"
+  },
+  "sourceLessonId": "L093"
+}

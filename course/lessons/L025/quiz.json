@@ -1,0 +1,207 @@
+{
+  "lessonId": "L031",
+  "title": "Practice \u00b7 Illegal/ToS death checks",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Building on banned sand means:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Relying on illegal or ToS-breaking paths"
+        },
+        {
+          "id": "b",
+          "text": "Using free tools"
+        },
+        {
+          "id": "c",
+          "text": "Writing a niche sentence"
+        },
+        {
+          "id": "d",
+          "text": "Running interviews"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "A death check covers:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Illegal activity, unsupported claims, platform bans"
+        },
+        {
+          "id": "b",
+          "text": "Logo colors"
+        },
+        {
+          "id": "c",
+          "text": "Font pairs"
+        },
+        {
+          "id": "d",
+          "text": "Quiz scores only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Run a ToS risk check"
+        },
+        {
+          "id": "b",
+          "text": "Ignore platform rules"
+        },
+        {
+          "id": "c",
+          "text": "Build on gray zones"
+        },
+        {
+          "id": "d",
+          "text": "Skip risk writing"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "If the path depends on a ToS gray zone:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Pick a cleaner lane"
+        },
+        {
+          "id": "b",
+          "text": "Double down"
+        },
+        {
+          "id": "c",
+          "text": "Hide it"
+        },
+        {
+          "id": "d",
+          "text": "Fake scarcity"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Write the risk:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "In one line"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only in Latin"
+        },
+        {
+          "id": "d",
+          "text": "As a 50-page memo first"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Surviving matters:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "More than raw speed on a doomed path"
+        },
+        {
+          "id": "b",
+          "text": "Less than vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only after year five"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can run a ToS risk check"
+        },
+        {
+          "id": "b",
+          "text": "You ignored rules"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write your risk line"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Build on banned sand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

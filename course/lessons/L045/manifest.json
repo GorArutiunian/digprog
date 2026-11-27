@@ -1,0 +1,24 @@
+{
+  "id": "L045",
+  "slug": "hybrid-offers",
+  "title": "Hybrid offers",
+  "module": "03 \u00b7 Offer",
+  "objective": "Draft a hybrid sketch",
+  "durationSeconds": 126.896,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L045DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L045-final/L045-Hybrid-offers.mp4",
+    "poster": "output/L045-final/poster.jpg",
+    "voice": "output/L045-final/voice-l045-final.mp3",
+    "captionsSrt": "output/L045-final/L045.srt",
+    "captionsVtt": "output/L045-final/L045.vtt",
+    "transcript": "output/L045-final/transcript.json",
+    "timeline": "output/L045-final/timeline.json",
+    "quiz": "lessons/L045/quiz.json",
+    "storyboard": "lessons/L045/storyboard.md"
+  },
+  "sourceLessonId": "L045"
+}

@@ -1,0 +1,243 @@
+{
+  "lessonId": "L070",
+  "duration": 126.704,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "Taking payment can be simple.",
+      "start": 0.0,
+      "end": 1.971,
+      "section": "hook"
+    },
+    {
+      "text": "Stripe, PayPal, or manual first is fine.",
+      "start": 1.971,
+      "end": 4.729,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about taking payment simply.",
+      "start": 4.729,
+      "end": 7.488,
+      "section": "hook"
+    },
+    {
+      "text": "Stripe/PayPal/manual first.",
+      "start": 7.488,
+      "end": 8.276,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 8.276,
+      "end": 11.035,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 11.035,
+      "end": 14.976,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 14.976,
+      "end": 20.888,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 20.888,
+      "end": 25.223,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: pick a payment path before you optimize branding or tools.",
+      "start": 25.223,
+      "end": 29.952,
+      "section": "hook"
+    },
+    {
+      "text": "Pick one payment path you can set up today.",
+      "start": 30.272,
+      "end": 33.549,
+      "section": "pick"
+    },
+    {
+      "text": "Friction kills yeses.",
+      "start": 33.549,
+      "end": 34.641,
+      "section": "pick"
+    },
+    {
+      "text": "Remember the objective: pick a payment path.",
+      "start": 34.641,
+      "end": 37.19,
+      "section": "pick"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 37.19,
+      "end": 41.195,
+      "section": "pick"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 41.195,
+      "end": 45.564,
+      "section": "pick"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.564,
+      "end": 49.57,
+      "section": "pick"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 49.57,
+      "end": 53.939,
+      "section": "pick"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 53.939,
+      "end": 56.488,
+      "section": "pick"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 56.488,
+      "end": 57.944,
+      "section": "pick"
+    },
+    {
+      "text": "Send yourself a test invoice or link before a real buyer arrives.",
+      "start": 58.264,
+      "end": 62.592,
+      "section": "test"
+    },
+    {
+      "text": "Remember the objective: pick a payment path.",
+      "start": 62.592,
+      "end": 65.116,
+      "section": "test"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 65.116,
+      "end": 69.083,
+      "section": "test"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 69.083,
+      "end": 73.411,
+      "section": "test"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 73.411,
+      "end": 77.377,
+      "section": "test"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 77.377,
+      "end": 81.705,
+      "section": "test"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 81.705,
+      "end": 84.229,
+      "section": "test"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 84.229,
+      "end": 85.672,
+      "section": "test"
+    },
+    {
+      "text": "Do not wait for a custom checkout.",
+      "start": 85.992,
+      "end": 88.557,
+      "section": "rule"
+    },
+    {
+      "text": "Get paid, then polish.",
+      "start": 88.557,
+      "end": 90.022,
+      "section": "rule"
+    },
+    {
+      "text": "Remember the objective: pick a payment path.",
+      "start": 90.022,
+      "end": 92.587,
+      "section": "rule"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 92.587,
+      "end": 96.618,
+      "section": "rule"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 96.618,
+      "end": 101.014,
+      "section": "rule"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 101.014,
+      "end": 105.045,
+      "section": "rule"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 105.045,
+      "end": 109.442,
+      "section": "rule"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 109.442,
+      "end": 112.006,
+      "section": "rule"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 112.006,
+      "end": 113.472,
+      "section": "rule"
+    },
+    {
+      "text": "In the quiz, you will pick a payment path.",
+      "start": 113.792,
+      "end": 116.633,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can pick a payment path.",
+      "start": 116.633,
+      "end": 120.736,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 120.736,
+      "end": 121.367,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 121.367,
+      "end": 124.208,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "Taking payment can be simple. Stripe, PayPal, or manual first is fine. This lesson is about taking payment simply. Stripe/PayPal/manual first. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: pick a payment path before you optimize branding or tools. Pick one payment path you can set up today. Friction kills yeses. Remember the objective: pick a payment path. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Send yourself a test invoice or link before a real buyer arrives. Remember the objective: pick a payment path. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Do not wait for a custom checkout. Get paid, then polish. Remember the objective: pick a payment path. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will pick a payment path. In the quiz, you will practice until you can pick a payment path. Answer carefully. If you miss one, review the idea and retry."
+}

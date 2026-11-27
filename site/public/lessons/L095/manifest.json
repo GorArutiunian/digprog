@@ -1,0 +1,19 @@
+{
+  "id": "L095",
+  "slug": "capstone-ship-checklist",
+  "title": "Capstone: ship checklist",
+  "module": "06 \u00b7 Launch map",
+  "objective": "Complete ship checklist",
+  "durationSeconds": 125.312,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L095DataCamp",
+  "assets": {
+    "video": "/lessons/L095/video.mp4",
+    "poster": "/lessons/L095/poster.jpg",
+    "captionsVtt": "/lessons/L095/captions.vtt",
+    "captionsSrt": "/lessons/L095/captions.srt",
+    "transcript": "/lessons/L095/transcript.json"
+  },
+  "sourceLessonId": "L095"
+}

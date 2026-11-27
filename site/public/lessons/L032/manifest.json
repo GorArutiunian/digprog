@@ -1,0 +1,19 @@
+{
+  "id": "L032",
+  "slug": "interest-vs-paying-demand-revisited",
+  "title": "Interest vs paying demand revisited",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Separate feedback from sales",
+  "durationSeconds": 126.656,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L032DataCamp",
+  "assets": {
+    "video": "/lessons/L032/video.mp4",
+    "poster": "/lessons/L032/poster.jpg",
+    "captionsVtt": "/lessons/L032/captions.vtt",
+    "captionsSrt": "/lessons/L032/captions.srt",
+    "transcript": "/lessons/L032/transcript.json"
+  },
+  "sourceLessonId": "L032"
+}

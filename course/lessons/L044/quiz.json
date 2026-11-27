@@ -1,0 +1,207 @@
+{
+  "lessonId": "L050",
+  "title": "Practice \u00b7 Service packaging",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Services sell better as:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outcomes, not vague hourly fog"
+        },
+        {
+          "id": "b",
+          "text": "Endless hours only"
+        },
+        {
+          "id": "c",
+          "text": "No boundaries"
+        },
+        {
+          "id": "d",
+          "text": "Hidden scope"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Package includes:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Hours or milestones, outcome, async options"
+        },
+        {
+          "id": "b",
+          "text": "Only vibes"
+        },
+        {
+          "id": "c",
+          "text": "Only a logo"
+        },
+        {
+          "id": "d",
+          "text": "No done definition"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Package a service v1"
+        },
+        {
+          "id": "b",
+          "text": "Stay vague"
+        },
+        {
+          "id": "c",
+          "text": "Skip start and done"
+        },
+        {
+          "id": "d",
+          "text": "Avoid writing it down"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Bound the work with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Start, done, and between"
+        },
+        {
+          "id": "b",
+          "text": "Mystery only"
+        },
+        {
+          "id": "c",
+          "text": "Infinite revisions always"
+        },
+        {
+          "id": "d",
+          "text": "No kickoff"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "A buyer should know what they buy:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Without a second call"
+        },
+        {
+          "id": "b",
+          "text": "Only after five calls"
+        },
+        {
+          "id": "c",
+          "text": "Never"
+        },
+        {
+          "id": "d",
+          "text": "From the logo alone"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Write the package:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Clearly"
+        },
+        {
+          "id": "b",
+          "text": "In secret code"
+        },
+        {
+          "id": "c",
+          "text": "As a novel"
+        },
+        {
+          "id": "d",
+          "text": "As silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can package a service version one"
+        },
+        {
+          "id": "b",
+          "text": "You stayed foggy"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then package service v1"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Sell hours with no outcome"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

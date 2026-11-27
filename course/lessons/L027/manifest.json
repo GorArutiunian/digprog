@@ -1,0 +1,24 @@
+{
+  "id": "L027",
+  "slug": "problem-statement-worksheet",
+  "title": "Problem statement worksheet",
+  "module": "02 \u00b7 Pick a lane",
+  "objective": "Fill the problem canvas",
+  "durationSeconds": 125.264,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L027DataCamp",
+  "status": "ready",
+  "assets": {
+    "videoMaster": "output/L027-final/L027-Problem-statement-worksheet.mp4",
+    "poster": "output/L027-final/poster.jpg",
+    "voice": "output/L027-final/voice-l027-final.mp3",
+    "captionsSrt": "output/L027-final/L027.srt",
+    "captionsVtt": "output/L027-final/L027.vtt",
+    "transcript": "output/L027-final/transcript.json",
+    "timeline": "output/L027-final/timeline.json",
+    "quiz": "lessons/L027/quiz.json",
+    "storyboard": "lessons/L027/storyboard.md"
+  },
+  "sourceLessonId": "L027"
+}

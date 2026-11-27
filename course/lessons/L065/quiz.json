@@ -1,0 +1,207 @@
+{
+  "lessonId": "L071",
+  "title": "Practice \u00b7 Personal: outreach pack",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "An outreach pack prevents:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Inventing messages under stress"
+        },
+        {
+          "id": "b",
+          "text": "All learning"
+        },
+        {
+          "id": "c",
+          "text": "All follow-ups"
+        },
+        {
+          "id": "d",
+          "text": "All closes"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fill about:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Ten message templates"
+        },
+        {
+          "id": "b",
+          "text": "Zero templates"
+        },
+        {
+          "id": "c",
+          "text": "Only logos"
+        },
+        {
+          "id": "d",
+          "text": "Only ads"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fill outreach pack"
+        },
+        {
+          "id": "b",
+          "text": "Stay improvising forever"
+        },
+        {
+          "id": "c",
+          "text": "Use robot tone"
+        },
+        {
+          "id": "d",
+          "text": "Skip thank-yous"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Templates are:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Skeletons, not robots"
+        },
+        {
+          "id": "b",
+          "text": "Word-for-word forever"
+        },
+        {
+          "id": "c",
+          "text": "Illegal"
+        },
+        {
+          "id": "d",
+          "text": "A replacement for listening"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Include:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Openers, follow-ups, soft closes, thank-yous"
+        },
+        {
+          "id": "b",
+          "text": "Only spam"
+        },
+        {
+          "id": "c",
+          "text": "Only guilt"
+        },
+        {
+          "id": "d",
+          "text": "Only silence"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Update lines that:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Feel fake"
+        },
+        {
+          "id": "b",
+          "text": "Work well"
+        },
+        {
+          "id": "c",
+          "text": "Get replies"
+        },
+        {
+          "id": "d",
+          "text": "Are short"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can fill an outreach pack"
+        },
+        {
+          "id": "b",
+          "text": "You invent under stress"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then fill the pack"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stay template-free"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

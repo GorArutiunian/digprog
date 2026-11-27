@@ -1,0 +1,207 @@
+{
+  "lessonId": "L015",
+  "title": "Practice \u00b7 Personal: 30-day plan",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A thirty-day plan helps:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Momentum survive the course"
+        },
+        {
+          "id": "b",
+          "text": "Avoid calendars"
+        },
+        {
+          "id": "c",
+          "text": "Skip experiments"
+        },
+        {
+          "id": "d",
+          "text": "Hide kill criteria"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Fill weeks with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outreach, delivery, learning, one experiment"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only binge"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Fill 30-day plan"
+        },
+        {
+          "id": "b",
+          "text": "Skip dates"
+        },
+        {
+          "id": "c",
+          "text": "Avoid reviews"
+        },
+        {
+          "id": "d",
+          "text": "Stay vague"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Put on the calendar:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Real dates and kill criteria"
+        },
+        {
+          "id": "b",
+          "text": "No dates"
+        },
+        {
+          "id": "c",
+          "text": "Only vibes"
+        },
+        {
+          "id": "d",
+          "text": "Infinite maybe"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Schedule:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A mid-month review"
+        },
+        {
+          "id": "b",
+          "text": "No review"
+        },
+        {
+          "id": "c",
+          "text": "Only yearly"
+        },
+        {
+          "id": "d",
+          "text": "Never"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Plans change with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Proof"
+        },
+        {
+          "id": "b",
+          "text": "Mood only"
+        },
+        {
+          "id": "c",
+          "text": "Random redesign"
+        },
+        {
+          "id": "d",
+          "text": "Feature fever"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can fill a thirty-day plan"
+        },
+        {
+          "id": "b",
+          "text": "You stayed vague"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched twice"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then fill the 30-day plan"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip dates"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

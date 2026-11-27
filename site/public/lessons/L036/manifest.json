@@ -1,0 +1,19 @@
+{
+  "id": "L036",
+  "slug": "promise-that-is-specific",
+  "title": "Promise that is specific",
+  "module": "03 \u00b7 Offer",
+  "objective": "Rewrite a vague promise",
+  "durationSeconds": 131.504,
+  "fps": 30,
+  "resolution": "1920x1080",
+  "compositionId": "L036DataCamp",
+  "assets": {
+    "video": "/lessons/L036/video.mp4",
+    "poster": "/lessons/L036/poster.jpg",
+    "captionsVtt": "/lessons/L036/captions.vtt",
+    "captionsSrt": "/lessons/L036/captions.srt",
+    "transcript": "/lessons/L036/transcript.json"
+  },
+  "sourceLessonId": "L036"
+}

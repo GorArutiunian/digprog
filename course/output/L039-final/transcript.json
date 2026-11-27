@@ -1,0 +1,255 @@
+{
+  "lessonId": "L051",
+  "duration": 134.864,
+  "voice": "en-US-AndrewMultilingualNeural",
+  "rate": "+5%",
+  "sentences": [
+    {
+      "text": "A ladder is optional later.",
+      "start": 0.0,
+      "end": 1.837,
+      "section": "hook"
+    },
+    {
+      "text": "Start with one offer that sells.",
+      "start": 1.837,
+      "end": 4.041,
+      "section": "hook"
+    },
+    {
+      "text": "This lesson is about starter / builder / operator ladder.",
+      "start": 4.041,
+      "end": 7.716,
+      "section": "hook"
+    },
+    {
+      "text": "Optional later; start with one.",
+      "start": 7.716,
+      "end": 9.553,
+      "section": "hook"
+    },
+    {
+      "text": "Do not treat this as theory only.",
+      "start": 9.553,
+      "end": 12.124,
+      "section": "hook"
+    },
+    {
+      "text": "Treat it as a move you can run this week.",
+      "start": 12.124,
+      "end": 15.799,
+      "section": "hook"
+    },
+    {
+      "text": "By the end, you should be able to act without waiting for a perfect plan.",
+      "start": 15.799,
+      "end": 21.31,
+      "section": "hook"
+    },
+    {
+      "text": "Keep the DigProg habit: watch, practice, then take one real action.",
+      "start": 21.31,
+      "end": 25.351,
+      "section": "hook"
+    },
+    {
+      "text": "Stay practical: sketch a future ladder before you optimize branding or tools.",
+      "start": 25.351,
+      "end": 29.76,
+      "section": "hook"
+    },
+    {
+      "text": "Starter, Builder, Operator.",
+      "start": 30.08,
+      "end": 31.29,
+      "section": "rungs"
+    },
+    {
+      "text": "More access, more help, higher price.",
+      "start": 31.29,
+      "end": 33.711,
+      "section": "rungs"
+    },
+    {
+      "text": "Remember the objective: sketch a future ladder.",
+      "start": 33.711,
+      "end": 36.534,
+      "section": "rungs"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 36.534,
+      "end": 40.972,
+      "section": "rungs"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 40.972,
+      "end": 45.812,
+      "section": "rungs"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 45.812,
+      "end": 50.25,
+      "section": "rungs"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 50.25,
+      "end": 55.091,
+      "section": "rungs"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 55.091,
+      "end": 57.914,
+      "section": "rungs"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 57.914,
+      "end": 59.528,
+      "section": "rungs"
+    },
+    {
+      "text": "Sketch a future ladder on one page.",
+      "start": 59.848,
+      "end": 62.407,
+      "section": "sketch"
+    },
+    {
+      "text": "Do not build all three now.",
+      "start": 62.407,
+      "end": 64.601,
+      "section": "sketch"
+    },
+    {
+      "text": "Remember the objective: sketch a future ladder.",
+      "start": 64.601,
+      "end": 67.16,
+      "section": "sketch"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 67.16,
+      "end": 71.182,
+      "section": "sketch"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 71.182,
+      "end": 75.569,
+      "section": "sketch"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 75.569,
+      "end": 79.591,
+      "section": "sketch"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 79.591,
+      "end": 83.978,
+      "section": "sketch"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 83.978,
+      "end": 86.538,
+      "section": "sketch"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 86.538,
+      "end": 88.0,
+      "section": "sketch"
+    },
+    {
+      "text": "Ship the starter rung first.",
+      "start": 88.32,
+      "end": 90.235,
+      "section": "focus"
+    },
+    {
+      "text": "Ladder fantasies delay first cash.",
+      "start": 90.235,
+      "end": 92.15,
+      "section": "focus"
+    },
+    {
+      "text": "Remember the objective: sketch a future ladder.",
+      "start": 92.15,
+      "end": 94.831,
+      "section": "focus"
+    },
+    {
+      "text": "Write the idea in your own words before you move on.",
+      "start": 94.831,
+      "end": 99.045,
+      "section": "focus"
+    },
+    {
+      "text": "Name one concrete next action you can finish in under an hour.",
+      "start": 99.045,
+      "end": 103.641,
+      "section": "focus"
+    },
+    {
+      "text": "Avoid vanity work that feels busy but does not create proof.",
+      "start": 103.641,
+      "end": 107.854,
+      "section": "focus"
+    },
+    {
+      "text": "If something is unclear, simplify the promise and try a smaller version.",
+      "start": 107.854,
+      "end": 112.451,
+      "section": "focus"
+    },
+    {
+      "text": "Talk to a real person when possible.",
+      "start": 112.451,
+      "end": 115.132,
+      "section": "focus"
+    },
+    {
+      "text": "Feedback beats guessing alone.",
+      "start": 115.132,
+      "end": 116.664,
+      "section": "focus"
+    },
+    {
+      "text": "In the quiz, you will sketch a future ladder.",
+      "start": 116.984,
+      "end": 120.061,
+      "section": "quiz"
+    },
+    {
+      "text": "In the quiz, you will practice until you can sketch a future ladder.",
+      "start": 120.061,
+      "end": 124.505,
+      "section": "quiz"
+    },
+    {
+      "text": "Answer carefully.",
+      "start": 124.505,
+      "end": 125.189,
+      "section": "quiz"
+    },
+    {
+      "text": "If you miss one, review the idea and retry.",
+      "start": 125.189,
+      "end": 128.266,
+      "section": "quiz"
+    },
+    {
+      "text": "Passing means you can use the concept, not only recognize the words.",
+      "start": 128.266,
+      "end": 132.368,
+      "section": "quiz"
+    }
+  ],
+  "fullText": "A ladder is optional later. Start with one offer that sells. This lesson is about starter / builder / operator ladder. Optional later; start with one. Do not treat this as theory only. Treat it as a move you can run this week. By the end, you should be able to act without waiting for a perfect plan. Keep the DigProg habit: watch, practice, then take one real action. Stay practical: sketch a future ladder before you optimize branding or tools. Starter, Builder, Operator. More access, more help, higher price. Remember the objective: sketch a future ladder. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Sketch a future ladder on one page. Do not build all three now. Remember the objective: sketch a future ladder. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. Ship the starter rung first. Ladder fantasies delay first cash. Remember the objective: sketch a future ladder. Write the idea in your own words before you move on. Name one concrete next action you can finish in under an hour. Avoid vanity work that feels busy but does not create proof. If something is unclear, simplify the promise and try a smaller version. Talk to a real person when possible. Feedback beats guessing alone. In the quiz, you will sketch a future ladder. In the quiz, you will practice until you can sketch a future ladder. Answer carefully. If you miss one, review the idea and retry. Passing means you can use the concept, not only recognize the words."
+}

@@ -1,0 +1,207 @@
+{
+  "lessonId": "L003",
+  "title": "Practice \u00b7 Are you ready to start",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "What is minimum viable readiness?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Enough to start learning \u2014 not total readiness"
+        },
+        {
+          "id": "b",
+          "text": "A perfect LLC and logo first"
+        },
+        {
+          "id": "c",
+          "text": "Waiting until fear is zero"
+        },
+        {
+          "id": "d",
+          "text": "Buying more courses"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Which belongs on the need list?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "A way to reach about 20 people"
+        },
+        {
+          "id": "b",
+          "text": "Ads budget day one"
+        },
+        {
+          "id": "c",
+          "text": "Perfect site"
+        },
+        {
+          "id": "d",
+          "text": "Logo system"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Which can you skip early?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "LLC on day one"
+        },
+        {
+          "id": "b",
+          "text": "An offer draft"
+        },
+        {
+          "id": "c",
+          "text": "Honest weekly hours"
+        },
+        {
+          "id": "d",
+          "text": "A problem you understand"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "List readiness gaps honestly"
+        },
+        {
+          "id": "b",
+          "text": "Design brand colors"
+        },
+        {
+          "id": "c",
+          "text": "Memorize tax rules"
+        },
+        {
+          "id": "d",
+          "text": "Ignore kill dates"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "After scoring gaps, you should:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write a start date and a kill date"
+        },
+        {
+          "id": "b",
+          "text": "Quit for a month"
+        },
+        {
+          "id": "c",
+          "text": "Only watch more videos"
+        },
+        {
+          "id": "d",
+          "text": "Hide the gaps"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "A useful horizon is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "14 or 30 days"
+        },
+        {
+          "id": "b",
+          "text": "10 years with no checkpoint"
+        },
+        {
+          "id": "c",
+          "text": "Forever"
+        },
+        {
+          "id": "d",
+          "text": "Until perfection"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can list readiness gaps honestly"
+        },
+        {
+          "id": "b",
+          "text": "You liked the thumbnail"
+        },
+        {
+          "id": "c",
+          "text": "You watched at 2x"
+        },
+        {
+          "id": "d",
+          "text": "You skipped the quiz"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then score your gaps"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Buy tools first"
+        },
+        {
+          "id": "d",
+          "text": "Redesign the logo"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

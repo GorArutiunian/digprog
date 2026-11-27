@@ -1,0 +1,207 @@
+{
+  "lessonId": "L100",
+  "title": "Practice \u00b7 Systematize the week",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step ten is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Systematize the week"
+        },
+        {
+          "id": "b",
+          "text": "Return to chaos"
+        },
+        {
+          "id": "c",
+          "text": "Skip calendar"
+        },
+        {
+          "id": "d",
+          "text": "Drop the scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Week-two system covers:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Outreach, delivery, learning, recovery"
+        },
+        {
+          "id": "b",
+          "text": "Only branding"
+        },
+        {
+          "id": "c",
+          "text": "Only ads"
+        },
+        {
+          "id": "d",
+          "text": "Only sleep forever with no work"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Write week-2 system"
+        },
+        {
+          "id": "b",
+          "text": "Wait for motivation"
+        },
+        {
+          "id": "c",
+          "text": "Skip blocks"
+        },
+        {
+          "id": "d",
+          "text": "Ignore scoreboard"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "Put blocks on calendar:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Before motivation fades"
+        },
+        {
+          "id": "b",
+          "text": "Never"
+        },
+        {
+          "id": "c",
+          "text": "Only after burnout"
+        },
+        {
+          "id": "d",
+          "text": "Only on holidays"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Keep the:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Scoreboard"
+        },
+        {
+          "id": "b",
+          "text": "Chaos"
+        },
+        {
+          "id": "c",
+          "text": "Guessing"
+        },
+        {
+          "id": "d",
+          "text": "Vanity only"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Repeat:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "What worked"
+        },
+        {
+          "id": "b",
+          "text": "What failed forever"
+        },
+        {
+          "id": "c",
+          "text": "Nothing"
+        },
+        {
+          "id": "d",
+          "text": "Only tools"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can write a week-two system"
+        },
+        {
+          "id": "b",
+          "text": "You stayed chaotic"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write week-two system"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Skip calendar"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}

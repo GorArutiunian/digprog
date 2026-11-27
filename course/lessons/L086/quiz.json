@@ -1,0 +1,207 @@
+{
+  "lessonId": "L092",
+  "title": "Practice \u00b7 Name a buyer",
+  "instructions": "Answer one question at a time.",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Step two is:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Name a specific buyer"
+        },
+        {
+          "id": "b",
+          "text": "Keep everyone as the buyer"
+        },
+        {
+          "id": "c",
+          "text": "Skip reach"
+        },
+        {
+          "id": "d",
+          "text": "Only demographics fluff"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q2",
+      "type": "mcq",
+      "prompt": "Name a person-type with:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Job, constraint, and context"
+        },
+        {
+          "id": "b",
+          "text": "Only age"
+        },
+        {
+          "id": "c",
+          "text": "Only city"
+        },
+        {
+          "id": "d",
+          "text": "No context"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q3",
+      "type": "mcq",
+      "prompt": "Primary objective of this lesson?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Name a specific buyer"
+        },
+        {
+          "id": "b",
+          "text": "Stay vague"
+        },
+        {
+          "id": "c",
+          "text": "Skip reach test"
+        },
+        {
+          "id": "d",
+          "text": "Hide the problem"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q4",
+      "type": "mcq",
+      "prompt": "If you cannot reach ten:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Narrow"
+        },
+        {
+          "id": "b",
+          "text": "Broaden forever"
+        },
+        {
+          "id": "c",
+          "text": "Quit naming"
+        },
+        {
+          "id": "d",
+          "text": "Buy followers"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q5",
+      "type": "mcq",
+      "prompt": "Write buyer name:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Next to your problem sentence"
+        },
+        {
+          "id": "b",
+          "text": "Nowhere"
+        },
+        {
+          "id": "c",
+          "text": "Only in your head"
+        },
+        {
+          "id": "d",
+          "text": "After ten logos"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q6",
+      "type": "mcq",
+      "prompt": "Vague audiences:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do not pay"
+        },
+        {
+          "id": "b",
+          "text": "Always convert"
+        },
+        {
+          "id": "c",
+          "text": "Need no names"
+        },
+        {
+          "id": "d",
+          "text": "Replace conversations"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "How do you know the lesson landed?",
+      "choices": [
+        {
+          "id": "a",
+          "text": "You can name a specific buyer"
+        },
+        {
+          "id": "b",
+          "text": "You kept everyone"
+        },
+        {
+          "id": "c",
+          "text": "You skipped the quiz"
+        },
+        {
+          "id": "d",
+          "text": "You watched at 2x"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Next step:",
+      "choices": [
+        {
+          "id": "a",
+          "text": "Do practice/quiz, then write the buyer name"
+        },
+        {
+          "id": "b",
+          "text": "Ignore the quiz"
+        },
+        {
+          "id": "c",
+          "text": "Only rewatch"
+        },
+        {
+          "id": "d",
+          "text": "Stay vague"
+        }
+      ],
+      "correct": "a",
+      "feedback": "Tied to the lesson objective."
+    }
+  ]
+}
